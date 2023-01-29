@@ -26,12 +26,12 @@ However, I will try my absolute best to make sure that the translation is as acc
 :PROPERTIES:
 :CUSTOM_ID: toc
 :END:
-- Obstetric and Gynaecology (OG)
-- Paediatrics (P)
-- Cardiology (C)
-- Respiratory (R)
-- Surgery (S)
-- Neurology (N)
-- Dermatology (D)
-- Endocrinology (E)
-- Gastroenterology (G)
+- Obstetric and Gynaecology - 産科・婦人科領域 (OG)
+- Paediatrics - 小児科 (P)
+- Cardiology - 循環器内科 (C)
+- Respiratory - 呼吸器系 (R)
+- Surgery - 外科 (S)
+- Neurology - 神経学 (N)
+- Dermatology - 皮膚科学 (D)
+- Endocrinology - 内分泌学 (E)
+- Gastroenterology - 消化器病学 (G)
