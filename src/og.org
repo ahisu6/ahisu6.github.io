@@ -12,7 +12,6 @@
 
 #+TOC: headlines 2
 
-
 * Introduction
 :PROPERTIES:
 :CUSTOM_ID: org3c1ff02
