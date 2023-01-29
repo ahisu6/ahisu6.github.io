@@ -1,4 +1,5 @@
 #+TITLE: Home Page
+#+OPTIONS: toc:nil
 
 #+BEGIN_EXPORT html
 <div style="font-family: monospace; background-color: #082694; font-weight: bolder; font-size: 60px; text-align: center;">
