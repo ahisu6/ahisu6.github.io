@@ -167,3 +167,10 @@ function sortTextVal(a, b) {
 :END:
 
 Click on the header of the column to sort it! Cool, right? @@html:<span class="jp">列のヘッダーをクリックするとソートされます！すごいね！</span>@@
+
+* Gynaecology topics
+| Title                     | Date posted |
+|---------------------------+-------------|
+| [[https://ahisu6.github.io/og/001.html#org89fa98b][Abnormal uterine bleeding]] |  2023-01-29 |
+| Heavy menstrual bleeding  |  2023-01-29 |
+|                           |             |
