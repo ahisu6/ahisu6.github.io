@@ -10,7 +10,8 @@
 [[file:./index.org][Home]]
 -----
 
-* Table of content
+#+TOC: headlines 2
+
 
 * Introduction
 :PROPERTIES:
