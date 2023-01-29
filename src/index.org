@@ -23,6 +23,9 @@ Please note that the translation may not be correct.
 However, I will try my absolute best to make sure that the translation is as accurate as possible.
 
 * Table of Content
+:PROPERTIES:
+:CUSTOM_ID: toc
+:END:
 - Obstetric and Gynaecology
 - Paediatrics
 - Cardiology
