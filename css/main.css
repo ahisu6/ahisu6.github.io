@@ -48,3 +48,8 @@ code {
   font-weight: bold;
   overflow-wrap: auto;
 }
+
+
+span.jp {
+  color: #89b7fa;
+}
