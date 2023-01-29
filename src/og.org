@@ -10,4 +10,22 @@
 [[file:./index.org][Home]]
 -----
 
+* Table of content
+
 * Introduction
+:PROPERTIES:
+:CUSTOM_ID: org3c1ff02
+:END:
+
+Hi!
+
+Anything that has ~(G)~ means that it is a Gynaecology topic.
+
+And anything that has ~(O)~ means that it is an Obstetrics topic.
+
+Sounds good? Cool.
+
+* Abnormal uterine bleeding (O)
+:PROPERTIES:
+:CUSTOM_ID: org4ae2d90
+:END:
