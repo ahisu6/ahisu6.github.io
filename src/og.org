@@ -7,7 +7,7 @@
 
 [[Edit][https://github.com/ahisu6/ahisu6.github.io/edit/main/src/og.org]]
 
-[[Home][file:./index.org]]
+[[file:./index.org][Home]]
 -----
 
 * Introduction
