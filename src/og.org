@@ -25,7 +25,15 @@ And anything that has ~(O)~ means that it is an Obstetrics topic.
 
 Sounds good? Cool.
 
-* Abnormal uterine bleeding (O)
+* Abnormal uterine bleeding (G)
 :PROPERTIES:
-:CUSTOM_ID: org4ae2d90
+:CUSTOM_ID: org89fa98b
 :END:
+
+This is when the woman has problems with the menstrual cycle. @@html:<span class="jp">これは、女性の月経周期に問題がある場合です。</span>@@
+
+So, it include things like:
+- changes in frequency of the bleeding @@html:<span class="jp">出血の頻度の変化</span>@@
+- duration of the bleed @@html:<span class="jp">出血の持続時間</span>@@
+- amount of bleeding @@html:<span class="jp">出血量</span>@@
+
