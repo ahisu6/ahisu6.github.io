@@ -5,4 +5,9 @@
 <div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 60px; text-align: center;">産科・婦人科領域</div>
 #+END_EXPORT
 
+[[Edit][https://github.com/ahisu6/ahisu6.github.io/edit/main/src/og.org]]
+
+[[Home][file:./index.org]]
+-----
+
 * Introduction
