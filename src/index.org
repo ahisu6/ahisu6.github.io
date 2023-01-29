@@ -26,8 +26,12 @@ However, I will try my absolute best to make sure that the translation is as acc
 :PROPERTIES:
 :CUSTOM_ID: toc
 :END:
-- Obstetric and Gynaecology
-- Paediatrics
-- Cardiology
-- Respiratory
-- Surgery
+- Obstetric and Gynaecology (OG)
+- Paediatrics (P)
+- Cardiology (C)
+- Respiratory (R)
+- Surgery (S)
+- Neurology (N)
+- Dermatology (D)
+- Endocrinology (E)
+- Gastroenterology (G)
