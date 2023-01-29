@@ -30,6 +30,9 @@ Sounds good? Cool.
 :CUSTOM_ID: org89fa98b
 :END:
 
+Posted: 29/01/2023
+Last updated: 29/01/2023
+
 This is when the woman has problems with the menstrual cycle. @@html:<span class="jp">これは、女性の月経周期に問題がある場合です。</span>@@
 
 So, it include things like:
@@ -37,3 +40,18 @@ So, it include things like:
 - duration of the bleed @@html:<span class="jp">出血の持続時間</span>@@
 - amount of bleeding @@html:<span class="jp">出血量</span>@@
 
+There is a mnemonic to help you remember the differetial diagnoses for abnormal uterine bleeding: PALM-COEIN! COEIN looks like coin... 笑
+
+The PALM part is a mnemonic for the *structural causes* of abnormal uterine bleeding:
+- Polyps
+- Adenomyosis (this is when there is cells from the endometrium start growing in the myometrium [the smooth muscle layer of the uterus]) @@html:<span class="jp">(子宮内膜の細胞が子宮筋層（子宮の平滑筋層）で増殖し始めることです。）</span>@@
+- Leiomyomas (this is another name for fibroids)
+- Malignancy
+
+The COEIN part is a mnemonic for the *NON-structural causes* of abnormal uterine bleeding:
+- Coagulopathy (bleeding issues)
+- Ovulatory issues
+- Endometrial (problems with the endometrium of the uterus)
+- Iatrogenic (this is when the doctors cause the damage) @@html:<span class="jp">医原病</span>@@
+
+Most common type of abnormal uterine bleeding is Heavy Menstrual Bleeding! @@html:<span class="jp">子宮の異常出血で最も多いのは「重い月経血」!</span>@@. This is also called menorrhagia! @@html:<span class="jp">これは「menorrhagia」とも呼ばれます</span>@@
