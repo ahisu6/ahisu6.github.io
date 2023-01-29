@@ -28,8 +28,8 @@ However, I will try my absolute best to make sure that the translation is as acc
 :END:
 - [[file:./og.org][Obstetric and Gynaecology - 産科・婦人科領域 (OG)]]
 - Paediatrics - 小児科 (P)
-- Cardiology - 循環器内科 (C)
-- Respiratory - 呼吸器系 (R)
+- Cardiology - 循環器内科学 (C)
+- Respiratory - 呼吸器内科 (R)
 - Surgery - 外科 (S)
 - Neurology - 神経学 (N)
 - Dermatology - 皮膚科学 (D)
