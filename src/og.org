@@ -17,7 +17,7 @@
 :CUSTOM_ID: org3c1ff02
 :END:
 
-Hi!
+おはようともだち！
 
 Anything that has ~(G)~ means that it is a Gynaecology topic. @@html:<span class="jp">(G)が付いているものは、ジャイネコロジーに関するトピックであることを意味します。</span>@@
 
