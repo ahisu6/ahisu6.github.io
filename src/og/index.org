@@ -1,63 +1,169 @@
 #+TITLE: Obstetrics and Gynaecology
 
 #+BEGIN_EXPORT html
+<head>
+<script>
+/**
+ * Inject hyperlinks, into the column headers of sortable tables, which sort
+ * the corresponding column when clicked.
+ */
+var tables = document.querySelectorAll("table.sortable"),
+    table,
+    thead,
+    headers,
+    i,
+    j;
+
+for (i = 0; i < tables.length; i++) {
+    table = tables[i];
+
+    if (thead = table.querySelector("thead")) {
+        headers = thead.querySelectorAll("th");
+
+        for (j = 0; j < headers.length; j++) {
+            headers[j].innerHTML = "<a href='#'>" + headers[j].innerText + "</a>";
+        }
+
+        thead.addEventListener("click", sortTableFunction(table));
+    }
+}
+
+/**
+ * Create a function to sort the given table.
+ */
+function sortTableFunction(table) {
+    return function(ev) {
+        if (ev.target.tagName.toLowerCase() == 'a') {
+            sortRows(table, siblingIndex(ev.target.parentNode));
+            ev.preventDefault();
+        }
+    };
+}
+
+/**
+ * Get the index of a node relative to its siblings — the first (eldest) sibling
+ * has index 0, the next index 1, etc.
+ */
+function siblingIndex(node) {
+    var count = 0;
+
+    while (node = node.previousElementSibling) {
+        count++;
+    }
+
+    return count;
+}
+
+/**
+ * Sort the given table by the numbered column (0 is the first column, etc.)
+ */
+function sortRows(table, columnIndex) {
+    var rows = table.querySelectorAll("tbody tr"),
+        sel = "thead th:nth-child(" + (columnIndex + 1) + ")",
+        sel2 = "td:nth-child(" + (columnIndex + 1) + ")",
+        classList = table.querySelector(sel).classList,
+        values = [],
+        cls = "",
+        allNum = true,
+        val,
+        index,
+        node;
+
+    if (classList) {
+        if (classList.contains("date")) {
+            cls = "date";
+        } else if (classList.contains("number")) {
+            cls = "number";
+        }
+    }
+
+    for (index = 0; index < rows.length; index++) {
+        node = rows[index].querySelector(sel2);
+        val = node.innerText;
+
+        if (isNaN(val)) {
+            allNum = false;
+        } else {
+            val = parseFloat(val);
+        }
+
+        values.push({ value: val, row: rows[index] });
+    }
+
+    if (cls == "" && allNum) {
+        cls = "number";
+    }
+
+    if (cls == "number") {
+        values.sort(sortNumberVal);
+        values = values.reverse();
+    } else if (cls == "date") {
+        values.sort(sortDateVal);
+    } else {
+        values.sort(sortTextVal);
+    }
+
+    for (var idx = 0; idx < values.length; idx++) {
+        table.querySelector("tbody").appendChild(values[idx].row);
+    }
+}
+
+/**
+ * Compare two 'value objects' numerically
+ */
+function sortNumberVal(a, b) {
+    return sortNumber(a.value, b.value);
+}
+
+/**
+ * Numeric sort comparison
+ */
+function sortNumber(a, b) {
+    return a - b;
+}
+
+/**
+ * Compare two 'value objects' as dates
+ */
+function sortDateVal(a, b) {
+    var dateA = Date.parse(a.value),
+        dateB = Date.parse(b.value);
+
+    return sortNumber(dateA, dateB);
+}
+
+/**
+ * Compare two 'value objects' as simple text; case-insensitive
+ */
+function sortTextVal(a, b) {
+    var textA = (a.value + "").toUpperCase();
+    var textB = (b.value + "").toUpperCase();
+
+    if (textA < textB) {
+        return -1;
+    }
+
+    if (textA > textB) {
+        return 1;
+    }
+
+    return 0;
+}
+</script>
+</head>
 <div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 60px; text-align: center;">Obstetrics and Gynaecology</div>
 <div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 60px; text-align: center;">産科・婦人科領域</div>
 #+END_EXPORT
 
-[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/og.org][Edit]]
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/og/index.org][Edit]]
 
-[[file:./index.org][Home]]
+[[file:../index.org][Home]]
 
 -----
 
-#+TOC: headlines 2
-
-* Introduction
+* Table of Contents
 :PROPERTIES:
-:CUSTOM_ID: org3c1ff02
+:CUSTOM_ID: toc
 :END:
 
-おはようともだち！
-
-Anything that has ~(G)~ means that it is a Gynaecology topic. @@html:<span class="jp">(G)が付いているものは、ジャイネコロジーに関するトピックであることを意味します。</span>@@
-
-And anything that has ~(O)~ means that it is an Obstetrics topic. @@html:<span class="jp">また、(O)が付いているものは産科の話題であることを意味します。</span>@@
-
-Sounds good? Cool.
-
-* Heavy menstrual bleeding (G)
-:PROPERTIES:
-:CUSTOM_ID: orgfeaf8e2
-:END:
-
-
-* Abnormal uterine bleeding (G)
-:PROPERTIES:
-:CUSTOM_ID: org89fa98b
-:END:
-
-Posted: 29/01/2023 | Last updated: 29/01/2023
-
-This is when the woman has problems with the menstrual cycle. @@html:<span class="jp">これは、女性の月経周期に問題がある場合です。</span>@@
-
-So, it include things like:
-- changes in frequency of the bleeding @@html:<span class="jp">出血の頻度の変化</span>@@
-- duration of the bleed @@html:<span class="jp">出血の持続時間</span>@@
-- amount of bleeding @@html:<span class="jp">出血量</span>@@
-
-There is a mnemonic to help you remember the differetial diagnoses for abnormal uterine bleeding: PALM-COEIN! COEIN looks like coin... @@html:<span class="jp">笑</span>@@:
-
-The PALM part is a mnemonic for the *structural causes* of abnormal uterine bleeding @@html:<span class="jp">PALMの部分は、子宮異常出血の*構造的な原因*を表すニーモニックです。</span>@@:
-- Polyps
-- Adenomyosis (this is when there is cells from the endometrium start growing in the myometrium [the smooth muscle layer of the uterus]) @@html:<span class="jp">(子宮内膜の細胞が子宮筋層（子宮の平滑筋層）で増殖し始めることです。）</span>@@
-- Leiomyomas (this is another name for fibroids)
-- Malignancy
-
-The COEIN part is a mnemonic for the *NON-structural causes* of abnormal uterine bleeding @@html:<span class="jp">COEINパートは、子宮内出血の非構造的な原因を表すニーモニックです。</span>@@:
-- Coagulopathy (bleeding issues)
-- Ovulatory issues
-- Endometrial (problems with the endometrium of the uterus)
-- Iatrogenic (this is when the doctors cause the damage) @@html:<span class="jp">医原病</span>@@
-
-Most common type of abnormal uterine bleeding is Heavy Menstrual Bleeding! @@html:<span class="jp">子宮の異常出血で最も多いのは「重い月経血」!</span>@@ This is also called menorrhagia! @@html:<span class="jp">これは「menorrhagia」とも呼ばれます。</span>@@
+Click on the header of the column to sort it! Cool, right? @@html:<span class="jp">列のヘッダーをクリックするとソートされます！すごいね！</span>@@
