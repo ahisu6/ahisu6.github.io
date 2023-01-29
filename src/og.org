@@ -1,0 +1,8 @@
+#+TITLE: Obstetric and Gynaecology
+
+#+BEGIN_EXPORT html
+<div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 60px; text-align: center;">Obstetric and Gynaecology</div>
+<div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 60px; text-align: center;">産科・婦人科領域</div>
+#+END_EXPORT
+
+* Introduction
