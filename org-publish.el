@@ -21,7 +21,7 @@
              :publishing-function 'org-html-publish-to-html
              :publishing-directory "./public"
              :with-author nil
-             :with-toc nil
+             :with-toc t
              :section-numbers nil
              :time-stamp-file nil)))
 
