@@ -13,17 +13,17 @@ a {
   font-weight: bold;
 }
 
-h1 {
+h2 {
   background-color: #f3f3e3;
   color: #152515;
 }
 
-h1:before {
+h2:before {
   background-color: #6c9cf6;
   content: 'ひ';
 }
 
-h2,h3,h4,h5,h6 {
+h3,h4,h5,h6 {
   color: #e5eefd;
 }
 
