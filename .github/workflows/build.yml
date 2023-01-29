@@ -1,0 +1,35 @@
+name: Publish to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Install Emacs
+        run: sudo add-apt-repository ppa:kelleyk/emacs && sudo apt-get update && sudo apt install emacs28-nox
+
+      - name: Build the site
+        run: emacs -Q --script org-publish.el
+
+      - name: Copy main.css to the ~public~ folder
+        run: cp -R ./src/css/ ./public
+
+      - name: Commit timestamps
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Automatic commit
+          file_pattern: 'public/timestamps/*'
+
+      - name: Publish generated content to GitHub Pages branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          commit-message: Update ${{ github.sha }}
+          folder: public
