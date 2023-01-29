@@ -8,11 +8,18 @@
 <div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 60px; text-align: center;">医学を学ぶ... ただし、日本語で！</div>
 #+END_EXPORT
 
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/index.org][Edit]]
+
 -----
 
 * え？
+:PROPERTIES:
+:CUSTOM_ID: orgbb3c029
+:END:
 This website is a gift for a friend!
 
 Please note that the translation may not be correct.
 
 However, I will try my absolute best to make sure that the translation is as accurate as possible.
+
+* See 
