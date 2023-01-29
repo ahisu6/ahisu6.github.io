@@ -36,3 +36,6 @@ However, I will try my absolute best to make sure that the translation is as acc
 - Dermatology - 皮膚科学 (D)
 - Endocrinology - 内分泌学 (E)
 - Gastroenterology - 消化器病学 (G)
+
+* Note
+本サイトのコンテンツは、医学的なアドバイスを目的としたものではありません。医療上の問題がある場合は、医師の診断を受ける必要があります。
