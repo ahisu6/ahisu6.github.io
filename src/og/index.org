@@ -11,8 +11,6 @@
 
 -----
 
-#+TOC: headlines 1
-
 * Sub-chapters
 :PROPERTIES:
 :CUSTOM_ID: orgdcbac4b
