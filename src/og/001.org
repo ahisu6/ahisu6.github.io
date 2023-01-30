@@ -64,15 +64,15 @@ Have a look at [[https://lh3.googleusercontent.com/pw/AMWts8CTxTmEQiuDh5edQYjcTs
 The management of heavy bleeding is interesting...
 
 Okay. So, to fully understand the treatment options, you first need to understand the following:
-1. Intra-uterine system:
+1. Intra-uterine System:
 
-There is something called "Intrauterine system". @@html:<span class="jp">「子宮内システム」というものがあります。</span>@@
+There is something called "intrauterine system". @@html:<span class="jp">「子宮内システム」というものがあります。</span>@@
 
 Basically, this is a coil that goes inside the uterus. @@html:<span class="jp">基本的には、子宮の中にコイルを入れるものです。</span>@@
 
 It releases a hormone called "progestogen". This hormone reduces the bleeding by a lot! @@html:<span class="jp">黄体「ホルモン」というホルモンを分泌させます。このホルモンの働きで、出血がかなり抑えられます。</span>@@
 
-Finally, these Intrauterine Systems have a contraceptive effect. This means that when the woman uses them, she *CANNOT* become pregnant!!!! @@html:<span class="jp">最後に、これらの子宮内システムは、避妊効果があります。つまり、女性が使用すると、妊娠することはできません！！！！</span>@@
+Finally, these intrauterine systems have a contraceptive effect. This means that when the woman uses them, she *CANNOT* become pregnant!!!! @@html:<span class="jp">最後に、これらの子宮内システムは、避妊効果があります。つまり、女性が使用すると、妊娠することはできません！！！！</span>@@
 
 2. Tranexamic acid: this breaks down the blood clots. Women should take this when they are bleeding! The woman can still get pregnant! @@html:<span class="jp">これは、血栓を分解するものです。女性は出血しているときにこれを飲むとよいでしょう。女性はまだ妊娠できる!</span>@@
 
