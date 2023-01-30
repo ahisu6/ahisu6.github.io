@@ -46,6 +46,16 @@ The most common cause for heavy bleeding is... FIBROIDS!!!! @@html:<span class="
 
 Have a look at [[https://lh3.googleusercontent.com/pw/AMWts8CTxTmEQiuDh5edQYjcTso7MlxfWySmGRsrvTliRZoI0ntUfW8ioP8Lc4BANoCulalzP_KCLWwIv7-MBa6LCPSLwkhLuw6AlAnkSW7IErAW-ISTVfywyihN8qKQjabh0cGuzOnmLW9Wk_FwH3RoWhg=w766-h732-no][this picture]] to see the other pictures (this is from Obstetrics and Gynaecology by Lawrence Impey)
 
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org5552907
+:END:
+
+- FBC: you need to do this because we have to look at the haemoglobin level to check if the patient has anaemia because of the heavy bleeding! @@html:<span class="jp">ヘモグロビン値を見て、大量出血のために貧血になっていないかどうかをチェックする必要があるからです</span>@@
+- Coagulation screen: if the woman is bleeding too much, then maybe she has an issue with the way her blood forms the clots! @@html:<span class="jp">出血が多いということは、血液の固まり方に問題があるのかもしれませんね。</span>@@
+- Transvaginal ultrasound: you sometimes need to do this so that you look for things like fibroids or polyps. @@html:<span class="jp">子宮筋腫やポリープのようなものを探すために、時々これを行う必要があります。</span>@@
+- Swabs: do this if there is a history which shows that maybe this is a sexually transmitted disease. @@html:<span class="jp">性感染症である可能性を示す既往歴がある場合は、これを行う。</span>@@
+
 
 * Abnormal uterine bleeding (G)
 :PROPERTIES:
