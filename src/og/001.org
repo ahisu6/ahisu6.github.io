@@ -37,7 +37,7 @@ As the name says... this is when the period is too heavy! @@html:<span class="jp
 
 But, you might ask... how heavy is it?
 
-Well, it is when the woman bleeds 80 mL or MORE!!!! So much blood :( @@html:<span class="jp">まあ、80mL以上の出血があった場合です。そんなに血が出るんだ ！！！！(</span>@@
+Well, it is when the woman bleeds 80 mL or MORE!!!! So much blood :( @@html:<span class="jp">まあ、80mL以上の出血があった場合です。そんなに血が出るんだ :(</span>@@
 
 ** Causes
 There are many causes for this. @@html:<span class="jp">その原因はさまざまです。</span>@@
