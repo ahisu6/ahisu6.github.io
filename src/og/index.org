@@ -28,7 +28,7 @@ Click on the "TITLE" header, then the table will be sorted by alphabetical order
 | Title                     | Date posted |
 |---------------------------+-------------|
 | [[https://ahisu6.github.io/og/001.html#org89fa98b][Abnormal uterine bleeding]] |  2023-01-29 |
-| [[https://ahisu6.github.io/og/001.html#orgfeaf8e2][Heavy menstrual bleeding]]  |  2023-01-29 |
+| [[https://ahisu6.github.io/og/001.html#orgfeaf8e2][Heavy menstrual bleeding]]  |  2023-01-30 |
 |                           |             |
 
 #+BEGIN_EXPORT html
