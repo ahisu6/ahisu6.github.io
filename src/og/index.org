@@ -1,7 +1,32 @@
 #+TITLE: Obstetrics and Gynaecology
 
 #+BEGIN_EXPORT html
-<head>
+<div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 60px; text-align: center;">Obstetrics and Gynaecology</div>
+<div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 60px; text-align: center;">産科・婦人科領域</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/og/index.org][Edit]]
+
+[[file:../index.org][Home]]
+
+-----
+
+* Table of Contents
+:PROPERTIES:
+:CUSTOM_ID: toc
+:END:
+
+Click on the header of the column to sort it! Cool, right? @@html:<span class="jp">列のヘッダーをクリックするとソートされます！すごいね！</span>@@
+
+** Gynaecology topics
+#+ATTR_HTML: :class sortable
+| Title                     | Date posted |
+|---------------------------+-------------|
+| [[https://ahisu6.github.io/og/001.html#org89fa98b][Abnormal uterine bleeding]] |  2023-01-29 |
+| [[https://ahisu6.github.io/og/001.html#orgfeaf8e2][Heavy menstrual bleeding]]  |  2023-01-29 |
+|                           |             |
+
+#+BEGIN_EXPORT html
 <script>
 
 /**
@@ -151,28 +176,4 @@ function sortTextVal(a, b) {
     return 0;
 }
 </script>
-</head>
-<div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 60px; text-align: center;">Obstetrics and Gynaecology</div>
-<div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 60px; text-align: center;">産科・婦人科領域</div>
 #+END_EXPORT
-
-[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/og/index.org][Edit]]
-
-[[file:../index.org][Home]]
-
------
-
-* Table of Contents
-:PROPERTIES:
-:CUSTOM_ID: toc
-:END:
-
-Click on the header of the column to sort it! Cool, right? @@html:<span class="jp">列のヘッダーをクリックするとソートされます！すごいね！</span>@@
-
-** Gynaecology topics
-#+ATTR_HTML: :class sortable
-| Title                     | Date posted |
-|---------------------------+-------------|
-| [[https://ahisu6.github.io/og/001.html#org89fa98b][Abnormal uterine bleeding]] |  2023-01-29 |
-| [[https://ahisu6.github.io/og/001.html#orgfeaf8e2][Heavy menstrual bleeding]]  |  2023-01-29 |
-|                           |             |
