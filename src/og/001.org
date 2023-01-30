@@ -26,6 +26,74 @@ And anything that has ~(O)~ means that it is an Obstetrics topic. @@html:<span c
 
 Sounds good? Cool.
 
+* Antenatal care (O)
+:PROPERTIES:
+:CUSTOM_ID: orgb494d28
+:END:
+
+Posted: 2023-01-30 | Updated: 2023-01-30
+
+This is when the pregnant woman gets seen by a midwife or a consultant. @@html:<span class="jp">このとき、妊婦は助産師やコンサルタントの診察を受けることになる。</span>@@
+
+Usually, if the pregnancy is uncomplicated, the pregnant woman is seen by midwife. @@html:<span class="jp">通常、合併症のない妊娠であれば、妊婦は助産婦に診てもらう。</span>@@
+
+** Weeks and days
+:PROPERTIES:
+:CUSTOM_ID: orgfa0e52b
+:END:
+
+In Obstetrics, you will see things like 11 - 13+6 weeks. @@html:<span class="jp">産科では「11～13+6週」といった表記を見かけます。</span>@@
+
+Let me explain to you what that means:
+- Normally, we calculate pregnancies based on weeks. @@html:<span class="jp">通常、妊娠は週数で計算します。</span>@@
+- A pregnancy is expected to last 40 weeks. @@html:<span class="jp">妊娠は40週間続くと言われています。</span>@@
+- This weird number (13+6 weeks) is saying @@html:<span class="jp">この奇妙な数字（13+6週）が言っているのは</span>@@:
+  - 13 weeks, and 6 days. @@html:<span class="jp">13週と6日。</span>@@
+  - So, "11 - 13+6 weeks" means: between 11 weeks AND 13 weeks, 6 days. @@html:<span class="jp">つまり、「11-13+6」は、「11週と13週の間の6日間」という意味です。「11週-13週+6日」</span>@@
+- Can you figure out what the following means? See the answers below! @@html:<span class="jp">以下の意味がわかりますか？答えは以下をご覧ください</span>@@
+  1. 20 - 25+4 weeks
+  2. 21+5 - 28+2 weeks
+  3. 19+2 - 12+3 weeks
+
+@@html:<div onclick="document.getElementById ('view').style.display=document.getElementById('view').style.display=='none' ? 'block':'none';"><p>Click this sentence to see the answers! <span class="jp">この文章をクリックすると、答えが表示されます！</span></p><div id="view" style="display: none;">@@
+1. between 20 weeks AND 25 weeks, 4 days
+2. between 21 weeks, 5 days AND 28 weeks, 2 days
+3. between 19 weeks, 2 days AND 12 weeks, 3 days
+@@html:</div></div>@@
+
+
+** The booking visit
+:PROPERTIES:
+:CUSTOM_ID: org535415a
+:END:
+- This is done during 8 - 12 weeks of pregnancy @@html:<span class="jp">妊娠8～12週目に行われます。</span>@@
+- The woman is given advice on diet, smoking, alcohol, vitamin D, folic acid, etc. @@html:<span class="jp">食事、喫煙、アルコール、ビタミンD、葉酸などに関するアドバイスを受けることができます。</span>@@
+- The midwife takes a detailed medical history from the patient. @@html:<span class="jp">助産師は患者さんから詳しい病歴を聞き取ります。</span>@@
+- The midwife looks for any potential health risks. @@html:<span class="jp">助産師は、健康被害の可能性がないかを調べます。</span>@@
+- The midwife examines the patient: BMI, blood pressure, urine dipstick. @@html:<span class="jp">助産師が患者を診察する。BMI、血圧、尿検査。</span>@@
+- The midwife then takes bloods from the patient:
+  - FBC: to look for anaemia
+  - Blood tests for 3 infections: syphilis, HIV, and hepatitis B!
+  - Haemoglobin electrophoresis: this is when they look at the haemoglobin to look for things like Sickle cell disease. @@html:<span class="jp">これは、ヘモグロビンを調べて、鎌状赤血球症などを調べるものです。</span>@@
+  - Urine culture: sometimes women can get bacteria in the urine which do NOT cause any symptoms... so, this urine culture looks for this bacteria! The bacteria is soooooo annoying, right? @@html:<span class="jp">女性の場合、尿に細菌が混じっていても、症状が出ないことがあります。ということで、この尿培養はこの菌を探すのだそうです！菌がうっとうしいんですよね。</span>@@
+
+** Other days
+:PROPERTIES:
+:CUSTOM_ID: org74d047b
+:END:
+
+Here are some other important dates that you should know. @@html:<span class="jp">その他、知っておくべき重要な日程をご紹介します。</span>@@
+
+You can find more details using resources like PassMedicine!
+
+On PassMedicine, it is called "Antenatal care: timetable"!
+
+- An ultrasound scan is done at 10 - 13+6 weeks of pregnancy... this looks for:
+  - The expected delivery date. @@html:<span class="jp">納品予定日です。</span>@@
+  - Look to see if there is more than 1 baby inside the mother. @@html:<span class="jp">お母さんの中に赤ちゃんが1人以上いるかどうか見てください。</span>@@
+- Another ultrasound is done at 11 - 13+6 weeks... this one looks for: *Down's syndrome*! @@html:<span class="jp">11週から13週＋6日でもう一回超音波検査が行われます...この検査で調べるのは ダウン症！</span>@@
+- At 18 - 20+6 weeks something called "Anomaly scan" is done. This is an ultrasound scan which looks for various heart and MSK diseases. @@html:<span class="jp">18週から20週＋6日の間に、「異常スキャン」と呼ばれるものが行われます。これは超音波検査で、心臓やMSKの様々な病気を調べるものです。</span>@@
+
 * Heavy menstrual bleeding (G)
 :PROPERTIES:
 :CUSTOM_ID: orgfeaf8e2
