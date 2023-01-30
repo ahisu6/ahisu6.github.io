@@ -56,6 +56,38 @@ Have a look at [[https://lh3.googleusercontent.com/pw/AMWts8CTxTmEQiuDh5edQYjcTs
 - Transvaginal ultrasound: you sometimes need to do this so that you look for things like fibroids or polyps. @@html:<span class="jp">子宮筋腫やポリープのようなものを探すために、時々これを行う必要があります。</span>@@
 - Swabs: do this if there is a history which shows that maybe this is a sexually transmitted disease. @@html:<span class="jp">性感染症である可能性を示す既往歴がある場合は、これを行う。</span>@@
 
+** Management
+:PROPERTIES:
+:CUSTOM_ID: orgbac268e
+:END:
+
+The management of heavy bleeding is interesting...
+
+Okay. So, to fully understand the treatment options, you first need to understand the following:
+1. Intra-uterine system:
+
+There is something called "Intrauterine system".
+
+Basically, this is a coil that goes inside the uterus.
+
+It releases a hormone called "progestogen". This hormone reduces the bleeding by a lot!
+
+Finally, these Intrauterine Systems have a contraceptive effect. This means that when the woman uses them, she *CANNOT* become pregnant!!!!
+
+@@html:<span class="jp">
+「子宮内システム」というものがあります。
+基本的には、子宮の中にコイルを入れるものです。
+黄体「ホルモン」というホルモンを分泌させます。
+このホルモンの働きで、出血がかなり抑えられます。
+最後に、これらの子宮内システムは、避妊効果があります。つまり、女性が使用すると、妊娠することはできません！！！！</span>@@
+
+2. Tranexamic acid: this breaks down the blood clots. Women should take this when they are bleeding! The woman can still get pregnant! @@html:<span class="jp">これは、血栓を分解するものです。女性は出血しているときにこれを飲むとよいでしょう。女性はまだ妊娠できる!</span>@@
+
+3. Hysteroscopic: in this, they remove things like polyps!
+
+It all depends on whether the woman wants to have children or not! Remember this!!! Very important!!!! @@html:<span class="jp">すべては女性が子供を持ちたいかどうかにかかっている！！これを覚えておいてください！！！とても重要なことです！！！！</span>@@
+
+See [[https://lh3.googleusercontent.com/pw/AMWts8DTpmhgFm0VEO9Mu0UbYLQsLEtd5_BStzi7IeNbfW7H2D8-neCf7PqUTtDqqYb6VzF3GtlwJhqc44su7fza5L5wZnAaDiHASGhAEYnn96l_48pk5rLpm1fO0EvRnlq_XbGdy1p5UDtKI07yHO-4wnY=w885-h623-no?authuser=0][this picture]] to see the guideline.
 
 * Abnormal uterine bleeding (G)
 :PROPERTIES:
