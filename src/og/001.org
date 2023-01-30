@@ -5,7 +5,7 @@
 <div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 60px; text-align: center;">産科・婦人科領域</div>
 #+END_EXPORT
 
-[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/og.org][Edit]]
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/og/001.org][Edit]]
 
 [[file:./index.org][Home]]
 
@@ -46,7 +46,7 @@ So, it include things like:
 - duration of the bleed @@html:<span class="jp">出血の持続時間</span>@@
 - amount of bleeding @@html:<span class="jp">出血量</span>@@
 
-There is a mnemonic to help you remember the differetial diagnoses for abnormal uterine bleeding: PALM-COEIN! COEIN looks like coin... @@html:<span class="jp">笑</span>@@:
+There is a mnemonic to help you remember the differetial diagnoses for abnormal uterine bleeding: PALM-COEIN! COEIN looks like coin... @@html:<span class="jp">笑。</span>@@
 
 The PALM part is a mnemonic for the *structural causes* of abnormal uterine bleeding @@html:<span class="jp">PALMの部分は、子宮異常出血の*構造的な原因*を表すニーモニックです。</span>@@:
 - Polyps
