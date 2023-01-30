@@ -33,6 +33,10 @@ Sounds good? Cool.
 
 Posted: 2023-01-30 | Updated: 2023-01-30
 
+The word "Antenatal" is made up two parts: "ante" (which means *before* @@html:<span class="jp">前</span>@@) and "natal" (which means *to be born* @@html:<span class="jp">生まれる</span>@@)
+
+So, "antenatal care" is the stuff done to the pregnant woman BEFORE the baby is born. @@html:<span class="jp">つまり、「antenatal care」とは、赤ちゃんが生まれる前に妊婦さんにすることなんです。</span>@@
+
 This is when the pregnant woman gets seen by a midwife or a consultant. @@html:<span class="jp">このとき、妊婦は助産師やコンサルタントの診察を受けることになる。</span>@@
 
 Usually, if the pregnancy is uncomplicated, the pregnant woman is seen by midwife. @@html:<span class="jp">通常、合併症のない妊娠であれば、妊婦は助産婦に診てもらう。</span>@@
