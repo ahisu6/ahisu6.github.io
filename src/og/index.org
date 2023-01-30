@@ -16,7 +16,7 @@
 :CUSTOM_ID: toc
 :END:
 
-Click on the header of the column to sort it! Cool, right? @@html:<span class="jp">列のヘッダーをクリックするとソートされます！すごいね！</span>@@
+Click on the header of the column to sort it! Cool, right?! @@html:<span class="jp">列のヘッダーをクリックするとソートされます！すごいね！</span>@@
 
 ** Gynaecology topics
 #+ATTR_HTML: :class sortable
