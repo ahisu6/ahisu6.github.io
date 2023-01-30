@@ -11,7 +11,7 @@
 
 -----
 
-#+TOC: headlines 2
+#+TOC: headlines 1
 
 * Sub-chapters
 :PROPERTIES:
