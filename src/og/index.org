@@ -11,9 +11,11 @@
 
 -----
 
-* Table of Contents
+#+TOC: headlines 2
+
+* Sub-chapters
 :PROPERTIES:
-:CUSTOM_ID: toc
+:CUSTOM_ID: orgdcbac4b
 :END:
 
 Click on the header of the column to sort it! Cool, right?! @@html:<span class="jp">列のヘッダーをクリックするとソートされます！すごいね！</span>@@
