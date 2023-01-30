@@ -24,13 +24,13 @@ h2 {
   color: #152515;
 }
 
+h3,h4,h5,h6 {
+  color: #ffcd77;
+}
+
 h2:before,h3:before,h4:before,h5:before,h6:before {
   background-color: #6c9cf6;
   content: 'ひ';
-}
-
-h3,h4,h5,h6 {
-  color: #ffcd77;
 }
 
 code {
