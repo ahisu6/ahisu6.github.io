@@ -33,16 +33,16 @@ Sounds good? Cool.
 
 Posted: 2023-01-30 | Last updated: 2023-01-30
 
-As the name says... this is when the period is too heavy! @@html:<span class="jp">その名の通り...月経が重すぎる場合です!</span>@@
+As the name says... this is when the period is too heavy! @@html:<span class="jp">その名の通り...月経が重すぎる場合です！</span>@@
 
 But, you might ask... how heavy is it?
 
-Well, it is when the woman bleeds 80 mL or MORE!!!! So much blood :( @@html:<span class="jp">まあ、80mL以上の出血があった場合です。そんなに血が出るんだ :(</span>@@
+Well, it is when the woman bleeds 80 mL or MORE!!!! So much blood :( @@html:<span class="jp">まあ、80mL以上の出血があった場合です。そんなに血が出るんだ ！！！！(</span>@@
 
 ** Causes
 There are many causes for this. @@html:<span class="jp">その原因はさまざまです。</span>@@
 
-The most common cause for heavy bleeding is... FIBROIDS!!!! @@html:<span class="jp">大量出血の一番の原因は... FIBROIDS!!!!</span>@@
+The most common cause for heavy bleeding is... FIBROIDS!!!! @@html:<span class="jp">大量出血の一番の原因は... FIBROIDS！！！！</span>@@
 
 Have a look at [[https://lh3.googleusercontent.com/pw/AMWts8CTxTmEQiuDh5edQYjcTso7MlxfWySmGRsrvTliRZoI0ntUfW8ioP8Lc4BANoCulalzP_KCLWwIv7-MBa6LCPSLwkhLuw6AlAnkSW7IErAW-ISTVfywyihN8qKQjabh0cGuzOnmLW9Wk_FwH3RoWhg=w766-h732-no][this picture]] to see the other causes (this is taken from Obstetrics and Gynaecology by Lawrence Impey).
 
@@ -51,8 +51,8 @@ Have a look at [[https://lh3.googleusercontent.com/pw/AMWts8CTxTmEQiuDh5edQYjcTs
 :CUSTOM_ID: org5552907
 :END:
 
-- FBC: you need to do this because we have to look at the haemoglobin level to check if the patient has anaemia because of the heavy bleeding! @@html:<span class="jp">ヘモグロビン値を見て、大量出血のために貧血になっていないかどうかをチェックする必要があるからです</span>@@
-- Coagulation screen: if the woman is bleeding too much, then maybe she has an issue with the way her blood forms the clots! @@html:<span class="jp">出血が多いということは、血液の固まり方に問題があるのかもしれませんね。</span>@@
+- FBC: you need to do this because we have to look at the haemoglobin level to check if the patient has anaemia because of the heavy bleeding! @@html:<span class="jp">ヘモグロビン値を見て、大量出血のために貧血になっていないかどうかをチェックする必要があるからです！</span>@@
+- Coagulation screen: if the woman is bleeding too much, then maybe she has an issue with the way her blood forms the clots! @@html:<span class="jp">出血が多いということは、血液の固まり方に問題があるのかもしれませんね！</span>@@
 - Transvaginal ultrasound: you sometimes need to do this so that you look for things like fibroids or polyps. @@html:<span class="jp">子宮筋腫やポリープのようなものを探すために、時々これを行う必要があります。</span>@@
 - Swabs: do this if there is a history which shows that maybe this is a sexually transmitted disease. @@html:<span class="jp">性感染症である可能性を示す既往歴がある場合は、これを行う。</span>@@
 
@@ -69,16 +69,16 @@ Okay. So, to fully understand the treatment options, you first need to understan
 
   Basically, this is a coil that goes inside the uterus. See [[https://lh3.googleusercontent.com/pw/AMWts8B_pbHAIQev2ZxXf_FupbTT_MIUMGV2FTFAesrkvEQPvxc0Gw5KR832AeoUtjGQcV--YcTfVXdYX7wsl5VcA1qfChDn55bEVmLEnl7AeUYhHMbyhEIOnftV3crBvVqi4xiJJXnpI2K4aVwfNAzXg-Q=w712-h637-no?authuser=0][this picture]] @@html:<span class="jp">基本的には、子宮の中にコイルを入れるものです。</span>@@
 
-  It releases a hormone called "progestogen". This hormone reduces the bleeding by a lot! @@html:<span class="jp">黄体「ホルモン」というホルモンを分泌させます。このホルモンの働きで、出血がかなり抑えられます。</span>@@
+  It releases a hormone called "progestogen". This hormone reduces the bleeding by a lot! @@html:<span class="jp">黄体「ホルモン」というホルモンを分泌させます。このホルモンの働きで、出血がかなり抑えられます！</span>@@
 
   Finally, these intrauterine systems have a contraceptive effect. This means that when the woman uses them, she *CANNOT* become pregnant!!!! @@html:<span class="jp">最後に、これらの子宮内システムは、避妊効果があります。つまり、女性が使用すると、妊娠することはできません！！！！</span>@@
 
-2. Tranexamic acid: this breaks down the blood clots. Women should take this when they are bleeding! The woman can still get pregnant! @@html:<span class="jp">これは、血栓を分解するものです。女性は出血しているときにこれを飲むとよいでしょう。女性はまだ妊娠できる!</span>@@
+2. Tranexamic acid: this breaks down the blood clots. Women should take this when they are bleeding! The woman can still get pregnant! @@html:<span class="jp">これは、血栓を分解するものです。女性は出血しているときにこれを飲むとよいでしょう！女性はまだ妊娠できる！</span>@@
 
 3. Hysteroscopic: in this, they remove things like polyps!
 
 
-It all depends on whether the woman wants to have children or not! Remember this!!! Very important!!!! @@html:<span class="jp">すべては女性が子供を持ちたいかどうかにかかっている！！これを覚えておいてください！！！とても重要なことです！！！！</span>@@
+It all depends on whether the woman wants to have children or not! Remember this!! Very important!!! @@html:<span class="jp">すべては女性が子供を持ちたいかどうかにかかっている！これを覚えておいてください！！とても重要なことです！！！</span>@@
 
 See [[https://lh3.googleusercontent.com/pw/AMWts8DTpmhgFm0VEO9Mu0UbYLQsLEtd5_BStzi7IeNbfW7H2D8-neCf7PqUTtDqqYb6VzF3GtlwJhqc44su7fza5L5wZnAaDiHASGhAEYnn96l_48pk5rLpm1fO0EvRnlq_XbGdy1p5UDtKI07yHO-4wnY=w885-h623-no?authuser=0][this picture]] to see the guideline.
 
@@ -110,4 +110,4 @@ The COEIN part is a mnemonic for the *NON-structural causes* of abnormal uterine
 - Endometrial (problems with the endometrium of the uterus)
 - Iatrogenic (this is when the doctors cause the damage) @@html:<span class="jp">医原病</span>@@
 
-Most common type of abnormal uterine bleeding is [[#orgfeaf8e2][Heavy Menstrual Bleeding]]! @@html:<span class="jp">子宮の異常出血で最も多いのは「重い月経血」!</span>@@ This is also called menorrhagia! @@html:<span class="jp">これは「menorrhagia」とも呼ばれます。</span>@@
+Most common type of abnormal uterine bleeding is [[#orgfeaf8e2][Heavy Menstrual Bleeding]]! @@html:<span class="jp">子宮の異常出血で最も多いのは「重い月経血」！</span>@@ This is also called menorrhagia! @@html:<span class="jp">これは「menorrhagia」とも呼ばれます！</span>@@
