@@ -15,13 +15,13 @@
 
 * え？
 :PROPERTIES:
-:CUSTOM_ID: orgbb3c029
+:CUSTOM_ID: eh
 :END:
-This website is a gift for a friend!
+This website is a gift for a friend! @@html:<span class="jp">このサイトは、友人へのプレゼントです</span>@@
 
-Please note that the translation may not be correct.
+Please note that the translation may not be correct. However, I will try my absolute best to make sure that the translation is as accurate as possible. @@html:<span class="jp">翻訳が正確でない可能性があることをご了承ください。しかし、可能な限り正確な翻訳をするよう、絶対的な努力をします。</span>@@
 
-However, I will try my absolute best to make sure that the translation is as accurate as possible.
+The pink highlighting means that it is a link. For example, [[https://www.youtube.com/watch?v=eY2Aw-cWRAA][this is a link]]!
 
 * Chapters
 :PROPERTIES:
