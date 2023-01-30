@@ -13,6 +13,8 @@
       org-export-with-sub-superscripts nil
       org-html-head "<link rel=\"stylesheet\" href=\"https://ahisu6.github.io/css/main.css\" />")
 
+(eval-after-load "ox-html" (setq org-html-prefer-user-labels t))
+
 (setq org-publish-project-alist
       (list
        (list "ahisu6"
