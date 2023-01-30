@@ -31,7 +31,7 @@ Sounds good? Cool.
 :CUSTOM_ID: orgfeaf8e2
 :END:
 
-Posted: 29/01/2023 | Last updated: 29/01/2023
+Posted: 30/01/2023 | Last updated: 30/01/2023
 
 As the name says... this is when the period is too heavy! @@html:<span class="jp">その名の通り...月経が重すぎる場合です!</span>@@
 
@@ -44,7 +44,7 @@ There are many causes for this. @@html:<span class="jp">その原因はさまざ
 
 The most common cause for heavy bleeding is... FIBROIDS!!!! @@html:<span class="jp">大量出血の一番の原因は... FIBROIDS!!!!</span>@@
 
-Have a look at [[https://lh3.googleusercontent.com/pw/AMWts8CTxTmEQiuDh5edQYjcTso7MlxfWySmGRsrvTliRZoI0ntUfW8ioP8Lc4BANoCulalzP_KCLWwIv7-MBa6LCPSLwkhLuw6AlAnkSW7IErAW-ISTVfywyihN8qKQjabh0cGuzOnmLW9Wk_FwH3RoWhg=w766-h732-no][this picture]] to see the other pictures (this is from Obstetrics and Gynaecology by Lawrence Impey)
+Have a look at [[https://lh3.googleusercontent.com/pw/AMWts8CTxTmEQiuDh5edQYjcTso7MlxfWySmGRsrvTliRZoI0ntUfW8ioP8Lc4BANoCulalzP_KCLWwIv7-MBa6LCPSLwkhLuw6AlAnkSW7IErAW-ISTVfywyihN8qKQjabh0cGuzOnmLW9Wk_FwH3RoWhg=w766-h732-no][this picture]] to see the other causes (this is taken from Obstetrics and Gynaecology by Lawrence Impey).
 
 ** Investigations
 :PROPERTIES:
