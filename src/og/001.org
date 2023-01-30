@@ -48,13 +48,13 @@ So, it include things like:
 
 There is a mnemonic to help you remember the differetial diagnoses for abnormal uterine bleeding: PALM-COEIN! COEIN looks like coin... @@html:<span class="jp">笑。</span>@@
 
-The PALM part is a mnemonic for the *structural causes* of abnormal uterine bleeding @@html:<span class="jp">PALMの部分は、子宮異常出血の*構造的な原因*を表すニーモニックです。</span>@@:
+The PALM part is a mnemonic for the *structural causes* of abnormal uterine bleeding @@html:<span class="jp">PALMの部分は、子宮異常出血の構造的な原因を表すニーモニックです。</span>@@:
 - Polyps
 - Adenomyosis (this is when there is cells from the endometrium start growing in the myometrium [the smooth muscle layer of the uterus]) @@html:<span class="jp">(子宮内膜の細胞が子宮筋層（子宮の平滑筋層）で増殖し始めることです。）</span>@@
 - Leiomyomas (this is another name for fibroids)
 - Malignancy
 
-The COEIN part is a mnemonic for the *NON-structural causes* of abnormal uterine bleeding @@html:<span class="jp">COEINの部分は、子宮内出血の非構造的な原因に対するニモニックです。</span>@@:
+The COEIN part is a mnemonic for the *NON-structural causes* of abnormal uterine bleeding @@html:<span class="jp">子宮異常出血の非構造的な原因を表すニーモニックのCOEINの部分です。</span>@@:
 - Coagulopathy (bleeding issues)
 - Ovulatory issues
 - Endometrial (problems with the endometrium of the uterus)
