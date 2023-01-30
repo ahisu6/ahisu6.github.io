@@ -25,7 +25,7 @@ Click on the "DATE POSTED" header, then the table will be sorted by date... @@ht
 Click on the "TITLE" header, then the table will be sorted by alphabetical order... @@html:<span class="jp">「TITLE」のヘッダーをクリックすると、テーブルがアルファベット順にソートされます... </span>@@
 
 
-** Gynaecology topics
+** List of Gynaecology topics
 :PROPERTIES:
 :CUSTOM_ID: gtopics
 :END:
@@ -36,7 +36,7 @@ Click on the "TITLE" header, then the table will be sorted by alphabetical order
 | [[https://ahisu6.github.io/og/001.html#orgfeaf8e2][Heavy menstrual bleeding]]  |  2023-01-30 |
 |                           |             |
 
-** Obstetrics topics
+** List of Obstetrics topics
 :PROPERTIES:
 :CUSTOM_ID: otopics
 :END:
