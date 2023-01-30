@@ -10,7 +10,9 @@ body {
 a {
   background-color: #ff47b1;
   color: #f3f3e3;
-  font-weight: bold;
+  font-weight: lighter;
+  font-size: 0.7em;
+  text-transform: uppercase;
 }
 
 h2 {
@@ -31,7 +33,6 @@ a:hover {
   background-color: #f3f3e3;
   color: #ff47b1;
 }
-
 
 pre {
   color: DarkSlateGrey;
