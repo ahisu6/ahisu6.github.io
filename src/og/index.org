@@ -3,6 +3,9 @@
 #+BEGIN_EXPORT html
 <head>
 <script>
+
+$('table').addClass('sortable'); // This adds a class to the tables which do not have the sortable class
+
 /**
  * Inject hyperlinks, into the column headers of sortable tables, which sort
  * the corresponding column when clicked.
@@ -169,6 +172,7 @@ function sortTextVal(a, b) {
 Click on the header of the column to sort it! Cool, right? @@html:<span class="jp">列のヘッダーをクリックするとソートされます！すごいね！</span>@@
 
 ** Gynaecology topics
+#+NAME: 
 | Title                     | Date posted |
 |---------------------------+-------------|
 | [[https://ahisu6.github.io/og/001.html#org89fa98b][Abnormal uterine bleeding]] |  2023-01-29 |
