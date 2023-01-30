@@ -1,4 +1,4 @@
-;; Code to make the Org files convert
+;; Code to make the Org files published
 
 (require 'ox-publish)
 
