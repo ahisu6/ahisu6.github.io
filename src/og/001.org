@@ -31,6 +31,21 @@ Sounds good? Cool.
 :CUSTOM_ID: orgfeaf8e2
 :END:
 
+Posted: 29/01/2023 | Last updated: 29/01/2023
+
+As the name says... this is when the period is too heavy! @@html:<span class="jp">その名の通り...月経が重すぎる場合です!</span>@@
+
+But, you might ask... how heavy is it?
+
+Well, it is when the woman bleeds 80 mL or MORE!!!! So much blood :( @@html:<span class="jp">まあ、80mL以上の出血があった場合です。そんなに血が出るんだ :(</span>@@
+
+** Causes
+There are many causes for this. @@html:<span class="jp">その原因はさまざまです。</span>@@
+
+The most common cause for heavy bleeding is... FIBROIDS!!!! @@html:<span class="jp">大量出血の一番の原因は... FIBROIDS!!!!</span>@@
+
+Have a look at [[https://drive.google.com/file/d/1rfFLTgCBAUmsmYl9QsYvlqcbYFxh9Mnt/view?usp=share_link][this picture]] to see the other pictures (this is from Obstetrics and Gynaecology by Lawrence Impey)
+
 
 * Abnormal uterine bleeding (G)
 :PROPERTIES:
