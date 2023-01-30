@@ -33,7 +33,7 @@ Sounds good? Cool.
 
 Posted: 2023-01-30 | Updated: 2023-01-30
 
-The word "Antenatal" is made up two parts: "ante" (which means *before* @@html:<span class="jp">前</span>@@) and "natal" (which means *to be born* @@html:<span class="jp">生まれる</span>@@)
+The word "Antenatal" is made up two parts: "ante" (which means *before* @@html:<span class="jp">前</span>@@) and "natal" (which means *to be born* @@html:<span class="jp">生まれる</span>@@).
 
 So, "antenatal care" is the stuff done to the pregnant woman BEFORE the baby is born. @@html:<span class="jp">つまり、「antenatal care」とは、赤ちゃんが生まれる前に妊婦さんにすることなんです。</span>@@
 
