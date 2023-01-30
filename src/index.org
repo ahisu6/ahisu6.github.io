@@ -21,7 +21,7 @@ This website is a gift for a friend! @@html:<span class="jp">このサイトは�
 
 Please note that the translation may not be correct. However, I will try my absolute best to make sure that the translation is as accurate as possible. @@html:<span class="jp">翻訳が正確でない可能性があることをご了承ください。しかし、可能な限り正確な翻訳をするよう、絶対的な努力をします。</span>@@
 
-The pink highlighting means that it is a link. For example, [[https://www.youtube.com/watch?v=eY2Aw-cWRAA][this is a link]]!
+The pink highlighting means that it is a link. For example, [[https://www.youtube.com/watch?v=eY2Aw-cWRAA][this is a link]]! @@html:<span class="jp">ピンクのハイライトは、リンクであることを意味します。例えば、[[https://www.youtube.com/watch?v=eY2Aw-cWRAA][これはリンクです]]です！</span>@@
 
 * Chapters
 :PROPERTIES:
