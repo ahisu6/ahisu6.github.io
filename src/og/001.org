@@ -54,7 +54,7 @@ The PALM part is a mnemonic for the *structural causes* of abnormal uterine blee
 - Leiomyomas (this is another name for fibroids)
 - Malignancy
 
-The COEIN part is a mnemonic for the *NON-structural causes* of abnormal uterine bleeding @@html:<span class="jp">COEINパートは、子宮内出血の非構造的な原因を表すニーモニックです。</span>@@:
+The COEIN part is a mnemonic for the *NON-structural causes* of abnormal uterine bleeding @@html:<span class="jp">COEINの部分は、子宮内出血の非構造的な原因に対するニモニックです。</span>@@:
 - Coagulopathy (bleeding issues)
 - Ovulatory issues
 - Endometrial (problems with the endometrium of the uterus)
