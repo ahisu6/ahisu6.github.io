@@ -6,7 +6,6 @@ body {
    font-size: 1.5em;
 }
 
-
 a {
   background-color: #ff47b1;
   color: #f3f3e3;
@@ -34,22 +33,11 @@ h3,h4,h5,h6 {
   color: #ffcd77;
 }
 
-pre {
-  color: DarkSlateGrey;
-  background-color: WhiteSmoke;
-  word-wrap: break-word;
-  white-space: pre-wrap;
-  font-size: 1em;
-  padding: 0.5em;
-}
-
-
 code {
-  color: red;
+  color: cyan;
   font-weight: bold;
   overflow-wrap: auto;
 }
-
 
 span.jp {
   color: #89b7fa;
