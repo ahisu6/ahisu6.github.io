@@ -172,5 +172,5 @@ Click on the header of the column to sort it! Cool, right? @@html:<span class="j
 | Title                     | Date posted |
 |---------------------------+-------------|
 | [[https://ahisu6.github.io/og/001.html#org89fa98b][Abnormal uterine bleeding]] |  2023-01-29 |
-| Heavy menstrual bleeding  |  2023-01-29 |
+| [[https://ahisu6.github.io/og/001.html#orgfeaf8e2][Heavy menstrual bleeding]]  |  2023-01-29 |
 |                           |             |
