@@ -110,4 +110,4 @@ The COEIN part is a mnemonic for the *NON-structural causes* of abnormal uterine
 - Endometrial (problems with the endometrium of the uterus)
 - Iatrogenic (this is when the doctors cause the damage) @@html:<span class="jp">医原病</span>@@
 
-Most common type of abnormal uterine bleeding is Heavy Menstrual Bleeding! @@html:<span class="jp">子宮の異常出血で最も多いのは「重い月経血」!</span>@@ This is also called menorrhagia! @@html:<span class="jp">これは「menorrhagia」とも呼ばれます。</span>@@
+Most common type of abnormal uterine bleeding is [[#orgfeaf8e2][Heavy Menstrual Bleeding]]! @@html:<span class="jp">子宮の異常出血で最も多いのは「重い月経血」!</span>@@ This is also called menorrhagia! @@html:<span class="jp">これは「menorrhagia」とも呼ばれます。</span>@@
