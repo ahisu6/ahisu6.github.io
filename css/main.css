@@ -9,6 +9,7 @@ body {
 a {
   background-color: #ff47b1;
   color: #f3f3e3;
+  font-family: monospace;
   font-weight: lighter;
   font-size: 0.7em;
   text-transform: uppercase;
