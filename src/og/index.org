@@ -22,7 +22,6 @@ Click on the "DATE POSTED" header, then the table will be sorted by date... @@ht
 
 Click on the "TITLE" header, then the table will be sorted by alphabetical order... @@html:<span class="jp">「TITLE」のヘッダーをクリックすると、テーブルがアルファベット順にソートされます... </span>@@
 
-
 ** List of Gynaecology topics
 :PROPERTIES:
 :CUSTOM_ID: gtopics
@@ -48,7 +47,6 @@ Click on the "TITLE" header, then the table will be sorted by alphabetical order
 |                           |             |
 |                           |             |
 |                           |             |
-
 
 #+BEGIN_EXPORT html
 <script>
