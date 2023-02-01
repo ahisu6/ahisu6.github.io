@@ -41,4 +41,4 @@ Click the chapter which you want to study! @@html:<span class="jp">勉強した�
 - Gastroenterology - 消化器学 (g)
 
 * Disclaimer
-Disclaimer. The content of this site is not intended as medical advice. If you have a medical problem, you should seek medical advice. @@html:<span class="jp">免責事項。本サイトのコンテンツは、医学的なアドバイスを目的としたものではありません。医療上の問題がある場合は、医師の診断を受ける必要があります。</span>@@
+Disclaimer. The content of this site is not intended as medical advice or as a diagnostic tool. If you have a medical problem, you should seek medical advice. @@html:<span class="jp">免責事項。本サイトのコンテンツは、医学的なアドバイスを目的としたものではありません。医療上の問題がある場合は、医師の診断を受ける必要があります。</span>@@
