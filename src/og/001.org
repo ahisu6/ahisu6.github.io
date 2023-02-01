@@ -36,6 +36,8 @@ Sounds good? Cool.
 :CUSTOM_ID: orgdbf80b3
 :END:
 
+Posted: 2023-02-01 | Updated: 2023-02-01
+
 Pelvic inflammatory disease is when there an infection in upper part of female reproductive system. @@html:<span class="jp">骨盤内炎症性疾患は、女性の生殖器系の上部に感染症が発生した場合です。</span>@@
 
 This is an infection of the uterus, fallopian tubes, and ovaries. @@html:<span class="jp">子宮、卵管、卵巣の感染症です。</span>@@
