@@ -19,6 +19,8 @@
 :CUSTOM_ID: orgfeecfe4
 :END:
 
+Date posted: 2023-02-01 | Updated: 2023-02-01
+
 When treating dermatological disease, it is important to consider what patients want and what they like. @@html:<span class="jp">皮膚科の病気の治療では、患者さんが何を求めているか、何が好きかを考えることが大切です。</span>@@
 
 ** Topical
