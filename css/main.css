@@ -10,8 +10,8 @@ a {
   background-color: #ff47b1;
   color: #f3f3e3;
   font-family: monospace;
-  font-weight: lighter;
-  font-size: 0.7em;
+  font-weight: bold;
+  font-size: 0.9em;
   text-transform: uppercase;
 }
 
@@ -45,12 +45,10 @@ span.jp {
 }
 
 @media (max-width: 500px) {
+
   body {
     padding: 2em;
     font-size: 1em;
   }
-   
-  a {
-    font-size: 0.9em;
-  }
+
 }
