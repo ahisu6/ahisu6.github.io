@@ -36,7 +36,7 @@ Click the chapter which you want to study! @@html:<span class="jp">勉強した�
 - Respiratory - 呼吸器内科 (R)
 - Surgery - 外科 (S)
 - Neurology - 神経学 (N)
-- [[file:./og/index.org][Dermatology - 皮膚科学 (D)]]
+- [[file:./d/index.org][Dermatology - 皮膚科学 (D)]]
 - Endocrinology - 内分泌学 (E)
 - Gastroenterology - 消化器病学 (G)
 
