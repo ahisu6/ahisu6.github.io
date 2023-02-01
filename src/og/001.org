@@ -26,6 +26,59 @@ And anything that has ~(O)~ means that it is an Obstetrics topic. @@html:<span c
 
 Sounds good? Cool.
 
+
+
+
+
+
+
+* Pelvic inflammatory disease (G)
+:PROPERTIES:
+:CUSTOM_ID: orgdbf80b3
+:END:
+
+Pelvic inflammatory disease is when there an infection in upper part of female reproductive system. @@html:<span class="jp">骨盤内炎症性疾患は、女性の生殖器系の上部に感染症が発生した場合です。</span>@@
+
+This is an infection of the uterus, fallopian tubes, and ovaries. @@html:<span class="jp">子宮、卵管、卵巣の感染症です。</span>@@
+
+Bacteria in the vagina and cervix can climb up to uterus! @@html:<span class="jp">膣や子宮頸管の細菌は子宮まで登ってくる！</span>@@
+
+It is a type of sexually transmitted disease. @@html:<span class="jp">性感染症の一種でもある</span>@@
+
+Oh yeah, there is something called the uterine adnexa. Here is the definition (I got it from this [[https://fastdoctor.jp/%E5%AD%90%E5%AE%AE%E4%BB%98%E5%B1%9E%E5%99%A8%E7%82%8E%E3%81%AE%E7%89%B9%E5%BE%B4%E3%83%BB%E7%97%87%E7%8A%B6%E3%81%A8%E6%B2%BB%E7%99%82%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%80%90%E5%8C%BB/#:~:text=%E3%80%8C%E5%AD%90%E5%AE%AE%E4%BB%98%E5%B1%9E%E5%99%A8%E3%80%8D%E3%81%A8%E3%81%AF,%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E5%A4%A7%E4%BA%8B%E3%81%A7%E3%81%99%E3%80%82][website]]):
+- @@html:<span class="jp">「子宮付属器」とは卵管・卵巣という生殖器をまとめたものであり、「子宮付属器炎」とはここで起きる炎症のことです。</span>@@
+
+** Sign and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org40710ed
+:END:
+
+See this [[https://lh3.googleusercontent.com/pw/AMWts8B-33LVH0g3CAXwX8pYdBRkPfk9fCUOsoZyQhnB4LIb_Qfl6SI15hUkQFjHGtbjCziYq_Ud-VKtaHprlj7Ewm4qXGGJo1aS_IMVt9RIPvCmHKH0CF7UumhYl1CnvtH-kCSmqQYPfErYS2VqymhGcf8=w554-h595-no?authuser=0][picture]]!
+
+- High fever (because of the bacteria)
+- Tachycardia
+- /Bilateral/ adnexal tenderness (so, the adnexa of the uterus is painful)
+- Pain during sexual intercourse
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org5e3f889
+:END:
+
+- Endocervical swabs: these are swabs from the inside of the cervix. Endocervical swabs looks for chlamydia and gonorrhoea! @@html:<span class="jp">これは、子宮頸管の内側から採取した綿棒です。子宮頸管内スワブは、クラミジアと淋病を調べます！</span>@@
+- Blood cultures: these are done to make sure that the patient does not have sepsis. @@html:<span class="jp">これらは、患者さんが敗血症になっていないことを確認するために行われます。</span>@@
+- Laparoscopy with biopsy of the fimbria
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: orgce26b48
+:END:
+
+- Analgesia
+- Antibiotics: you have two options. You only need to pick /one/ of them @@html:<span class="jp">を選択すると、2つの選択肢があります。どちらか1つしか選べません。</span>@@:
+  1. IM ceftriaxone and doxycycline and metronidazole
+  2. ofloxacin and metronidazole
+
 * Antenatal care (O)
 :PROPERTIES:
 :CUSTOM_ID: orgb494d28
