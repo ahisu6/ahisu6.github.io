@@ -2,11 +2,11 @@
 #+OPTIONS: toc:nil
 
 #+BEGIN_EXPORT html
-<div style="font-family: monospace; background-color: #082694; font-weight: bolder; font-size: 60px; text-align: center;">
+<div style="font-family: monospace; background-color: #082694; font-weight: bolder; font-size: 2em; text-align: center;">
 <span style="color: #8ffa89;">A</span><span style="color: #89b7fa;">hi</span>su6
 </div>
-<div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 60px; text-align: center;">Learn Medicine... but in the Japanese language!</div>
-<div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 60px; text-align: center;">医学を学ぶ... ただし、日本語で！</div>
+<div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 2em; text-align: center;">Learn Medicine... but in the Japanese language!</div>
+<div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 2em; text-align: center;">医学を学ぶ... ただし、日本語で！</div>
 #+END_EXPORT
 
 [[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/index.org][Edit]]

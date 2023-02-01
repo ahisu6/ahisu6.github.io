@@ -1,8 +1,8 @@
 #+TITLE: Obstetrics and Gynaecology
 
 #+BEGIN_EXPORT html
-<div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 60px; text-align: center;">Obstetrics and Gynaecology</div>
-<div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 60px; text-align: center;">産科・婦人科領域</div>
+<div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 2em; text-align: center;">Obstetrics and Gynaecology</div>
+<div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 2em; text-align: center;">産科・婦人科領域</div>
 #+END_EXPORT
 
 [[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/og/index.org][Edit]]
