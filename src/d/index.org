@@ -30,7 +30,7 @@ Click on the "TITLE" header, then the table will be sorted by alphabetical order
 | Title                            | Date posted |
 |----------------------------------+-------------|
 | [[https://ahisu6.github.io/d/001.html#orgfeecfe4][Managing dermatological diseases]] |  2023-02-01 |
-|                                  |             |
+| [[https://ahisu6.github.io/d/001.html#org0ed41ab][Basal cell carcinoma]] |  2023-02-01 |
 
 
 #+BEGIN_EXPORT html
