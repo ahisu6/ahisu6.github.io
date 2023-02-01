@@ -89,7 +89,7 @@ See this [[https://lh3.googleusercontent.com/pw/AMWts8B-33LVH0g3CAXwX8pYdBRkPfk9
   - This is also called Fitz-Hugh-Curtis syndrome.
   - Perihepatitis is when the liver capsule is inflamed. @@html:<span class="jp">肝周囲炎とは、肝カプセルに炎症が起きている状態です。</span>@@
   - It causes right upper quadrant pain. @@html:<span class="jp">吸気時右側腹部痛、右上腹部の叩打痛。</span>@@
-  - It is usually caused by bacteria like Chlamydia and gonorrhoeae. This is reason for why we do the endocervical swab! @@html:<span class="jp">通常はクラミジアや淋菌などの細菌が原因です。子宮頸管内スワブを行うのは、このためです。</span>@@
+  - It is usually caused by bacteria like chlamydia and gonorrhoea. This is reason for why we do the endocervical swab! @@html:<span class="jp">通常はクラミジアや淋菌などの細菌が原因です。子宮頸管内スワブを行うのは、このためです。</span>@@
   - Read more about it on [[https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%83%E3%83%84%E3%83%BB%E3%83%92%E3%83%A5%E3%83%BC%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E7%97%87%E5%80%99%E7%BE%A4][Wikipedia]].
   - You don't need to know a lot of details about this. But, make sure you remember this: if a woman comes with adnexal pain /and/ right upper quadrant pain, then you need to think about perihepatitis! @@html:<span class="jp">これについては、あまり詳しく知る必要はないでしょう。しかし、これだけは必ず覚えておいてください: もし、女性が付属器痛と右上腹部の痛みを訴えてきたら、肝周囲炎を考える必要がありますよ！</span>@@
 
