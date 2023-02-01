@@ -46,7 +46,11 @@ span.jp {
 
 @media (max-width: 500px) {
   body {
-     padding: 2em;
-     font-size: 1em;
+    padding: 2em;
+    font-size: 1em;
+  }
+   
+  a {
+    font-size: 0.9em;
   }
 }
