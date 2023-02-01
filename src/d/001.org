@@ -1,0 +1,51 @@
+#+TITLE: Dermatology
+
+#+BEGIN_EXPORT html
+<div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 60px; text-align: center;">Dermatology</div>
+<div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 60px; text-align: center;">皮膚科学</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/d/001.org][Edit]]
+
+[[file:./index.org][Home]]
+
+-----
+
+#+TOC: headlines 1
+
+
+* Managing dermatological diseases
+:PROPERTIES:
+:CUSTOM_ID: orgfeecfe4
+:END:
+
+When treating dermatological disease, it is important to consider what patients want and what they like. @@html:<span class="jp">皮膚科の病気の治療では、患者さんが何を求めているか、何が好きかを考えることが大切です。</span>@@
+
+** Topical
+:PROPERTIES:
+:CUSTOM_ID: org4344e14
+:END:
+
+This is the most common type of treatment. @@html:<span class="jp">これが最も一般的な治療法です。</span>@@
+
+There are many types of topical treatments. But, the main ones are @@html:<span class="jp">外用剤には多くの種類があります。しかし、主なものは</span>@@:
+- Emollients:
+  - Creams: this is can be used for dry skin conditions. But, they are usually used in /acute/ cases. You can use this to massage the place! @@html:<span class="jp">これは、乾燥肌の症状にも使用できます。しかし、通常は急性の場合に使用されます。これを使ってマッサージができるんです！</span>@@
+  - Ointments: this is used for /dry/ skin conditions. It is more sticky than creams (this is why patients like to use creams instead of ointments).
+- Topical glucocorticoids:
+  - /Mild/ glucocorticoids are used in delicate areas. @@html:<span class="jp">デリケートな部分には軽度のグルココルチコイドを使用します。</span>@@
+  - /Strong/ glucocorticoids are used when the disease is too complex/advanced. @@html:<span class="jp">強力なグルココルチコイドは、病気があまりに複雑／進行している場合に使用されます。</span>@@
+  - Skin atrophy (when the skin becomes weak) is a common side effect of using topical glucocorticoids. @@html:<span class="jp">皮膚萎縮（皮膚が弱くなること）は、グルココルチコイド外用剤の使用でよく見られる副作用です。</span>@@
+  - Here are some glucocorticoids @@html:<span class="jp">グルココルチコイドを紹介します</span>@@:
+    - Mild: hydrocortisone 0.5%
+    - Moderate: Eumovate
+    - Potent: betamethasone
+
+** Oral drugs
+- Retinoids:
+  - These are oral drugs. @@html:<span class="jp">これらは経口薬です。</span>@@
+  - Retinoids are a type of drugs that is similar to vitamin A. @@html:<span class="jp">レチノイドは、ビタミンAに由来する点や、化学構造や機能の点で、同様の物質の種類を指す。</span>@@
+  - Retinoids are used for diseases are acne and psoriasis. @@html:<span class="jp">レチノイドは、にきびや乾癬などの病気に使われます。</span>@@
+  - Retinoids work by helping skin cells become specialised (this process is called "differentiation"). You can read more about "differentiation" on [[https://ja.wikipedia.org/wiki/%E5%88%86%E5%8C%96][Wikipedia]]. @@html:<span class="jp">レチノイドは、皮膚細胞が特殊化するのを助ける働きをします（このプロセスを「分化」と呼びます）。多細胞生物に於いて、個々の細胞が構造機能的に変化すること。</span>@@
+  - Retinoids reduce inflammation. @@html:<span class="jp">レチノイドは炎症を抑える。</span>@@
+- Immunosuppressants: these drugs make the immune system weak and they reduce inflammation. They are used in many diseases, including eczema! @@html:<span class="jp">これらの薬は免疫系を弱め、炎症を抑えます。湿疹をはじめ、多くの疾患に使用されています！</span>@@
