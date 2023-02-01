@@ -24,7 +24,7 @@ Click on the "TITLE" header, then the table will be sorted by alphabetical order
 
 ** List of topics
 :PROPERTIES:
-:CUSTOM_ID: gtopics
+:CUSTOM_ID: dtopics
 :END:
 #+ATTR_HTML: :class sortable
 | Title                     | Date posted |
