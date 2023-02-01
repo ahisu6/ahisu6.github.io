@@ -27,8 +27,11 @@ Click on the "TITLE" header, then the table will be sorted by alphabetical order
 :CUSTOM_ID: dtopics
 :END:
 #+ATTR_HTML: :class sortable
-| Title                     | Date posted |
-|---------------------------+-------------|
+| Title                            | Date posted |
+|----------------------------------+-------------|
+| [[https://ahisu6.github.io/d/001.html#orgfeecfe4][Managing dermatological diseases]] |  2023-02-01 |
+|                                  |             |
+
 
 #+BEGIN_EXPORT html
 <script>
