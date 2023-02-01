@@ -30,7 +30,7 @@ The pink highlighting means that it is a link. For example, [[https://www.youtub
 
 Click the chapter which you want to study! @@html:<span class="jp">勉強したい章をクリックしてください！</span>@@
 
-- [[file:./og/index.org][Obstetrics and Gynaecology - 産科・婦人科領域 (og)]]
+- [[file:./og/index.org][Obstetrics and Gynaecology - 産婦人科学 (og)]]
 - Paediatrics - 小児科学 (p)
 - Cardiology - 循環器内科学 (c)
 - Respiratory - 呼吸器内科 (r)
