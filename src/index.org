@@ -32,13 +32,13 @@ Click the chapter which you want to study! @@html:<span class="jp">勉強した�
 
 - [[file:./og/index.org][Obstetrics and Gynaecology - 産婦人科学 (og)]]
 - Paediatrics - 小児科学 (p)
-- Cardiology - 循環器内科学 (c)
-- Respiratory - 呼吸器内科 (r)
-- Surgery - 外科 (s)
+- Cardiology - 循環器学 (c)
+- Respiratory - 呼吸器学 (r)
+- Surgery - 外科学 (s)
 - Neurology - 神経学 (n)
 - [[file:./d/index.org][Dermatology - 皮膚科学 (d)]]
 - Endocrinology - 内分泌学 (e)
-- Gastroenterology - 消化器病学 (g)
+- Gastroenterology - 消化器学 (g)
 
 * Note
 The content of this site is not intended as medical advice. If you have a medical problem, you should seek medical advice. @@html:<span class="jp">本サイトのコンテンツは、医学的なアドバイスを目的としたものではありません。医療上の問題がある場合は、医師の診断を受ける必要があります。</span>@@
