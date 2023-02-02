@@ -26,6 +26,10 @@ Click on the "TITLE" header, then the table will be sorted by alphabetical order
 :PROPERTIES:
 :CUSTOM_ID: etopics
 :END:
+#+ATTR_HTML: :class sortable
+| Title                     | Date posted |
+|---------------------------+-------------|
+| [[https://ahisu6.github.io/e/001.html#org4f0d408][Parathyroid diseases]]  |  2023-02-02 |
 
 
 
