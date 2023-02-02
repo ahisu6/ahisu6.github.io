@@ -115,7 +115,8 @@ To be honest, you do /not/ need to know them. You can have a look at some photos
 :END:
 
 - Ultraviolet light exposure
-- Albinism
+- Male
+- Immunosuppression
 
 ** Treatment
 :PROPERTIES:
