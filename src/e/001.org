@@ -17,3 +17,102 @@
 :PROPERTIES:
 :CUSTOM_ID: org4f0d408
 :END:
+
+- You have 4 parathyroid glands. @@html:<span class="jp">副甲状腺は4つあるんですね。</span>@@
+- Parathyroid glands have a lot of cells. These cells are called chief cells. @@html:<span class="jp">副甲状腺にはたくさんの細胞があります。これらの細胞は「chief cells」と呼ばれています。</span>@@
+- Chief cells secrete parathyroid hormones! @@html:<span class="jp">「Chief cells」が副甲状腺ホルモンを分泌！</span>@@
+- Parathyroid hormone increases the osteoclast activity. @@html:<span class="jp">副甲状腺ホルモンは破骨細胞の活性を高める。</span>@@
+- Osteoclasts break bones. @@html:<span class="jp">破骨細胞は骨を壊す。</span>@@
+- When bone is broken, calcium is released into the blood! @@html:<span class="jp">骨が折れると、カルシウムが血液中に放出されるのです！</span>@@
+- When there is too much calcium in the body, the calcium will tell the parathyroid glands to /stop/ making hormones. This is called negative feedback! @@html:<span class="jp">体内のカルシウムが過剰になると、カルシウムは副甲状腺にホルモンを作るのを止めるように指示します。これをネガティブフィードバックといいます！</span>@@
+- Phosphate /sticks/ to calcium in the blood! Make sure you remember this, it will become important later!! @@html:<span class="jp">リン酸塩は血液中のカルシウムとくっつく！ これは必ず覚えておいてください後で重要になりますよ！！</span>@@
+
+** Hyperparathyroidism
+:PROPERTIES:
+:CUSTOM_ID: org42ae0d6
+:END:
+
+There are two types:
+- Primary: this is due to reasons inside the parathyroid gland. So, in this case, the parathyroid gland is sad :(. @@html:<span class="jp">というのは、副甲状腺の中の理由によるものです。つまりこの場合 副甲状腺は悲しいのです :(</span>@@
+- Secondary: this is due to reasons outside parathyroid gland. So, in this case, the parathyroid gland is happy. @@html:<span class="jp">というのは、副甲状腺以外の理由によるものです。ですから、この場合、副甲状腺は幸せなのです。</span>@@
+
+*** Primary hyperparathyroidism
+:PROPERTIES:
+:CUSTOM_ID: org2af4011
+:END:
+
+- This is usually caused by parathyroid adenoma.
+
+**** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: orgaa9aa3f
+:END:
+
+- Clinical:
+  - Vague symptoms like fatigue. @@html:<span class="jp">疲労感などの漠然とした症状。</span>@@
+  - Bone pain: this is because the bones are being broken by osteoclasts. @@html:<span class="jp">というのは、破骨細胞によって骨が壊されているからです。</span>@@
+  - Kidney stones. Because all of that calcium is going through the kidneys!
+- Imaging:
+  - Calcium in the joints cartilage (chondrocalcinosis). This usually happens in the knee. See [[https://lh3.googleusercontent.com/pw/AMWts8B5FO0E1CA5csvO85NjS83v5LCxBVxpG6_GbKUnG8Qru99RmXka2u49lsJR6YGJ-8_n61ZypgfMI7gQr7L19TriCY-0YlTPDJU0ZbtlkZtqbIQVk_Xg62_769uyTajTpyEsCFSib-LgbwPWfRsXPx4=w771-h600-s-no?authuser=3][this]] (I got this picture from this [[https://radiopaedia.org/cases/chondrocalcinosis-of-the-knee-2][website]]). @@html:<span class="jp">関節軟骨のカルシウム（軟骨石灰化症）。</span>@@
+  - pepper-pot appearance on x-ray. See [[https://lh3.googleusercontent.com/pw/AMWts8CPrtTpAPDyEuZPACJfvDc-LIAc723CTqa7jt7oys1WH1iD4a5htJOdrNQ15GC_Sxy2YxRs5P3FEAXU9pVKZXoI6gUGyCk94TLTLEGTXCOGYECeYsf9W2hVPAaphmBIj6mrQ1h7vrEHDM_iQi1s1zc=w630-h493-s-no?authuser=3][this]].
+  - osteoporosis on DXA scan
+
+**** Investigations of primary hyperparathyroidism
+:PROPERTIES:
+:CUSTOM_ID: org7136f49
+:END:
+
+- Parathyroid hormone levels: these will be /high/. @@html:<span class="jp">これらは高くなります。</span>@@
+- Serum calcium levels: this will be /high/. @@html:<span class="jp">これらは高くなります。</span>@@
+- Parathyroid scanning: this is done if you think the patient has parathyroid adenoma. @@html:<span class="jp">副甲状腺腺腫と思われる場合に行います。</span>@@
+
+**** Treatment of primary hyperparathyroidism
+:PROPERTIES:
+:CUSTOM_ID: orgb43b25b
+:END:
+
+- Surgery: you need to remove the adenoma!!! @@html:<span class="jp">腺腫を切除する必要がある！！！</span>@@
+  - Only do surgery in patients who have the following features @@html:<span class="jp">以下の特徴を持つ患者さんにのみ、手術を行う</span>@@:
+    - Age: the patient must be under 50 years old! @@html:<span class="jp">患者は50歳未満でなければならない！</span>@@
+    - Signs and symptoms: organ damage (for example, they have kidney issues because of high calcium). @@html:<span class="jp">臓器障害（例えば、高カルシウムのために腎臓に問題があるなど）。</span>@@
+- If you cannot do surgery on patient @@html:<span class="jp">手術ができないのであれば、こうする必要があります</span>@@:
+  - Tell them to drink lots of water (so that they don't get kidney stones)! @@html:<span class="jp">水をたくさん飲むように言う（腎臓結石にならないように）！</span>@@
+  - Also, monitor their renal functions and calcium levels! @@html:<span class="jp">また、腎臓の機能やカルシウムの値も観察してください！</span>@@
+
+*** Secondary hyperparathyroidism
+:PROPERTIES:
+:CUSTOM_ID: orgc53ad6c
+:END:
+
+- This is usually caused by chronic kidney failure.
+- When kidney fails, phosphate does not leave the body.
+- Now, there will be too much phosphate in blood.
+- This phosphate will stick to all of the calcium. This causes calcium levels to be low.
+- Parathyroid glands will panic! They will panic because there is little calcium in blood!!
+- So, parathyroid glands will make more hormones.
+- Like we said before, these hormones will break the bones to increase the level of calcium!
+
+**** Investigations of secondary hyperparathyroidism
+:PROPERTIES:
+:CUSTOM_ID: org7f66a18
+:END:
+
+- Serum phosphate levels: these will be /high/. It is high because the kidney is not removing it. @@html:<span class="jp">これらは高くなります。腎臓で除去しきれないから高いのです。</span>@@
+- Parathyroid hormone levels: these will be /high/. @@html:<span class="jp">これらは高くなります。</span>@@
+- Serum calcium levels: this will be /low/. It is low because phosphate is binding to it. @@html:<span class="jp">これは低いでしょう。リン酸塩が結合しているため低くなっています。</span>@@
+
+*** Complications of Hyperparathyroidism
+:PROPERTIES:
+:CUSTOM_ID: orgb131996
+:END:
+
+Sometimes the patient might have /really/ high calcium. This is /very/ dangerous. @@html:<span class="jp">時には、患者さんのカルシウムがとても高くなることがあります。これは非常に危険です。</span>@@
+
+You need to treat it /now/. Do not /wait/! @@html:<span class="jp">今すぐ治療する必要があります。待てない！</span>@@
+
+To treat it, do this:
+- Give /4 litre/ of fluid per day: this will remove the extra calcium through the urine. @@html:<span class="jp">というのは、余分なカルシウムを尿で排出してしまうからです。</span>@@
+- Give IV bisphosphonates: this will prevent bone from breaking. @@html:<span class="jp">これは、骨が折れるのを防ぐためです。</span>@@
+
+
+
