@@ -53,7 +53,7 @@ There are two types:
 - Clinical:
   - Vague symptoms like fatigue. @@html:<span class="jp">疲労感などの漠然とした症状。</span>@@
   - Bone pain: this is because the bones are being broken by osteoclasts. @@html:<span class="jp">というのは、破骨細胞によって骨が壊されているからです。</span>@@
-  - Kidney stones. Because all of that calcium is going through the kidneys!
+  - Kidney stones: all of that extra calcium is going through the kidneys! @@html:<span class="jp">これは、余分なカルシウムがすべて腎臓を経由してしまうからなのです</span>@@
 - Imaging:
   - Calcium in the joints cartilage (chondrocalcinosis). This usually happens in the knee. See [[https://lh3.googleusercontent.com/pw/AMWts8B5FO0E1CA5csvO85NjS83v5LCxBVxpG6_GbKUnG8Qru99RmXka2u49lsJR6YGJ-8_n61ZypgfMI7gQr7L19TriCY-0YlTPDJU0ZbtlkZtqbIQVk_Xg62_769uyTajTpyEsCFSib-LgbwPWfRsXPx4=w771-h600-s-no?authuser=3][this]] (I got this picture from this [[https://radiopaedia.org/cases/chondrocalcinosis-of-the-knee-2][website]]). @@html:<span class="jp">関節軟骨のカルシウム（軟骨石灰化症）。</span>@@
   - pepper-pot appearance on x-ray. See [[https://lh3.googleusercontent.com/pw/AMWts8CPrtTpAPDyEuZPACJfvDc-LIAc723CTqa7jt7oys1WH1iD4a5htJOdrNQ15GC_Sxy2YxRs5P3FEAXU9pVKZXoI6gUGyCk94TLTLEGTXCOGYECeYsf9W2hVPAaphmBIj6mrQ1h7vrEHDM_iQi1s1zc=w630-h493-s-no?authuser=3][this]].
