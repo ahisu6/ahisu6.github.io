@@ -13,7 +13,7 @@
 
 -----
 
-#+TOC: headlines 1
+#+TOC: headlines 2
 
 * Introduction
 :PROPERTIES:
