@@ -19,8 +19,6 @@
 :END:
 This website is a gift for a friend! @@html:<span class="jp">このサイトは、友人へのプレゼントです！</span>@@
 
-Please note that the translation may not be correct. However, I will try my absolute best to make sure that the translation is as accurate as possible. @@html:<span class="jp">翻訳が正確でない可能性があることをご了承ください。しかし、可能な限り正確な翻訳をするよう、絶対的な努力をします。</span>@@
-
 The pink highlighting means that it is a link. For example, [[https://www.youtube.com/embed/aRCVKqBPsFU][this is a link]]! @@html:<span class="jp">ピンクのハイライトは、リンクであることを意味します。例えば、<a href="https://www.youtube.com/embed/aRCVKqBPsFU">これはリンクです</a> ！</span>@@
 
 * Chapters
@@ -41,4 +39,8 @@ Click the chapter which you want to study! @@html:<span class="jp">勉強した�
 - Gastroenterology - 消化器学 (g)
 
 * Disclaimer
-Disclaimer. The content of this site is not intended as medical advice or as a diagnostic tool. If you have a medical problem, you should seek medical advice. @@html:<span class="jp">免責事項。本サイトのコンテンツは、医学的なアドバイスや診断のためのものではありません。医療上の問題がある場合は、医師の診断を受ける必要があります。</span>@@
+Disclaimer. @@html:<span class="jp">免責事項。@@
+
+Please note that the translation may not be correct. However, I will try my absolute best to make sure that the translation is as accurate as possible. @@html:<span class="jp">翻訳が正確でない可能性があることをご了承ください。しかし、可能な限り正確な翻訳をするよう、絶対的な努力をします。</span>@@
+
+The content of this site is not intended as medical advice or as a diagnostic tool. If you have a medical problem, you should seek medical advice. @@html:<span class="jp">本サイトのコンテンツは、医学的なアドバイスや診断のためのものではありません。医療上の問題がある場合は、医師の診断を受ける必要があります。</span>@@
