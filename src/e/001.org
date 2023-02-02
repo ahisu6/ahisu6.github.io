@@ -1,0 +1,19 @@
+#+TITLE: Endocrinology
+
+#+BEGIN_EXPORT html
+<div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 2em; text-align: center;">Endocrinology</div>
+<div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 2em; text-align: center;">内分泌学</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/e/001.org][Edit]]
+
+[[file:../index.org][Home]]
+
+-----
+
+#+TOC: headlines 2
+
+* Parathyroid diseases
+:PROPERTIES:
+:CUSTOM_ID: org4f0d408
+:END:
