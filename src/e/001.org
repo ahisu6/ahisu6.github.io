@@ -32,6 +32,8 @@
 :CUSTOM_ID: org42ae0d6
 :END:
 
+HYPERparathyroidism is when there is /too much/ parathyroid hormone. @@html:<span class="jp">副甲状腺機能亢進症とは、副甲状腺ホルモンが過剰に分泌されている状態のことです。</span>@@
+
 There are two types:
 - Primary: this is due to reasons inside the parathyroid gland. So, in this case, the parathyroid gland is sad :(. @@html:<span class="jp">というのは、副甲状腺の中の理由によるものです。つまりこの場合 副甲状腺は悲しいのです :(</span>@@
 - Secondary: this is due to reasons outside parathyroid gland. So, in this case, the parathyroid gland is happy. @@html:<span class="jp">というのは、副甲状腺以外の理由によるものです。ですから、この場合、副甲状腺は幸せなのです。</span>@@
