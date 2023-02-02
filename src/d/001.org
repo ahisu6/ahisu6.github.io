@@ -16,6 +16,60 @@
 #+TOC: headlines 1
 
 
+* Acne
+:PROPERTIES:
+:CUSTOM_ID: org8c6625b
+:END:
+
+Posted: 2023-02-01 | Updated: 2023-02-01
+
+This affects the hair follicle, hair shaft, and sebaceous gland. @@html:<span class="jp">これは、毛包、毛幹、皮脂腺に影響を及ぼします。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: orgd5e11ea
+:END:
+
+- Affects face, neck and upper trunk. @@html:<span class="jp">顔面、頚部、体幹上部を侵す。</span>@@
+- comedones (these are papules)
+  - White papules: this happens if the top is closed.
+  - Black papules: this happens if the top is open.
+- pustules
+- ice-pick scars (like [[https://lh3.googleusercontent.com/pw/AMWts8AJTqNHj9CAnN9GeKJlS8aBhy9MJTwjbvHOdfgiKh-S_HkrKuW0M67jDAR4XjpGObWBPARrK_6asGmiesW9t3yvS-Ze-hHwCDx4FK7pzZ9-HH0y5RW-p1Vnwdyjtq96-TsUC-cG9SIj7djgdgVGgrk=s225-no?authuser=3][this]])
+
+** Complications
+:PROPERTIES:
+:CUSTOM_ID: orgea9959f
+:END:
+
+Acne fulminans: this is acne plus fever. You need to admit patient to hospital if they have this. @@html:<span class="jp">これは、にきび＋発熱です。これがある場合は入院させる必要があります。</span>@@
+
+** Classification
+:PROPERTIES:
+:CUSTOM_ID: org439b204
+:END:
+
+- Mild: just comedones.
+- Moderate: widespread plus papules and pustules.
+- Severe: inflammatory plus nodules, pitting, and scars.
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: orgca11d4a
+:END:
+
+- Mild acne:
+  - topical retinoids
+  - benzoyl peroxide
+- Moderate acne:
+  - Systemic tetracycline for 3 months. @@html:<span class="jp">テトラサイクリン系薬剤を3ヶ月間全身投与。</span>@@
+  - If tetracycline fails, then use try trimethoprim (nice mnemonic, huh? TRY TRImethoprim 笑). @@html:<span class="jp">テトラサイクリンがだめなら、トリメトプリム（いいニーモニックですね）を使ってみてください。</span>@@
+  - Do /not/ use tetracyclines for pregnant women! @@html:<span class="jp">妊婦にテトラサイクリン系抗生物質を使用しないでください！</span>@@
+  - If the woman does not want to use antibiotics, then she can use combined oral contraceptives. You can give them Dianette (which is a combined oral contraceptive) for 3 months (yes, I don't know why they keep giving drugs for 3 months. But, who cares! This makes it easier for us to remember! 笑) @@html:<span class="jp">抗生物質を使いたくない場合は、経口避妊薬を併用することができます。ダイアネット（経口複合避妊薬）を3ヶ月間飲ませることができます。そう、なぜ3ヶ月も薬を出し続けるのかがわからない。でも、気にすることはありません! これなら覚えやすいし！</span>@@
+- Severe acne:
+  - This needs specialist management! Call for help!! Do it now!!! @@html:<span class="jp">これは専門家の管理が必要です！助けを求めてください！！今すぐやるんだ！！！</span>@@
+  - Cool dermatology consultants use prescribe oral isotretinoin (a type of retinoids)! @@html:<span class="jp">クールな皮膚科のコンサルタントは、イソトレチノイン（レチノイドの一種）の内服を処方します！</span>@@
+
 * Basal cell carcinoma
 :PROPERTIES:
 :CUSTOM_ID: org0ed41ab
