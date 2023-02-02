@@ -165,4 +165,5 @@ There are many types of topical treatments. But, the main ones are @@html:<span 
   - Retinoids are used for diseases are acne and psoriasis. @@html:<span class="jp">レチノイドは、にきびや乾癬などの病気に使われます。</span>@@
   - Retinoids work by helping skin cells become specialised (this process is called "differentiation"). You can read more about "differentiation" on [[https://ja.wikipedia.org/wiki/%E5%88%86%E5%8C%96][Wikipedia]]. @@html:<span class="jp">レチノイドは、皮膚細胞が特殊化するのを助ける働きをします（このプロセスを「分化」と呼びます）。多細胞生物に於いて、個々の細胞が構造機能的に変化すること。</span>@@
   - Retinoids reduce inflammation. @@html:<span class="jp">レチノイドは炎症を抑える。</span>@@
+  - Systemic retinoids are teratogenic!
 - Immunosuppressants: these drugs make the immune system weak and they reduce inflammation. They are used in many diseases, including eczema! @@html:<span class="jp">これらの薬は免疫系を弱め、炎症を抑えます。湿疹をはじめ、多くの疾患に使用されています！</span>@@
