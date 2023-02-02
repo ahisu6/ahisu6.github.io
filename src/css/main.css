@@ -1,6 +1,6 @@
 body {
    background-color: #22242d;
-   color: #f3f3e3;
+   color: #dbdbc5;
    display: block;
    padding: 4em;
    font-size: 1.5em;
@@ -41,7 +41,9 @@ code {
 }
 
 span.jp {
-  color: #89b7fa;
+  background: #cbcb9b;
+  color: #4b4b3a;
+  font-size: 0.8em;
 }
 
 @media (max-width: 500px) {
