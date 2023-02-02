@@ -86,13 +86,13 @@ There are two types:
 :CUSTOM_ID: orgc53ad6c
 :END:
 
-- This is usually caused by chronic kidney failure.
-- When kidney fails, phosphate does not leave the body.
-- Now, there will be too much phosphate in blood.
-- This phosphate will stick to all of the calcium. This causes calcium levels to be low.
-- Parathyroid glands will panic! They will panic because there is little calcium in blood!!
-- So, parathyroid glands will make more hormones.
-- Like we said before, these hormones will break the bones to increase the level of calcium!
+- This is usually caused by chronic kidney failure. @@html:<span class="jp">これは、通常、慢性腎不全によって引き起こされます。</span>@@
+- When kidney fails, phosphate does not leave the body. @@html:<span class="jp">腎臓が機能しなくなると、リン酸塩が体外に出なくなる。</span>@@
+- Now, there will be too much phosphate in blood. @@html:<span class="jp">今、血液中のリン酸塩が過剰になる。</span>@@
+- This phosphate will stick to all of the calcium. This causes calcium levels to be low. @@html:<span class="jp">このリン酸塩はカルシウムの全てに付着します。そのため、カルシウムの値が低くなってしまうのです。</span>@@
+- Parathyroid glands will panic! They will panic because there is little calcium in blood!! @@html:<span class="jp">副甲状腺がパニックになる! 血液中のカルシウムが少ないのでパニックになるのです!</span>@@
+- So, parathyroid glands will make more hormones. @@html:<span class="jp">だから、副甲状腺はホルモンを多く作るようになる。</span>@@
+- Like we said before, these hormones will break the bones to increase the level of calcium! @@html:<span class="jp">先ほども言ったように、このホルモンは骨を壊してカルシウムの量を増やしてくれるのです</span>@@
 
 **** Investigations of secondary hyperparathyroidism
 :PROPERTIES:
