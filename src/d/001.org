@@ -59,8 +59,9 @@ Acne fulminans: this is acne plus fever. You need to admit patient to hospital i
 :END:
 
 - Mild acne:
-  - topical retinoids (this is /always/ the first line)
+  - topical retinoids
   - benzoyl peroxide
+  - These 2 drugs are /always/ the first line!
 - Moderate acne:
   - Systemic tetracycline for /3 months/. @@html:<span class="jp">テトラサイクリン系薬剤を3ヶ月間全身投与。</span>@@
   - If tetracycline fails, then try trimethoprim (nice mnemonic, huh? TRY TRImethoprim 笑). @@html:<span class="jp">テトラサイクリンがだめなら、トリメトプリム（いいニーモニックですね）を使ってみてください。</span>@@
