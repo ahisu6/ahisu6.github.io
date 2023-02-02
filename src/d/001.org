@@ -79,7 +79,7 @@ Acne fulminans: this is acne plus fever. You need to admit patient to hospital i
 :CUSTOM_ID: org0ed41ab
 :END:
 
-Posted: 2023-02-01 | Updated: 2023-02-01
+Posted: 2023-02-01 | Updated: 2023-02-02
 
 This is a malignant tumour. @@html:<span class="jp">これは悪性の腫瘍です。</span>@@
 
