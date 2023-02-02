@@ -35,7 +35,7 @@ Click the chapter which you want to study! @@html:<span class="jp">勉強した�
 - Surgery - 外科学 (s)
 - Neurology - 神経学 (n)
 - [[file:./d/index.org][Dermatology - 皮膚科学 (d)]]
-- Endocrinology - 内分泌学 (e)
+- [[file:./e/index.org][Endocrinology - 内分泌学 (e)]]
 - Gastroenterology - 消化器学 (g)
 
 * Disclaimer
