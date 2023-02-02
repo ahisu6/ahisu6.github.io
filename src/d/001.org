@@ -31,9 +31,9 @@ This affects the hair follicle, hair shaft, and sebaceous gland. @@html:<span cl
 :END:
 
 - Affects face, neck and upper trunk. @@html:<span class="jp">顔面、頚部、体幹上部を侵す。</span>@@
-- comedones (these are papules)
+- comedones (these are the skin pores)
   - White papules: this happens if the top is closed.
-  - Black papules: this happens if the top is open.
+  - Black holes: this happens if the top is open.
 - pustules
 - ice-pick scars (like [[https://lh3.googleusercontent.com/pw/AMWts8AJTqNHj9CAnN9GeKJlS8aBhy9MJTwjbvHOdfgiKh-S_HkrKuW0M67jDAR4XjpGObWBPARrK_6asGmiesW9t3yvS-Ze-hHwCDx4FK7pzZ9-HH0y5RW-p1Vnwdyjtq96-TsUC-cG9SIj7djgdgVGgrk=s225-no?authuser=3][this]])
 
