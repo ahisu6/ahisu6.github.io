@@ -65,7 +65,7 @@ There are two types:
 :END:
 
 - Parathyroid hormone levels: these will be /high/. @@html:<span class="jp">これらは高くなります。</span>@@
-- Serum calcium levels: this will be /high/. @@html:<span class="jp">これらは高くなります。</span>@@
+- Serum calcium levels: these will be /high/. @@html:<span class="jp">これらは高くなります。</span>@@
 - Parathyroid scanning: this is done if you think the patient has parathyroid adenoma. @@html:<span class="jp">副甲状腺腺腫と思われる場合に行います。</span>@@
 
 **** Treatment of primary hyperparathyroidism
@@ -101,7 +101,7 @@ There are two types:
 
 - Serum phosphate levels: these will be /high/. It is high because the kidney is not removing it. @@html:<span class="jp">これらは高くなります。腎臓で除去しきれないから高いのです。</span>@@
 - Parathyroid hormone levels: these will be /high/. @@html:<span class="jp">これらは高くなります。</span>@@
-- Serum calcium levels: this will be /low/. It is low because phosphate is binding to it. @@html:<span class="jp">これは低いでしょう。リン酸塩が結合しているため低くなっています。</span>@@
+- Serum calcium levels: these will be /low/. It is low because phosphate is binding to it. @@html:<span class="jp">これは低いでしょう。リン酸塩が結合しているため低くなっています。</span>@@
 
 *** Complications of Hyperparathyroidism
 :PROPERTIES:
