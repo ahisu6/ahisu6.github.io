@@ -16,7 +16,7 @@
 #+TOC: headlines 1
 
 
-* Acne
+* Acne vulgaris
 :PROPERTIES:
 :CUSTOM_ID: org8c6625b
 :END:
