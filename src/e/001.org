@@ -103,7 +103,7 @@ There are two types:
 - Parathyroid hormone levels: these will be /high/. @@html:<span class="jp">これらは高くなります。</span>@@
 - Serum calcium levels: these will be /low/. It is low because phosphate is binding to it. @@html:<span class="jp">これは低いでしょう。リン酸塩が結合しているため低くなっています。</span>@@
 
-*** Complications of Hyperparathyroidism
+*** Complications of hyperparathyroidism
 :PROPERTIES:
 :CUSTOM_ID: orgb131996
 :END:
