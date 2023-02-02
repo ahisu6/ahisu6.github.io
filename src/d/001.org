@@ -123,6 +123,7 @@ To be honest, you do /not/ need to know them. You can have a look at some photos
 :END:
 
 - Surgical excision.
+- Mohs surgery if the cancer is near a cosmetic area (like the eyes). @@html:<span class="jp">がんが美容部位（目など）の近くにある場合のモース手術。</span>@@
 - If the cancer is low-risk, then you can use topical immunosuppressant drugs such as imiquimod and fluorouracil. @@html:<span class="jp">がんのリスクが低い場合は、イミキモドやフルオロウラシルなどの免疫抑制剤の外用薬を使用することができます。</span>@@
 
 * Managing dermatological diseases
