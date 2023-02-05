@@ -56,7 +56,7 @@ There are two types:
 - Clinical:
   - Vague symptoms like fatigue. @@html:<span class="jp">疲労感などの漠然とした症状。</span>@@
   - Bone pain: this is because the bones are being broken by osteoclasts. @@html:<span class="jp">というのは、破骨細胞によって骨が壊されているからです。</span>@@
-  - Kidney stones: all of that extra calcium is going through the kidneys! @@html:<span class="jp">これは、余分なカルシウムがすべて腎臓を経由してしまうからなのです</span>@@
+  - Kidney stones: all of that extra calcium is going through the kidneys! @@html:<span class="jp">これは、余分なカルシウムがすべて腎臓を経由してしまうからなのです！</span>@@
 - Imaging:
   - Calcium in the joints cartilage (chondrocalcinosis). This usually happens in the knee. See [[https://lh3.googleusercontent.com/pw/AMWts8B5FO0E1CA5csvO85NjS83v5LCxBVxpG6_GbKUnG8Qru99RmXka2u49lsJR6YGJ-8_n61ZypgfMI7gQr7L19TriCY-0YlTPDJU0ZbtlkZtqbIQVk_Xg62_769uyTajTpyEsCFSib-LgbwPWfRsXPx4=w771-h600-s-no?authuser=3][this]] (I got this picture from this [[https://radiopaedia.org/cases/chondrocalcinosis-of-the-knee-2][website]]). @@html:<span class="jp">関節軟骨のカルシウム（軟骨石灰化症）。</span>@@
   - pepper-pot appearance on x-ray. See [[https://lh3.googleusercontent.com/pw/AMWts8CPrtTpAPDyEuZPACJfvDc-LIAc723CTqa7jt7oys1WH1iD4a5htJOdrNQ15GC_Sxy2YxRs5P3FEAXU9pVKZXoI6gUGyCk94TLTLEGTXCOGYECeYsf9W2hVPAaphmBIj6mrQ1h7vrEHDM_iQi1s1zc=w630-h493-s-no?authuser=3][this]].
@@ -95,7 +95,7 @@ There are two types:
 - This phosphate will stick to all of the calcium. This causes calcium levels to be low. @@html:<span class="jp">このリン酸塩はカルシウムの全てに付着します。そのため、カルシウムの値が低くなってしまうのです。</span>@@
 - Parathyroid glands will panic! They will panic because there is little calcium in blood!! @@html:<span class="jp">副甲状腺がパニックになる！血液中のカルシウムが少ないのでパニックになるのです！！</span>@@
 - So, parathyroid glands will make more hormones. @@html:<span class="jp">だから、副甲状腺はホルモンを多く作るようになる。</span>@@
-- Like we said before, these hormones will break the bones to increase the level of calcium! @@html:<span class="jp">先ほども言ったように、このホルモンは骨を壊してカルシウムの量を増やしてくれるのです</span>@@
+- Like we said before, these hormones will break the bones to increase the level of calcium! @@html:<span class="jp">先ほども言ったように、このホルモンは骨を壊してカルシウムの量を増やしてくれるのです！</span>@@
 
 **** Investigations of secondary hyperparathyroidism
 :PROPERTIES:

@@ -123,8 +123,8 @@ Let me explain to you what that means:
 - A pregnancy is expected to last 40 weeks. @@html:<span class="jp">妊娠は40週間続くと言われています。</span>@@
 - This weird number (13+6 weeks) is saying @@html:<span class="jp">この奇妙な数字（13+6週）が言っているのは</span>@@:
   - 13 weeks, and 6 days. @@html:<span class="jp">13週と6日。</span>@@
-  - So, "11 - 13+6 weeks" means: between 11 weeks AND 13 weeks, 6 days. @@html:<span class="jp">つまり、「11-13+6」は、「11週と13週の間の6日間」という意味です。「11週-13週+6日」</span>@@
-- Can you figure out what the following means? See the answers below! @@html:<span class="jp">以下の意味がわかりますか？答えは以下をご覧ください</span>@@
+  - So, "11 - 13+6 weeks" means: between 11 weeks AND 13 weeks, 6 days. @@html:<span class="jp">つまり、「11-13+6」は、「11週と13週の間の6日間」という意味です。「11週-13週+6日」。</span>@@
+- Can you figure out what the following means? See the answers below! @@html:<span class="jp">以下の意味がわかりますか？答えは以下をご覧ください！</span>@@
   1. 20 - 25+4 weeks
   2. 21+5 - 28+2 weeks
   3. 19+2 - 12+3 weeks
@@ -165,7 +165,7 @@ On PassMedicine, it is called "Antenatal care: timetable"!
 - An ultrasound scan is done at 10 - 13+6 weeks of pregnancy... this looks for:
   - The expected delivery date. @@html:<span class="jp">納品予定日です。</span>@@
   - Look to see if there is more than 1 baby inside the mother. @@html:<span class="jp">お母さんの中に赤ちゃんが1人以上いるかどうか見てください。</span>@@
-- Another ultrasound is done at 11 - 13+6 weeks... this one looks for: *Down's syndrome*! @@html:<span class="jp">11週から13週＋6日でもう一回超音波検査が行われます... この検査で調べるのは ダウン症！</span>@@
+- Another ultrasound is done at 11 - 13+6 weeks... this one looks for: *Down's syndrome*! @@html:<span class="jp">11週から13週＋6日でもう一回超音波検査が行われます。。。 この検査で調べるのは ダウン症！</span>@@
 - At 18 - 20+6 weeks something called "Anomaly scan" is done. This is an ultrasound scan which looks for various heart and MSK diseases. @@html:<span class="jp">18週から20週＋6日の間に、「異常スキャン」と呼ばれるものが行われます。これは超音波検査で、心臓やMSKの様々な病気を調べるものです。</span>@@
 
 * Heavy menstrual bleeding (G)
@@ -175,7 +175,7 @@ On PassMedicine, it is called "Antenatal care: timetable"!
 
 Posted: 2023-01-30 | Last updated: 2023-01-30
 
-As the name says... this is when the period is too heavy! @@html:<span class="jp">その名の通り... 月経が重すぎる場合です！</span>@@
+As the name says... this is when the period is too heavy! @@html:<span class="jp">その名の通り。。。 月経が重すぎる場合です！</span>@@
 
 But, you might ask... how heavy is it?
 
@@ -184,7 +184,7 @@ Well, it is when the woman bleeds 80 mL or MORE!!!! So much blood :( @@html:<spa
 ** Causes
 There are many causes for this. @@html:<span class="jp">その原因はさまざまです。</span>@@
 
-The most common cause for heavy bleeding is... FIBROIDS!!!! @@html:<span class="jp">大量出血の一番の原因は... FIBROIDS！！！！</span>@@
+The most common cause for heavy bleeding is... FIBROIDS!!!! @@html:<span class="jp">大量出血の一番の原因は。。。 FIBROIDS！！！！</span>@@
 
 Have a look at [[https://lh3.googleusercontent.com/pw/AMWts8CTxTmEQiuDh5edQYjcTso7MlxfWySmGRsrvTliRZoI0ntUfW8ioP8Lc4BANoCulalzP_KCLWwIv7-MBa6LCPSLwkhLuw6AlAnkSW7IErAW-ISTVfywyihN8qKQjabh0cGuzOnmLW9Wk_FwH3RoWhg=w766-h732-no][this picture]] to see the other causes (this is taken from Obstetrics and Gynaecology by Lawrence Impey).
 
@@ -234,11 +234,11 @@ Posted: 2023-01-29 | Last updated: 2023-01-29
 This is when the woman has problems with the menstrual cycle. @@html:<span class="jp">これは、女性の月経周期に問題がある場合です。</span>@@
 
 So, it include things like:
-- changes in frequency of the bleeding @@html:<span class="jp">出血の頻度の変化</span>@@
-- duration of the bleed @@html:<span class="jp">出血の持続時間</span>@@
-- amount of bleeding @@html:<span class="jp">出血量</span>@@
+- changes in frequency of the bleeding. @@html:<span class="jp">出血の頻度の変化。</span>@@
+- duration of the bleed. @@html:<span class="jp">出血の持続時間。</span>@@
+- amount of bleeding. @@html:<span class="jp">出血量。</span>@@
 
-There is a mnemonic to help you remember the differetial diagnoses for abnormal uterine bleeding: PALM-COEIN! COEIN looks like coin... @@html:<span class="jp">笑。</span>@@
+There is a mnemonic to help you remember the differetial diagnoses for abnormal uterine bleeding: PALM-COEIN! COEIN looks like coin... lol.
 
 ** Causes
 :PROPERTIES:
@@ -247,14 +247,14 @@ There is a mnemonic to help you remember the differetial diagnoses for abnormal 
 
 The PALM part is a mnemonic for the *structural causes* of abnormal uterine bleeding @@html:<span class="jp">PALMの部分は、子宮異常出血の構造的な原因を表すニーモニックです。</span>@@:
 - Polyps
-- Adenomyosis (this is when there is cells from the endometrium start growing in the myometrium [the smooth muscle layer of the uterus].) @@html:<span class="jp">(子宮内膜の細胞が子宮筋層（子宮の平滑筋層）で増殖し始めることです。）</span>@@
-- Leiomyomas (this is another name for fibroids)
+- Adenomyosis: this is when there is cells from the endometrium start growing in the myometrium (the smooth muscle layer of the uterus). @@html:<span class="jp">子宮内膜の細胞が子宮筋層（子宮の平滑筋層）で増殖し始めることです。</span>@@
+- Leiomyomas: this is another name for fibroids.
 - Malignancy
 
 The COEIN part is a mnemonic for the *NON-structural causes* of abnormal uterine bleeding @@html:<span class="jp">子宮異常出血の非構造的な原因を表すニーモニックのCOEINの部分です。</span>@@:
 - Coagulopathy (bleeding issues)
 - Ovulatory issues
 - Endometrial (problems with the endometrium of the uterus)
-- Iatrogenic (this is when the doctors cause the damage) @@html:<span class="jp">医原病</span>@@
+- Iatrogenic (this is when the doctors cause the damage)
 
 Most common type of abnormal uterine bleeding is [[#orgfeaf8e2][Heavy Menstrual Bleeding]]! This is also called menorrhagia!! @@html:<span class="jp">子宮の異常出血で最も多いのは「重い月経血」！これは「menorrhagia」とも呼ばれます！！</span>@@
