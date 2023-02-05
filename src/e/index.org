@@ -11,18 +11,7 @@
 
 -----
 
-* Sub-chapters
-:PROPERTIES:
-:CUSTOM_ID: orgdcbac4b
-:END:
-
-Click on the header of the column to sort it! Cool, right?! @@html:<span class="jp">列のヘッダーをクリックするとソートされます！すごいね！</span>@@
-
-Click on the "DATE POSTED" header, then the table will be sorted by date... @@html:<span class="jp">「DATE POSTED」ヘッダをクリックすると、日付順にソートされます。</span>@@
-
-Click on the "TITLE" header, then the table will be sorted by alphabetical order... @@html:<span class="jp">「TITLE」のヘッダーをクリックすると、テーブルがアルファベット順にソートされます...</span>@@
-
-** List of topics
+* List of topics
 :PROPERTIES:
 :CUSTOM_ID: etopics
 :END:

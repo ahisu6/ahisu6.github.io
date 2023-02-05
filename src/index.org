@@ -38,6 +38,19 @@ Click the chapter which you want to study! @@html:<span class="jp">勉強した�
 - [[file:./e/index.org][Endocrinology - 内分泌学 (e)]]
 - Gastroenterology - 消化器学 (g)
 
+* Sorting tables
+:PROPERTIES:
+:CUSTOM_ID: orgdcbac4b
+:END:
+
+In each chapter, you will find a table of topics. @@html:<span class="jp">各章には、トピックの表が掲載されています。</span>@@
+
+Click on the header of the column to sort it! Cool, right?! @@html:<span class="jp">列のヘッダーをクリックするとソートされます！すごいね！</span>@@
+
+Click on the "DATE POSTED" header, then the table will be sorted by date... @@html:<span class="jp">「DATE POSTED」ヘッダをクリックすると、日付順にソートされます。</span>@@
+
+Click on the "TITLE" header, then the table will be sorted by alphabetical order... @@html:<span class="jp">「TITLE」のヘッダーをクリックすると、テーブルがアルファベット順にソートされます...</span>@@
+
 * Disclaimer
 Disclaimer. @@html:<span class="jp">免責事項。</span>@@
 
