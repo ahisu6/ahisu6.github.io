@@ -17,7 +17,7 @@
 :PROPERTIES:
 :CUSTOM_ID: eh
 :END:
-This website is a gift for a friend! @@html:<span class="jp">このサイトは、友人へのプレゼントです！</span>@@
+This website is a gift for my best friend! @@html:<span class="jp">このサイトは、友人へのプレゼントです！</span>@@
 
 The pink highlighting means that it is a link. For example, [[https://www.youtube.com/embed/aRCVKqBPsFU][this is a link]]! @@html:<span class="jp">ピンクのハイライトは、リンクであることを意味します。例えば、<a href="https://www.youtube.com/embed/aRCVKqBPsFU">これはリンクです</a>！</span>@@
 
