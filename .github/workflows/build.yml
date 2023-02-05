@@ -18,8 +18,8 @@ jobs:
       - name: Build the site
         run: emacs -Q --script org-publish.el
 
-      - name: Copy CSS and JS folders to the ~public~ folder
-        run: cp -R ./src/assets/css/ ./src/assets/js/ ./public
+      - name: Copy ~assets~ folders to the ~public~ folder
+        run: cp -R ./src/assets/assets ./public
 
       - name: Commit timestamps
         uses: stefanzweifel/git-auto-commit-action@v4
