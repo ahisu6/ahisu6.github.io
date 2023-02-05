@@ -27,7 +27,7 @@ Posted: 2023-02-02 | Updated: 2023-02-05
 - Osteoclasts break bones. @@html:<span class="jp">破骨細胞は骨を壊す。</span>@@
 - When bone is broken, calcium is released into the blood! @@html:<span class="jp">骨が折れると、カルシウムが血液中に放出されるのです！</span>@@
 - When there is too much calcium in the body, the calcium will tell the parathyroid glands to /stop/ making hormones. This is called negative feedback! @@html:<span class="jp">体内のカルシウムが過剰になると、カルシウムは副甲状腺にホルモンを作るのを止めるように指示します。これをネガティブフィードバックといいます！</span>@@
-- Phosphate /sticks/ to calcium in the blood! Make sure you remember this, it will become important later!! @@html:<span class="jp">リン酸塩は血液中のカルシウムとくっつく！ これは必ず覚えておいてください後で重要になりますよ！！</span>@@
+- Phosphate /sticks/ to calcium in the blood! Make sure you remember this, it will become important later!! @@html:<span class="jp">リン酸塩は血液中のカルシウムとくっつく！これは必ず覚えておいてください後で重要になりますよ！！</span>@@
 
 ** Hyperparathyroidism
 :PROPERTIES:
@@ -37,7 +37,7 @@ Posted: 2023-02-02 | Updated: 2023-02-05
 HYPERparathyroidism is when there is /too much/ parathyroid hormone. @@html:<span class="jp">副甲状腺機能亢進症とは、副甲状腺ホルモンが過剰に分泌されている状態のことです。</span>@@
 
 There are two types:
-- Primary: this is due to reasons inside the parathyroid gland. So, in this case, the parathyroid gland is sad :(. @@html:<span class="jp">というのは、副甲状腺の中の理由によるものです。つまりこの場合 副甲状腺は悲しいのです :(</span>@@
+- Primary: this is due to reasons inside the parathyroid gland. So, in this case, the parathyroid gland is sad :(. @@html:<span class="jp">というのは、副甲状腺の中の理由によるものです。つまりこの場合副甲状腺は悲しいのです :(。</span>@@
 - Secondary: this is due to reasons outside parathyroid gland. So, in this case, the parathyroid gland is happy. @@html:<span class="jp">というのは、副甲状腺以外の理由によるものです。ですから、この場合、副甲状腺は幸せなのです。</span>@@
 
 *** Primary hyperparathyroidism
@@ -161,7 +161,7 @@ There is a type called "Pseudohypoparathyroidism". This is when the level of par
 :CUSTOM_ID: org1e0880c
 :END:
 
-- Parathyroid hormone levels: these will /high/. This is because the parathyroid gland keeps making hormones, but the organs are not accepting it! @@html:<span class="jp">が高くなります。これは副甲状腺がホルモンを作り続けているのに 臓器がそれを受け入れていないためです！</span>@@
+- Parathyroid hormone levels: these will /high/. This is because the parathyroid gland keeps making hormones, but the organs are not accepting it! @@html:<span class="jp">が高くなります。これは副甲状腺がホルモンを作り続けているのに臓器がそれを受け入れていないためです！</span>@@
 - Serum calcium levels: these will /low/. This is because the organs are not accepting hormone, so, no calcium is being created! @@html:<span class="jp">が低くなります。これは内臓がホルモンを受け入れないためで、カルシウムが作られないのです！</span>@@
 
 *** Treatment of hypoparathyroidism

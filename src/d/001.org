@@ -58,7 +58,7 @@ Acne fulminans: this is acne plus fever. You need to admit patient to hospital i
 :CUSTOM_ID: orgca11d4a
 :END:
 
-This is quite a lot! Here is a quick summary @@html:<span class="jp">これは結構な量です！ 簡単にまとめるとこんな感じです。</span>@@:
+This is quite a lot! Here is a quick summary @@html:<span class="jp">これは結構な量です！簡単にまとめるとこんな感じです。</span>@@:
 1. First-line: topical retinoids and benzoyl peroxide
 2. Second-line: systemic tetracycline OR trimethoprim OR combined oral contraceptives
 3. Third-line: oral isotretinoin
