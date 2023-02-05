@@ -72,7 +72,7 @@ Now, let's go in detail! @@html:<span class="jp">さあ、詳しく見ていき�
   - These 2 drugs are /always/ the first-line!
 - Moderate acne:
   - Systemic tetracycline for /3 months/. @@html:<span class="jp">テトラサイクリン系薬剤を3ヶ月間全身投与。</span>@@
-  - If tetracycline fails, then try trimethoprim (nice mnemonic, huh? TRY TRImethoprim lol). @@html:<span class="jp">テトラサイクリンがだめなら、トリメトプリム（いいニーモニックですね）を使ってみてください笑。</span>@@
+  - If tetracycline fails, then try trimethoprim (nice mnemonic, huh? TRY TRImethoprim lol). @@html:<span class="jp">テトラサイクリンがだめなら、トリメトプリム（いいニーモニックですね笑）を使ってみてください。</span>@@
   - Do /not/ use tetracyclines for pregnant women! @@html:<span class="jp">妊婦にテトラサイクリン系抗生物質を使用しないでください！</span>@@
   - If the woman does not want to use antibiotics, then she can use combined oral contraceptives. You can give her /3 months/ of Dianette (which is a combined oral contraceptive). @@html:<span class="jp">抗生物質を使いたくない場合は、経口避妊薬を併用することができます。ダイアネット（経口複合避妊薬）を3ヶ月間飲ませることができます。</span>@@
     - Yeeeeaaaaah, I don't know why they keep giving drugs for /3 months/. But, who cares! This makes it easier for us to remember... lol. @@html:<span class="jp">そう、なぜ3ヶ月も薬を出し続けるのかがわからない。でも、気にすることはありません！これなら覚えやすいし。。。笑。</span>@@
