@@ -20,7 +20,7 @@ Click on the header of the column to sort it! Cool, right?! @@html:<span class="
 
 Click on the "DATE POSTED" header, then the table will be sorted by date... @@html:<span class="jp">「DATE POSTED」ヘッダをクリックすると、日付順にソートされます。</span>@@
 
-Click on the "TITLE" header, then the table will be sorted by alphabetical order... @@html:<span class="jp">「TITLE」のヘッダーをクリックすると、テーブルがアルファベット順にソートされます... </span>@@
+Click on the "TITLE" header, then the table will be sorted by alphabetical order... @@html:<span class="jp">「TITLE」のヘッダーをクリックすると、テーブルがアルファベット順にソートされます...</span>@@
 
 ** List of Gynaecology topics
 :PROPERTIES:

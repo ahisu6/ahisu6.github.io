@@ -80,7 +80,7 @@ Now, let's go in detail! @@html:<span class="jp">さあ、詳しく見ていき�
 - Severe acne:
   - This needs specialist management! Call for help!! Do it now!!! @@html:<span class="jp">これは専門家の管理が必要です！助けを求めてください！！今すぐやるんだ！！！</span>@@
   - Cool dermatology consultants use prescribe oral isotretinoin (a type of retinoids)! @@html:<span class="jp">クールな皮膚科のコンサルタントは、イソトレチノイン（レチノイドの一種）の内服を処方します！</span>@@
-  - Oral isotretinoin is a bit... weird. It causes mood disturbances. So, make sure you screen for mental health issues! @@html:<span class="jp">イソトレチノイン経口剤は、ちょっと...変なんです。気分障害を引き起こします。だから、精神衛生上の問題がないかどうか、必ず検査してください！</span>@@
+  - Oral isotretinoin is a bit... weird. It causes mood disturbances. So, make sure you screen for mental health issues! @@html:<span class="jp">イソトレチノイン経口剤は、ちょっと... 変なんです。気分障害を引き起こします。だから、精神衛生上の問題がないかどうか、必ず検査してください！</span>@@
     - The three-arm acne monster is now angry and sad because of this drug! @@html:<span class="jp">3本腕のニキビ怪獣が、この薬のせいで怒ったり悲しんだりするようになった！</span>@@
 
 * Basal cell carcinoma

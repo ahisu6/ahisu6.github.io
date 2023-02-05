@@ -164,7 +164,7 @@ On PassMedicine, it is called "Antenatal care: timetable"!
 - An ultrasound scan is done at 10 - 13+6 weeks of pregnancy... this looks for:
   - The expected delivery date. @@html:<span class="jp">納品予定日です。</span>@@
   - Look to see if there is more than 1 baby inside the mother. @@html:<span class="jp">お母さんの中に赤ちゃんが1人以上いるかどうか見てください。</span>@@
-- Another ultrasound is done at 11 - 13+6 weeks... this one looks for: *Down's syndrome*! @@html:<span class="jp">11週から13週＋6日でもう一回超音波検査が行われます...この検査で調べるのは ダウン症！</span>@@
+- Another ultrasound is done at 11 - 13+6 weeks... this one looks for: *Down's syndrome*! @@html:<span class="jp">11週から13週＋6日でもう一回超音波検査が行われます... この検査で調べるのは ダウン症！</span>@@
 - At 18 - 20+6 weeks something called "Anomaly scan" is done. This is an ultrasound scan which looks for various heart and MSK diseases. @@html:<span class="jp">18週から20週＋6日の間に、「異常スキャン」と呼ばれるものが行われます。これは超音波検査で、心臓やMSKの様々な病気を調べるものです。</span>@@
 
 * Heavy menstrual bleeding (G)
