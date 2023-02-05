@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Obstetrics and Gynaecology</title>
 <meta name="generator" content="Org Mode" />
-<link rel="stylesheet" href="https://ahisu6.github.io/css/main.css" />
+<link rel="stylesheet" href="https://ahisu6.github.io/assets/css/main.css" />
 </head>
 <body>
 <div id="content" class="content">
@@ -24,25 +24,9 @@
 
 <hr />
 
-<div id="outline-container-orgdcbac4b" class="outline-2">
-<h2 id="orgdcbac4b">Sub-chapters</h2>
-<div class="outline-text-2" id="text-orgdcbac4b">
-<p>
-Click on the header of the column to sort it! Cool, right?! <span class="jp">列のヘッダーをクリックするとソートされます！すごいね！</span>
-</p>
-
-<p>
-Click on the "DATE POSTED" header, then the table will be sorted by date&#x2026; <span class="jp">「DATE POSTED」ヘッダをクリックすると、日付順にソートされます。</span>
-</p>
-
-<p>
-Click on the "TITLE" header, then the table will be sorted by alphabetical order&#x2026; <span class="jp">「TITLE」のヘッダーをクリックすると、テーブルがアルファベット順にソートされます...</span>
-</p>
-</div>
-
-<div id="outline-container-gtopics" class="outline-3">
-<h3 id="gtopics">List of Gynaecology topics</h3>
-<div class="outline-text-3" id="text-gtopics">
+<div id="outline-container-gtopics" class="outline-2">
+<h2 id="gtopics">List of Gynaecology topics</h2>
+<div class="outline-text-2" id="text-gtopics">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides" class="sortable">
 
 
@@ -90,7 +74,6 @@ Click on the "TITLE" header, then the table will be sorted by alphabetical order
 </tbody>
 </table>
 </div>
-</div>
 
 <div id="outline-container-otopics" class="outline-3">
 <h3 id="otopics">List of Obstetrics topics</h3>
@@ -132,155 +115,7 @@ Click on the "TITLE" header, then the table will be sorted by alphabetical order
 </tbody>
 </table>
 
-<script>
-
-/**
- * Inject hyperlinks, into the column headers of sortable tables, which sort
- * the corresponding column when clicked.
- */
-var tables = document.querySelectorAll("table.sortable"),
-    table,
-    thead,
-    headers,
-    i,
-    j;
-
-for (i = 0; i < tables.length; i++) {
-    table = tables[i];
-
-    if (thead = table.querySelector("thead")) {
-        headers = thead.querySelectorAll("th");
-
-        for (j = 0; j < headers.length; j++) {
-            headers[j].innerHTML = "<a href='#'>" + headers[j].innerText + "</a>";
-        }
-
-        thead.addEventListener("click", sortTableFunction(table));
-    }
-}
-
-/**
- * Create a function to sort the given table.
- */
-function sortTableFunction(table) {
-    return function(ev) {
-        if (ev.target.tagName.toLowerCase() == 'a') {
-            sortRows(table, siblingIndex(ev.target.parentNode));
-            ev.preventDefault();
-        }
-    };
-}
-
-/**
- * Get the index of a node relative to its siblings — the first (eldest) sibling
- * has index 0, the next index 1, etc.
- */
-function siblingIndex(node) {
-    var count = 0;
-
-    while (node = node.previousElementSibling) {
-        count++;
-    }
-
-    return count;
-}
-
-/**
- * Sort the given table by the numbered column (0 is the first column, etc.)
- */
-function sortRows(table, columnIndex) {
-    var rows = table.querySelectorAll("tbody tr"),
-        sel = "thead th:nth-child(" + (columnIndex + 1) + ")",
-        sel2 = "td:nth-child(" + (columnIndex + 1) + ")",
-        classList = table.querySelector(sel).classList,
-        values = [],
-        cls = "",
-        allNum = true,
-        val,
-        index,
-        node;
-
-    if (classList) {
-        if (classList.contains("date")) {
-            cls = "date";
-        } else if (classList.contains("number")) {
-            cls = "number";
-        }
-    }
-
-    for (index = 0; index < rows.length; index++) {
-        node = rows[index].querySelector(sel2);
-        val = node.innerText;
-
-        if (isNaN(val)) {
-            allNum = false;
-        } else {
-            val = parseFloat(val);
-        }
-
-        values.push({ value: val, row: rows[index] });
-    }
-
-    if (cls == "" && allNum) {
-        cls = "number";
-    }
-
-    if (cls == "number") {
-        values.sort(sortNumberVal);
-        values = values.reverse();
-    } else if (cls == "date") {
-        values.sort(sortDateVal);
-    } else {
-        values.sort(sortTextVal);
-    }
-
-    for (var idx = 0; idx < values.length; idx++) {
-        table.querySelector("tbody").appendChild(values[idx].row);
-    }
-}
-
-/**
- * Compare two 'value objects' numerically
- */
-function sortNumberVal(a, b) {
-    return sortNumber(a.value, b.value);
-}
-
-/**
- * Numeric sort comparison
- */
-function sortNumber(a, b) {
-    return a - b;
-}
-
-/**
- * Compare two 'value objects' as dates
- */
-function sortDateVal(a, b) {
-    var dateA = Date.parse(a.value),
-        dateB = Date.parse(b.value);
-
-    return sortNumber(dateA, dateB);
-}
-
-/**
- * Compare two 'value objects' as simple text; case-insensitive
- */
-function sortTextVal(a, b) {
-    var textA = (a.value + "").toUpperCase();
-    var textB = (b.value + "").toUpperCase();
-
-    if (textA < textB) {
-        return -1;
-    }
-
-    if (textA > textB) {
-        return 1;
-    }
-
-    return 0;
-}
-</script>
+<script src="https://ahisu6.github.io/assets/js/sortTable.js"></script>
 </div>
 </div>
 </div>
