@@ -18,6 +18,8 @@
 :CUSTOM_ID: org4f0d408
 :END:
 
+Posted: 2023-02-02 | Updated: 2023-02-05
+
 - You have 4 parathyroid glands. @@html:<span class="jp">副甲状腺は4つあるんですね。</span>@@
 - Parathyroid glands have a lot of cells. These cells are called chief cells. @@html:<span class="jp">副甲状腺にはたくさんの細胞があります。これらの細胞は「chief cells」と呼ばれています。</span>@@
 - Chief cells secrete parathyroid hormones! @@html:<span class="jp">「Chief cells」が副甲状腺ホルモンを分泌！</span>@@
