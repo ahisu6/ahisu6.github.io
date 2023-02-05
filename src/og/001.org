@@ -174,7 +174,7 @@ On PassMedicine, it is called "Antenatal care: timetable"!
 
 Posted: 2023-01-30 | Last updated: 2023-01-30
 
-As the name says... this is when the period is too heavy! @@html:<span class="jp">その名の通り...月経が重すぎる場合です！</span>@@
+As the name says... this is when the period is too heavy! @@html:<span class="jp">その名の通り... 月経が重すぎる場合です！</span>@@
 
 But, you might ask... how heavy is it?
 
