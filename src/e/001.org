@@ -126,15 +126,11 @@ To treat it, do this:
 
 This is when there is /low/ level of parathyroid hormone. @@html:<span class="jp">これは、副甲状腺ホルモンの値が低い場合です。</span>@@
 
-*** Causes of hypoparathyroidism
-:PROPERTIES:
-:CUSTOM_ID: orge2ffe5d
-:END:
-
+It is caused by things like:
 - Surgical damage: sometimes surgeons can damage a part of the parathyroid gland. This causes the gland to stop working! @@html:<span class="jp">副甲状腺は、外科医が一部を損傷することがあります。これにより、副甲状腺は機能しなくなります！</span>@@
 - DiGeorge syndrome: this is a congenital issue. The baby is born without thymus and without parathyroid glands! So, if the patient does not have parathyroid glands, then they cannot produce parathyroid hormone! @@html:<span class="jp">これは先天性の問題です。赤ちゃんは、胸腺がなく、副甲状腺もない状態で生まれてきますですから、副甲状腺がなければ、副甲状腺ホルモンを分泌することができないのです！</span>@@
 
-**** Signs and symptoms of hypoparathyroidism
+*** Signs and symptoms of hypoparathyroidism
 :PROPERTIES:
 :CUSTOM_ID: orgb6eebc7
 :END:
@@ -142,28 +138,13 @@ This is when there is /low/ level of parathyroid hormone. @@html:<span class="jp
 - Clinical
   - Muscle spasm and tingly sensation: this is because of the low calcium level! @@html:<span class="jp">筋肉の痙攣やヒリヒリ感：これはカルシウムが少ないから！</span>@@
 
-**** Investigations of hypoparathyroidism
+*** Investigations of hypoparathyroidism
 :PROPERTIES:
 :CUSTOM_ID: org99bb60e
 :END:
 
 - Parathyroid hormone levels: these will /low/. @@html:<span class="jp">これは低いでしょう。</span>@@
 - Serum calcium levels: these will /low/. @@html:<span class="jp">これは低いでしょう。</span>@@
-
-*** Pseudohypoparathyroidism
-:PROPERTIES:
-:CUSTOM_ID: orgefdeb82
-:END:
-
-There is a type called "Pseudohypoparathyroidism". This is when the level of parathyroid hormones is good, but the organs are not responding to this parathyroid hormone. @@html:<span class="jp">「Pseudohypoparathyroidism」と呼ばれるタイプがあります。副甲状腺ホルモンの分泌量は良いのですが、この副甲状腺ホルモンに臓器が反応しない場合に起こります。</span>@@
-
-**** Investigations of pseudohypoparathyroidism
-:PROPERTIES:
-:CUSTOM_ID: org1e0880c
-:END:
-
-- Parathyroid hormone levels: these will /high/. This is because the parathyroid gland keeps making hormones, but the organs are not accepting it! @@html:<span class="jp">が高くなります。これは副甲状腺がホルモンを作り続けているのに臓器がそれを受け入れていないためです！</span>@@
-- Serum calcium levels: these will /low/. This is because the organs are not accepting hormone, so, no calcium is being created! @@html:<span class="jp">が低くなります。これは内臓がホルモンを受け入れないためで、カルシウムが作られないのです！</span>@@
 
 *** Treatment of hypoparathyroidism
 :PROPERTIES:
@@ -173,4 +154,17 @@ There is a type called "Pseudohypoparathyroidism". This is when the level of par
 - Oral calcium and vitamin D: as we said, these patients have /low/ calcium. So, we need to give them things which will increase the calcium level! @@html:<span class="jp">この患者さんたちはカルシウムが少ない。ですから、カルシウムを増やすようなものを与える必要があるのです！</span>@@
 - You can also give parathyroid hormone injections to treat osteoporosis. This is /not/ licensed. @@html:<span class="jp">また、骨粗鬆症の治療のために副甲状腺ホルモンの注射をすることもできます。これは免許制ではありません。</span>@@
 
+** Pseudohypoparathyroidism
+:PROPERTIES:
+:CUSTOM_ID: orgefdeb82
+:END:
 
+There is a type called "Pseudohypoparathyroidism". This is when the level of parathyroid hormones is good, but the organs are not responding to this parathyroid hormone. @@html:<span class="jp">「Pseudohypoparathyroidism」と呼ばれるタイプがあります。副甲状腺ホルモンの分泌量は良いのですが、この副甲状腺ホルモンに臓器が反応しない場合に起こります。</span>@@
+
+*** Investigations of pseudohypoparathyroidism
+:PROPERTIES:
+:CUSTOM_ID: org1e0880c
+:END:
+
+- Parathyroid hormone levels: these will /high/. This is because the parathyroid gland keeps making hormones, but the organs are not accepting it! @@html:<span class="jp">が高くなります。これは副甲状腺がホルモンを作り続けているのに臓器がそれを受け入れていないためです！</span>@@
+- Serum calcium levels: these will /low/. This is because the organs are not accepting hormone, so, no calcium is being created! @@html:<span class="jp">が低くなります。これは内臓がホルモンを受け入れないためで、カルシウムが作られないのです！</span>@@
