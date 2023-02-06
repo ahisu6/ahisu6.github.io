@@ -35,6 +35,8 @@ Sounds good? Cool.
 :CUSTOM_ID: orgc90c5b4
 :END:
 
+Posted: 2023-02-05 | Updated: 2023-02-06
+
 This is when there is hypertension (blood pressure = 140/90 mmHg) after 20 weeks of pregnancy. @@html:<span class="jp">妊娠20週以降に高血圧症（血圧＝140/90mmHg）がある場合です。</span>@@
 
 Pre-eclampsia happens because of abnormal placental arteries. @@html:<span class="jp">子癇前症は、胎盤の動脈に異常があるために起こります。</span>@@
