@@ -31,6 +31,71 @@ Sounds good? Cool.
 
 
 
+* Pre-eclampsia (O)
+:PROPERTIES:
+:CUSTOM_ID: orgc90c5b4
+:END:
+
+This is when there is hypertension (blood pressure = 140/90 mmHg) after 20 weeks of pregnancy. @@html:<span class="jp">妊娠20週以降に高血圧症（血圧＝140/90mmHg）がある場合です。</span>@@
+
+Pre-eclampsia happens because of abnormal placental arteries. @@html:<span class="jp">子癇前症は、胎盤の動脈に異常があるために起こります。</span>@@
+
+There are 3 types of pre-eclampsia:
+1. Mild: this is when the blood pressure is at 140/90 mmHg
+2. Moderate: this is when the blood pressure is at 150/100 mmHg (easy to remember! It is 10 mmHg higher than the previous one! 140 + 10 = /150/!!! @@html:<span class="jp">覚えやすい！10mmHg高くなるのです！140 + 10 = 150！！！</span>@@)
+3. Mild: this is when the blood pressure is at 160/110 mmHg (easy to remember! It is 10 mmHg higher than the previous one! 150 + 10 = /160/!!! @@html:<span class="jp">覚えやすい！10mmHg高くなるのです！150 + 10 = 160！！！</span>@@)
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org4b76126
+:END:
+
+This is a classic triad of clinical signs:
+- Hypertension
+- Oedema
+- Proteinuria
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org6070a9f
+:END:
+
+- FBC: you must focus on the platelet number. Remember this! It will become important later... @@html:<span class="jp">血小板の数に注目しなければなりません。これは覚えておいてください！後で重要になりますから。。。</span>@@
+- U+E: the high blood pressure because of pre-eclampsia can cause /kidney/ damage.
+- LFT: the high blood pressure because of pre-eclampsia can cause /liver/ damage.
+
+If the woman has mild pre-eclampsia (blood pressure = 140/90 mmHg), then repeat these tests /two/ times per week. Remember this! They will ask you questions about it! @@html:<span class="jp">もし、軽い子癇前症（血圧140/90mmHg）であれば、1週間に2回、これらの検査を繰り返す。これを覚えておいてください！それについて質問されるでしょう！</span>@@
+
+If the woman has severe pre-eclampsia (blood pressure = over 150/100 mmHg), then repeat these tests /three/ times per week. Remember this! They will ask you questions about it! @@html:<span class="jp">もし、女性が重度の子癇前症（血圧＝150/100mmHg以上）であれば、これらの検査を1週間に3回以上繰り返します。これを覚えておいてください！それについて質問されるでしょう！</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: orgda32d11
+:END:
+
+- Labetalol: do /not/ give this if the woman has asthma! @@html:<span class="jp">喘息持ちの女性には与えないこと！</span>@@
+- If the woman has asthma, then give nifedipine instead of labetalol!! @@html:<span class="jp">もし、女性が喘息であれば、ラベタロールの代わりにニフェジピンを投与すること！！</span>@@
+
+** Complications
+:PROPERTIES:
+:CUSTOM_ID: orgfb0ac9a
+:END:
+
+- Eclampsia:
+  - This is when the woman starts having seizures! @@html:<span class="jp">この状態になると、女性は発作を起こすようになるのです！</span>@@
+  - This happens because the blood vessels in the brain start having spasms!! @@html:<span class="jp">これは、脳の血管が痙攣を始めるから起こるのです！！</span>@@
+  - To treat eclampsia, do this:
+    - Give 4 grams of magnesium sulphate start dose. @@html:<span class="jp">硫酸マグネシウム4gを開始用量とする。</span>@@
+    - Then give 1 gram per hour magnesium sulphate infusion 24 hours after delivery of baby. @@html:<span class="jp">そして、出産24時間後に硫酸マグネシウムを1時間あたり1g点滴する。</span>@@
+    - If you give /too much/ magnesium sulphate, then you need to give the woman /calcium gluconate/ to treat the toxicity!!!! @@html:<span class="jp">もし硫酸マグネシウムを与えすぎたら、女性にグルコン酸カルシウムを与えて毒性を治療する必要があります！！！！</span>@@
+  - You can read more about eclampsia on [[https://ja.wikipedia.org/wiki/%E5%AD%90%E7%99%87][Wikipedia]]!
+
+- HELLP syndrome:
+  - This is means: Haemolysis, Elevated Liver enzymes, Low Platelet number (HELLP)
+  - The haemolysis (breakdown of blood cells) causes the platelets to be used. The platelets will try to create clots. @@html:<span class="jp">溶血（血球の破壊）により、血小板が使われるようになります。血小板は血栓を作ろうとする。</span>@@
+  - So, now I hope you understand why we look at the /platelet number/ and the /liver function/ in the [[#org6070a9f][investigations]]. We are looking for signs of HELLP syndrome!!!!! @@html:<span class="jp">検査項目で血小板数や肝機能を見る理由がお分かりいただけたかと思います。HELLP症候群の兆候を探っています！！！！！</span>@@
+  - You can read more about HELLP syndrome on [[https://ja.wikipedia.org/wiki/HELLP%E7%97%87%E5%80%99%E7%BE%A4][Wikipedia]]!
+
 
 * Pelvic inflammatory disease (G)
 :PROPERTIES:
