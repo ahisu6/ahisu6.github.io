@@ -66,8 +66,8 @@ Here is a [[https://lh3.googleusercontent.com/pw/AMWts8AtuDDQIBf7N07hV1VxJMSHOi1
 :END:
 
 - FBC: you must focus on the platelet number. Remember this! It will become important later... @@html:<span class="jp">血小板の数に注目しなければなりません。これは覚えておいてください！後で重要になりますから。。。</span>@@
-- U+E: the high blood pressure because of pre-eclampsia can cause /kidney/ damage.
-- LFT: the high blood pressure because of pre-eclampsia can cause /liver/ damage.
+- U+E: damage to the /kidney/ can happen because of the high blood pressure. @@html:<span class="jp">高血圧のために、腎臓に障害が起こることがあります。</span>@@
+- LFT: damage to the /liver/ can happen because of the high blood pressure. @@html:<span class="jp">高血圧のために、肝臓に障害が起こることがあります。</span>@@
 
 If the woman has mild pre-eclampsia (blood pressure = 140/90 mmHg), then repeat these tests /two/ times per week. Remember this! They will ask you questions about it! @@html:<span class="jp">もし、軽い子癇前症（血圧140/90mmHg）であれば、1週間に2回、これらの検査を繰り返す。これを覚えておいてください！それについて質問されるでしょう！</span>@@
 
