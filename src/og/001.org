@@ -56,7 +56,6 @@ Of course, with any clotting issue, you have to think about pulmonary embolism. 
 
 - Calf pain: this is because a clot can sometimes form in the legs (deep vein thrombosis)!
 
-
 ** Investigations
 :PROPERTIES:
 :CUSTOM_ID: org2bde413
@@ -66,7 +65,6 @@ Of course, with any clotting issue, you have to think about pulmonary embolism. 
 - ECG and chest x-ray
 - Ventilation perfusion (V/Q) scan or CT pulmonary angiogram (CTPA)
   - You need to discuss the risks of these with the mother!
-
 
 ** Treatment
 :PROPERTIES:
@@ -80,7 +78,7 @@ Of course, with any clotting issue, you have to think about pulmonary embolism. 
 :CUSTOM_ID: orgaea0eeb
 :END:
 
-Look at this [[https://lh3.googleusercontent.com/pw/AMWts8AiWfP1dlbUaKEh2aTIjqpyXXokxdM-9TzXjNCW_TFc8ghLENpHrpevaIIR7RscnMylts3D4f1PsGjCTcbxwxPcN9aESpKcUWfzxroRTxdmxFa1pToyAMG3_4yMeYVu6a5-zi4WRQ_AudVFAL3fsxcE=w1277-h663-s-no?authuser=3][picture]]. I tried to make it simple. I hope it helps!
+Look at this [[https://lh3.googleusercontent.com/pw/AMWts8CjoyHCCh0JFreZPnKVPOzTuqCgjmnjfOt0Dc0Bs9-85ebWQSZTv9jY0jTdHzj5Pd2Txl7ZXdNWcZPCPtYlREguxVQbWI8cZSOZULzgiSiVVspuSRIRtl3y2XYfhQWT0IqjDQ3USmdzJPDk1PAZy1K4=w1262-h620-s-no?authuser=3][picture]]. I tried to make it simple. I hope it helps!
 
 To prevent venous thromboembolism in pregnancy, you need the following @@html:<span class="jp">妊娠中の静脈血栓塞栓症を予防するために、以下のことが必要です</span>@@:
 - Look for risk factors (you can find these on the "Venous thromboembolism in pregnancy" page on PassMedicine). @@html:<span class="jp">危険因子を探す（PassMedicineの「Venous thromboembolism in pregnancy」ページで確認できます）。</span>@@
