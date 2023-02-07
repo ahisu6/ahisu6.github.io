@@ -26,7 +26,8 @@ h2 {
 }
 
 h3,h4,h5,h6 {
-  color: #FFDFA8;
+  background: #1f606b;
+  color: #f3f3e3;
 }
 
 h2:before {
