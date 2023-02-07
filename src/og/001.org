@@ -179,7 +179,7 @@ It is a type of sexually transmitted disease. @@html:<span class="jp">性感染�
 Oh yeah, there is something called the uterine adnexa. Here is the definition (I got it from this [[https://fastdoctor.jp/%E5%AD%90%E5%AE%AE%E4%BB%98%E5%B1%9E%E5%99%A8%E7%82%8E%E3%81%AE%E7%89%B9%E5%BE%B4%E3%83%BB%E7%97%87%E7%8A%B6%E3%81%A8%E6%B2%BB%E7%99%82%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%80%90%E5%8C%BB/#:~:text=%E3%80%8C%E5%AD%90%E5%AE%AE%E4%BB%98%E5%B1%9E%E5%99%A8%E3%80%8D%E3%81%A8%E3%81%AF,%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E5%A4%A7%E4%BA%8B%E3%81%A7%E3%81%99%E3%80%82][website]]):
 - @@html:<span class="jp">「子宮付属器」とは卵管・卵巣という生殖器をまとめたものであり、「子宮付属器炎」とはここで起きる炎症のことです。</span>@@
 
-** Sign and symptoms
+** Signs and symptoms
 :PROPERTIES:
 :CUSTOM_ID: org40710ed
 :END:
@@ -324,7 +324,7 @@ Have a look at [[https://lh3.googleusercontent.com/pw/AMWts8CTxTmEQiuDh5edQYjcTs
 - Transvaginal ultrasound: you sometimes need to do this so that you look for things like fibroids or polyps. @@html:<span class="jp">子宮筋腫やポリープのようなものを探すために、時々これを行う必要があります。</span>@@
 - Swabs: do this if there is a history which shows that maybe this is a sexually transmitted disease. @@html:<span class="jp">性感染症である可能性を示す既往歴がある場合は、これを行う。</span>@@
 
-** Management
+** Treatment
 :PROPERTIES:
 :CUSTOM_ID: orgbac268e
 :END:

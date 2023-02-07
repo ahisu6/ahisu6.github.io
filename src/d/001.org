@@ -45,7 +45,7 @@ This affects the hair follicle, hair shaft, and sebaceous gland. @@html:<span cl
 
 Acne fulminans: this is acne plus fever. You need to admit patient to hospital if they have this. @@html:<span class="jp">これは、にきび＋発熱です。これがある場合は入院させる必要があります。</span>@@
 
-** Classification
+** Degrees
 :PROPERTIES:
 :CUSTOM_ID: org439b204
 :END:
@@ -98,7 +98,12 @@ It is not common for this type of cancer to spread. @@html:<span class="jp">こ�
 
 It grows /very slowly/. @@html:<span class="jp">成長がとても遅いのです。</span>@@
 
-** Sign and symptoms
+Risk factors are:
+- Ultraviolet light exposure
+- Male
+- Immunosuppression
+
+** Signs and symptoms
 :PROPERTIES:
 :CUSTOM_ID: org47157c6
 :END:
@@ -119,15 +124,6 @@ To be honest, you do /not/ need to know them. You can have a look at some photos
 - Superficial. Look at [[https://lh3.googleusercontent.com/pw/AMWts8AuVbsaFxk4x28bZm-IYzniuxd6othiTeMabCuiWLSTr8x6LRd7F9F7q-eFElEDbiiAo4rytgV9D0Y7Tb3sMYlMURZpB_WqfG6QLiUkKizfFvsRVxab4yT3Osrj3lRKvIpeHXKX36HR36uDbEWKQ1g=w640-h480-no?authuser=3][this]].
 - Nodular. Look at [[https://lh3.googleusercontent.com/pw/AMWts8C6lMxXfEcHHnGvH-AnCxv13iIej70xPhTUye7yKwpz0bvEGk_AnJcrWe93z_B8d90g1RkPvc3Gaai2fXPUKBO3hRbidi1gindzLZ_0o4TdO2mV_0-pkBpdk_fuWb9CxO8piNO4u8AFKlxg-CSgJDM=w640-h480-no?authuser=3][this]].
 - Pigmented. Look at [[https://lh3.googleusercontent.com/pw/AMWts8AYM1VUemU8vgwEnOc8drDX9aMbgoKdhgb4Zjvuvg8SnSZ2rSnOBqpe6NCiE5QyXoe9nKSfD_pqIC4WXyDmEvVCoPJvbPnql-7WKXMluRHtnr2PFcCDW66uzMayxqHGL985kwCn3zc5JAFbWM690vM=w640-h480-no?authuser=3][this]].
-
-** Risk factors
-:PROPERTIES:
-:CUSTOM_ID: org2275965
-:END:
-
-- Ultraviolet light exposure
-- Male
-- Immunosuppression
 
 ** Treatment
 :PROPERTIES:
@@ -167,7 +163,7 @@ There are many types of topical treatments. But, the main ones are @@html:<span 
     - Moderate: Eumovate
     - Potent: betamethasone
 
-** Oral drugs
+** Other drugs
 - Retinoids:
   - These are oral drugs. @@html:<span class="jp">これらは経口薬です。</span>@@
   - Retinoids are a type of drugs that is similar to vitamin A. @@html:<span class="jp">レチノイドは、ビタミンAに由来する点や、化学構造や機能の点で、同様の物質の種類を指す。</span>@@
