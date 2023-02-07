@@ -78,7 +78,7 @@ If the woman has severe pre-eclampsia (blood pressure = over 150/100 mmHg), then
 :CUSTOM_ID: orgda32d11
 :END:
 
-- First line: labetalol. do /not/ give this if the woman has asthma! @@html:<span class="jp">喘息持ちの女性には与えないこと！</span>@@
+- First line: labetalol. Do /not/ give this if the woman has asthma! @@html:<span class="jp">喘息持ちの女性には与えないこと！</span>@@
 - First line /in someone who has asthma/: nifedipine. If the woman has asthma, then give nifedipine instead of labetalol!! @@html:<span class="jp">もし、女性が喘息であれば、ラベタロールの代わりにニフェジピンを投与すること！！</span>@@
 - Women who are at risk should take low-dose of aspirin (75 mg) to prevent pre-eclampsia. They should take the aspirin starting from 12 weeks of pregnancy and stopping when they give birth. @@html:<span class="jp">リスクのある女性は、子癇前症の予防のために、低用量のアスピリン（75 mg）を飲むべきです。女性は、妊娠12週から出産までアスピリンを服用する必要があります。</span>@@
 
