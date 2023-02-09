@@ -19,10 +19,10 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                       | Date posted |
 |------+-----------------------------+-------------|
-| [[file:./002.org][002]]  | [[https://ahisu6.github.io/og/001.html#org0e494ad][Uterine fibroids]] |  2023-02-09 |
-| [[file:./001.org][001]]  | [[https://ahisu6.github.io/og/001.html#orgdbf80b3][Pelvic inflammatory disease]] |  2023-02-01 |
-| [[file:./001.org][001]]  | [[https://ahisu6.github.io/og/001.html#org89fa98b][Abnormal uterine bleeding]]   |  2023-01-29 |
-| [[file:./001.org][001]]  | [[https://ahisu6.github.io/og/001.html#orgfeaf8e2][Heavy menstrual bleeding]]    |  2023-01-30 |
+| [[file:./002.org][002]]  | [[file:./002.org::#org0e494ad][Uterine fibroids]] |  2023-02-09 |
+| [[file:./001.org][001]]  | [[file:./001.org::#orgdbf80b3][Pelvic inflammatory disease]] |  2023-02-01 |
+| [[file:./001.org][001]]  | [[file:./001.org::#org89fa98b][Abnormal uterine bleeding]]   |  2023-01-29 |
+| [[file:./001.org][001]]  | [[file:./001.org::#orgfeaf8e2][Heavy menstrual bleeding]]    |  2023-01-30 |
 
 
 * List of Obstetrics topics
@@ -33,9 +33,9 @@
 #+ATTR_HTML: :class sortable
 | Page | Title          | Date posted |
 |------+----------------+-------------|
-| [[file:./001.org][001]]  | [[https://ahisu6.github.io/og/001.html#org376ed5f][Venous thromboembolism in pregnancy]] |  2023-02-07 |
-| [[file:./001.org][001]]  | [[https://ahisu6.github.io/og/001.html#orgc90c5b4][Pre-eclampsia]] |  2023-02-05 |
-| [[file:./001.org][001]]  | [[https://ahisu6.github.io/og/001.html#orgb494d28][Antenatal care]] |  2023-01-30 |
+| [[file:./001.org][001]]  | [[file:./001.org::#org376ed5f][Venous thromboembolism in pregnancy]] |  2023-02-07 |
+| [[file:./001.org][001]]  | [[file:./001.org::#orgc90c5b4][Pre-eclampsia]] |  2023-02-05 |
+| [[file:./001.org][001]]  | [[file:./001.org::#orgb494d28][Antenatal care]] |  2023-01-30 |
 
 #+BEGIN_EXPORT html
 <script src="https://ahisu6.github.io/assets/js/sortTable.js"></script>
