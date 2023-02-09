@@ -1,0 +1,91 @@
+#+TITLE: Obstetrics and Gynaecology
+
+#+BEGIN_EXPORT html
+<div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 2em; text-align: center;">Obstetrics and Gynaecology</div>
+<div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 2em; text-align: center;">産婦人科学</div>
+<div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 1.5em; text-align: center;">Page 002</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/og/002.org][Edit]]
+
+[[file:./index.org][Home]]
+
+[[file:./001.org][Previous page]] - [[file:./003.org][Next page]]
+
+-----
+
+#+TOC: headlines 2
+
+* Uterine fibroids (G)
+:PROPERTIES:
+:CUSTOM_ID: org0e494ad
+:END:
+
+So, do you remember the layers of the uterus? If not, then look at this [[https://lh3.googleusercontent.com/pw/AMWts8CAIyrASH6CUm8lu736qR8qKmRm6A9QL9esmRRdb65xhnDESLWBmp98-V0Df6BQXuX7anr0IbB9baZbpY0So1V0B0ms_iMFnMDwHro1VgepAmq7DGaGTpRkCJPdwMFmz9hAiqfsRgoerFOhUAohufM6=w880-h435-s-no?authuser=3][picture]]. @@html:<span class="jp">さて、子宮の層は覚えていますか？そうでないなら、この絵を見てください。</span>@@
+
+Fibroids is when the myometrium of the uterus grows. @@html:<span class="jp">子宮筋腫は、子宮の筋層が増殖することです。</span>@@
+
+Fibroids are super common! @@html:<span class="jp">子宮筋腫は超常識！</span>@@
+
+Fibroids are sometimes called "leiomyoma". So, the word "leiomyoma" just means "fibroid". @@html:<span class="jp">子宮筋腫は「平滑筋腫」と呼ばれることもあります。つまり、「平滑筋腫」という言葉は「筋腫」を意味するだけなのです。</span>@@
+
+They mainly affect:
+- Women who have never had children. @@html:<span class="jp">子供を産んだことのない女性。</span>@@
+- African women. @@html:<span class="jp">アフリカの女性。</span>@@
+
+Fibroids /love/ oestrogen and progesterone... @@html:<span class="jp">子宮筋腫はエストロゲンとプロゲステロンが大好き。。。</span>@@
+
+Oestrogen and progesterone make fibroids grow big. @@html:<span class="jp">エストロゲンとプロゲステロンは子宮筋腫を大きくする。</span>@@
+
+After menopause, fibroids sometimes decrease in size. Weird, right? Well, not really! After menopause, the woman has low oestrogen. So... no oestrogen means the fibroids will get hungry and reduce in size! @@html:<span class="jp">閉経後、子宮筋腫が小さくなることがあります。変でしょう？まあ、そうでもないんですけどね！閉経後は、エストロゲンが少なくなります。ということは。。。エストロゲンがないということは、筋腫が腹をくくって小さくなる！</span>@@
+
+In pregnancy, fibroids can grow in size. Can you guess why? That's right! In pregnancy, there is a lot of oestrogen. So, more oestrogen means that the fibroid will eat a lot and become fat punipuni! @@html:<span class="jp">妊娠すると、子宮筋腫は大きくなることがあります。なぜかわかりますか？そうなんです！妊娠中は、エストロゲンがたくさん分泌されます。妊娠すると、エストロゲンがたくさん出るんです。つまり、エストロゲンが多いということは、筋腫がたくさん食べてぷにぷにになるということなんですね！</span>@@
+
+Fibroids can have different names. This depends on the location of the fibroid. See this [[https://lh3.googleusercontent.com/pw/AMWts8DOqlxPFLZDkv7Zt5yxoMxNXqeE3iP-WK7t62Gvcqhh0m_Dn6rNeNmrH64d7nWUzITxW0SI6WwCB3jHc5SD5XiG-aH16wiA8hh4ua0ROvq49_Bi2AfG6WVzcfNldhdhFOBQHV8GvnDJFjvNJw8HG9Zv=w548-h470-s-no?authuser=3][picture]]. @@html:<span class="jp">子宮筋腫にはさまざまな名前がついていることがあります。これは、筋腫の場所によって異なります。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org16c22ad
+:END:
+
+Clinical signs:
+- Abdominal pressure and abdominal bloating. @@html:<span class="jp">腹部圧迫感、腹部膨満感。</span>@@
+- Abnormal uterine bleeding: I talked about this before. See this [[https://ahisu6.github.io/og/001.html#org89fa98b][link]]. @@html:<span class="jp">以前、こんな話をしました。</span>@@
+- Anaemia: fibroids cause a lot of heavy bleeding!!!!
+- Subfertility: this means that the woman does not become pregnant easily. This is because sometimes the fibroid can make the uterus look abnormal. So, the fertilised egg cannot live well :(. @@html:<span class="jp">ということは、妊娠しにくいということです。筋腫によって子宮が異常に見えることがあるからです。だから、受精卵はうまく生きられないのです :(。</span>@@
+- Abdominal mass: if the fibroid is big enough, then you might be able to feel it when you do abdominal examination. @@html:<span class="jp">筋腫が大きければ、腹部の検査で感じることができるかもしれません。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org036358d
+:END:
+
+- Full blood count: check for anaemia!!!!
+- Vaginal ultrasound: see this [[https://lh3.googleusercontent.com/pw/AMWts8CxIeAAsHXIKi6K_EF5lAAN5k4PEW9FilfhxmX_hiuzTSD67sbjZ15aHRUKEKAVbjb-lJ18279lOkiext04vR9ifvzG_mJ9SKxhKUZCSPqPV7gfgF96oXYlEQ1KPDGsYXWw8vBB31XfX5tB0JidJ5Dl=w547-h528-s-no?authuser=3][picture]] to find out how the fibroid looks on ultrasound!
+
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org7b4492a
+:END:
+
+Ok. So... there are 3 main issues we need to treat here:
+1. No treatment: if the fibroid is not causing any issues, then you can just leave it! @@html:<span class="jp">治療しない：子宮筋腫が問題を起こしていないのであれば、そのまま放置しておいても大丈夫です。</span>@@
+2. The bleeding: if there is a lot of bleeding, then follow this [[https://lh3.googleusercontent.com/pw/AMWts8DTpmhgFm0VEO9Mu0UbYLQsLEtd5_BStzi7IeNbfW7H2D8-neCf7PqUTtDqqYb6VzF3GtlwJhqc44su7fza5L5wZnAaDiHASGhAEYnn96l_48pk5rLpm1fO0EvRnlq_XbGdy1p5UDtKI07yHO-4wnY=w885-h623-no?authuser=0][treatment plan]]. I talked about it [[https://ahisu6.github.io/og/001.html#orgfeaf8e2][here]]!
+3. The fibroid mass: we need to make the fibroid decrease in size! We need to do the following @@html:<span class="jp">筋腫を小さくする必要があります。次のことをする必要があります</span>@@:
+  - GnRH agonists: these drugs reduce the amount of oestrogen in the body. No oestrogen means that the fibroid will be hungry and will be smaller!!! @@html:<span class="jp">これらの薬剤は、体内のエストロゲンの量を減少させます。エストロゲンがないということは、筋腫が腹をくくって小さくなる！！！！</span>@@
+  - Surgery: there are multiple surgical options:
+    - If the fibroid is small (less than 3 mm), then we can remove it using hysteroscopy. @@html:<span class="jp">筋腫が小さい（3mm以下）場合は、子宮鏡で摘出することができます。</span>@@
+    - If the fibroid is bigger, then we do myomectomy (we basically just cut the fibroid) @@html:<span class="jp">筋腫が大きければ、子宮筋腫核出術（基本的に子宮筋腫を切るだけ）を行います。</span>@@
+    - Hysterectomy: remove the /all/ of the uterus.
+    - Uterine artery embolization: basically, we can cut the blood supply to the fibroid. No blood = fibroid is weak!!!!! @@html:<span class="jp">基本的には、子宮筋腫への血液供給をカットすればいいのですが 血液がない＝子宮筋腫が弱っている！！！！</span>@@
+
+** Complications
+:PROPERTIES:
+:CUSTOM_ID: orgb2d44de
+:END:
+
+The complications you need to know is called "red degeneration":
+- This happens in pregnant women who have fibroids. @@html:<span class="jp">これは、子宮筋腫を持つ妊婦に起こることです。</span>@@
+- For some reason, the fibroid starts bleeding on the inside... @@html:<span class="jp">なぜか子宮筋腫の内側から出血が始まり。。。</span>@@
+- This causes a lot of pain for the pregnant woman!! @@html:<span class="jp">そのため、妊婦さんには大変な苦痛を与えてしまうのです！！</span>@@
