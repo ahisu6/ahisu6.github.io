@@ -73,12 +73,12 @@ Ok. So... there are 3 main issues we need to treat here:
 1. No treatment: if the fibroid is not causing any issues, then you can just leave it! @@html:<span class="jp">治療しない：子宮筋腫が問題を起こしていないのであれば、そのまま放置しておいても大丈夫です。</span>@@
 2. The bleeding: if there is a lot of bleeding, then follow this [[https://lh3.googleusercontent.com/pw/AMWts8DTpmhgFm0VEO9Mu0UbYLQsLEtd5_BStzi7IeNbfW7H2D8-neCf7PqUTtDqqYb6VzF3GtlwJhqc44su7fza5L5wZnAaDiHASGhAEYnn96l_48pk5rLpm1fO0EvRnlq_XbGdy1p5UDtKI07yHO-4wnY=w885-h623-no?authuser=0][treatment plan]]. I talked about it [[file:./001.org::#orgfeaf8e2][here]]!
 3. The fibroid mass: we need to make the fibroid decrease in size! We need to do the following @@html:<span class="jp">筋腫を小さくする必要があります。次のことをする必要があります</span>@@:
-  - GnRH agonists: these drugs reduce the amount of oestrogen in the body. No oestrogen means that the fibroid will be hungry and will be smaller!!! @@html:<span class="jp">これらの薬剤は、体内のエストロゲンの量を減少させます。エストロゲンがないということは、筋腫が腹をくくって小さくなる！！！！</span>@@
+  - GnRH agonists: these drugs reduce the amount of oestrogen in the body. No oestrogen means that the fibroid will be hungry and will be smaller!!! @@html:<span class="jp">これらの薬剤は、体内のエストロゲンの量を減少させます。エストロゲンがないということは、筋腫が腹をくくって小さくなる！！！</span>@@
   - Surgery: there are multiple surgical options:
     - If the fibroid is small (less than 3 mm), then we can remove it using hysteroscopy. @@html:<span class="jp">筋腫が小さい（3mm以下）場合は、子宮鏡で摘出することができます。</span>@@
     - If the fibroid is bigger, then we do myomectomy (we basically just cut the fibroid) @@html:<span class="jp">筋腫が大きければ、子宮筋腫核出術（基本的に子宮筋腫を切るだけ）を行います。</span>@@
     - Hysterectomy: remove the /all/ of the uterus.
-    - Uterine artery embolization: basically, we can cut the blood supply to the fibroid. No blood = fibroid is weak!!!!! @@html:<span class="jp">基本的には、子宮筋腫への血液供給をカットすればいいのですが 血液がない＝子宮筋腫が弱っている！！！！</span>@@
+    - Uterine artery embolization: basically, we can cut the blood supply to the fibroid. No blood = fibroid is weak!!!! @@html:<span class="jp">基本的には、子宮筋腫への血液供給をカットすればいいのですが 血液がない＝子宮筋腫が弱っている！！！！</span>@@
 
 ** Complications
 :PROPERTIES:
