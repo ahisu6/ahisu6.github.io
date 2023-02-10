@@ -102,7 +102,7 @@ Pre-eclampsia happens because of abnormal placental arteries. @@html:<span class
 There are 3 types of pre-eclampsia:
 1. Mild: this is when the blood pressure is at 140/90 mmHg
 2. Moderate: this is when the blood pressure is at 150/100 mmHg (easy to remember! It is 10 mmHg higher than the previous one! 140 + 10 = /150/!!! @@html:<span class="jp">覚えやすい！10mmHg高くなるのです！140 + 10 = 150！！！</span>@@)
-3. Mild: this is when the blood pressure is at 160/110 mmHg (easy to remember! It is 10 mmHg higher than the previous one! 150 + 10 = /160/!!! @@html:<span class="jp">覚えやすい！10mmHg高くなるのです！150 + 10 = 160！！！</span>@@)
+3. Severe: this is when the blood pressure is at 160/110 mmHg (easy to remember! It is 10 mmHg higher than the previous one! 150 + 10 = /160/!!! @@html:<span class="jp">覚えやすい！10mmHg高くなるのです！150 + 10 = 160！！！</span>@@)
 
 There are multiple risk factors for pre-eclampsia. You can find these in the "Pre-eclampsia" page on PassMedicine. @@html:<span class="jp">子癇前症の危険因子は複数あります。これらはPassMedicineの「Pre-eclampsia」のページで確認することができます。</span>@@
 
