@@ -51,6 +51,7 @@ Fibroids can have different names. This depends on the location of the fibroid. 
 :END:
 
 Clinical signs:
+- No symptoms. Sometimes the woman has no symptoms!
 - Abdominal pressure and abdominal bloating. @@html:<span class="jp">腹部圧迫感、腹部膨満感。</span>@@
 - Abnormal uterine bleeding: I talked about this before. See this [[file:./001.org::#org89fa98b][link]]. @@html:<span class="jp">以前、こんな話をしました。</span>@@
 - Anaemia: fibroids cause a lot of heavy bleeding!!!!
