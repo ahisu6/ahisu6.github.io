@@ -164,6 +164,10 @@ There are many types of topical treatments. But, the main ones are @@html:<span 
     - Potent: betamethasone
 
 ** Other drugs
+:PROPERTIES:
+:CUSTOM_ID: org58bff1d
+:END:
+
 - Retinoids:
   - These are oral drugs. @@html:<span class="jp">これらは経口薬です。</span>@@
   - Retinoids are a type of drugs that is similar to vitamin A. @@html:<span class="jp">レチノイドは、ビタミンAに由来する点や、化学構造や機能の点で、同様の物質の種類を指す。</span>@@
