@@ -79,7 +79,7 @@ Ok. So... there are 3 main issues we need to treat here:
   - GnRH agonists: these drugs reduce the amount of oestrogen in the body. No oestrogen means that the fibroid will be hungry and will be smaller!!! @@html:<span class="jp">これらの薬剤は、体内のエストロゲンの量を減少させます。エストロゲンがないということは、筋腫が腹をくくって小さくなる！！！</span>@@
   - Surgery: there are multiple surgical options:
     - If the fibroid is small (less than 3 mm), then we can remove it using hysteroscopy. @@html:<span class="jp">筋腫が小さい（3mm以下）場合は、子宮鏡で摘出することができます。</span>@@
-    - If the fibroid is bigger, then we do myomectomy (we basically just cut the fibroid) @@html:<span class="jp">筋腫が大きければ、子宮筋腫核出術（基本的に子宮筋腫を切るだけ）を行います。</span>@@
+    - If the fibroid is bigger, then we do myomectomy (we basically just cut the fibroid). @@html:<span class="jp">筋腫が大きければ、子宮筋腫核出術（基本的に子宮筋腫を切るだけ）を行います。</span>@@
     - Hysterectomy: remove the /all/ of the uterus.
     - Uterine artery embolization: basically, we can cut the blood supply to the fibroid. No blood = fibroid is weak!!!! @@html:<span class="jp">基本的には、子宮筋腫への血液供給をカットすればいいのですが 血液がない＝子宮筋腫が弱っている！！！！</span>@@
 
