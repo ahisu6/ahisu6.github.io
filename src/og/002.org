@@ -71,9 +71,7 @@ Not only that, but also, another bacteria starts to colonise the vagina! It's ca
 :END:
 
 - Oral metronidazole...
-  - mnemonic: the metro train will come and destroy all of the evil Gardnerella bacteria!!!! @@html:<span class="jp">メトロトレインがやってきて、邪悪なガードネレラ菌をすべて駆逐してくれる！！！！</span>@@
-
-
+  - Drug mnemonic for my /best/ friend: the metro train will come and destroy all of the evil Gardnerella bacteria!!!! @@html:<span class="jp">メトロトレインがやってきて、邪悪なガードネレラ菌をすべて駆逐してくれる！！！！</span>@@
 
 * Uterine fibroids (G)
 :PROPERTIES:
