@@ -59,11 +59,11 @@ Not only that, but also, another bacteria starts to colonise the vagina! It's ca
 :CUSTOM_ID: org7ee3662
 :END:
 
-To diagnose bacterial vaginosis, we use something called Amsel criteria @@html:<span class="jp">細菌性膣炎の診断には、「アムセル基準」というものがあります</span>@@:
-- Clue cells: these are bacteria which stick to vagina cells. They look like [[https://lh3.googleusercontent.com/pw/AMWts8CVbgBk1pxHdOdWdTa3MPKd_cplKhlbU-96ug0KzYGKqhaDxWLBBSCqUkzPXaGlKezhODzlAnDqcjdTATKrJuQbINmC5ft2NNNEE8OkwPMxEZzoIsX0TgB4_7h8IyYPpE51htxr-rfRj-FkNlm9g5Q6=w700-h400-s-no?authuser=3][this]]. @@html:<span class="jp">これらは、膣の細胞に付着する細菌です。</span>@@
-- Vaginal pH higher than 4.5: Remember, if we lose the acidic bacteria, then no more acid is produced!!!!!! So... the vagina will become /less/ acidic!!!!!!!! @@html:<span class="jp">膣内pHが4.5より高い：酸性菌がいなくなれば、それ以上酸が作られないことを忘れないでください！！！！！！！つまり。。。膣内は酸性度が低くなる！！！！！！！</span>@@
-- Positive whiff test: basically, if you smell any fish in the vaginal discharge, then that means the test is positive! @@html:<span class="jp">基本的に、膣分泌物に魚の臭いがあれば、それは検査が陽性であることを意味します！</span>@@
-- Thin and white vaginal discharge. @@html:<span class="jp">薄くて白い膣分泌物が出る。</span>@@
+- To diagnose bacterial vaginosis, we use something called Amsel criteria @@html:<span class="jp">細菌性膣炎の診断には、「アムセル基準」というものがあります</span>@@:
+  - Clue cells: these are bacteria which stick to vagina cells. They look like [[https://lh3.googleusercontent.com/pw/AMWts8CVbgBk1pxHdOdWdTa3MPKd_cplKhlbU-96ug0KzYGKqhaDxWLBBSCqUkzPXaGlKezhODzlAnDqcjdTATKrJuQbINmC5ft2NNNEE8OkwPMxEZzoIsX0TgB4_7h8IyYPpE51htxr-rfRj-FkNlm9g5Q6=w700-h400-s-no?authuser=3][this]]. @@html:<span class="jp">これらは、膣の細胞に付着する細菌です。</span>@@
+  - Vaginal pH higher than 4.5: Remember, if we lose the acidic bacteria, then no more acid is produced!!!!!! So... the vagina will become /less/ acidic!!!!!!!! @@html:<span class="jp">膣内pHが4.5より高い：酸性菌がいなくなれば、それ以上酸が作られないことを忘れないでください！！！！！！！つまり。。。膣内は酸性度が低くなる！！！！！！！</span>@@
+  - Positive whiff test: basically, if you smell any fish in the vaginal discharge, then that means the test is positive! @@html:<span class="jp">基本的に、膣分泌物に魚の臭いがあれば、それは検査が陽性であることを意味します！</span>@@
+  - Thin and white vaginal discharge. @@html:<span class="jp">薄くて白い膣分泌物が出る。</span>@@
 
 **** Treatment of bacterial vaginosis
 :PROPERTIES:
