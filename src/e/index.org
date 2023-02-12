@@ -19,7 +19,7 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                | Date posted |
 |------+----------------------+-------------|
-| [[file:./001.org][001]]  | [[https://ahisu6.github.io/e/001.html#org4f0d408][Parathyroid diseases]] |  2023-02-02 |
+| [[file:./001.org][001]]  | [[file:./001.org::#org4f0d408][Parathyroid diseases]] |  2023-02-02 |
 
 
 #+BEGIN_EXPORT html
