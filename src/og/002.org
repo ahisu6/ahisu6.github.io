@@ -16,6 +16,63 @@
 
 #+TOC: headlines 2
 
+
+* Sexually transmitted infections
+:PROPERTIES:
+:CUSTOM_ID: orga41f974
+:END:
+
+Posted: 2023-02-12 | Updated: 2023-01-12
+
+These diseases may affect the woman in the following places @@html:<span class="jp">これらの病気は、次のような場所で女性に影響を与える可能性があります</span>@@:
+1. Vagina
+2. Cervix
+3. Uterus ([[file:./001.org::#orgdbf80b3][Pelvic inflammatory disease]]): I will not cover this one because I have already done that!
+
+Ok. Let's start with the infections which affect the vagina!
+
+** STIs of the vagina
+*** Bacterial vaginosis
+:PROPERTIES:
+:CUSTOM_ID: org46ecfa6
+:END:
+
+In the vagina, there is bacteria called "Lactobacillus acidophilus". @@html:<span class="jp">膣の中には「Lactobacillus acidophilus」という菌がいます。</span>@@
+
+Lactobacillus acidophilus bacteria releases lactic acid (this is why the word "/lact/ obacillus" has "/lact/")! @@html:<span class="jp">「Lactobacillus acidophilus」は乳酸を放出する（「ラクトバチルス」に「ラクト」が付くのはこのためである）。</span>@@
+
+When the woman has bacterial vaginosis, the number of lactobacilli decreases! @@html:<span class="jp">女性が細菌性膣炎になると、ラクトバチルが減少してしまうのです。</span>@@
+
+Not only that, but also, another bacteria starts to colonise the vagina! It's called Gardnerella vaginalis! Gardnerella bacteria is /evil/!!! @@html:<span class="jp">それだけでなく、膣内には別の細菌が繁殖し始めるのです! それは、ガードネレラ膣炎と呼ばれるものです。ガードネレラ菌は悪だ！！！</span>@@
+
+**** Signs and symptoms of bacterial vaginosis
+:PROPERTIES:
+:CUSTOM_ID: org4043698
+:END:
+
+- No symptoms.
+- Milky discharge with fish smell. @@html:<span class="jp">魚臭のする乳白色のおりもの</span>@@
+
+**** Investigations of bacterial vaginosis
+:PROPERTIES:
+:CUSTOM_ID: org7ee3662
+:END:
+
+To diagnose bacterial vaginosis, we use something called Amsel criteria @@html:<span class="jp">細菌性膣炎の診断には、「アムセル基準」というものがあります</span>@@:
+- Clue cells: these are bacteria which stick to vagina cells. They look like [[https://lh3.googleusercontent.com/pw/AMWts8CVbgBk1pxHdOdWdTa3MPKd_cplKhlbU-96ug0KzYGKqhaDxWLBBSCqUkzPXaGlKezhODzlAnDqcjdTATKrJuQbINmC5ft2NNNEE8OkwPMxEZzoIsX0TgB4_7h8IyYPpE51htxr-rfRj-FkNlm9g5Q6=w700-h400-s-no?authuser=3][this]]. @@html:<span class="jp">これらは、膣の細胞に付着する細菌です。</span>@@
+- Vaginal pH higher than 4.5: Remember, if we lose the acidic bacteria, then no more acid is produced!!!!!! So... the vagina will become /less/ acidic!!!!!!!! @@html:<span class="jp">膣内pHが4.5より高い：酸性菌がいなくなれば、それ以上酸が作られないことを忘れないでください！！！！！！！つまり。。。膣内は酸性度が低くなる！！！！！！！</span>@@
+- Positive whiff test: basically, if you smell any fish in the vaginal discharge, then that means the test is positive! @@html:<span class="jp">基本的に、膣分泌物に魚の臭いがあれば、それは検査が陽性であることを意味します！</span>@@
+- Thin and white vaginal discharge. @@html:<span class="jp">薄くて白い膣分泌物が出る。</span>@@
+
+**** Treatment of bacterial vaginosis
+:PROPERTIES:
+:CUSTOM_ID: org1add8e2
+:END:
+
+- Oral metronidazole... the /metro/ train will come and destroy all of the evil Gardnerella bacteria!!!! @@html:<span class="jp">メトロトレインがやってきて、邪悪なガードネレラ菌をすべて駆逐してくれる！！！！</span>@@
+
+
+
 * Uterine fibroids (G)
 :PROPERTIES:
 :CUSTOM_ID: org0e494ad
