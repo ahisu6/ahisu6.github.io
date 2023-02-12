@@ -70,7 +70,8 @@ Not only that, but also, another bacteria starts to colonise the vagina! It's ca
 :CUSTOM_ID: org1add8e2
 :END:
 
-- Oral metronidazole... the metro train will come and destroy all of the evil Gardnerella bacteria!!!! @@html:<span class="jp">メトロトレインがやってきて、邪悪なガードネレラ菌をすべて駆逐してくれる！！！！</span>@@
+- Oral metronidazole...
+  - mnemonic: the metro train will come and destroy all of the evil Gardnerella bacteria!!!! @@html:<span class="jp">メトロトレインがやってきて、邪悪なガードネレラ菌をすべて駆逐してくれる！！！！</span>@@
 
 
 
