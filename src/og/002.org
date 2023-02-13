@@ -32,6 +32,10 @@ These diseases may affect the woman in the following places @@html:<span class="
 Ok. Let's start with the infections which affect the vagina!
 
 ** STIs of the vagina
+:PROPERTIES:
+:CUSTOM_ID: org38b11c1
+:END:
+
 *** Bacterial vaginosis
 :PROPERTIES:
 :CUSTOM_ID: org46ecfa6
