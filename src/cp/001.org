@@ -29,7 +29,7 @@
 - Maybe this metro train was made in Japan? @@html:<span class="jp">もしかして、このメトロの車両は日本製？</span>@@
 - Anyway... this metro train likes to run over different bacteria lol. @@html:<span class="jp">とにかく...このメトロの列車は、異質なバクテリアの上を走るのが好きなんです笑</span>@@
 - Do /not/ give this to people who drink alcohol! It will interact with the alcohol!!!!!! @@html:<span class="jp">お酒を飲む人には与えないでください！アルコールと相互作用してしまいます！！！！！！</span>@@
-  - You can't drive the Metro train if you've had alcohol... Right? It's too dangerous! @@html:<span class="jp">飲んだらメトロは運転できない。。。そうだろ？危険すぎる！</span>@@
+  - You can't drive the metro train if you've had alcohol... Right? It's too dangerous! @@html:<span class="jp">飲んだらメトロは運転できない。。。そうだろ？危険すぎる！</span>@@
 
 ** Summary
 :PROPERTIES:
