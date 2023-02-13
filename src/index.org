@@ -28,7 +28,7 @@ The pink highlighting means that it is a link. For example, [[https://www.youtub
 
 Click the chapter which you want to study! @@html:<span class="jp">勉強したい章をクリックしてください！</span>@@
 
-- [[file:./cp/index.org][Clinical Pharamcology - 臨床薬理学 (cp)]]
+- [[file:./cp/index.org][Clinical Pharmacology - 臨床薬理学 (cp)]]
 - [[file:./og/index.org][Obstetrics and Gynaecology - 産婦人科学 (og)]]
 - Paediatrics - 小児科学 (p)
 - Cardiology - 循環器学 (c)
