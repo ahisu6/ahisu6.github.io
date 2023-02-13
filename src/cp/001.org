@@ -21,7 +21,6 @@
 :CUSTOM_ID: metronidazole
 :END:
 
-- Summary: whenever you see metronidazole, think of a metro train! @@html:<span class="jp">メトロニダゾールを見たら、メトロの列車を思い浮かべるんだ！</span>@@
 - Metronidazole. @@html:<span class="jp">メトロニダゾール。</span>@@
 - Hmmmm. Metronidazole...
 - /Metro/ nidazole... @@html:<span class="jp">笑。。。</span>@@
@@ -31,3 +30,10 @@
 - Anyway... this metro train likes to run over different bacteria lol. @@html:<span class="jp">とにかく...このメトロの列車は、異質なバクテリアの上を走るのが好きなんです笑</span>@@
 - Do /not/ give this to people who drink alcohol! It will interact with the alcohol!!!!!! @@html:<span class="jp">お酒を飲む人には与えないでください！アルコールと相互作用してしまいます！！！！！！</span>@@
   - You can't drive the Metro train if you've had alcohol... Right? It's too dangerous! @@html:<span class="jp">飲んだらメトロは運転できない。。。そうだろ？危険すぎる！</span>@@
+
+** Summary
+:PROPERTIES:
+:CUSTOM_ID: org2571d15
+:END:
+
+- Whenever you see metronidazole, think of a metro train! @@html:<span class="jp">メトロニダゾールを見たら、メトロの列車を思い浮かべるんだ！</span>@@
