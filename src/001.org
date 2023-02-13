@@ -1,0 +1,22 @@
+#+TITLE: Clinical Pharmacology
+
+#+BEGIN_EXPORT html
+<div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 2em; text-align: center;">Clinical Pharmacology</div>
+<div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 2em; text-align: center;">臨床薬理学</div>
+<div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 1.5em; text-align: center;">Page 001</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/cp/001.org][Edit]]
+
+[[file:./index.org][Home]]
+
+[[file:./002.org][Next page]]
+
+-----
+
+#+TOC: headlines 1
+
+* Metronidazole
+:PROPERTIES:
+:CUSTOM_ID: metronidazole
+:END:
