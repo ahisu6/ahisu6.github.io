@@ -32,7 +32,8 @@ Message me if you would like me to make a mnemonic for a certain drug! @@html:<s
 :END:
 
 #+ATTR_HTML: :class sortable
-| Drug name     | Link to the mnemonic |
-|---------------+----------------------|
-| Metronidazole | [[file:./001.org::#metronidazole][Link to drug story]]   |
-|               |                      |
+| Drug name     |
+|---------------|
+| [[file:./001.org::#metronidazole][Metronidazole]] |
+|               |
+
