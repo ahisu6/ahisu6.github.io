@@ -14,7 +14,7 @@
 
 -----
 
-#+TOC: headlines 1
+#+TOC: headlines 2
 
 * Metronidazole
 :PROPERTIES:
