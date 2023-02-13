@@ -16,6 +16,24 @@
 
 #+TOC: headlines 2
 
+* Fluconazole
+:PROPERTIES:
+:CUSTOM_ID: fluconazole
+:END:
+
+- Fluconazole. @@html:<span class="jp">フルコナゾール。</span>@@
+- Furu... kona...... @@html:<span class="jp">フル。。。コナ。。。。。。</span>@@
+- Furu? @@html:<span class="jp">フル？ふる？？古？？？</span>@@
+  - This means "old", right? Hmmmm...
+- What about the "kona"...? @@html:<span class="jp">「コナ」はどうでしょう。。。？</span>@@
+- Wait a minute... Kona? Cona? Conan?!?! @@html:<span class="jp">ちょっと待てよ？コナ？コナ？コナンか？！？！</span>@@
+- Okay... so now we have @@html:<span class="jp">古</span>@@ and @@html:<span class="jp">コナン</span>@@...
+- Hmmmm... maybe something like @@html:<span class="jp">古のコナン</span>@@
+- Poor Conan... he was always so small and young... @@html:<span class="jp">コナンくんがかわいそう。。。いつも小さくて幼かったから。。。</span>@@
+- But not anymore!
+- Conan is now 293 years old! @@html:<span class="jp">コナンが293歳に！</span>@@
+- They grow up so fast :')
+
 * Metronidazole
 :PROPERTIES:
 :CUSTOM_ID: metronidazole
