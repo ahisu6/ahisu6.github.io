@@ -35,6 +35,7 @@ Message me if you would like me to make a mnemonic for a certain drug! @@html:<s
 | Drug name     |
 |---------------|
 | [[file:./001.org::#metronidazole][Metronidazole]] |
+| [[file:./001.org::#fluconazole][Fluconazole]] |
 |               |
 
 
