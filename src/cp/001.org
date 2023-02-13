@@ -20,6 +20,8 @@
 :PROPERTIES:
 :CUSTOM_ID: metronidazole
 :END:
+
+- Summary: whenever you see metronidazole, think of a metro train! @@html:<span class="jp">メトロニダゾールを見たら、メトロの列車を思い浮かべるんだ！</span>@@
 - Metronidazole. @@html:<span class="jp">メトロニダゾール。</span>@@
 - Hmmmm. Metronidazole...
 - /Metro/ nidazole... @@html:<span class="jp">笑。。。</span>@@
