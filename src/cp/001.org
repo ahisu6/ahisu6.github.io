@@ -30,6 +30,7 @@
 - Okay... so now we have @@html:<span class="jp">古</span>@@ and @@html:<span class="jp">コナン</span>@@...
 - Hmmmm... maybe something like @@html:<span class="jp">古めかしいコナン</span>@@
   - This is quite similar to @@html:<span class="jp">古コナン</span>@@...
+  - Hmmmm... @@html:<span class="jp">ふるコナン</span>@@
 - Poor Conan... he was always so small and young... @@html:<span class="jp">コナンくんがかわいそう。。。いつも小さくて幼かったから。。。</span>@@
 - But not anymore!
 - Conan is now 293 years old! @@html:<span class="jp">コナンが293歳に！</span>@@
