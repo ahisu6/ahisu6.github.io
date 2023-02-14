@@ -24,7 +24,7 @@ Hopefully, this will help you. @@html:<span class="jp">うまくいけば、お�
 
 You can use this list to create your /own/ stories! @@html:<span class="jp">これらのニーモニックを使って、あなただけのバカ話を作ることができます！</span>@@
 
-Message me if you would like me to make a mnemonic for a certain drug! @@html:<span class="jp">もし、ある薬のニモニックを作ってほしいということであれば、ぜひ教えてください。</span>@@
+Message me if you would like me to make a mnemonic for a certain drug! @@html:<span class="jp">もし、ある薬のニモニックを作ってほしいということであれば、ぜひ教えてください！</span>@@
 
 * List of drugs
 :PROPERTIES:
