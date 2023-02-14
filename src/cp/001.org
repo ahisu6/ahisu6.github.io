@@ -40,8 +40,8 @@
 :CUSTOM_ID: org6880fa2
 :END:
 
-- Whenever you see fluconazole, think of @@html:<span class="jp">古のコナン</span>@@ doing something like arresting fungi
-- Or maybe think of Conan being a fun guy... lol
+- Whenever you see fluconazole, think of @@html:<span class="jp">古のコナン</span>@@ doing something like arresting fungi... @@html:<span class="jp">フルコナゾールを見たら、古のコナンが真菌を捕まえるようなことをしていると思え。。。</span>@@
+- Or maybe think of Conan being a fun guy... lol. @@html:<span class="jp">それとも、コナンが「fun guy」だと思えばいいのか。。。笑。</span>@@
 
 * Metronidazole
 :PROPERTIES:
