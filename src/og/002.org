@@ -29,14 +29,7 @@ These diseases may affect the woman in the following places @@html:<span class="
 2. Cervix
 3. Uterus ([[file:./001.org::#orgdbf80b3][Pelvic inflammatory disease]]): I will not cover this one because I have already done that!
 
-Ok. Let's start with the infections which affect the vagina!
-
-** STIs of the vagina
-:PROPERTIES:
-:CUSTOM_ID: org38b11c1
-:END:
-
-*** Bacterial vaginosis
+** Bacterial vaginosis
 :PROPERTIES:
 :CUSTOM_ID: org46ecfa6
 :END:
@@ -49,7 +42,7 @@ When the woman has bacterial vaginosis, the number of lactobacilli decreases! @@
 
 Not only that, but also, another bacteria starts to colonise the vagina! It's called Gardnerella vaginalis! Gardnerella bacteria is /evil/!!! @@html:<span class="jp">それだけでなく、膣内には別の細菌が繁殖し始めるのです! それは、ガードネレラ膣炎と呼ばれるものです。ガードネレラ菌は悪だ！！！</span>@@
 
-**** Signs and symptoms of bacterial vaginosis
+*** Signs and symptoms of bacterial vaginosis
 :PROPERTIES:
 :CUSTOM_ID: org4043698
 :END:
@@ -58,7 +51,7 @@ Not only that, but also, another bacteria starts to colonise the vagina! It's ca
 - Milky discharge with fish smell. @@html:<span class="jp">魚臭のする乳白色のおりもの</span>@@
   - Maybe Gardnerella vaginalis is a fish that like swimming in the vagina... @@html:<span class="jp">Gardnerella vaginalisは、膣の中を好んで泳ぐ魚なのかもしれない。。。</span>@@
 
-**** Investigations of bacterial vaginosis
+*** Investigations of bacterial vaginosis
 :PROPERTIES:
 :CUSTOM_ID: org7ee3662
 :END:
@@ -69,7 +62,7 @@ Not only that, but also, another bacteria starts to colonise the vagina! It's ca
   - Positive whiff test: basically, if you smell any fish in the vaginal discharge, then that means the test is positive! @@html:<span class="jp">基本的に、膣分泌物に魚の臭いがあれば、それは検査が陽性であることを意味します！</span>@@
   - Thin and white vaginal discharge. @@html:<span class="jp">薄くて白い膣分泌物が出る。</span>@@
 
-**** Treatment of bacterial vaginosis
+*** Treatment of bacterial vaginosis
 :PROPERTIES:
 :CUSTOM_ID: org1add8e2
 :END:
@@ -77,7 +70,7 @@ Not only that, but also, another bacteria starts to colonise the vagina! It's ca
 - Oral [[file:../cp/001.org::#metronidazole][metronidazole]]...
   - The metro train will come and destroy all of the evil Gardnerella bacteria!!!! @@html:<span class="jp">メトロトレインがやってきて、邪悪なガードネレラ菌をすべて駆逐してくれる！！！！</span>@@
 
-*** Vulvovaginal candidiasis
+** Vulvovaginal candidiasis
 :PROPERTIES:
 :CUSTOM_ID: orgec31300
 :END:
@@ -90,7 +83,7 @@ The word "albicans" is similar to the word "albino"!! @@html:<span class="jp">�
 
 Albino means "white"! @@html:<span class="jp">アルビノは「白い」という意味！</span>@@
 
-**** Signs and symptoms of vulvovaginal candidiasis
+*** Signs and symptoms of vulvovaginal candidiasis
 :PROPERTIES:
 :CUSTOM_ID: org402f401
 :END:
@@ -100,14 +93,14 @@ Albino means "white"! @@html:<span class="jp">アルビノは「白い」とい�
 - Red vagina and vulva. @@html:<span class="jp">膣や外陰部が赤い。</span>@@
 - Burning sensation and itch. @@html:<span class="jp">灼熱感や痒みがある。</span>@@
 
-**** Investigations of vulvovaginal candidiasis
+*** Investigations of vulvovaginal candidiasis
 :PROPERTIES:
 :CUSTOM_ID: org815b6cf
 :END:
 
 - You can do high vaginal swab (which is basically a swab that touches the deep part of the vagina)
 
-**** Treatment of vulvovaginal candidiasis
+*** Treatment of vulvovaginal candidiasis
 :PROPERTIES:
 :CUSTOM_ID: org41ad989
 :END:
