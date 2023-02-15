@@ -29,65 +29,6 @@ And anything that has ~(O)~ means that it is an Obstetrics topic. @@html:<span c
 
 Sounds good? Cool.
 
-
-* Venous thromboembolism in pregnancy (O)
-:PROPERTIES:
-:CUSTOM_ID: org376ed5f
-:END:
-
-Posted: 2023-02-07 | Updated: 2023-02-07
-
-We have talked about pre-eclampsia. @@html:<span class="jp">子癇前症についてお話させていただきました。</span>@@
-
-Now, let's talk about clotting issues in pregnancy! @@html:<span class="jp">さて、今回は、妊娠中の血栓症についてです！</span>@@
-
-In pregnancy, the woman is at risk of having a blood clot. @@html:<span class="jp">妊娠中は、血栓ができる危険性があります。</span>@@
-
-This is because the levels of clotting factors in the woman's blood increases. @@html:<span class="jp">これは、女性の血液中の凝固因子の濃度が上昇するためです。</span>@@
-
-Also, fibrinolytic activity (the activity which breaks down clots) decreases!!! @@html:<span class="jp">また、線溶活性（血栓を分解する活動）も低下します！！！</span>@@
-
-Of course, with any clotting issue, you have to think about pulmonary embolism. @@html:<span class="jp">もちろん、血液凝固の問題があれば、肺塞栓症も考えなければならない。</span>@@
-
-** Signs and symptoms
-:PROPERTIES:
-:CUSTOM_ID: orgb408d4c
-:END:
-
-- Calf pain: this is because a clot can sometimes form in the legs (deep vein thrombosis)!
-
-** Investigations
-:PROPERTIES:
-:CUSTOM_ID: org2bde413
-:END:
-
-- Ultrasound scan of the legs (to check for clots)!
-- ECG and chest x-ray
-- Ventilation perfusion (V/Q) scan or CT pulmonary angiogram (CTPA)
-  - You need to discuss the risks of these with the mother!
-
-** Treatment
-:PROPERTIES:
-:CUSTOM_ID: orga70fef3
-:END:
-
-- Low molecular weight heparins (LMWH)
-
-*** Prevention
-:PROPERTIES:
-:CUSTOM_ID: orgaea0eeb
-:END:
-
-Look at this [[https://lh3.googleusercontent.com/pw/AMWts8CjoyHCCh0JFreZPnKVPOzTuqCgjmnjfOt0Dc0Bs9-85ebWQSZTv9jY0jTdHzj5Pd2Txl7ZXdNWcZPCPtYlREguxVQbWI8cZSOZULzgiSiVVspuSRIRtl3y2XYfhQWT0IqjDQ3USmdzJPDk1PAZy1K4=w1262-h620-s-no?authuser=3][picture]]. I tried to make it simple. I hope it helps!
-
-To prevent venous thromboembolism in pregnancy, you need the following @@html:<span class="jp">妊娠中の静脈血栓塞栓症を予防するために、以下のことが必要です</span>@@:
-- Look for risk factors (you can find these on the "Venous thromboembolism in pregnancy" page on PassMedicine). @@html:<span class="jp">危険因子を探す（PassMedicineの「Venous thromboembolism in pregnancy」ページで確認できます）。</span>@@
-  - If the woman has 4 or more risk factors, then give LMWH from the first trimester of pregnancy. Stop at 6 weeks /after/ she gives birth. @@html:<span class="jp">4つ以上の危険因子がある場合は、妊娠第1期からLMWHを投与する。出産後6週で中止する。</span>@@
-  - If the woman has 3 risk factors, then give LMWH from 28 weeks of pregnancy. Stop at 6 weeks /after/ she gives birth. @@html:<span class="jp">もし、3つの危険因子があれば、妊娠28週からLMWHを投与します。出産後6週で中止する。</span>@@
-- If the woman is about to give birth, but then you realise that she has deep vein thrombosis, do this @@html:<span class="jp">出産間際に深部静脈血栓症が見つかった場合</span>@@:
-  - Do /not/ panic!
-  - Just give her anticoagulation drugs for at least /3 months/ (just like you do with the standard provoked deep vein thrombosis)! @@html:<span class="jp">少なくとも3ヶ月は抗凝固剤を投与してください（通常の誘発性深部静脈血栓症の場合と同じです）！</span>@@
-
 * Pre-eclampsia (O)
 :PROPERTIES:
 :CUSTOM_ID: orgc90c5b4
