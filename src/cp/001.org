@@ -28,7 +28,7 @@
 - What about @@html:<span class="jp">トリ</span>@@?
 - @@html:<span class="jp">うーん。。。トリ？とり？？鳥？？？</span>@@
   - This means "bird", right?
-- So... let's combine "black" and "bird" to get @@html:<span class="jp">黒い鳥</span>@@
+- So... let's combine "black" and "bird" to get @@html:<span class="jp">黒い鳥</span>@@...
 - I know, I know... I added @@html:<span class="jp">い</span>@@ and this is cheating... but who cares!!!!
 
 ** Summary
