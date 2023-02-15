@@ -16,6 +16,28 @@
 
 #+TOC: headlines 2
 
+
+* Clotrimazole
+:PROPERTIES:
+:CUSTOM_ID: clotrimazole
+:END:
+
+- Clotrimazole. @@html:<span class="jp">クロトリマゾール。</span>@@
+- @@html:<span class="jp">うーん。。。クロ？くろ？？黒？？？</span>@@
+  - This means "black", right?
+- What about @@html:<span class="jp">トリ</span>@@?
+- @@html:<span class="jp">うーん。。。トリ？とり？？鳥？？？</span>@@
+  - This means "bird", right?
+- So... let's combined "black" and "bird" to get @@html:<span class="jp">黒い鳥</span>@@
+- I know, I know... I added @@html:<span class="jp">い</span>@@ and this is cheating... but who cares!!!!
+
+** Summary
+:PROPERTIES:
+:CUSTOM_ID: org53bba51
+:END:
+
+- Whenever you see clotrimazole, try to think of a black bird :) @@html:<span class="jp">黒い鳥</span>@@
+
 * Fluconazole
 :PROPERTIES:
 :CUSTOM_ID: fluconazole
