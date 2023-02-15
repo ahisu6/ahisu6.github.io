@@ -264,7 +264,6 @@ Let me explain to you what that means:
 3. between 19 weeks, 2 days AND 12 weeks, 3 days
 @@html:</div></div>@@
 
-
 ** The booking visit
 :PROPERTIES:
 :CUSTOM_ID: org535415a
