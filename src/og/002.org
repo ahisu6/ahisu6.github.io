@@ -74,8 +74,54 @@ Not only that, but also, another bacteria starts to colonise the vagina! It's ca
 :CUSTOM_ID: org1add8e2
 :END:
 
-- Oral metronidazole...
-  - Drug mnemonic for my /best/ friend: the metro train will come and destroy all of the evil Gardnerella bacteria!!!! @@html:<span class="jp">メトロトレインがやってきて、邪悪なガードネレラ菌をすべて駆逐してくれる！！！！</span>@@
+- Oral [[file:../cp/001.org::#metronidazole][metronidazole]]...
+  - The metro train will come and destroy all of the evil Gardnerella bacteria!!!! @@html:<span class="jp">メトロトレインがやってきて、邪悪なガードネレラ菌をすべて駆逐してくれる！！！！</span>@@
+
+*** Vulvovaginal candidiasis
+:PROPERTIES:
+:CUSTOM_ID: orgec31300
+:END:
+
+This is when there is too much of the Candida albicans fungus... @@html:<span class="jp">これは、カンジダ・アルビカンス菌が多すぎる場合です。。。</span>@@
+
+Remember the name of this fungus. It is important!!! @@html:<span class="jp">この菌の名前を覚えてください。大事なことです！！！</span>@@
+
+The word "albicans" is similar to the word "albino"!! @@html:<span class="jp">アルビカンス」という言葉は「アルビノ」に似ている！！</span>@@
+
+Albino means "white"! @@html:<span class="jp">アルビノは「白い」という意味！</span>@@
+
+**** Signs and symptoms of vulvovaginal candidiasis
+:PROPERTIES:
+:CUSTOM_ID: org402f401
+:END:
+
+- White vaginal discharge that looks like... cheese! Say "CHEEEEESE"!!!!! @@html:<span class="jp">白い膣分泌物が。。。チーズのようだ! 「CHEEEEESE」と言いなさい！！！！！</span>@@
+- The discharge does /not/ have any smell. @@html:<span class="jp">吐出物に臭いはない。</span>@@
+- Red vagina and vulva. @@html:<span class="jp">膣や外陰部が赤い。</span>@@
+- Burning sensation and itch. @@html:<span class="jp">灼熱感や痒みがある。</span>@@
+
+**** Investigations of vulvovaginal candidiasis
+:PROPERTIES:
+:CUSTOM_ID: org815b6cf
+:END:
+
+- You can do high vaginal swab (which is basically a swab that touches the deep part of the vagina)
+
+**** Treatment of vulvovaginal candidiasis
+:PROPERTIES:
+:CUSTOM_ID: org41ad989
+:END:
+
+- Remember! Do /not/ give any /oral/ antifungals to pregnant women!!! @@html:<span class="jp">忘れないで！妊婦に抗真菌剤の経口投与をしないこと！！！</span>@@
+- Oral [[file:../cp/001.org::#fluconazole][fluconazole]]: only give this if the woman is /not/ pregnant! @@html:<span class="jp">妊娠していない場合のみ投与してください！</span>@@
+  - Conan is soooo old and he is NOT pregnant... so, we can give him fluconazole! @@html:<span class="jp">古いコナンはとても高齢で、妊娠はしていない。。。だから、フルコナゾールを飲ませればいいのです！</span>@@
+- Intravaginal [[file:../cp/001.org::#clotrimazole][clotrimazole]]: give this if the woman is pregnant!! @@html:<span class="jp">この薬を妊婦に飲ませろ！！</span>@@
+  - Imagine putting a black bird inside a pregnant woman. This black bird will fight all of the Candida! Also, this black bird will protect the baby of that woman!! Ehhhhhhh creeeeeepy lol. But, at least you will never forget this horrible picture... @@html:<span class="jp">妊婦の体内に黒い鳥を入れることを想像してください。この黒い鳥がカンジダ菌と全部戦ってくれるんです！また、この黒い鳥は、あの女の子供を守ってくれる！！え～～～っと気持ち悪い笑。でも、少なくともこの恐ろしい絵は一生忘れないでしょう。。。</span>@@
+- Topical imidazole: you can give this in addition to the above drugs (do /not/ give it alone by itself)! It just helps with the vulval inflammation!!! @@html:<span class="jp">上記の薬に追加して与えることができます（単独で与えてはいけません）！外陰部の炎症に効くだけです！！！</span>@@
+- Sometimes, the woman might 4 candidiasis infections per year. In this case, you need to give her the following @@html:<span class="jp">カンジダ症は、1年に4回発症することもあります。この場合、以下のものを与える必要があります。</span>@@
+  - Oral fluconazole every day for 3 days!
+  - Then, keep giving her fluconazole every week for 6 months!
+  - Poor Conan... they keep using him to kill Candida fungus...
 
 * Uterine fibroids (G)
 :PROPERTIES:
