@@ -32,11 +32,11 @@ Message me if you would like me to make a mnemonic for a certain drug! @@html:<s
 :END:
 
 #+ATTR_HTML: :class sortable
-| Drug name     |
-|---------------|
-| [[file:./001.org::#clotrimazole][Clotrimazole]] |
-| [[file:./001.org::#fluconazole][Fluconazole]] |
-| [[file:./001.org::#metronidazole][Metronidazole]] |
+| Page | Drug name     |
+|------+---------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#clotrimazole][Clotrimazole]]  |
+| [[file:./001.org][001]]  | [[file:./001.org::#fluconazole][Fluconazole]]   |
+| [[file:./001.org][001]]  | [[file:./001.org::#metronidazole][Metronidazole]] |
 
 
 #+BEGIN_EXPORT html
