@@ -79,7 +79,7 @@ This is when there is too much of the Candida albicans fungus... @@html:<span cl
 
 Remember the name of this fungus. It is important!!! @@html:<span class="jp">この菌の名前を覚えてください。大事なことです！！！</span>@@
 
-The word "albicans" is similar to the word "albino"!! @@html:<span class="jp">アルビカンス」という言葉は「アルビノ」に似ている！！</span>@@
+The word "albicans" is similar to the word "albino"!! @@html:<span class="jp">「アルビカンス」という言葉は「アルビノ」に似ている！！</span>@@
 
 Albino means "white"! @@html:<span class="jp">アルビノは「白い」という意味！</span>@@
 
