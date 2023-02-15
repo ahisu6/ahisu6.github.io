@@ -50,21 +50,20 @@
 - What about the "kona"...? @@html:<span class="jp">「コナ」はどうでしょう。。。？</span>@@
 - Wait a minute... Kona? Cona? Conan?!?! @@html:<span class="jp">ちょっと待てよ。。。コナ？コナ？コナンか？！？！</span>@@
 - Okay... so now we have @@html:<span class="jp">古</span>@@ and @@html:<span class="jp">コナン</span>@@...
-- Hmmmm... maybe something like @@html:<span class="jp">古めかしいコナン</span>@@
-  - This is quite similar to @@html:<span class="jp">古コナン</span>@@...
-  - Hmmmm... @@html:<span class="jp">ふるコナン</span>@@
+- Hmmmm... maybe something like @@html:<span class="jp">古いコナン</span>@@
 - Poor Conan... he was always so small and young... @@html:<span class="jp">コナンくんがかわいそう。。。いつも小さくて幼かったから。。。</span>@@
 - But not anymore!
 - Conan is now 293 years old! @@html:<span class="jp">コナンが293歳に！</span>@@
 - They grow up so fast :')
 - Conan is a fun guy (haha get it? "Fun guy" sounds like the word "fungi")
+  - Fluconazole kills fungus...
 
 ** Summary
 :PROPERTIES:
 :CUSTOM_ID: org6880fa2
 :END:
 
-- Whenever you see fluconazole, think of @@html:<span class="jp">古めかしいコナン</span>@@ doing something like arresting fungi... @@html:<span class="jp">フルコナゾールを見たら、古めかしいコナンが真菌を捕まえるようなことをしていると思え。。。</span>@@
+- Whenever you see fluconazole, think of @@html:<span class="jp">古いコナン</span>@@ doing something like arresting fungi... @@html:<span class="jp">フルコナゾールを見たら、古いコナンが真菌を捕まえるようなことをしていると思え。。。</span>@@
 - Or maybe think of Conan being a fun guy... lol. @@html:<span class="jp">それとも、コナンが「fun guy」だと思えばいいのか。。。笑。</span>@@
 
 * Metronidazole
