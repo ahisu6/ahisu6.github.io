@@ -16,6 +16,39 @@
 
 #+TOC: headlines 2
 
+* Hyponatraemia in pregnancy (O)
+:PROPERTIES:
+:CUSTOM_ID: org9f8fd5a
+:END:
+
+Posted: 2023-02-21 | Updated: 2023-02-21
+
+You asked me this question on 2023-02-21:
+- Why is there hyponatraemia during labour?
+
+Here is the answer...
+
+When the woman is pregnant, the kidneys change in structure and function. @@html:<span class="jp">妊娠すると、腎臓の構造と機能が変化します。</span>@@
+
+The kidneys increase in size. And, the kidney's ability of filter sodium and water also changes @@html:<span class="jp">腎臓は大きくなる。そして、腎臓のナトリウムや水をろ過する能力も変化します</span>@@:
+1. Kidneys will filter more sodium @@html:<span class="jp">腎臓はより多くのナトリウムをろ過する</span>@@
+2. Kidneys will absorb MORE wate @@html:<span class="jp"> 腎臓はより多くの水分を吸収する</span>@@
+3. More creatinine will be removed from body @@html:<span class="jp">より多くのクレアチニンが体外に排出される</span>@@
+
+Generally speaking, during pregnancy, the woman will have MORE water in her body! @@html:<span class="jp"> 一般的に妊娠中は、女性の体は水分を多く蓄えるようになると言われています！</span>@@
+
+So, when you have too much water, then your blood will be less salty (which means, you will have LOW sodium level)! @@html:<span class="jp"> つまり、水分が多すぎると、血液の塩分濃度が低くなる（つまり、ナトリウム濃度が低くなる）のです！！</span>@@
+
+In labour, the body releases oxytocin... correct? @@html:<span class="jp">陣痛になると、体内でオキシトシンが分泌される。。。ということですね？</span>@@
+
+Oxytocin STOPS the woman from urinating. Oxytocin keeps water inside the woman! @@html:<span class="jp">オキシトシンは女性の排尿を止める。オキシトシンは女性の体内に水分を留めておくのです！</span>@@
+
+So, this means that there will be more water in the woman, and therefore more hyponatraemia!!!! @@html:<span class="jp">ということは、女性の水分が多くなるので、低ナトリウム血症が多くなる！！！！</span>@@
+
+Another thing is... during labour, some women vomit a lot. Sooooo, doctors will tell the woman to keep drinking water... @@html:<span class="jp"> もうひとつは、陣痛中にたくさん吐く女性がいることです。だから、医師は女性に水を飲み続けるように言うのですが。。。</span>@@
+
+If the woman keeps drinking water, then... her blood will be less salty. @@html:<span class="jp">もし、女性が水を飲み続ければ。。。血液の塩分が少なくなる。</span>@@
+
 * Ectopic pregnancy (G)
 :PROPERTIES:
 :CUSTOM_ID: org9e4c165
@@ -27,7 +60,7 @@ This is when the embryo implants outside of the uterine cavity. @@html:<span cla
 
 Most common wrong site of implant is fallopian tube. See this [[https://lh3.googleusercontent.com/pw/AMWts8BnRnJxyu2729QDCZn4J0S36p4aHnzZtD7Qm37oIvhFDY3kWCIkd_sI3HpHi82uEoFYnV9nQOhcqokJ-bu6iwyNwNHD8AskClJbWMMS7kg1gTBAIsM9gG954U1hJ-lQgCVPXNNw4zu4moiX1TFlkTWD=w732-h529-s-no?authuser=3][picture]] for the other possible places! @@html:<span class="jp">最も一般的な着床部位の間違いは卵管です。</span>@@
 
-Risk factors, go to "Ectopic pregnancy: epidemiology and risk factors" page on PassMedicine to lean more! @@html:<span class="jp">PassMedicineの「Ectopic pregnancy: epidemiology and risk factors」のページに移動して、もっと詳しく見る</span>@@:
+Risk factors, go to "Ectopic pregnancy: epidemiology and risk factors" page on PassMedicine to learn more! @@html:<span class="jp">PassMedicineの「Ectopic pregnancy: epidemiology and risk factors」のページに移動して、もっと詳しく見る</span>@@:
 - Damage to tubes (for example, damage done after pelvic inflammatory disease) @@html:<span class="jp">管の損傷（骨盤内炎症性疾患の後遺症など）</span>@@
 - Endometriosis
 
