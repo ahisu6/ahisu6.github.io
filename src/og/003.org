@@ -16,4 +16,72 @@
 
 #+TOC: headlines 2
 
-There is nothing here... yet! @@html:<span class="jp">ここには何もない。。。まだ！</span>@@
+* Ectopic pregnancy (G)
+:PROPERTIES:
+:CUSTOM_ID: org9e4c165
+:END:
+
+Posted: 2023-02-20 | Updated: 2023-02-20
+
+This is when the embryo implants outside of the uterine cavity. @@html:<span class="jp">これは、胚が子宮腔の外に着床することである。</span>@@
+
+Most common wrong site of implant is fallopian tube. See this [[https://lh3.googleusercontent.com/pw/AMWts8BnRnJxyu2729QDCZn4J0S36p4aHnzZtD7Qm37oIvhFDY3kWCIkd_sI3HpHi82uEoFYnV9nQOhcqokJ-bu6iwyNwNHD8AskClJbWMMS7kg1gTBAIsM9gG954U1hJ-lQgCVPXNNw4zu4moiX1TFlkTWD=w732-h529-s-no?authuser=3][picture]] for the other possible places! @@html:<span class="jp">最も一般的な着床部位の間違いは卵管です。</span>@@
+
+Risk factors, go to "Ectopic pregnancy: epidemiology and risk factors" page on PassMedicine to lean more! @@html:<span class="jp">PassMedicineの「Ectopic pregnancy: epidemiology and risk factors」のページに移動して、もっと詳しく見る</span>@@:
+- Damage to tubes (for example, damage done after pelvic inflammatory disease) @@html:<span class="jp">管の損傷（骨盤内炎症性疾患の後遺症など）</span>@@
+- Endometriosis
+
+When the embryo implants in the fallopian tubes, it causes a /lot/ of lower abdomen pain!!! @@html:<span class="jp">胚が卵管に着床する際、下腹部に大きな痛みがある！！！</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org7764045
+:END:
+
+- Tummy pain!!!!!! Tummy hurts when you touch it!!
+- No period (this is called amenorrhoea) for 6-8 weeks! @@html:<span class="jp">6～8週間、生理が来ない（これを無月経といいます）！</span>@@
+- Vaginal bleeding: the colour of the blood will be /dark brown/. Maybe the embryo is drinking some dark chocolate................. Ehhhhhhhhhhhh @@html:<span class="jp">血液の色は暗褐色になります。もしかしたら胚はダークチョコレートを飲んでいるのかもしれない。。。。。。。。。。。。。。。。。え～</span>@@
+- Collapse: the woman might pass out!!! This is a massive red flag because it shows that the tube ruptured!!!! @@html:<span class="jp">女性は気絶するかもしれない！！！ これは、チューブが破裂したことを示すので、大赤信号です！！！！</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: orgc33f60d
+:END:
+
+- Positive pregnancy test: let's start with the basic stuff!
+- Transvaginal ultrasound
+- Blood hCG: you need to monitor this. In normal pregnancy, hCG will keep going up. In ectopic pregnancy, hCG will stop going up. @@html:<span class="jp">これを監視する必要があります。正常な妊娠では、hCGは上昇し続けます。子宮外妊娠の場合、hCGは上がらなくなります。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: orgb050af5
+:END:
+
+Right, so, there 3 different ways to treat ectopic pregnancy.
+1. Expectant management: this means you just monitor the woman for 48 hours. @@html:<span class="jp">ということは、48時間監視すればいいということです。</span>@@
+2. Medical management: in this one, you should give methotrexate to the woman. @@html:<span class="jp">この中で、メトトレキサートは投与したほうがいい。</span>@@
+3. Surgical management: here you remove the fallopian tube (salpingECTOmy) OR you open the fallopian tube and remove the embryo (salpingOTOmy). @@html:<span class="jp">ここでは、卵管を摘出する方法（salpingECTOmy）と、卵管を開いて胚を取り出す方法（salpingOTOmy）のいずれかを選択します。</span>@@
+
+
+There are criteria which will tell you what kind of treatment you should give... @@html:<span class="jp">どのような治療を施すべきか、基準があるのです。。。</span>@@
+
+| Criteria                                                                                                   | Expectant       | Medical                                                                  | Surgical          |
+|------------------------------------------------------------------------------------------------------------+-----------------+--------------------------------------------------------------------------+-------------------|
+| Size of the pregnancy inside the fallopian tube                                                            | less than 35 mm | less than 35 mm                                                          | MORE than 35 mm   |
+| Is it ruptured or not ruptured?                                                                            | NOT ruptured    | NOT ruptured                                                             | Ruptured          |
+| Any pain?                                                                                                  | No              | No                                                                       | Yes               |
+| Any fetal heartbeat?                                                                                       | No heartbeat    | No heartbeat                                                             | Visible heartbeat |
+| hCG level                                                                                                  | less than 1000  | less than 1500                                                           | MORE than 5000    |
+| Can you use this type of management of there is intrauterine pregnancy that is happening at the same time? | Yes             | No (because we use methotrexate, and methotrexate is bad for babies!!!!) | Yes               |
+
+
+
+| @@html:<span class="jp">基準</span>@@                                                                 | Expectant      | Medical                                               | Surgical   |
+|----------------------------------------------------------------------+----------------+-------------------------------------------------------+------------|
+| @@html:<span class="jp">卵管内の妊娠の大きさ</span>@@                                                 | @@html:<span class="jp">35mm以下</span>@@       | @@html:<span class="jp">35mm以下</span>@@                                              | @@html:<span class="jp">35mm以上</span>@@   |
+| @@html:<span class="jp">破裂しているのか、していないのか？</span>@@                                   | @@html:<span class="jp">破裂していない</span>@@ | @@html:<span class="jp">破裂していない</span>@@                                        | @@html:<span class="jp">破裂した</span>@@   |
+| @@html:<span class="jp">痛みはありますか？</span>@@                                                   | @@html:<span class="jp">いいえ</span>@@         | @@html:<span class="jp">いいえ</span>@@                                                | @@html:<span class="jp">はい</span>@@       |
+| @@html:<span class="jp">胎児の心拍はあるか？</span>@@                                                 | @@html:<span class="jp">心拍がない</span>@@     | @@html:<span class="jp">心拍がない</span>@@                                            | @@html:<span class="jp">心拍数発見</span>@@ |
+| hCG level                                                            | @@html:<span class="jp">1000以下</span>@@       | @@html:<span class="jp">1500以下</span>@@                                              | @@html:<span class="jp">5000以上</span>@@   |
+| @@html:<span class="jp">同時期に別の子宮内妊娠があった場合、このような管理は可能でしょうか？</span>@@ | @@html:<span class="jp">はい</span>@@           | @@html:<span class="jp">いいえ (メトトレキサートは胎児に悪いからです！！！！)</span>@@ | @@html:<span class="jp">はい</span>@@       |
+
