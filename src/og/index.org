@@ -19,6 +19,7 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                       | Date posted |
 |------+-----------------------------+-------------|
+| [[file:./002.org][002]]  | [[file:./002.org::#org9e4c165][Ectopic pregnancy]] |  2023-02-21 |
 | [[file:./002.org][002]]  | [[file:./002.org::#orga41f974][Sexually transmitted infections]] |  2023-02-12 |
 | [[file:./002.org][002]]  | [[file:./002.org::#org0e494ad][Uterine fibroids]] |  2023-02-09 |
 | [[file:./001.org][001]]  | [[file:./001.org::#orgdbf80b3][Pelvic inflammatory disease]] |  2023-02-01 |
