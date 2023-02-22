@@ -95,9 +95,7 @@ Right, so, there 3 different ways to treat ectopic pregnancy.
 2. Medical management: in this one, you should give methotrexate to the woman. @@html:<span class="jp">この中で、メトトレキサートは投与したほうがいい。</span>@@
 3. Surgical management: here you remove the fallopian tube (salpingECTOmy) OR you open the fallopian tube and remove the embryo (salpingOTOmy). @@html:<span class="jp">ここでは、卵管を摘出する方法（salpingECTOmy）と、卵管を開いて胚を取り出す方法（salpingOTOmy）のいずれかを選択します。</span>@@
 
-
 There are criteria which will tell you what kind of treatment you should give... @@html:<span class="jp">どのような治療を施すべきか、基準があるのです。。。</span>@@
-
 
 *** Ectopic pregnancy criteria in English
 :PROPERTIES:
