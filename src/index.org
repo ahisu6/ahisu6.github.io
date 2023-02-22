@@ -6,9 +6,9 @@
 <span style="color: #152515;">Ahi</span><span style="color: #FF9600;">su</span><span style="color: #6c9cf6;">6</span>
 </div>
 
-<div style="text-align: center;">
+<p style="text-align: center;">
 <img style="max-width: 50%; max-height: auto;" src="https://drive.google.com/uc?export=view&amp;id=18Wk2AzGZsZXmVQ8IWdbY7-vkiYR5ae5o">
-</div>
+</p>
 
 <!-- <div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 2em; text-align: center;">Learn Medicine... but in the Japanese language!</div> -->
 <!-- <div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 2em; text-align: center;">医学を学ぶ... ただし、日本語で！</div> -->
