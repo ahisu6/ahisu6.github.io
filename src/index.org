@@ -3,7 +3,7 @@
 
 #+BEGIN_EXPORT html
 <p style="text-align: center;">
-<img style="max-width: 50%; max-height: auto;" src="https://drive.google.com/uc?export=view&amp;id=18Wk2AzGZsZXmVQ8IWdbY7-vkiYR5ae5o">
+<img style="max-width: 66%; max-height: auto;" src="https://drive.google.com/uc?export=view&amp;id=18Wk2AzGZsZXmVQ8IWdbY7-vkiYR5ae5o">
 </p>
 
 <div style="font-family: monospace; background-color: #FDFDFB; font-weight: bolder; font-size: 2em; text-align: center;">
