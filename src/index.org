@@ -7,7 +7,7 @@
 </div>
 
 <div style="text-align: center;">
-<img src="https://drive.google.com/uc?export=view&id=18Wk2AzGZsZXmVQ8IWdbY7-vkiYR5ae5o">
+<img style="max-width: 50%; max-height: auto;" src="https://drive.google.com/uc?export=view&amp;id=18Wk2AzGZsZXmVQ8IWdbY7-vkiYR5ae5o">
 </div>
 
 <!-- <div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 2em; text-align: center;">Learn Medicine... but in the Japanese language!</div> -->
