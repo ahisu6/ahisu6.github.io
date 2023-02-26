@@ -34,7 +34,7 @@ Message me if you would like me to make a mnemonic for a certain drug! @@html:<s
 #+ATTR_HTML: :class sortable
 | Page | Drug name     |
 |------+---------------|
-| [[file:./001.org][001]]  | [[file:./001.org::#misoprostol][misoprostol]]  |
+| [[file:./001.org][001]]  | [[file:./001.org::#misoprostol][Misoprostol]]  |
 | [[file:./001.org][001]]  | [[file:./001.org::#mifepristone][Mifepristone]]  |
 | [[file:./001.org][001]]  | [[file:./001.org::#clotrimazole][Clotrimazole]]  |
 | [[file:./001.org][001]]  | [[file:./001.org::#fluconazole][Fluconazole]]   |
