@@ -16,6 +16,25 @@
 
 #+TOC: headlines 2
 
+* Misoprostol
+:PROPERTIES:
+:CUSTOM_ID: misoprostol
+:END:
+
+- Misoprostol. @@html:<span class="jp">ミソプロストール。</span>@@
+- @@html:<span class="jp">ミソ。。。うーん。。。。あ！味噌！！！！</span>@@
+- @@html:<span class="jp">プロ。。。あ！！！プロ！！！！！！！すごい！！！！</span>@@
+- @@html:<span class="jp">味噌プロ！！！！！！</span>@@
+- You are a professional miso soup chef!!! You always drink miso soup!!!!!!! @@html:<span class="jp">あなたはプロの味噌汁職人です！！！いつもお味噌汁を飲んでるんですね！！！！！！！</span>@@
+- Abortion is usually emotional for the woman. So, she might be sad after the abortion process. So, you give her miso soup to to make her feel warm. @@html:<span class="jp">中絶は通常、その女性にとって感情的なものです。だから、中絶の後、彼女は悲しむかもしれない。そこで、あなたは彼女に<mark>味噌</mark>汁を与えて、暖かい気持ちにさせるのです。</span>@@
+
+** Summary
+:PROPERTIES:
+:CUSTOM_ID: org42c4f52
+:END:
+
+- Whenever you see misoprostol, imagine yourself as a professional miso soup maker! You make miso soup for women who had abortion!!! @@html:<span class="jp">ミソプロストールを見るたびに、自分が<mark>プロの味噌</mark>汁職人であることを想像してください！中絶した女性のために味噌汁を作るのです！！！</span>@@
+
 * Mifepristone
 :PROPERTIES:
 :CUSTOM_ID: mifepristone
