@@ -16,6 +16,44 @@
 
 #+TOC: headlines 2
 
+* Termination of pregnancy (O)
+:PROPERTIES:
+:CUSTOM_ID: org33cd9ca
+:END:
+
+Posted: 2023-02-26 | Updated: 2023-02-26
+
+Termination of pregnancy is a phrase for "abortion". @@html:<span class="jp">妊娠の終了は、「中絶」の言い回しです。</span>@@
+
+To have abortion, the baby needs to be /less/ than 24 weeks of gestation. @@html:<span class="jp">中絶を行うには、赤ちゃんが妊娠24週未満であることが必要です。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: orgeaf19f9
+:END:
+
+We use different options. @@html:<span class="jp">オプションを使い分けています。</span>@@
+
+These options depend on how old is the baby. @@html:<span class="jp">これらのオプションは、赤ちゃんが何歳かによって異なります。</span>@@
+
+- If the woman is /less/ than 9 weeks pregnant @@html:<span class="jp">妊娠9週未満の場合</span>@@:
+  - For this, we use drugs! Yayyyyy.... more drugs to learn!!!! More stories!!!!!!!!
+  - Give oral mifepristone. @@html:<span class="jp">ミフェプリストンを経口投与する。</span>@@
+  - Then, after 48 hours, give vaginal misoprostol. @@html:<span class="jp">そして、48時間後にミソプロストールを経膣投与する。</span>@@
+    - @@html:<span class="jp">9 weeks</span>@@
+    - @@html:<span class="jp">9 = く。Week = しゅう。</span>@@
+    - @@html:<span class="jp">くしゅう。。。句集？！</span>@@
+    - Ah! Imagine if you find a collection of haiku poems which have many pictures of babies being removed from the mother by abortion. In these poems, there are many recipes for how to make drugs that help with abortion. @@html:<span class="jp">もし、中絶によって母体から取り出される赤ん坊の写真がたくさん掲載されている俳<mark>句集</mark>があったらと想像してみるといい。これらの詩の中には、中絶に効く薬の作り方のレシピがたくさん出てきます。</span>@@
+
+- If the woman is /less/ than 13 weeks pregnant @@html:<span class="jp">妊娠13週未満の場合</span>@@:
+  - In here, we use a vacuum because the baby is still small. @@html:<span class="jp">ここでは、まだ赤ちゃんが小さいので、掃除機を使っています。</span>@@
+  - Dilate the cervix using surgery and then do suction (like a vaccum cleaner). Watch this [[https://www.youtube.com/watch?v=_d5pM9Y5zPg][video]] if you are interested! @@html:<span class="jp">手術で子宮頸管を拡張し、吸引（掃除機のようなもの）をする。</span>@@
+
+- If the woman is /more/ than 15 weeks pregnant @@html:<span class="jp">妊娠15週以上の場合</span>@@:
+  - In here, we use a bigger surgery because now the baby is larger. @@html:<span class="jp">ここでは、赤ちゃんが大きくなったので、より大きな手術を行います。</span>@@
+  - Dilate the cervix using surgery and then do evacuation. @@html:<span class="jp">手術で子宮頸管を拡張し、排膿を行う。</span>@@
+  - Or you can also use something called a "mini-labour" (this is too advanced. Don't worry about it) @@html:<span class="jp">また、「mini-labour」と呼ばれるものを使うこともできます（これは高度すぎますので、気にしないでください）。</span>@@
+
 * Gestational diabetes (O)
 :PROPERTIES:
 :CUSTOM_ID: orgaf40a01
