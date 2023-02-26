@@ -38,7 +38,7 @@ There are risk factors for it (you can find more on the "Gestational diabetes" o
   - If the woman had a previous gestational diabetes, then you need to do this test at the booking visit and at 24-28 weeks of pregnancy. @@html:<span class="jp">妊娠糖尿病の既往がある場合は、初診時と妊娠24-28週目にこの検査をする必要があります。</span>@@
   - If the woman has risk factors for gestational diabetes, then do this test at 24-28 weeks of pregnancy. @@html:<span class="jp">妊娠糖尿病の危険因子がある場合は、妊娠24-28週目にこの検査を行ってください。</span>@@
 
-Now, let us talk about some numbers, yay............................. @@html:<span class="jp">では、数字の話をしましょう、ばんざーい。。。。。。。。。。。。。。。。</span>@@
+Now, let us talk about some numbers, yay.............................. @@html:<span class="jp">では、数字の話をしましょう、ばんざーい。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。</span>@@
 
 To diagnose a woman with gestational diabetes, you need to have the following numbers @@html:<span class="jp">妊娠糖尿病の女性を診断するためには、以下の数値が必要です</span>@@:
 - More than 5.6 mmol/L glucose level after fasting. @@html:<span class="jp">空腹時血糖値5.6mmol/L以上。</span>@@
