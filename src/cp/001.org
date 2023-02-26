@@ -24,7 +24,7 @@
 - Misoprostol. @@html:<span class="jp">ミソプロストール。</span>@@
 - @@html:<span class="jp">ミソ。。。うーん。。。。あ！味噌！！！！</span>@@
 - @@html:<span class="jp">プロ。。。あ！！！プロ！！！！！！！すごい！！！！</span>@@
-- @@html:<span class="jp">味噌プロ！！！！！！</span>@@
+- @@html:<span class="jp">味噌いプロ！！！！！！</span>@@
 - You are a professional miso soup chef!!! You always drink miso soup!!!!!!! @@html:<span class="jp">あなたはプロの味噌汁職人です！！！いつもお味噌汁を飲んでるんですね！！！！！！！</span>@@
 - Abortion is usually emotional for the woman. So, she might be sad after the abortion process. So, you give her miso soup to to make her feel warm. @@html:<span class="jp">中絶は通常、その女性にとって感情的なものです。だから、中絶の後、彼女は悲しむかもしれない。そこで、あなたは彼女に<mark>味噌</mark>汁を与えて、暖かい気持ちにさせるのです。</span>@@
 
