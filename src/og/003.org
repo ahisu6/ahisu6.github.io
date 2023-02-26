@@ -63,7 +63,7 @@ OR
 Then, look at her glucose level:
 - If the fasting glucose level is /less/ than 7 mmol/L @@html:<span class="jp">空腹時血糖値が7mmol/L未満の場合</span>@@:
   1. Diet and exercise advice. @@html:<span class="jp">食事や運動のアドバイスをする。</span>@@
-  2. If diet/exercise fails, then give her metformin. @@html:<span class="jp">食事療法・運動療法がうまくいかない場合は、メトホルミンを投与します。</span>@@
+  2. If diet/exercise fails after 1-2 weeks, then give her metformin. @@html:<span class="jp">1-2週間後に食事療法や運動療法がうまくいかなかった場合は、メトホルミンを投与します。</span>@@
   3. If metformin fails, give her insulin. @@html:<span class="jp">メトホルミンがだめなら、インスリンを投与する。</span>@@
 
 - If the fasting glucose level is /more/ than 7 mmol/L @@html:<span class="jp">グルコースレベルが7以上であれば</span>@@:
