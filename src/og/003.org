@@ -16,6 +16,65 @@
 
 #+TOC: headlines 2
 
+* Gestational diabetes (O)
+:PROPERTIES:
+:CUSTOM_ID: orgaf40a01
+:END:
+
+Posted: 2023-02-26 | Updated: 2023-02-26
+
+This is when you get diabetes while you are pregnant. @@html:<span class="jp">これは、妊娠中に糖尿病になった場合です。</span>@@
+
+There are risk factors for it (you can find more on the "Gestational diabetes" on PassMedicine) @@html:<span class="jp">その危険因子があります（PassMedicineの「妊娠糖尿病」で詳しく紹介されています）。</span>@@:
+- High BMI (over 30 kg/m²)
+- Previous /big/ baby which weighs 4.5 kg or more
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: orga83c3b3
+:END:
+
+- Oral glucose tolerance test: measure woman's blood glucose level. Then, give the woman a sugar drink. Then, measure the blood glucose level again! @@html:<span class="jp">女性の血糖値を測定する。次に、女性に砂糖入りの飲み物を飲ませます。そして、再び血糖値を測定します。</span>@@
+  - If the woman had a previous gestational diabetes, then you need to do this test at the booking visit and at 24-28 weeks of pregnancy. @@html:<span class="jp">妊娠糖尿病の既往がある場合は、初診時と妊娠24-28週目にこの検査をする必要があります。</span>@@
+  - If the woman has risk factors for gestational diabetes, then do this test at 24-28 weeks of pregnancy. @@html:<span class="jp">妊娠糖尿病の危険因子がある場合は、妊娠24-28週目にこの検査を行ってください。</span>@@
+
+Now, let us talk about some numbers, yay............................. @@html:<span class="jp">では、数字の話をしましょう、ばんざーい。。。。。。。。。。。。。。。。</span>@@
+
+To diagnose a woman with gestational diabetes, you need to have the following numbers @@html:<span class="jp">妊娠糖尿病の女性を診断するためには、以下の数値が必要です</span>@@:
+- More than 5.6 mmol/L glucose level after fasting. @@html:<span class="jp">空腹時血糖値5.6mmol/L以上。</span>@@
+  - @@html:<span class="jp">5 = ゴ。6 = ロ。。。</span>@@
+  - @@html:<span class="jp">ゴロ？</span>@@
+  - @@html:<span class="jp">ゴロゴロ！！！</span>@@
+  - Imagine a poor and tired pregnant woman who has not eaten for a long time... she is so tired and she just wants to gorogoro :( @@html:<span class="jp">想像してみてください、長い間食べていない貧乏で疲れた妊婦さんを...彼女はとても疲れていて、ただゴロゴロしたいだけなのです :(。</span>@@
+OR
+- More than 7.8 mmol/L glucose level 2 hours after drinking glucose. @@html:<span class="jp">ブドウ糖を飲んでから2時間後のブドウ糖の値が7.8mmol/L以上。</span>@@
+  - @@html:<span class="jp">7 = なな。8 = や</span>@@
+  - @@html:<span class="jp">なや？うーん。。。納屋？</span>@@
+  - Imagine a big barn @@html:<span class="jp">納屋</span>@@ which is made of sugar babies... @@html:<span class="jp">シュガーベイビーでできた大きな納屋を想像してください。。。怖い。。。。。。。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org83f2e1f
+:END:
+
+- See this [[https://lh3.googleusercontent.com/pw/AMWts8BnyDT6TCExKopOMfDvRY2KyqJD4hMGgtKL7DPwEcqMmRgNAONXd0EJR2-BTp0y1HkXpJtNykVQXrJZHRgWCMW8f07CgzO7RGKIX-CA5ErRTnu0_4ry3dV-6kf-pFTVSS7welurSqFxOqyPdlryLFBw=w1269-h717-s-no?authuser=3][picture]]!
+- Do a diabetes meeting with the pregnant woman.
+- Use /short/ -acting insulin!!!!!
+
+Then, look at her glucose level:
+- If the fasting glucose level is /less/ than 7 mmol/L @@html:<span class="jp">空腹時血糖値が7mmol/L未満の場合</span>@@:
+  1. Diet and exercise advice. @@html:<span class="jp">食事や運動のアドバイスをする。</span>@@
+  2. If diet/exercise fails, then give her metformin. @@html:<span class="jp">食事療法・運動療法がうまくいかない場合は、メトホルミンを投与します。</span>@@
+  3. If metformin fails, give her insulin. @@html:<span class="jp">メトホルミンがだめなら、インスリンを投与する。</span>@@
+
+- If the fasting glucose level is /more/ than 7 mmol/L @@html:<span class="jp">グルコースレベルが7以上であれば</span>@@:
+  1. Give her give her insulin.
+
+- If the fasting glucose level is between 6.0 and 6.9 mmol/L /and/ there is evidence of complications @@html:<span class="jp">グルコース値が6.0-6.9 +合併症がある場合</span>@@:
+  1. Give her insulin!
+
+- If metformin is causing the woman problems, then give her glibenclamide. @@html:<span class="jp">メトホルミンが女性の問題を引き起こしているのであれば、グリベンクラミドを与えればよい。</span>@@
+
 * Hyponatraemia in pregnancy (O)
 :PROPERTIES:
 :CUSTOM_ID: org9f8fd5a
