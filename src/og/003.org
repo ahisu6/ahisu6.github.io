@@ -38,8 +38,8 @@ These options depend on how old is the baby. @@html:<span class="jp">これら�
 
 - If the woman is /less/ than 9 weeks pregnant @@html:<span class="jp">妊娠9週未満の場合</span>@@:
   - For this, we use drugs! Yayyyyy.... more drugs to learn!!!! More stories!!!!!!!!
-  - Give oral mifepristone. @@html:<span class="jp">ミフェプリストンを経口投与する。</span>@@
-  - Then, after 48 hours, give vaginal misoprostol. @@html:<span class="jp">そして、48時間後にミソプロストールを経膣投与する。</span>@@
+  - Give oral mifepristone ([[file:../cp/001.org::#mifepristone][see the story of mifepristone]]). @@html:<span class="jp">ミフェプリストンを経口投与する。</span>@@
+  - Then, after 48 hours, give vaginal misoprostol ([[file:../cp/001.org::#misoprostol][see the story of misoprostol]]). @@html:<span class="jp">そして、48時間後にミソプロストールを経膣投与する。</span>@@
     - @@html:<span class="jp">9 weeks</span>@@
     - @@html:<span class="jp">9 = く。Week = しゅう。</span>@@
     - @@html:<span class="jp">くしゅう。。。句集？！</span>@@
