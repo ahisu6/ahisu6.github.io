@@ -42,14 +42,13 @@ Now, let us talk about some numbers, yay............................. @@html:<sp
 
 To diagnose a woman with gestational diabetes, you need to have the following numbers @@html:<span class="jp">妊娠糖尿病の女性を診断するためには、以下の数値が必要です</span>@@:
 - More than 5.6 mmol/L glucose level after fasting. @@html:<span class="jp">空腹時血糖値5.6mmol/L以上。</span>@@
-  - @@html:<span class="jp">5 = ゴ。6 = ロ。。。</span>@@
-  - @@html:<span class="jp">ゴロ？</span>@@
-  - @@html:<span class="jp">ゴロゴロ！！！</span>@@
+  - @@html:<span class="jp">5 = ゴ。6 = ロ。</span>@@
+  - @@html:<span class="jp">ゴロ？ゴロゴロ！！！</span>@@
   - Imagine a poor and tired pregnant woman who has not eaten for a long time... she is so tired and she just wants to gorogoro :( @@html:<span class="jp">想像してみてください、長い間食べていない貧乏で疲れた妊婦さんを...彼女はとても疲れていて、ただゴロゴロしたいだけなのです :(。</span>@@
 OR
 - More than 7.8 mmol/L glucose level 2 hours after drinking glucose. @@html:<span class="jp">ブドウ糖を飲んでから2時間後のブドウ糖の値が7.8mmol/L以上。</span>@@
-  - @@html:<span class="jp">7 = なな。8 = や</span>@@
-  - @@html:<span class="jp">なや？うーん。。。納屋？</span>@@
+  - @@html:<span class="jp">7 = なな。8 = や。</span>@@
+  - @@html:<span class="jp">なや？うーん。。。納屋？！</span>@@
   - Imagine a big barn @@html:<span class="jp">納屋</span>@@ which is made of sugar babies... @@html:<span class="jp">シュガーベイビーでできた大きな納屋を想像してください。。。怖い。。。。。。。</span>@@
 
 ** Treatment
