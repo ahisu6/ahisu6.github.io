@@ -43,6 +43,7 @@ Temporal arteritis might be linked to polymyalgia rheumatica! What do you think?
   - Sometimes patients have temporal arteritis. @@html:<span class="jp">側頭動脈炎を併発することもある</span>@@
 
 - Temporal arteritis:
+  - Fast onset!!!
   - One-sided headache (because of temporal artery inflammation). @@html:<span class="jp">片側だけの頭痛(側頭動脈炎症のため)。</span>@@
   - Vision issues (because of eye artery inflammation). @@html:<span class="jp">視力の問題(眼動脈の炎症のため)。</span>@@
   - Jaw pain. @@html:<span class="jp">顎の痛み。</span>@@
