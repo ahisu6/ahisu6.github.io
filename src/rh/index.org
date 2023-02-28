@@ -1,0 +1,27 @@
+#+TITLE: Rheumatology
+
+#+BEGIN_EXPORT html
+<div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 2em; text-align: center;">Rheumatology</div>
+<div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 2em; text-align: center;">リウマチ学 (rh)</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/rh/index.org][Edit]]
+
+[[file:../index.org][Home]]
+
+-----
+
+* List of topics
+:PROPERTIES:
+:CUSTOM_ID: rhtopics
+:END:
+
+#+ATTR_HTML: :class sortable
+| Page | Title                | Date posted |
+|------+----------------------+-------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#org09f9cc9][Polymyalgia rheumatica and temporal arteritis]] |  2023-02-27 |
+
+
+#+BEGIN_EXPORT html
+<script src="https://ahisu6.github.io/assets/js/sortTable.js"></script>
+#+END_EXPORT
