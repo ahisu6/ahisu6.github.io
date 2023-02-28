@@ -43,6 +43,7 @@ Click the chapter which you want to study! @@html:<span class="jp">勉強した�
 - [[file:./d/index.org][Dermatology - 皮膚科学 (d)]]
 - [[file:./e/index.org][Endocrinology - 内分泌学 (e)]]
 - Gastroenterology - 消化器学 (g)
+- [[file:./rh/index.org][Rheumatology - リウマチ学 (rh)]]
 
 #+BEGIN_EXPORT html
 <!-- * Sorting tables -->
