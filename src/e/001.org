@@ -14,6 +14,54 @@
 
 #+TOC: headlines 2
 
+* Diabetes insipidus
+:PROPERTIES:
+:CUSTOM_ID: orgb916ee6
+:END:
+
+Posted: 2023-02-28 | Updated: 2023-02-28
+
+Before we learn about this, you need to understand that antidiuretic hormone (ADH) /stops/ you from urinating!! @@html:<span class="jp">このことを学ぶ前に、抗利尿ホルモンが尿を止めるということを理解する必要があります!</span>@@
+
+In chemistry, there is something called "osmolality". This means "how much stuff is dissolved in a liquid". I like to think of this as "concentration". If you add more salt to water, then the water will be more concentrated (therefore it will have /higher/ osmolality)... @@html:<span class="jp">化学の世界には「osmolality」というものがあります。これは「液体にどれだけの物質が溶けているか」という意味です。私は、これを「濃縮」と考えたいのです。水に塩を多く入れると、水の濃度が濃くなる(そのため、「osmolality」が高くなります)</span>@@
+
+There are 2 types of diabetes insipidus @@html:<span class="jp">Diabetes insipidusには2つのタイプがあります</span>@@:
+- Central: this means that there is an issue with the brain (the brain is not producing antidiuretic hormone). @@html:<span class="jp">これは、脳に問題があることを意味します(脳から抗利尿ホルモンが分泌されない)。</span>@@
+- Nephrogenic: this means that there is an issue with the kidneys (the kidneys are not responding to antidiuretic hormone). @@html:<span class="jp">これは、腎臓に問題があることを意味します(腎臓が抗利尿ホルモンに反応しない)。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: orgc372476
+:END:
+
+- Polyuria: urinating a lot!
+- Pollydipsia: you will be thirsty all the time!!!
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: orgb269b3d
+:END:
+
+- High blood osmolality
+  1. Because your brain is not producing ADH, you will keep urinating. @@html:<span class="jp">脳からADHが分泌されないので、尿が出続けることになります。</span>@@
+  2. All this urination will reduce your blood volume. @@html:<span class="jp">この排尿により、血液量は減少します。</span>@@
+  3. If you reduce your blood volume, that means your blood will be /more/ concentrated. @@html:<span class="jp">血液量を減らせば、それだけ血液が濃縮されるということです。</span>@@
+  4. Therefore, you will have higher blood osmolality (because your blood is /more/ concentrated). @@html:<span class="jp">そのため、血液の「osmolality」が高くなります（血液が濃縮されるため）。</span>@@
+- Low urine osmolality
+  1. Because you are urinating a lot of water, your urine will become diluted. @@html:<span class="jp">水分を多く排出しているため、尿が薄くなってしまいます。</span>@@
+  2. So, your urine will have a /low/ osmolality. @@html:<span class="jp">だから、尿の「osmolality」が低くなります。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org92be224
+:END:
+
+- Central diabetes insipidus:
+  - Because your brain is /not/ producing ADH, you need to give your body some drugs that contain ADH. @@html:<span class="jp">脳からADHが分泌されないので、ADHを含む薬を体に投与する必要があります。</span>@@
+  - So, we give something called "desmopressin" (which is the same as ADH)!!!! @@html:<span class="jp">そこで、「デスモプレシン」というものを投与します（ADHと同じものです）！！！！</span>@@
+- Nephrogenic diabetes insipidus:
+  - Thiazide diuretics: these drugs allow the kidneys to absorb more salt and water! @@html:<span class="jp">これらの薬は、腎臓がより多くの塩分と水分を吸収することを可能にします。</span>@@
+
 * Parathyroid diseases
 :PROPERTIES:
 :CUSTOM_ID: org4f0d408
