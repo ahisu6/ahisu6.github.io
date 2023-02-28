@@ -56,6 +56,8 @@ There are 2 types of diabetes insipidus @@html:<span class="jp">Diabetes insipid
 :CUSTOM_ID: org92be224
 :END:
 
+This depends on the type.
+
 - Central diabetes insipidus:
   - Because your brain is /not/ producing ADH, you need to give your body some drugs that contain ADH. @@html:<span class="jp">脳からADHが分泌されないので、ADHを含む薬を体に投与する必要があります。</span>@@
   - So, we give something called "desmopressin" (which is the same as ADH)!!!! @@html:<span class="jp">そこで、「デスモプレシン」というものを投与します（ADHと同じものです）！！！！</span>@@
