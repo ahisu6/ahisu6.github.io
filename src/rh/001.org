@@ -23,7 +23,7 @@
 
 Posted: 2023-02-27 | Updated: 2023-02-27
 
-Hi again. @@html:<span class="jp">笑。</span>@@
+Hi again @@html:<span class="jp">笑。</span>@@
 
 So, doctors think that these two diseases are linked together... @@html:<span class="jp">だから、この2つの病気は連動していると医師は考えているのですが。。。</span>@@
 
