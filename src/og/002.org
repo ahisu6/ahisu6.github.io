@@ -48,7 +48,7 @@ Not only that, but also, another bacteria starts to colonise the vagina! It's ca
 :END:
 
 - No symptoms.
-- Milky discharge with fish smell. @@html:<span class="jp">魚臭のする乳白色のおりもの</span>@@
+- Milky discharge with fish smell. @@html:<span class="jp">魚臭のする乳白色のおりもの。</span>@@
   - Maybe Gardnerella vaginalis is a fish that like swimming in the vagina... @@html:<span class="jp">Gardnerella vaginalisは、膣の中を好んで泳ぐ魚なのかもしれない。。。</span>@@
 
 *** Investigations of bacterial vaginosis
