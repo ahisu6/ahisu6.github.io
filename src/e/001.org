@@ -21,9 +21,9 @@
 
 Posted: 2023-02-28 | Updated: 2023-02-28
 
-Before we learn about this, you need to understand that antidiuretic hormone (ADH) /stops/ you from urinating!! @@html:<span class="jp">このことを学ぶ前に、抗利尿ホルモンが尿を止めるということを理解する必要があります!</span>@@
+Before we learn about this, you need to understand that antidiuretic hormone (ADH) /stops/ you from urinating!! @@html:<span class="jp">このことを学ぶ前に、抗利尿ホルモンが尿を止めるということを理解する必要があります！！</span>@@
 
-In chemistry, there is something called "osmolality". This means "how much stuff is dissolved in a liquid". I like to think of this as "concentration". If you add more salt to water, then the water will be more concentrated (therefore it will have /higher/ osmolality)... @@html:<span class="jp">化学の世界には「osmolality」というものがあります。これは「液体にどれだけの物質が溶けているか」という意味です。私は、これを「濃縮」と考えたいのです。水に塩を多く入れると、水の濃度が濃くなる(そのため、「osmolality」が高くなります)</span>@@
+In chemistry, there is something called "osmolality". This means "how much stuff is dissolved in a liquid". I like to think of this as "concentration". If you add more salt to water, then the water will be more concentrated (therefore it will have /higher/ osmolality)... @@html:<span class="jp">化学の世界には「osmolality」というものがあります。これは「液体にどれだけの物質が溶けているか」という意味です。私は、これを「濃縮」と考えたいのです。水に塩を多く入れると、水の濃度が濃くなる(そのため、「osmolality」が高くなります)。</span>@@
 
 There are 2 types of diabetes insipidus @@html:<span class="jp">Diabetes insipidusには2つのタイプがあります</span>@@:
 - Central: this means that there is an issue with the brain (the brain is not producing antidiuretic hormone). @@html:<span class="jp">これは、脳に問題があることを意味します(脳から抗利尿ホルモンが分泌されない)。</span>@@
