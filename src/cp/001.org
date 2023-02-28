@@ -16,6 +16,27 @@
 
 #+TOC: headlines 2
 
+* Desmopressin
+:PROPERTIES:
+:CUSTOM_ID: desmopressin
+:END:
+- Desmopressin. @@html:<span class="jp">デスモプレシン。</span>@@
+- This drug is used to replace antidiuretic hormone (ADH) in the body. @@html:<span class="jp">本剤は、体内の抗利尿ホルモン(ADH)を補充するために使用されます。</span>@@
+- They give this drug to people who cannot produce ADH. @@html:<span class="jp">ADHを産生できない人にこの薬を投与するのです。</span>@@
+- Antidiuretic hormone stops the human from urinating. @@html:<span class="jp">抗利尿ホルモンは、人間の排尿を止める。</span>@@
+- Antidiuretic hormone helps the human body store water. @@html:<span class="jp">抗利尿ホルモンは、人間の体に水分を蓄える働きがあります。</span>@@
+-  @@html:<span class="jp">うーん。。。デスモプレシン。。。。。。スモプレシン。。。デスモ！！！！</span>@@
+- Ah! The part @@html:<span class="jp">スモ</span>@@ sounds similar to @@html:<span class="jp">相撲！</span>@@
+- Maybe that is the secret for why Sumo @@html:<span class="jp">相撲</span>@@ fighters are so big!! They must eat a lot of desmopressin!! @@html:<span class="jp">相撲の相撲が大きいのは、そのせいかもしれませんね！！デスモプレシンを大量に摂取しているのでしょう！！</span>@@
+- So... if they eat a lot of desmopressin then they must store a lot of water in their bodies (which makes them big)! @@html:<span class="jp">ということは...デスモプレシンをたくさん食べれば、体内にたくさんの水を蓄えることになる（だから大きくなる）！すごいよ！！！！</span>@@
+
+** Summary
+:PROPERTIES:
+:CUSTOM_ID: org15fed98
+:END:
+
+- Whenever you see desmopressin, remember the sumo fighters. Sumo fighters eat a lot of desmopressin so that they store more water in their bodies!! @@html:<span class="jp">デスモプレシンを見かけたら、<mark>相撲</mark>取りのことを思い出してください。相撲取りは、体内に水分を多く蓄えるために、デスモプレシンをたくさん食べているのです！！</span>@@
+
 * Misoprostol
 :PROPERTIES:
 :CUSTOM_ID: misoprostol
