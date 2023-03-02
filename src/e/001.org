@@ -61,6 +61,7 @@ This depends on the type.
 - Central diabetes insipidus:
   - Because your brain is /not/ producing ADH, you need to give your body some drugs that contain ADH. @@html:<span class="jp">脳からADHが分泌されないので、ADHを含む薬を体に投与する必要があります。</span>@@
   - So, we give something called "desmopressin" ([[file:../cp/001.org::#desmopressin][see the story of desmopressin]]) (which is the same as ADH)!!!! @@html:<span class="jp">そこで、「デスモプレシン」というものを投与します（ADHと同じものです）！！！！</span>@@
+  - The Sumo fighters sometimes pass a lot of urine... so, they need to keep taking desmopressin to stop that! @@html:<span class="jp"><mark>相撲</mark>取りは尿量が多いことがあるので。。。それを止めるためにデ<mark>スモ</mark>プレシンを飲み続けなければならないのです！</span>@@
 - Nephrogenic diabetes insipidus:
   - Thiazide diuretics: these drugs allow the kidneys to absorb more salt and water! @@html:<span class="jp">これらの薬は、腎臓がより多くの塩分と水分を吸収することを可能にします。</span>@@
 
