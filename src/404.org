@@ -1,9 +1,9 @@
 #+TITLE: No such page!
 
 #+BEGIN_EXPORT html
-<div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 2em; text-align: center;">What?! There is no page!</div>
-<div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 2em; text-align: center;">え？！ページがない！</div>
-<div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 1.5em; text-align: center;">Please, can you send this to me? I might need to fix it...</div>
+<div class="engt">What?! There is no page!</div>
+<div class="japt">え？！ページがない！</div>
+<div class="engt">Please, can you send this to me? I might need to fix it...</div>
 <a href="/index.html">Go back to Ahisu6 main page!</a>
 #+END_EXPORT
 

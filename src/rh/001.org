@@ -1,9 +1,9 @@
 #+TITLE: Rheumatology
 
 #+BEGIN_EXPORT html
-<div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 2em; text-align: center;">Rheumatology</div>
-<div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 2em; text-align: center;">リウマチ学</div>
-<div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 1.5em; text-align: center;">Page 001</div>
+<div class="engt">Rheumatology</div>
+<div class="japt">リウマチ学</div>
+<div class="engt">Page 001</div>
 #+END_EXPORT
 
 [[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/rh/001.org][Edit]]

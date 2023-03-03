@@ -1,8 +1,8 @@
 #+TITLE: Dermatology
 
 #+BEGIN_EXPORT html
-<div style="color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 2em; text-align: center;">Dermatology</div>
-<div style="color: #89b7fa; background-color: transparent; font-weight: bold; font-size: 2em; text-align: center;">皮膚科学</div>
+<div class="engt">Dermatology</div>
+<div class="japt">皮膚科学</div>
 #+END_EXPORT
 
 [[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/d/index.org][Edit]]
