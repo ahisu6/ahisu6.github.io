@@ -20,7 +20,7 @@
 :END:
 This website is a gift for my /best/ friend! @@html:<span class="jp">このウェブサイトは、私の大親友への贈り物です！</span>@@
 
-The pink highlighting means that it is a link. For example, [[https://www.youtube.com/embed/aRCVKqBPsFU][this is a link]]! @@html:<span class="jp">ピンクのハイライトは、リンクであることを意味します。例えば、<a href="https://www.youtube.com/embed/aRCVKqBPsFU">これはリンクです</a>！</span>@@
+The this colour means that it is a link. For example, [[https://www.youtube.com/embed/aRCVKqBPsFU][this is a link]]! @@html:<span class="jp">ピンクのハイライトは、リンクであることを意味します。例えば、<a href="https://www.youtube.com/embed/aRCVKqBPsFU">これはリンクです</a>！</span>@@
 
 * Chapters
 :PROPERTIES:
@@ -42,6 +42,8 @@ Click the chapter which you want to study! @@html:<span class="jp">勉強した�
 - [[file:./rh/index.org][Rheumatology - リウマチ学 (rh)]]
 
 #+BEGIN_EXPORT html
+<div class="japt">私の目には、あなたがいつも私にこの花を思い出させてくれるでしょう。素敵な友人でいてくれてありがとう。</div>
+
 <p style="text-align: center;">
 <img style="max-width: 66%; max-height: auto;" src="https://drive.google.com/uc?export=view&amp;id=18Wk2AzGZsZXmVQ8IWdbY7-vkiYR5ae5o">
 </p>
