@@ -4,5 +4,5 @@
 <div class="engt">What?! There is no page!</div>
 <div class="japt">え？！ページがない！</div>
 <div class="engt">Please, can you send this to me? I might need to fix it...</div>
-<a href="/index.html">Go back to Ahisu6 main page!</a>
+<a href="/index.html">Ahhhhh! Panic, panic, panic! Go back to Ahisu6 main page!!!</a>
 #+END_EXPORT
