@@ -47,7 +47,7 @@ span.jp {
   font-size: 0.8em;
 }
 
-span.engt {
+engt {
   color: #8ffa89;
   background-color: transparent;
   font-weight: bolder;
@@ -55,7 +55,7 @@ span.engt {
   text-align: center;
 }
 
-span.japt {
+japt {
   color: #89b7fa;
   background-color: transparent;
   font-weight: bolder;
