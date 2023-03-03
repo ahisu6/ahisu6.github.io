@@ -2,10 +2,6 @@
 #+OPTIONS: toc:nil
 
 #+BEGIN_EXPORT html
-<p style="text-align: center;">
-<img style="max-width: 66%; max-height: auto;" src="https://drive.google.com/uc?export=view&amp;id=18Wk2AzGZsZXmVQ8IWdbY7-vkiYR5ae5o">
-</p>
-
 <div style="font-family: monospace; background-color: #FDFDFB; font-weight: bolder; font-size: 2em; text-align: center;">
 <span style="color: #152515;">Ahi</span><span style="color: #FF9600;">su</span><span style="color: #6c9cf6;">6</span>
 </div>
@@ -72,3 +68,8 @@ Please note that the translation may not be correct. However, I will try my abso
 
 The content of this site is not intended as medical advice or as a diagnostic tool. If you have a medical problem, you should seek medical advice. @@html:<span class="jp">本サイトのコンテンツは、医学的なアドバイスや診断のためのものではありません。医療上の問題がある場合は、医師の診断を受ける必要があります。</span>@@
 
+#+BEGIN_EXPORT html
+<p style="text-align: center;">
+<img style="max-width: 66%; max-height: auto;" src="https://drive.google.com/uc?export=view&amp;id=18Wk2AzGZsZXmVQ8IWdbY7-vkiYR5ae5o">
+</p>
+#+END_EXPORT
