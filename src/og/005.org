@@ -6,7 +6,7 @@
 <div class="engt">Page 005</div>
 #+END_EXPORT
 
-[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/og/004.org][Edit]]
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/og/005.org][Edit]]
 
 [[file:./index.org][Home]]
 
