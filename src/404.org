@@ -6,5 +6,3 @@
 <div class="engt">Please, can you send this to me? I might need to fix it...</div>
 <a href="/index.html">Go back to Ahisu6 main page!</a>
 #+END_EXPORT
-
-
