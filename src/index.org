@@ -42,6 +42,12 @@ Click the chapter which you want to study! @@html:<span class="jp">勉強した�
 - [[file:./rh/index.org][Rheumatology - リウマチ学 (rh)]]
 
 #+BEGIN_EXPORT html
+<p style="text-align: center;">
+<img style="max-width: 66%; max-height: auto;" src="https://drive.google.com/uc?export=view&amp;id=18Wk2AzGZsZXmVQ8IWdbY7-vkiYR5ae5o">
+</p>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
 <!-- * Sorting tables -->
 <!-- :PROPERTIES: -->
 <!-- :CUSTOM_ID: orgdcbac4b -->
@@ -56,7 +62,6 @@ Click the chapter which you want to study! @@html:<span class="jp">勉強した�
 <!-- Click on the "TITLE" header, then the table will be sorted by alphabetical order... @@html:<span class="jp">「TITLE」のヘッダーをクリックすると、テーブルがアルファベット順にソートされます。。。</span>@@ -->
 #+END_EXPORT
 
-
 * Disclaimer
 :PROPERTIES:
 :CUSTOM_ID: org1b89221
@@ -67,9 +72,3 @@ Disclaimer. @@html:<span class="jp">免責事項。</span>@@
 Please note that the translation may not be correct. However, I will try my absolute best to make sure that the translation is as accurate as possible. @@html:<span class="jp">翻訳が正確でない可能性があることをご了承ください。しかし、可能な限り正確な翻訳をするよう、絶対的な努力をします。</span>@@
 
 The content of this site is not intended as medical advice or as a diagnostic tool. If you have a medical problem, you should seek medical advice. @@html:<span class="jp">本サイトのコンテンツは、医学的なアドバイスや診断のためのものではありません。医療上の問題がある場合は、医師の診断を受ける必要があります。</span>@@
-
-#+BEGIN_EXPORT html
-<p style="text-align: center;">
-<img style="max-width: 66%; max-height: auto;" src="https://drive.google.com/uc?export=view&amp;id=18Wk2AzGZsZXmVQ8IWdbY7-vkiYR5ae5o">
-</p>
-#+END_EXPORT
