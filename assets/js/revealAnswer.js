@@ -31,7 +31,7 @@ window.onload = function() {
 // 
 // The answer goes here
 // You can add multiple lines in Org-mode format
-// Blah, blah, blah, blah, blah
-// Blah, blah, blah...
+// Blah, blah, blah, blah, blah...
+// ... blah, blah, blah!
 // 
 // @@html:</div></a>@@
