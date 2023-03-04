@@ -69,11 +69,11 @@ There is a lot of information here. I summarised for you in this [[https://lh3.g
     - Under the microscope, you will see Schiller-Duval bodies (which are basically glomeruli). @@html:<span class="jp">顕微鏡で見ると、シラー・デュバル小体（これは基本的に糸球体である）が見えます。</span>@@
     - It secretes alpha fetoprotein. @@html:<span class="jp">αフェトプロテインを分泌する。</span>@@
     - It affects children!!! Yolk is a baby!!!! @@html:<span class="jp">子供に影響する！！！卵の黄身は赤ちゃん！！！！span>@@
-    - Yolk <mark>sac</mark>: Schiller-Duval bodies, Alpha fetoprotein, Children!!!
+    - Yolk @@html:<mark>sac</mark>@@: Schiller-Duval bodies, Alpha fetoprotein, Children!!!
   - Dysgerminoma
     - This secretes hCG and lactate dehydrogenase (LDH).
 3. Sex cord-stromal
-  - It has 3 types: Fibroma, Granulosa cell tumour, Sertoli-Leydig cell tumour.
+  - It has 3 types: fibroma, Granulosa cell tumour, Sertoli-Leydig cell tumour.
     - Fibroma
       - Exams love asking question about this one! @@html:<span class="jp">試験官も大好きな質問です！</span>@@
       - It causes something called Meigs syndrome. This is a triad of fibroma, ascites, and pleural effusion!!!! You must know this!!!!! Very important!!!!!!!!!!!! @@html:<span class="jp">Meigs症候群と呼ばれるものを引き起こします。これは線維腫、腹水、胸水の三徴候です！！！！ これは知っておかなければなりません！！！！！ とても重要です！！！！！！！！！！！！</span>@@
