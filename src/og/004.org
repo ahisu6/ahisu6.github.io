@@ -13,3 +13,116 @@
 [[file:./003.org][Previous page]] - [[file:./005.org][Next page]]
 
 -----
+
+* Ovarian tumours
+:PROPERTIES:
+:CUSTOM_ID: org3450aaa
+:END:
+
+Posted: 2023-03-03 | Updated: 2023-03-03
+
+Read this section a few times to understand it properly. @@html:<span class="jp">この項を何度か読んで、正しく理解してください。</span>@@
+
+The ovary is made up of 3 types of cells (see this [[https://lh3.googleusercontent.com/pw/AMWts8DL3fvtX-k4iYp_foGsT0_4Qty6pwYaRrd0MQFJrhGzJDAJTKEiCBbxVR8Ni7to4eNZo8DRCvw4KHKWVR33L3o2sqExrXUO1xygBwO8KI1IhQLeo-X6LU_JKz4yRwjJEYYsVKtxtQNlOp8_kBm3GxpI=s500-no?authuser=1][picture]]) @@html:<span class="jp">卵巣は3種類の細胞で構成されている</span>@@:
+1. Epithelial cells
+2. Germ cells
+3. Sex cord and stromal cells
+
+There are many risk factors for ovarian tumours @@html:<span class="jp">卵巣腫瘍の危険因子はたくさんある</span>@@:
+- Genetics: similar to the breast cancer genes (BRCA genes). @@html:<span class="jp">遺伝: 乳がん遺伝子（BRCA遺伝子）と類似している。</span>@@
+- A lot of ovulation: for example in early menarche. @@html:<span class="jp">排卵が多い:初潮が早い場合など。</span>@@
+- Nulliparity: so, if the woman never had children, she is at risk! @@html:<span class="jp">ヌリパリティ: では、子供を産んだことのない女性は危険なのか！！</span>@@
+
+First, let's start with the main types of ovarian tumours @@html:<span class="jp">まず、卵巣腫瘍の主な種類から説明します</span>@@:
+1. Epithelial tumours: these are the most common in older women!!! @@html:<span class="jp">こうは、高齢女性に多い！！！</span>@@
+2. Germ cell tumours: these are common in /younger/ women!!!!! @@html:<span class="jp">これは若い女性に多いですね！！！！！</span>@@
+3. Sex cord-stromal tumours
+
+Have a look at this [[https://lh3.googleusercontent.com/pw/AMWts8DL3fvtX-k4iYp_foGsT0_4Qty6pwYaRrd0MQFJrhGzJDAJTKEiCBbxVR8Ni7to4eNZo8DRCvw4KHKWVR33L3o2sqExrXUO1xygBwO8KI1IhQLeo-X6LU_JKz4yRwjJEYYsVKtxtQNlOp8_kBm3GxpI=s500-no?authuser=1][picture]]. I drew this so that you can understand it better. If you still don't understand it, let me know!!! @@html:<span class="jp">もっと理解してもらえるように描きました。それでもわからなかったら、教えてください！！！</span>@@
+
+** Features
+:PROPERTIES:
+:CUSTOM_ID: orgcd2b7f5
+:END:
+
+Don't worry too much about these facts! @@html:<span class="jp">これらの事実をあまり気にしないでください！</span>@@
+
+There is more information on the "Ovarian tumours" page on PassMedicine. @@html:<span class="jp">PassMedicineの「Ovarian tumours」ページに詳しい情報がありますよ。</span>@@
+
+There is a lot of information here. I summarised for you in this [[https://lh3.googleusercontent.com/pw/AMWts8CJ3xY6isjSpbkihxukcTwrTG-JfdH-mEqS63sG5txNsKLgOuxT4B8EYGlaCNgCj1sL0jXyZqA1fNCr2pShCzTesTHeRCs2T0p2yVPUP0fRmVaOaWHfLRF6UVfXa8sCMVOKe2Kz4vhA6mbWqK8kl_Se=w1046-h824-no?authuser=1][picture]]!
+
+1. Epithelial tumours
+  - These are separated into two types: serous (filled with water) and mucinous (filled with mucus... Ehhhhh!!). @@html:<span class="jp">これらは、「serous」（水で満たされている）と「mucinous」(粘液で満たされている・・・えーっ！！)。</span>@@
+  - There is a benign type (cystadenoma) and a malignant type (cystadenocarcinoma). @@html:<span class="jp">良性タイプ(cystadenoma)と悪性タイプ(cystadenocarcinoma)がある。</span>@@
+2. Germ cell tumour
+  - This is common in younger women. @@html:<span class="jp">これは若い女性に多いですね。</span>@@
+  - It has 4 types: teratoma, yolk sac, dysgerminoma, and placental.
+  - Teratoma
+    - This one is my favourite!! @@html:<span class="jp">この1枚がお気に入りです！！</span>@@
+    - You might see it in theatre! @@html:<span class="jp">手術室でも見かけることがあるかもしれませんね！</span>@@
+    - It is made from embryo cells! @@html:<span class="jp">胚細胞から作られている！</span>@@
+    - This is why you might see nails, hair, bone, guts, skin and other body parts during the surgery... because it is made from embryo cells!!!! @@html:<span class="jp">手術中に爪や髪の毛、骨、内臓、皮膚など体の一部が見えることがあるのはこのためです。。。胚の細胞から作られているからです！！！！</span>@@
+  - Yolk sac
+    - Under the microscope, you will see Schiller-Duval bodies (which are basically glomeruli). @@html:<span class="jp">顕微鏡で見ると、シラー・デュバル小体（これは基本的に糸球体である）が見えます。</span>@@
+    - It secretes alpha fetoprotein. @@html:<span class="jp">αフェトプロテインを分泌する。</span>@@
+    - It affects children!!! Yolk is a baby!!!! @@html:<span class="jp">子供に影響する！！！卵の黄身は赤ちゃん！！！！span>@@
+    - Yolk <mark>sac</mark>: Schiller-Duval bodies, Alpha fetoprotein, Children!!!
+  - Dysgerminoma
+    - This secretes hCG and lactate dehydrogenase (LDH).
+3. Sex cord-stromal
+  - It has 3 types: Fibroma, Granulosa cell tumour, Sertoli-Leydig cell tumour.
+    - Fibroma
+      - Exams love asking question about this one! @@html:<span class="jp">試験官も大好きな質問です！</span>@@
+      - It causes something called Meigs syndrome. This is a triad of fibroma, ascites, and pleural effusion!!!! You must know this!!!!! Very important!!!!!!!!!!!! @@html:<span class="jp">Meigs症候群と呼ばれるものを引き起こします。これは線維腫、腹水、胸水の三徴候です！！！！ これは知っておかなければなりません！！！！！ とても重要です！！！！！！！！！！！！</span>@@
+    - Granulosa cell tumour
+      - This produces oestrogen and causes early puberty in children!! @@html:<span class="jp">これがエストロゲンを産生し、子どもの思春期を早める原因になるのです！！</span>@@
+    - Sertoli-Leydig cell tumour
+      - This produces androgens and makes the woman have male features!! @@html:<span class="jp">これがアンドロゲンを生成し、女性に男性機能を持たせるのです！！</span>@@
+      - It is associated with Peutz-Jegher syndrome (this is a condition which causes many polyps in the bowels, and it increases risk of bowel cancer). @@html:<span class="jp">ポイツ・イェーガー症候群(腸にポリープが多くできる病気で、腸がんのリスクが高くなります)と関連します。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: orge0b80fb
+:END:
+
+These are very vague:
+- Abdominal bloating and pain!!! @@html:<span class="jp">腹部の膨満感や痛み！！！</span>@@
+- Feeling full (so, the woman doesn't finish eating her food)! @@html:<span class="jp">満腹感(だから、女性は食べ物を食べ終わらない)！</span>@@
+- Peeing a lot!! @@html:<span class="jp">排尿回数が多い！！</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: orge4eb705
+:END:
+
+- CA125: this is the first test you should do in every patient with suspected ovarian cancer!!! @@html:<span class="jp">卵巣がんが疑われるすべての患者さんに最初に行うべき検査です！！！</span>@@
+- Pelvic ultrasound
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org5495856
+:END:
+
+- Surgery
+- Platinum-based chemotherapy
+
+** Questions of org3450aaa
+:PROPERTIES:
+:CUSTOM_ID: org32ce543
+:END:
+
+1. If the patient comes in with suspected ovarian tumour, what test should you do?
+2. Which ovarian tumour type causes Meigs syndrome?
+3. Which ovarian tumour type has hair, skin, and other body parts?
+4. Which ovarian tumour type mostly affects children?
+5. Which ovarian tumour type secretes lactate dehydrogenase?
+6. Which ovarian tumour type has Schiller-Duval bodies under a microscope?
+
+@@html:<div onclick="reveal()">Click this sentence to see the answers! <span class="jp">この文章をクリックすると、答えが表示されます！</span></div><div style="display: none;">@@
+1. CA125
+2. Fibroma
+3. Teratoma
+4. Yolk sac
+5. Dysgerminoma
+6. Yolk sac
+@@html:</div>@@
