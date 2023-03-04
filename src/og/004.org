@@ -34,7 +34,7 @@ The ovary is made up of 3 types of cells (see this [[https://lh3.googleuserconte
 There are many risk factors for ovarian tumours @@html:<span class="jp">卵巣腫瘍の危険因子はたくさんある</span>@@:
 - Genetics: similar to the breast cancer genes (BRCA genes). @@html:<span class="jp">遺伝: 乳がん遺伝子（BRCA遺伝子）と類似している。</span>@@
 - A lot of ovulation: for example in early menarche. @@html:<span class="jp">排卵が多い:初潮が早い場合など。</span>@@
-- Nulliparity: so, if the woman never had children, she is at risk! @@html:<span class="jp">ヌリパリティ: では、子供を産んだことのない女性は危険なのか！！</span>@@
+- Nulliparity: so, if the woman never had children, she is at risk!! @@html:<span class="jp">ヌリパリティ: では、子供を産んだことのない女性は危険なのか！！</span>@@
 
 First, let's start with the main types of ovarian tumours @@html:<span class="jp">まず、卵巣腫瘍の主な種類から説明します</span>@@:
 1. Epithelial tumours: these are the most common in older women!!! @@html:<span class="jp">こうは、高齢女性に多い！！！</span>@@
