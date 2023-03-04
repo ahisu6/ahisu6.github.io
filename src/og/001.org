@@ -4,6 +4,7 @@
 <div class="engt">Obstetrics and Gynaecology</div>
 <div class="japt">産婦人科学</div>
 <div class="engt">Page 001</div>
+<script src="https://ahisu6.github.io/assets/js/revealAnswer.js"></script>
 #+END_EXPORT
 
 [[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/og/001.org][Edit]]
@@ -199,11 +200,11 @@ Let me explain to you what that means:
   2. 21+5 - 28+2 weeks
   3. 19+2 - 12+3 weeks
 
-@@html:<div onclick="document.getElementById ('view').style.display=document.getElementById('view').style.display=='none' ? 'block':'none';"><p>Click this sentence to see the answers! <span class="jp">この文章をクリックすると、答えが表示されます！</span></p><div id="view" style="display: none;">@@
+@@html:<a href="" id="reveal"><p>Click this sentence to see the answers! <span class="jp">この文章をクリックすると、答えが表示されます！</span></p><div id="view" style="display: none;">@@
 1. between 20 weeks AND 25 weeks, 4 days
 2. between 21 weeks, 5 days AND 28 weeks, 2 days
 3. between 19 weeks, 2 days AND 12 weeks, 3 days
-@@html:</div></div>@@
+@@html:</div></a>@@
 
 ** The booking visit
 :PROPERTIES:
