@@ -60,7 +60,7 @@ span.jp {
 /* This is to help with the reveal.js script. I am grateful for the answer provided by the user "am2505": https://stackoverflow.com/questions/61302125/hiding-answers-to-questions-using-javascript */
 .answerBlock {
   display: block !important;
-  padding: 30px 0;
+  padding: 20px 0;
 }
 
 TABLE, th, td, tr {
