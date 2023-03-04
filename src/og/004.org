@@ -14,7 +14,7 @@
 
 -----
 
-* Ovarian tumours
+* Ovarian tumours (G)
 :PROPERTIES:
 :CUSTOM_ID: org3450aaa
 :END:
