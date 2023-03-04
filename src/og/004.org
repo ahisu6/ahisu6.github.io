@@ -43,7 +43,7 @@ First, let's start with the main types of ovarian tumours @@html:<span class="jp
 
 Have a look at this [[https://lh3.googleusercontent.com/pw/AMWts8DL3fvtX-k4iYp_foGsT0_4Qty6pwYaRrd0MQFJrhGzJDAJTKEiCBbxVR8Ni7to4eNZo8DRCvw4KHKWVR33L3o2sqExrXUO1xygBwO8KI1IhQLeo-X6LU_JKz4yRwjJEYYsVKtxtQNlOp8_kBm3GxpI=s500-no?authuser=1][picture]]. I drew this so that you can understand it better. If you still don't understand it, let me know!!! @@html:<span class="jp">もっと理解してもらえるように描きました。それでもわからなかったら、教えてください！！！</span>@@
 
-*** Features
+** Types
 :PROPERTIES:
 :CUSTOM_ID: orgcd2b7f5
 :END:
