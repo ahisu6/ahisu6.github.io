@@ -4,6 +4,7 @@
 <div class="engt">Obstetrics and Gynaecology</div>
 <div class="japt">産婦人科学</div>
 <div class="engt">Page 004</div>
+<script src="https://ahisu6.github.io/assets/js/revealAnswer.js"></script>
 #+END_EXPORT
 
 [[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/og/004.org][Edit]]
