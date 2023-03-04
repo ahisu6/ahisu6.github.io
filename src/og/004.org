@@ -52,12 +52,12 @@ Don't worry too much about these facts! @@html:<span class="jp">これらの事�
 
 There is more information on the "Ovarian tumours" page on PassMedicine. @@html:<span class="jp">PassMedicineの「Ovarian tumours」ページに詳しい情報がありますよ。</span>@@
 
-There is a lot of information here. I summarised for you in this [[https://lh3.googleusercontent.com/pw/AMWts8CJ3xY6isjSpbkihxukcTwrTG-JfdH-mEqS63sG5txNsKLgOuxT4B8EYGlaCNgCj1sL0jXyZqA1fNCr2pShCzTesTHeRCs2T0p2yVPUP0fRmVaOaWHfLRF6UVfXa8sCMVOKe2Kz4vhA6mbWqK8kl_Se=w1046-h824-no?authuser=1][picture]]!
+There is a lot of information here. I summarised it for you in this [[https://lh3.googleusercontent.com/pw/AMWts8CJ3xY6isjSpbkihxukcTwrTG-JfdH-mEqS63sG5txNsKLgOuxT4B8EYGlaCNgCj1sL0jXyZqA1fNCr2pShCzTesTHeRCs2T0p2yVPUP0fRmVaOaWHfLRF6UVfXa8sCMVOKe2Kz4vhA6mbWqK8kl_Se=w1046-h824-no?authuser=1][picture]]!
 
 1. Epithelial tumours
   - These are separated into two types: serous (filled with water) and mucinous (filled with mucus... Ehhhhh!!). @@html:<span class="jp">これらは、「serous」（水で満たされている）と「mucinous」(粘液で満たされている・・・えーっ！！)。</span>@@
   - There is a benign type (cystadenoma) and a malignant type (cystadenocarcinoma). @@html:<span class="jp">良性タイプ(cystadenoma)と悪性タイプ(cystadenocarcinoma)がある。</span>@@
-2. Germ cell tumour
+2. Germ cell tumours
   - This is common in younger women. @@html:<span class="jp">これは若い女性に多いですね。</span>@@
   - It has 4 types: teratoma, yolk sac, dysgerminoma, and placental.
   - Teratoma
@@ -65,11 +65,11 @@ There is a lot of information here. I summarised for you in this [[https://lh3.g
     - You might see it in theatre! @@html:<span class="jp">手術室でも見かけることがあるかもしれませんね！</span>@@
     - It is made from embryo cells! @@html:<span class="jp">胚細胞から作られている！</span>@@
     - This is why you might see nails, hair, bone, guts, skin and other body parts during the surgery... because it is made from embryo cells!!!! @@html:<span class="jp">手術中に爪や髪の毛、骨、内臓、皮膚など体の一部が見えることがあるのはこのためです。。。胚の細胞から作られているからです！！！！</span>@@
-  - Yolk sac
+  - Yolk sac tumours
     - Under the microscope, you will see Schiller-Duval bodies (which are basically glomeruli). @@html:<span class="jp">顕微鏡で見ると、シラー・デュバル小体（これは基本的に糸球体である）が見えます。</span>@@
     - It secretes alpha fetoprotein. @@html:<span class="jp">αフェトプロテインを分泌する。</span>@@
     - It affects children!!! Yolk is a baby!!!! @@html:<span class="jp">子供に影響する！！！卵の黄身は赤ちゃん！！！！<span>@@
-    - Yolk @@html:<mark>sac</mark>@@: @@html:<mark>S@@chiller-Duval bodies, @@html:<mark>A@@lpha fetoprotein, @@html:<mark>C@@hildren!!!
+    - Yolk @@html:<mark>sac</mark>@@: @@html:<mark>S</mark>@@chiller-Duval bodies, @@html:<mark>A</mark>@@lpha fetoprotein, @@html:<mark>C</mark>@@hildren!!!
   - Dysgerminoma
     - This secretes hCG and lactate dehydrogenase (LDH).
 3. Sex cord-stromal
