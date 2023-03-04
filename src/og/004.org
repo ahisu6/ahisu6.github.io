@@ -45,7 +45,7 @@ Have a look at this [[https://lh3.googleusercontent.com/pw/AMWts8DL3fvtX-k4iYp_f
 
 ** Types
 :PROPERTIES:
-:CUSTOM_ID: orgcd2b7f5
+:CUSTOM_ID: org236739e
 :END:
 
 Don't worry too much about these facts! @@html:<span class="jp">これらの事実をあまり気にしないでください！</span>@@
