@@ -26,3 +26,12 @@ window.onload = function() {
     return false;
   }
 }
+
+// @@html:<a href="" id="reveal"><p>Click this sentence to see the answers! <span class="jp">この文章をクリックすると、答えが表示されます！</span></p><div id="view" style="display: none;">@@
+// 
+// The answer goes here
+// You can add multiple lines in Org-mode format
+// Blah, blah, blah, blah, blah
+// Blah, blah, blah...
+// 
+// @@html:</div></a>@@
