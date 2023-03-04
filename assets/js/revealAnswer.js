@@ -6,7 +6,7 @@ window.onload = function() {
 
   //Get a reference to the link on the page
   // with an id of "revealAnswer"
-  var a = document.getElementById("revealAnswer");
+  var a = document.getElementById("reveal");
 
   //Set code to run when the link is clicked
   // by assigning a function to "onclick"
