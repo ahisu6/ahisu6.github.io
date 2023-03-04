@@ -107,7 +107,7 @@ These are very vague. See this [[https://lh3.googleusercontent.com/pw/AMWts8DkCC
 - Surgery
 - Platinum-based chemotherapy
 
-** Questions of org3450aaa
+** Questions
 :PROPERTIES:
 :CUSTOM_ID: org32ce543
 :END:
