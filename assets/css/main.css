@@ -35,12 +35,6 @@ h2:before {
   content: 'ひ';
 }
 
-code {
-  color: cyan;
-  font-weight: bold;
-  overflow-wrap: auto;
-}
-
 span.jp {
   background: #cbcb9b;
   color: #4b4b3a;
@@ -61,6 +55,12 @@ span.jp {
   font-weight: bolder;
   font-size: 2em;
   text-align: center;
+}
+
+/* This is to help with the reveal.js script. I am grateful for the answer provided by the user "am2505": https://stackoverflow.com/questions/61302125/hiding-answers-to-questions-using-javascript */
+.answerBlock {
+  display: block !important;
+  padding: 30px 0;
 }
 
 TABLE, th, td, tr {
