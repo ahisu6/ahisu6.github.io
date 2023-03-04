@@ -41,7 +41,7 @@ First, let's start with the main types of ovarian tumours @@html:<span class="jp
 
 Have a look at this [[https://lh3.googleusercontent.com/pw/AMWts8DL3fvtX-k4iYp_foGsT0_4Qty6pwYaRrd0MQFJrhGzJDAJTKEiCBbxVR8Ni7to4eNZo8DRCvw4KHKWVR33L3o2sqExrXUO1xygBwO8KI1IhQLeo-X6LU_JKz4yRwjJEYYsVKtxtQNlOp8_kBm3GxpI=s500-no?authuser=1][picture]]. I drew this so that you can understand it better. If you still don't understand it, let me know!!! @@html:<span class="jp">もっと理解してもらえるように描きました。それでもわからなかったら、教えてください！！！</span>@@
 
-** Features
+*** Features
 :PROPERTIES:
 :CUSTOM_ID: orgcd2b7f5
 :END:
@@ -86,7 +86,7 @@ There is a lot of information here. I summarised for you in this [[https://lh3.g
 :CUSTOM_ID: orge0b80fb
 :END:
 
-These are very vague:
+These are very vague. See this [[https://lh3.googleusercontent.com/pw/AMWts8DkCC5ut4aa1ih8wOpfkBLZOuRJ5LfBrLCffZYZHluXsXxSDx89r_yTvfZTlJOJI3RCNbOEv-CmamWien40-tMmdfmR6lwYcPKorTbBJLv1jXOVxjcRtohO4_gT0naERD_fBjRt7hgxEceXB7o6Vnu5=w1622-h914-no?authuser=1][picture]] to remember the signs and symptoms:
 - Abdominal bloating and pain!!! @@html:<span class="jp">腹部の膨満感や痛み！！！</span>@@
 - Feeling full (so, the woman doesn't finish eating her food)! @@html:<span class="jp">満腹感(だから、女性は食べ物を食べ終わらない)！</span>@@
 - Peeing a lot!! @@html:<span class="jp">排尿回数が多い！！</span>@@
