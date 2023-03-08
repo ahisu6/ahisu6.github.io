@@ -22,7 +22,7 @@
 :CUSTOM_ID: org3450aaa
 :END:
 
-Posted: 2023-03-04 | Updated: 2023-03-04
+Posted: 2023-03-04 | Updated: 2023-03-08
 
 Read this section a few times to understand it properly. @@html:<span class="jp">この項を何度か読んで、正しく理解してください。</span>@@
 
