@@ -123,9 +123,9 @@ These are very vague. See this [[https://lh3.googleusercontent.com/pw/AMWts8DkCC
 
 @@html:<div onclick="reveal()">Click this sentence to see the answers! <span class="jp">この文章をクリックすると、答えが表示されます！</span></div><div style="display: none;">@@
 1. CA125
-2. Fibroma
+2. Fibroma tumour
 3. Teratoma
-4. Yolk sac
+4. Yolk sac tumour
 5. Dysgerminoma
-6. Yolk sac
+6. Yolk sac tumour
 @@html:</div>@@
