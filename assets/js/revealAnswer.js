@@ -14,13 +14,3 @@ if (temp1.className=="answerBlock") {
     // temp.innerHTML = 'Hide Answer';
 }
 }
-
-/*
-@@html:<div onclick="reveal()">Click this sentence to see the answers! <span class="jp">この文章をクリックすると、答えが表示されます！</span></div><div style="display: none;">@@
-
-These can be in Org-mode text/list/etc.
-Answer goes here
-Blah, blah...
-
-@@html:</div>@@
-*/
