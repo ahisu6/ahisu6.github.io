@@ -4,7 +4,6 @@
 <div class="engt">Obstetrics and Gynaecology</div>
 <div class="japt">産婦人科学</div>
 <div class="engt">Page 001</div>
-<script src="https://ahisu6.github.io/assets/js/revealAnswer.js"></script>
 #+END_EXPORT
 
 [[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/og/001.org][Edit]]
@@ -312,3 +311,7 @@ The COEIN part is a mnemonic for the *NON-structural causes* of abnormal uterine
 - Iatrogenic (this is when the doctors cause the damage)
 
 Most common type of abnormal uterine bleeding is [[#orgfeaf8e2][Heavy Menstrual Bleeding]]! This is also called menorrhagia!! @@html:<span class="jp">子宮の異常出血で最も多いのは「重い月経血」！これは「menorrhagia」とも呼ばれます！！</span>@@
+
+#+BEGIN_EXPORT html
+<script src="https://ahisu6.github.io/assets/js/revealAnswer.js"></script>
+#+END_EXPORT
