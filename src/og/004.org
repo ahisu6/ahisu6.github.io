@@ -4,7 +4,6 @@
 <div class="engt">Obstetrics and Gynaecology</div>
 <div class="japt">産婦人科学</div>
 <div class="engt">Page 004</div>
-<script src="https://ahisu6.github.io/assets/js/revealAnswer.js"></script>
 #+END_EXPORT
 
 [[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/og/004.org][Edit]]
@@ -129,3 +128,7 @@ These are very vague. See this [[https://lh3.googleusercontent.com/pw/AMWts8DkCC
 5. Dysgerminoma
 6. Yolk sac tumour
 @@html:</div>@@
+
+#+BEGIN_EXPORT html
+<script src="https://ahisu6.github.io/assets/js/revealAnswer.js"></script>
+#+END_EXPORT
