@@ -1,7 +1,3 @@
-/**
- * Inject hyperlinks, into the column headers of sortable tables, which sort
- * the corresponding column when clicked.
- */
 var tables = document.querySelectorAll("table.sortable"),
     table,
     thead,
@@ -23,9 +19,6 @@ for (i = 0; i < tables.length; i++) {
     }
 }
 
-/**
- * Create a function to sort the given table.
- */
 function sortTableFunction(table) {
     return function(ev) {
         if (ev.target.tagName.toLowerCase() == 'a') {
@@ -35,10 +28,6 @@ function sortTableFunction(table) {
     };
 }
 
-/**
- * Get the index of a node relative to its siblings — the first (eldest) sibling
- * has index 0, the next index 1, etc.
- */
 function siblingIndex(node) {
     var count = 0;
 
@@ -49,9 +38,6 @@ function siblingIndex(node) {
     return count;
 }
 
-/**
- * Sort the given table by the numbered column (0 is the first column, etc.)
- */
 function sortRows(table, columnIndex) {
     var rows = table.querySelectorAll("tbody tr"),
         sel = "thead th:nth-child(" + (columnIndex + 1) + ")",
@@ -103,23 +89,14 @@ function sortRows(table, columnIndex) {
     }
 }
 
-/**
- * Compare two 'value objects' numerically
- */
 function sortNumberVal(a, b) {
     return sortNumber(a.value, b.value);
 }
 
-/**
- * Numeric sort comparison
- */
 function sortNumber(a, b) {
     return a - b;
 }
 
-/**
- * Compare two 'value objects' as dates
- */
 function sortDateVal(a, b) {
     var dateA = Date.parse(a.value),
         dateB = Date.parse(b.value);
@@ -127,9 +104,6 @@ function sortDateVal(a, b) {
     return sortNumber(dateA, dateB);
 }
 
-/**
- * Compare two 'value objects' as simple text; case-insensitive
- */
 function sortTextVal(a, b) {
     var textA = (a.value + "").toUpperCase();
     var textB = (b.value + "").toUpperCase();
