@@ -10,6 +10,6 @@
 
 [[file:./index.org][Home]]
 
-[[file:./007.org][Previous page]] - [[file:./009.org][Next page]]
+[[file:./007.org][<< Previous page]] - [[file:./009.org][Next page >>]]
 
 -----

@@ -10,7 +10,7 @@
 
 [[file:./index.org][Home]]
 
-[[file:./003.org][Previous page]] - [[file:./005.org][Next page]]
+[[file:./003.org][<< Previous page]] - [[file:./005.org][Next page >>]]
 
 -----
 
