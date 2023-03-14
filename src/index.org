@@ -13,6 +13,13 @@
 [[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/index.org][Edit]]
 
 -----
+#+BEGIN_EXPORT html
+<div class="japt">私の目には、あなたがいつも私にこの花を思い出させてくれるでしょう。素敵な友人でいてくれてありがとう、いつもありがとう。私に与えてくれたもの、本当にありがとうございます、ともだち。</div>
+
+<div style="text-align: center; font-size: 3em;">
+<a style="text-decoration: none;" href="https://drive.google.com/uc?export=view&amp;id=18Wk2AzGZsZXmVQ8IWdbY7-vkiYR5ae5o">花。<br>この絵は、花であるあなたを描いています。</a>
+</div>
+#+END_EXPORT
 
 * え？
 :PROPERTIES:
@@ -40,14 +47,6 @@ Click the chapter which you want to study! @@html:<span class="jp">勉強した�
 - [[file:./e/index.org][Endocrinology - 内分泌学 (e)]]
 - Gastroenterology - 消化器学 (g)
 - [[file:./rh/index.org][Rheumatology - リウマチ学 (rh)]]
-
-#+BEGIN_EXPORT html
-<div class="japt">私の目には、あなたがいつも私にこの花を思い出させてくれるでしょう。素敵な友人でいてくれてありがとう、いつもありがとう。私に与えてくれたもの、本当にありがとうございます、ともだち。</div>
-
-<div style="text-align: center; font-size: 3em;">
-<a style="text-decoration: none;" href="https://drive.google.com/uc?export=view&amp;id=18Wk2AzGZsZXmVQ8IWdbY7-vkiYR5ae5o">花。<br>この絵は、花であるあなたを描いています。</a>
-</div>
-#+END_EXPORT
 
 #+BEGIN_EXPORT html
 <!-- * Sorting tables -->
