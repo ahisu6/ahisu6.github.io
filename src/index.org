@@ -44,7 +44,7 @@ Click the chapter which you want to study! @@html:<span class="jp">勉強した�
 #+BEGIN_EXPORT html
 <div class="japt">私の目には、あなたがいつも私にこの花を思い出させてくれるでしょう。素敵な友人でいてくれてありがとう、いつもありがとう。私に与えてくれたもの、本当にありがとうございます、ともだち。</div>
 
-<div style="text-align: center; font-size: 6em;">
+<div style="text-align: center; font-size: 3em;">
 <a style="text-decoration: none;" href="https://drive.google.com/uc?export=view&amp;id=18Wk2AzGZsZXmVQ8IWdbY7-vkiYR5ae5o">花。<br>この絵は、花であるあなたを描いています。</a>
 </div>
 #+END_EXPORT
