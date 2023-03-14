@@ -1,9 +1,10 @@
 body {
-   background-color: #22242d;
-   color: #e9e9cf;
-   display: block;
-   padding: 4em;
-   font-size: 1.5em;
+  background-color: #22242d;
+  color: #e9e9cf;
+  margin: 0 auto;
+  max-width: 36em;
+  line-height: 1.5;
+  font-size: 1.5em;
 }
 
 a {
@@ -11,7 +12,6 @@ a {
   color: #f3f3e3;
   font-family: monospace;
   font-weight: bold;
-  font-size: 0.9em;
   text-transform: uppercase;
 }
 
@@ -63,15 +63,13 @@ span.jp {
   padding: 20px 0;
 }
 
-TABLE, th, td, tr {
-	border: 0.05em dotted #e9e9cf;
+TABLE,th,td,tr {
+  border: 0.05em dotted #e9e9cf;
 }
 
 @media (max-width: 500px) {
-
   body {
     padding: 2em;
     font-size: 1em;
   }
-
 }
