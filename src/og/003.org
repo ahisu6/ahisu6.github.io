@@ -23,36 +23,36 @@
 
 Posted: 2023-02-26 | Updated: 2023-02-26
 
-Termination of pregnancy is a phrase for "abortion". @@html:<span class="jp">妊娠の終了は、「中絶」の言い回しです。</span>@@
+Termination of pregnancy is a phrase for "abortion". @@html:<span class="ja">妊娠の終了は、「中絶」の言い回しです。</span>@@
 
-To have abortion, the baby needs to be /less/ than 24 weeks of gestation. @@html:<span class="jp">中絶を行うには、赤ちゃんが妊娠24週未満であることが必要です。</span>@@
+To have abortion, the baby needs to be /less/ than 24 weeks of gestation. @@html:<span class="ja">中絶を行うには、赤ちゃんが妊娠24週未満であることが必要です。</span>@@
 
 ** Treatment
 :PROPERTIES:
 :CUSTOM_ID: orgeaf19f9
 :END:
 
-We use different options. @@html:<span class="jp">オプションを使い分けています。</span>@@
+We use different options. @@html:<span class="ja">オプションを使い分けています。</span>@@
 
-These options depend on how old is the baby. @@html:<span class="jp">これらのオプションは、赤ちゃんが何歳かによって異なります。</span>@@
+These options depend on how old is the baby. @@html:<span class="ja">これらのオプションは、赤ちゃんが何歳かによって異なります。</span>@@
 
-- If the woman is /less/ than 9 weeks pregnant @@html:<span class="jp">妊娠9週未満の場合</span>@@:
-  - For this, we use drugs! yay.... more drugs to learn... more stories...... @@html:<span class="jp">笑</span>@@
-  - Give oral mifepristone ([[file:../cp/001.org::#mifepristone][see the story of mifepristone]]). @@html:<span class="jp">ミフェプリストンを経口投与する。</span>@@
-  - Then, after 48 hours, give vaginal misoprostol ([[file:../cp/001.org::#misoprostol][see the story of misoprostol]]). @@html:<span class="jp">そして、48時間後にミソプロストールを経膣投与する。</span>@@
-    - @@html:<span class="jp">9 weeks</span>@@
-    - @@html:<span class="jp">9 = く。Week = しゅう。</span>@@
-    - @@html:<span class="jp">くしゅう。。。句集？！</span>@@
-    - Ah! Imagine if you find a collection of haiku poems which have many pictures of babies being removed from the mother by abortion. In these poems, there are many recipes for how to make drugs that help with abortion. @@html:<span class="jp">もし、中絶によって母体から取り出される赤ん坊の写真がたくさん掲載されている俳<mark>句集</mark>があったらと想像してみるといい。これらの詩の中には、中絶に効く薬の作り方のレシピがたくさん出てきます。</span>@@
+- If the woman is /less/ than 9 weeks pregnant @@html:<span class="ja">妊娠9週未満の場合</span>@@:
+  - For this, we use drugs! yay.... more drugs to learn... more stories...... @@html:<span class="ja">笑</span>@@
+  - Give oral mifepristone ([[file:../cp/001.org::#mifepristone][see the story of mifepristone]]). @@html:<span class="ja">ミフェプリストンを経口投与する。</span>@@
+  - Then, after 48 hours, give vaginal misoprostol ([[file:../cp/001.org::#misoprostol][see the story of misoprostol]]). @@html:<span class="ja">そして、48時間後にミソプロストールを経膣投与する。</span>@@
+    - @@html:<span class="ja">9 weeks</span>@@
+    - @@html:<span class="ja">9 = く。Week = しゅう。</span>@@
+    - @@html:<span class="ja">くしゅう。。。句集？！</span>@@
+    - Ah! Imagine if you find a collection of haiku poems which have many pictures of babies being removed from the mother by abortion. In these poems, there are many recipes for how to make drugs that help with abortion. @@html:<span class="ja">もし、中絶によって母体から取り出される赤ん坊の写真がたくさん掲載されている俳<mark>句集</mark>があったらと想像してみるといい。これらの詩の中には、中絶に効く薬の作り方のレシピがたくさん出てきます。</span>@@
 
-- If the woman is /less/ than 13 weeks pregnant @@html:<span class="jp">妊娠13週未満の場合</span>@@:
-  - In here, we use a vacuum because the baby is still small. @@html:<span class="jp">ここでは、まだ赤ちゃんが小さいので、掃除機を使っています。</span>@@
-  - Dilate the cervix using surgery and then do suction (like a vaccum cleaner). Watch this [[https://www.youtube.com/watch?v=_d5pM9Y5zPg][video]] if you are interested! @@html:<span class="jp">手術で子宮頸管を拡張し、吸引（掃除機のようなもの）をする。</span>@@
+- If the woman is /less/ than 13 weeks pregnant @@html:<span class="ja">妊娠13週未満の場合</span>@@:
+  - In here, we use a vacuum because the baby is still small. @@html:<span class="ja">ここでは、まだ赤ちゃんが小さいので、掃除機を使っています。</span>@@
+  - Dilate the cervix using surgery and then do suction (like a vaccum cleaner). Watch this [[https://www.youtube.com/watch?v=_d5pM9Y5zPg][video]] if you are interested! @@html:<span class="ja">手術で子宮頸管を拡張し、吸引（掃除機のようなもの）をする。</span>@@
 
-- If the woman is /more/ than 15 weeks pregnant @@html:<span class="jp">妊娠15週以上の場合</span>@@:
-  - In here, we use a bigger surgery because now the baby is larger. @@html:<span class="jp">ここでは、赤ちゃんが大きくなったので、より大きな手術を行います。</span>@@
-  - Dilate the cervix using surgery and then do evacuation. @@html:<span class="jp">手術で子宮頸管を拡張し、排膿を行う。</span>@@
-  - Or you can also use something called a "mini-labour" (this is too advanced. Don't worry about it) @@html:<span class="jp">また、「mini-labour」と呼ばれるものを使うこともできます（これは高度すぎますので、気にしないでください）。</span>@@
+- If the woman is /more/ than 15 weeks pregnant @@html:<span class="ja">妊娠15週以上の場合</span>@@:
+  - In here, we use a bigger surgery because now the baby is larger. @@html:<span class="ja">ここでは、赤ちゃんが大きくなったので、より大きな手術を行います。</span>@@
+  - Dilate the cervix using surgery and then do evacuation. @@html:<span class="ja">手術で子宮頸管を拡張し、排膿を行う。</span>@@
+  - Or you can also use something called a "mini-labour" (this is too advanced. Don't worry about it) @@html:<span class="ja">また、「mini-labour」と呼ばれるものを使うこともできます（これは高度すぎますので、気にしないでください）。</span>@@
 
 * Gestational diabetes (O)
 :PROPERTIES:
@@ -61,9 +61,9 @@ These options depend on how old is the baby. @@html:<span class="jp">これら�
 
 Posted: 2023-02-26 | Updated: 2023-02-26
 
-This is when you get diabetes while you are pregnant. @@html:<span class="jp">これは、妊娠中に糖尿病になった場合です。</span>@@
+This is when you get diabetes while you are pregnant. @@html:<span class="ja">これは、妊娠中に糖尿病になった場合です。</span>@@
 
-There are risk factors for it (you can find more on the "Gestational diabetes" on PassMedicine) @@html:<span class="jp">その危険因子があります（PassMedicineの「妊娠糖尿病」で詳しく紹介されています）。</span>@@:
+There are risk factors for it (you can find more on the "Gestational diabetes" on PassMedicine) @@html:<span class="ja">その危険因子があります（PassMedicineの「妊娠糖尿病」で詳しく紹介されています）。</span>@@:
 - High BMI (over 30 kg/m²)
 - Previous /big/ baby which weighs 4.5 kg or more
 
@@ -72,24 +72,24 @@ There are risk factors for it (you can find more on the "Gestational diabetes" o
 :CUSTOM_ID: orga83c3b3
 :END:
 
-- Oral glucose tolerance test: measure woman's blood glucose level. Then, give the woman a sugar drink. Then, measure the blood glucose level again! @@html:<span class="jp">女性の血糖値を測定する。次に、女性に砂糖入りの飲み物を飲ませます。そして、再び血糖値を測定します！</span>@@
-  - If the woman had a previous gestational diabetes, then you need to do this test at the booking visit. If the first test is /normal/, do another at 24-28 weeks of pregnancy!!! @@html:<span class="jp">妊娠糖尿病の既往がある場合は、初診時にこの検査が必要です。1回目の検査で異常がなければ、妊娠24〜28週目にもう1回検査してください！！！</span>@@
-  - If the woman has risk factors for gestational diabetes, then do this test at 24-28 weeks of pregnancy. @@html:<span class="jp">妊娠糖尿病の危険因子がある場合は、妊娠24-28週目にこの検査を行ってください。</span>@@
+- Oral glucose tolerance test: measure woman's blood glucose level. Then, give the woman a sugar drink. Then, measure the blood glucose level again! @@html:<span class="ja">女性の血糖値を測定する。次に、女性に砂糖入りの飲み物を飲ませます。そして、再び血糖値を測定します！</span>@@
+  - If the woman had a previous gestational diabetes, then you need to do this test at the booking visit. If the first test is /normal/, do another at 24-28 weeks of pregnancy!!! @@html:<span class="ja">妊娠糖尿病の既往がある場合は、初診時にこの検査が必要です。1回目の検査で異常がなければ、妊娠24〜28週目にもう1回検査してください！！！</span>@@
+  - If the woman has risk factors for gestational diabetes, then do this test at 24-28 weeks of pregnancy. @@html:<span class="ja">妊娠糖尿病の危険因子がある場合は、妊娠24-28週目にこの検査を行ってください。</span>@@
 
-Now, let us talk about some numbers, yay.............................. @@html:<span class="jp">では、数字の話をしましょう、ばんざーい。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。</span>@@
+Now, let us talk about some numbers, yay.............................. @@html:<span class="ja">では、数字の話をしましょう、ばんざーい。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。</span>@@
 
-To diagnose a woman with gestational diabetes, you need to have the following numbers @@html:<span class="jp">妊娠糖尿病の女性を診断するためには、以下の数値が必要です</span>@@:
-- More than 5.6 mmol/L glucose level after fasting. @@html:<span class="jp">空腹時血糖値5.6mmol/L以上。</span>@@
+To diagnose a woman with gestational diabetes, you need to have the following numbers @@html:<span class="ja">妊娠糖尿病の女性を診断するためには、以下の数値が必要です</span>@@:
+- More than 5.6 mmol/L glucose level after fasting. @@html:<span class="ja">空腹時血糖値5.6mmol/L以上。</span>@@
   - 5.6
-  - @@html:<span class="jp">5 = ゴ。6 = ロ。</span>@@
-  - @@html:<span class="jp">ゴロ？ゴロゴロ！！！</span>@@
-  - Imagine a poor and tired pregnant woman who has not eaten for a long time... she is so tired and she just wants to gorogoro :( @@html:<span class="jp">想像してみてください、長い間食べていない貧乏で疲れた妊婦さんを...彼女はとても疲れていて、ただゴロゴロしたいだけなのです :(。</span>@@
+  - @@html:<span class="ja">5 = ゴ。6 = ロ。</span>@@
+  - @@html:<span class="ja">ゴロ？ゴロゴロ！！！</span>@@
+  - Imagine a poor and tired pregnant woman who has not eaten for a long time... she is so tired and she just wants to gorogoro :( @@html:<span class="ja">想像してみてください、長い間食べていない貧乏で疲れた妊婦さんを...彼女はとても疲れていて、ただゴロゴロしたいだけなのです :(。</span>@@
 OR
-- More than 7.8 mmol/L glucose level 2 hours after drinking glucose. @@html:<span class="jp">ブドウ糖を飲んでから2時間後のブドウ糖の値が7.8mmol/L以上。</span>@@
+- More than 7.8 mmol/L glucose level 2 hours after drinking glucose. @@html:<span class="ja">ブドウ糖を飲んでから2時間後のブドウ糖の値が7.8mmol/L以上。</span>@@
   - 7.8
-  - @@html:<span class="jp">7 = なな。8 = や。</span>@@
-  - @@html:<span class="jp">なや？うーん。。。納屋？！</span>@@
-  - Imagine a big barn @@html:<span class="jp">納屋</span>@@ which is made of sugar babies... @@html:<span class="jp">シュガーベイビーでできた大きな納屋を想像してください。。。怖い。。。。。。。</span>@@
+  - @@html:<span class="ja">7 = なな。8 = や。</span>@@
+  - @@html:<span class="ja">なや？うーん。。。納屋？！</span>@@
+  - Imagine a big barn @@html:<span class="ja">納屋</span>@@ which is made of sugar babies... @@html:<span class="ja">シュガーベイビーでできた大きな納屋を想像してください。。。怖い。。。。。。。</span>@@
 
 ** Treatment
 :PROPERTIES:
@@ -101,18 +101,18 @@ OR
 - Use /short/ -acting insulin!!!!!
 
 Then, look at her glucose level:
-- If the fasting glucose level is /less/ than 7 mmol/L @@html:<span class="jp">空腹時血糖値が7mmol/L未満の場合</span>@@:
-  1. Diet and exercise advice. @@html:<span class="jp">食事や運動のアドバイスをする。</span>@@
-  2. If diet/exercise fails after 1-2 weeks, then give her metformin. @@html:<span class="jp">1-2週間後に食事療法や運動療法がうまくいかなかった場合は、メトホルミンを投与します。</span>@@
-  3. If metformin fails, give her insulin. @@html:<span class="jp">メトホルミンがだめなら、インスリンを投与する。</span>@@
+- If the fasting glucose level is /less/ than 7 mmol/L @@html:<span class="ja">空腹時血糖値が7mmol/L未満の場合</span>@@:
+  1. Diet and exercise advice. @@html:<span class="ja">食事や運動のアドバイスをする。</span>@@
+  2. If diet/exercise fails after 1-2 weeks, then give her metformin. @@html:<span class="ja">1-2週間後に食事療法や運動療法がうまくいかなかった場合は、メトホルミンを投与します。</span>@@
+  3. If metformin fails, give her insulin. @@html:<span class="ja">メトホルミンがだめなら、インスリンを投与する。</span>@@
 
-- If the fasting glucose level is /more/ than 7 mmol/L @@html:<span class="jp">グルコースレベルが7以上であれば</span>@@:
+- If the fasting glucose level is /more/ than 7 mmol/L @@html:<span class="ja">グルコースレベルが7以上であれば</span>@@:
   1. Give her give her insulin.
 
-- If the fasting glucose level is between 6.0 and 6.9 mmol/L /and/ there is evidence of complications @@html:<span class="jp">グルコース値が6.0-6.9 +合併症がある場合</span>@@:
+- If the fasting glucose level is between 6.0 and 6.9 mmol/L /and/ there is evidence of complications @@html:<span class="ja">グルコース値が6.0-6.9 +合併症がある場合</span>@@:
   1. Give her insulin!
 
-- If metformin is causing the woman problems, then give her glibenclamide. @@html:<span class="jp">メトホルミンが女性の問題を引き起こしているのであれば、グリベンクラミドを与えればよい。</span>@@
+- If metformin is causing the woman problems, then give her glibenclamide. @@html:<span class="ja">メトホルミンが女性の問題を引き起こしているのであれば、グリベンクラミドを与えればよい。</span>@@
 
 * Hyponatraemia in pregnancy (O)
 :PROPERTIES:
@@ -126,26 +126,26 @@ You asked me this question on 2023-02-21:
 
 Here is the answer...
 
-When the woman is pregnant, the kidneys change in structure and function. @@html:<span class="jp">妊娠すると、腎臓の構造と機能が変化します。</span>@@
+When the woman is pregnant, the kidneys change in structure and function. @@html:<span class="ja">妊娠すると、腎臓の構造と機能が変化します。</span>@@
 
-The kidneys increase in size. And, the kidney's ability of filter sodium and water also changes @@html:<span class="jp">腎臓は大きくなる。そして、腎臓のナトリウムや水をろ過する能力も変化します</span>@@:
-1. Kidneys will filter more sodium @@html:<span class="jp">腎臓はより多くのナトリウムをろ過する</span>@@
-2. Kidneys will absorb MORE wate @@html:<span class="jp"> 腎臓はより多くの水分を吸収する</span>@@
-3. More creatinine will be removed from body @@html:<span class="jp">より多くのクレアチニンが体外に排出される</span>@@
+The kidneys increase in size. And, the kidney's ability of filter sodium and water also changes @@html:<span class="ja">腎臓は大きくなる。そして、腎臓のナトリウムや水をろ過する能力も変化します</span>@@:
+1. Kidneys will filter more sodium @@html:<span class="ja">腎臓はより多くのナトリウムをろ過する</span>@@
+2. Kidneys will absorb MORE wate @@html:<span class="ja"> 腎臓はより多くの水分を吸収する</span>@@
+3. More creatinine will be removed from body @@html:<span class="ja">より多くのクレアチニンが体外に排出される</span>@@
 
-Generally speaking, during pregnancy, the woman will have MORE water in her body! @@html:<span class="jp"> 一般的に妊娠中は、女性の体は水分を多く蓄えるようになると言われています！</span>@@
+Generally speaking, during pregnancy, the woman will have MORE water in her body! @@html:<span class="ja"> 一般的に妊娠中は、女性の体は水分を多く蓄えるようになると言われています！</span>@@
 
-So, when you have too much water, then your blood will be less salty (which means, you will have LOW sodium level)! @@html:<span class="jp"> つまり、水分が多すぎると、血液の塩分濃度が低くなる（つまり、ナトリウム濃度が低くなる）のです！！</span>@@
+So, when you have too much water, then your blood will be less salty (which means, you will have LOW sodium level)! @@html:<span class="ja"> つまり、水分が多すぎると、血液の塩分濃度が低くなる（つまり、ナトリウム濃度が低くなる）のです！！</span>@@
 
-In labour, the body releases oxytocin... correct? @@html:<span class="jp">陣痛になると、体内でオキシトシンが分泌される。。。ということですね？</span>@@
+In labour, the body releases oxytocin... correct? @@html:<span class="ja">陣痛になると、体内でオキシトシンが分泌される。。。ということですね？</span>@@
 
-Oxytocin STOPS the woman from urinating. Oxytocin keeps water inside the woman! @@html:<span class="jp">オキシトシンは女性の排尿を止める。オキシトシンは女性の体内に水分を留めておくのです！</span>@@
+Oxytocin STOPS the woman from urinating. Oxytocin keeps water inside the woman! @@html:<span class="ja">オキシトシンは女性の排尿を止める。オキシトシンは女性の体内に水分を留めておくのです！</span>@@
 
-So, this means that there will be more water in the woman, and therefore more hyponatraemia!!!! @@html:<span class="jp">ということは、女性の水分が多くなるので、低ナトリウム血症が多くなる！！！！</span>@@
+So, this means that there will be more water in the woman, and therefore more hyponatraemia!!!! @@html:<span class="ja">ということは、女性の水分が多くなるので、低ナトリウム血症が多くなる！！！！</span>@@
 
-Another thing is... during labour, some women vomit a lot. Sooooo, doctors will tell the woman to keep drinking water... @@html:<span class="jp"> もうひとつは、陣痛中にたくさん吐く女性がいることです。だから、医師は女性に水を飲み続けるように言うのですが。。。</span>@@
+Another thing is... during labour, some women vomit a lot. Sooooo, doctors will tell the woman to keep drinking water... @@html:<span class="ja"> もうひとつは、陣痛中にたくさん吐く女性がいることです。だから、医師は女性に水を飲み続けるように言うのですが。。。</span>@@
 
-If the woman keeps drinking water, then... her blood will be less salty. @@html:<span class="jp">もし、女性が水を飲み続ければ。。。血液の塩分が少なくなる。</span>@@
+If the woman keeps drinking water, then... her blood will be less salty. @@html:<span class="ja">もし、女性が水を飲み続ければ。。。血液の塩分が少なくなる。</span>@@
 
 * Ectopic pregnancy (G)
 :PROPERTIES:
@@ -154,15 +154,15 @@ If the woman keeps drinking water, then... her blood will be less salty. @@html:
 
 Posted: 2023-02-20 | Updated: 2023-02-20
 
-This is when the embryo implants outside of the uterine cavity. @@html:<span class="jp">これは、胚が子宮腔の外に着床することである。</span>@@
+This is when the embryo implants outside of the uterine cavity. @@html:<span class="ja">これは、胚が子宮腔の外に着床することである。</span>@@
 
-Most common wrong site of implant is fallopian tube. See this [[https://lh3.googleusercontent.com/pw/AMWts8BnRnJxyu2729QDCZn4J0S36p4aHnzZtD7Qm37oIvhFDY3kWCIkd_sI3HpHi82uEoFYnV9nQOhcqokJ-bu6iwyNwNHD8AskClJbWMMS7kg1gTBAIsM9gG954U1hJ-lQgCVPXNNw4zu4moiX1TFlkTWD=w732-h529-s-no?authuser=3][picture]] for the other possible places! @@html:<span class="jp">最も一般的な着床部位の間違いは卵管です。</span>@@
+Most common wrong site of implant is fallopian tube. See this [[https://lh3.googleusercontent.com/pw/AMWts8BnRnJxyu2729QDCZn4J0S36p4aHnzZtD7Qm37oIvhFDY3kWCIkd_sI3HpHi82uEoFYnV9nQOhcqokJ-bu6iwyNwNHD8AskClJbWMMS7kg1gTBAIsM9gG954U1hJ-lQgCVPXNNw4zu4moiX1TFlkTWD=w732-h529-s-no?authuser=3][picture]] for the other possible places! @@html:<span class="ja">最も一般的な着床部位の間違いは卵管です。</span>@@
 
-Risk factors, go to "Ectopic pregnancy: epidemiology and risk factors" page on PassMedicine to learn more! @@html:<span class="jp">PassMedicineの「Ectopic pregnancy: epidemiology and risk factors」のページに移動して、もっと詳しく見る</span>@@:
-- Damage to tubes (for example, damage done after pelvic inflammatory disease) @@html:<span class="jp">管の損傷（骨盤内炎症性疾患の後遺症など）</span>@@
+Risk factors, go to "Ectopic pregnancy: epidemiology and risk factors" page on PassMedicine to learn more! @@html:<span class="ja">PassMedicineの「Ectopic pregnancy: epidemiology and risk factors」のページに移動して、もっと詳しく見る</span>@@:
+- Damage to tubes (for example, damage done after pelvic inflammatory disease) @@html:<span class="ja">管の損傷（骨盤内炎症性疾患の後遺症など）</span>@@
 - Endometriosis
 
-When the embryo implants in the fallopian tubes, it causes a /lot/ of lower abdomen pain!!! @@html:<span class="jp">胚が卵管に着床する際、下腹部に大きな痛みがある！！！</span>@@
+When the embryo implants in the fallopian tubes, it causes a /lot/ of lower abdomen pain!!! @@html:<span class="ja">胚が卵管に着床する際、下腹部に大きな痛みがある！！！</span>@@
 
 ** Signs and symptoms
 :PROPERTIES:
@@ -170,9 +170,9 @@ When the embryo implants in the fallopian tubes, it causes a /lot/ of lower abdo
 :END:
 
 - Tummy pain!!!!!! Tummy hurts when you touch it!!
-- No period (this is called amenorrhoea) for 6-8 weeks! @@html:<span class="jp">6～8週間、生理が来ない（これを無月経といいます）！</span>@@
-- Vaginal bleeding: the colour of the blood will be /dark brown/. Maybe the embryo is drinking some dark chocolate................. Ehhhhhhhhhhhh @@html:<span class="jp">血液の色は暗褐色になります。もしかしたら胚はダークチョコレートを飲んでいるのかもしれない。。。。。。。。。。。。。。。。。え～～～～～～～～～～～</span>@@
-- Collapse: the woman might pass out!!! This is a massive red flag because it shows that the tube ruptured!!!! @@html:<span class="jp">女性は気絶するかもしれない！！！ これは、チューブが破裂したことを示すので、大赤信号です！！！！</span>@@
+- No period (this is called amenorrhoea) for 6-8 weeks! @@html:<span class="ja">6～8週間、生理が来ない（これを無月経といいます）！</span>@@
+- Vaginal bleeding: the colour of the blood will be /dark brown/. Maybe the embryo is drinking some dark chocolate................. Ehhhhhhhhhhhh @@html:<span class="ja">血液の色は暗褐色になります。もしかしたら胚はダークチョコレートを飲んでいるのかもしれない。。。。。。。。。。。。。。。。。え～～～～～～～～～～～</span>@@
+- Collapse: the woman might pass out!!! This is a massive red flag because it shows that the tube ruptured!!!! @@html:<span class="ja">女性は気絶するかもしれない！！！ これは、チューブが破裂したことを示すので、大赤信号です！！！！</span>@@
 
 ** Investigations
 :PROPERTIES:
@@ -181,7 +181,7 @@ When the embryo implants in the fallopian tubes, it causes a /lot/ of lower abdo
 
 - Positive pregnancy test: let's start with the basic stuff!
 - Transvaginal ultrasound
-- Blood hCG: you need to monitor this. In normal pregnancy, hCG will keep going up. In ectopic pregnancy, hCG will stop going up. @@html:<span class="jp">これを監視する必要があります。正常な妊娠では、hCGは上昇し続けます。子宮外妊娠の場合、hCGは上がらなくなります。</span>@@
+- Blood hCG: you need to monitor this. In normal pregnancy, hCG will keep going up. In ectopic pregnancy, hCG will stop going up. @@html:<span class="ja">これを監視する必要があります。正常な妊娠では、hCGは上昇し続けます。子宮外妊娠の場合、hCGは上がらなくなります。</span>@@
 
 ** Treatment
 :PROPERTIES:
@@ -189,11 +189,11 @@ When the embryo implants in the fallopian tubes, it causes a /lot/ of lower abdo
 :END:
 
 Right, so, there 3 different ways to treat ectopic pregnancy.
-1. Expectant management: this means you just monitor the woman for 48 hours. @@html:<span class="jp">ということは、48時間監視すればいいということです。</span>@@
-2. Medical management: in this one, you should give methotrexate to the woman. @@html:<span class="jp">この中で、メトトレキサートは投与したほうがいい。</span>@@
-3. Surgical management: here you remove the fallopian tube (salpingECTOmy) OR you open the fallopian tube and remove the embryo (salpingOTOmy). @@html:<span class="jp">ここでは、卵管を摘出する方法（salpingECTOmy）と、卵管を開いて胚を取り出す方法（salpingOTOmy）のいずれかを選択します。</span>@@
+1. Expectant management: this means you just monitor the woman for 48 hours. @@html:<span class="ja">ということは、48時間監視すればいいということです。</span>@@
+2. Medical management: in this one, you should give methotrexate to the woman. @@html:<span class="ja">この中で、メトトレキサートは投与したほうがいい。</span>@@
+3. Surgical management: here you remove the fallopian tube (salpingECTOmy) OR you open the fallopian tube and remove the embryo (salpingOTOmy). @@html:<span class="ja">ここでは、卵管を摘出する方法（salpingECTOmy）と、卵管を開いて胚を取り出す方法（salpingOTOmy）のいずれかを選択します。</span>@@
 
-There are criteria which will tell you what kind of treatment you should give... @@html:<span class="jp">どのような治療を施すべきか、基準があるのです。。。</span>@@
+There are criteria which will tell you what kind of treatment you should give... @@html:<span class="ja">どのような治療を施すべきか、基準があるのです。。。</span>@@
 
 *** Ectopic pregnancy criteria in English
 :PROPERTIES:
@@ -213,12 +213,12 @@ There are criteria which will tell you what kind of treatment you should give...
 :PROPERTIES:
 :CUSTOM_ID: org8a68369
 :END:
-| @@html:<span class="jp">基準</span>@@                                                                 | Expectant      | Medical                                               | Surgical   |
+| @@html:<span class="ja">基準</span>@@                                                                 | Expectant      | Medical                                               | Surgical   |
 |----------------------------------------------------------------------+----------------+-------------------------------------------------------+------------|
-| @@html:<span class="jp">卵管内の妊娠の大きさ</span>@@                                                 | @@html:<span class="jp">35mm以下</span>@@       | @@html:<span class="jp">35mm以下</span>@@                                              | @@html:<span class="jp">35mm以上</span>@@   |
-| @@html:<span class="jp">破裂しているのか、していないのか？</span>@@                                   | @@html:<span class="jp">破裂していない</span>@@ | @@html:<span class="jp">破裂していない</span>@@                                        | @@html:<span class="jp">破裂した</span>@@   |
-| @@html:<span class="jp">痛みはありますか？</span>@@                                                   | @@html:<span class="jp">いいえ</span>@@         | @@html:<span class="jp">いいえ</span>@@                                                | @@html:<span class="jp">はい</span>@@       |
-| @@html:<span class="jp">胎児の心拍はあるか？</span>@@                                                 | @@html:<span class="jp">心拍がない</span>@@     | @@html:<span class="jp">心拍がない</span>@@                                            | @@html:<span class="jp">心拍数発見</span>@@ |
-| hCG level                                                            | @@html:<span class="jp">1000以下</span>@@       | @@html:<span class="jp">1500以下</span>@@                                              | @@html:<span class="jp">5000以上</span>@@   |
-| @@html:<span class="jp">同時期に別の子宮内妊娠があった場合、このような管理は可能でしょうか？</span>@@ | @@html:<span class="jp">はい</span>@@           | @@html:<span class="jp">いいえ (メトトレキサートは胎児に悪いからです！！！！)</span>@@ | @@html:<span class="jp">はい</span>@@       |
+| @@html:<span class="ja">卵管内の妊娠の大きさ</span>@@                                                 | @@html:<span class="ja">35mm以下</span>@@       | @@html:<span class="ja">35mm以下</span>@@                                              | @@html:<span class="ja">35mm以上</span>@@   |
+| @@html:<span class="ja">破裂しているのか、していないのか？</span>@@                                   | @@html:<span class="ja">破裂していない</span>@@ | @@html:<span class="ja">破裂していない</span>@@                                        | @@html:<span class="ja">破裂した</span>@@   |
+| @@html:<span class="ja">痛みはありますか？</span>@@                                                   | @@html:<span class="ja">いいえ</span>@@         | @@html:<span class="ja">いいえ</span>@@                                                | @@html:<span class="ja">はい</span>@@       |
+| @@html:<span class="ja">胎児の心拍はあるか？</span>@@                                                 | @@html:<span class="ja">心拍がない</span>@@     | @@html:<span class="ja">心拍がない</span>@@                                            | @@html:<span class="ja">心拍数発見</span>@@ |
+| hCG level                                                            | @@html:<span class="ja">1000以下</span>@@       | @@html:<span class="ja">1500以下</span>@@                                              | @@html:<span class="ja">5000以上</span>@@   |
+| @@html:<span class="ja">同時期に別の子宮内妊娠があった場合、このような管理は可能でしょうか？</span>@@ | @@html:<span class="ja">はい</span>@@           | @@html:<span class="ja">いいえ (メトトレキサートは胎児に悪いからです！！！！)</span>@@ | @@html:<span class="ja">はい</span>@@       |
 

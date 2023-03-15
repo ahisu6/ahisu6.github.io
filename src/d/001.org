@@ -24,14 +24,14 @@
 
 Posted: 2023-02-01 | Updated: 2023-02-01
 
-This affects the hair follicle, hair shaft, and sebaceous gland. @@html:<span class="jp">これは、毛包、毛幹、皮脂腺に影響を及ぼします。</span>@@
+This affects the hair follicle, hair shaft, and sebaceous gland. @@html:<span class="ja">これは、毛包、毛幹、皮脂腺に影響を及ぼします。</span>@@
 
 ** Signs and symptoms
 :PROPERTIES:
 :CUSTOM_ID: orgd5e11ea
 :END:
 
-- Affects face, neck and upper trunk. @@html:<span class="jp">顔面、頚部、体幹上部を侵す。</span>@@
+- Affects face, neck and upper trunk. @@html:<span class="ja">顔面、頚部、体幹上部を侵す。</span>@@
 - comedones (these are the skin pores)
   - White papules: this happens if the top is closed.
   - Black holes: this happens if the top is open.
@@ -43,7 +43,7 @@ This affects the hair follicle, hair shaft, and sebaceous gland. @@html:<span cl
 :CUSTOM_ID: orgea9959f
 :END:
 
-Acne fulminans: this is acne plus fever. You need to admit patient to hospital if they have this. @@html:<span class="jp">これは、にきび＋発熱です。これがある場合は入院させる必要があります。</span>@@
+Acne fulminans: this is acne plus fever. You need to admit patient to hospital if they have this. @@html:<span class="ja">これは、にきび＋発熱です。これがある場合は入院させる必要があります。</span>@@
 
 ** Degrees
 :PROPERTIES:
@@ -59,31 +59,31 @@ Acne fulminans: this is acne plus fever. You need to admit patient to hospital i
 :CUSTOM_ID: orgca11d4a
 :END:
 
-This is quite a lot! Here is a quick summary @@html:<span class="jp">これは結構な量です！簡単にまとめるとこんな感じです。</span>@@:
+This is quite a lot! Here is a quick summary @@html:<span class="ja">これは結構な量です！簡単にまとめるとこんな感じです。</span>@@:
 1. First-line: topical retinoids and benzoyl peroxide
 2. Second-line: systemic tetracycline OR trimethoprim OR combined oral contraceptives
 3. Third-line: oral isotretinoin
 
-Now, let's go in detail! @@html:<span class="jp">さあ、詳しく見ていきましょう！</span>@@:
+Now, let's go in detail! @@html:<span class="ja">さあ、詳しく見ていきましょう！</span>@@:
 
 - Mild acne:
   - topical retinoids
   - benzoyl peroxide
   - These 2 drugs are /always/ the first-line!
 - Moderate acne:
-  - Systemic tetracycline for /3 months/. @@html:<span class="jp">テトラサイクリン系薬剤を3ヶ月間全身投与。</span>@@
-  - If tetracycline fails, then try trimethoprim (nice mnemonic, huh? TRY TRImethoprim lol). @@html:<span class="jp">テトラサイクリンがだめなら、トリメトプリム（いいニーモニックですね笑）を使ってみてください。</span>@@
-  - Do /not/ use tetracyclines for pregnant women! @@html:<span class="jp">妊婦にテトラサイクリン系抗生物質を使用しないでください！</span>@@
-  - If the woman does not want to use antibiotics, then she can use combined oral contraceptives. You can give her /3 months/ of Dianette (which is a combined oral contraceptive). @@html:<span class="jp">抗生物質を使いたくない場合は、経口避妊薬を併用することができます。ダイアネット（経口複合避妊薬）を3ヶ月間飲ませることができます。</span>@@
-    - Yeeeeaaaaah, I don't know why they keep giving drugs for /3 months/. But, who cares! This makes it easier for us to remember... lol. @@html:<span class="jp">そう、なぜ3ヶ月も薬を出し続けるのかがわからない。でも、気にすることはありません！これなら覚えやすいし。。。笑。</span>@@
-    - Maybe 3 months is a secret to something mysterious... @@html:<span class="jp">3ヶ月というのは、何か不思議な秘密があるのかもしれませんね。。。</span>@@
-    - Maybe the patient will turn into a giant acne monster with three arms... @@html:<span class="jp">もしかしたら、患者は3本の腕を持つ巨大なニキビモンスターに変身してしまうかもしれない。。。</span>@@
+  - Systemic tetracycline for /3 months/. @@html:<span class="ja">テトラサイクリン系薬剤を3ヶ月間全身投与。</span>@@
+  - If tetracycline fails, then try trimethoprim (nice mnemonic, huh? TRY TRImethoprim lol). @@html:<span class="ja">テトラサイクリンがだめなら、トリメトプリム（いいニーモニックですね笑）を使ってみてください。</span>@@
+  - Do /not/ use tetracyclines for pregnant women! @@html:<span class="ja">妊婦にテトラサイクリン系抗生物質を使用しないでください！</span>@@
+  - If the woman does not want to use antibiotics, then she can use combined oral contraceptives. You can give her /3 months/ of Dianette (which is a combined oral contraceptive). @@html:<span class="ja">抗生物質を使いたくない場合は、経口避妊薬を併用することができます。ダイアネット（経口複合避妊薬）を3ヶ月間飲ませることができます。</span>@@
+    - Yeeeeaaaaah, I don't know why they keep giving drugs for /3 months/. But, who cares! This makes it easier for us to remember... lol. @@html:<span class="ja">そう、なぜ3ヶ月も薬を出し続けるのかがわからない。でも、気にすることはありません！これなら覚えやすいし。。。笑。</span>@@
+    - Maybe 3 months is a secret to something mysterious... @@html:<span class="ja">3ヶ月というのは、何か不思議な秘密があるのかもしれませんね。。。</span>@@
+    - Maybe the patient will turn into a giant acne monster with three arms... @@html:<span class="ja">もしかしたら、患者は3本の腕を持つ巨大なニキビモンスターに変身してしまうかもしれない。。。</span>@@
     - Ahhhh... what am I doing...... I need to sleep......... now............
 - Severe acne:
-  - This needs specialist management! Call for help!! Do it now!!! @@html:<span class="jp">これは専門家の管理が必要です！助けを求めてください！！今すぐやるんだ！！！</span>@@
-  - Cool dermatology consultants use prescribe oral isotretinoin (a type of retinoids)! @@html:<span class="jp">クールな皮膚科のコンサルタントは、イソトレチノイン（レチノイドの一種）の内服を処方します！</span>@@
-  - Oral isotretinoin is a bit... weird. It causes mood disturbances. So, make sure you screen for mental health issues! @@html:<span class="jp">イソトレチノイン経口剤は、ちょっと... 変なんです。気分障害を引き起こします。だから、精神衛生上の問題がないかどうか、必ず検査してください！</span>@@
-    - The three-arm acne monster is now angry and sad because of this drug! @@html:<span class="jp">3本腕のニキビ怪獣が、この薬のせいで怒ったり悲しんだりするようになった！</span>@@
+  - This needs specialist management! Call for help!! Do it now!!! @@html:<span class="ja">これは専門家の管理が必要です！助けを求めてください！！今すぐやるんだ！！！</span>@@
+  - Cool dermatology consultants use prescribe oral isotretinoin (a type of retinoids)! @@html:<span class="ja">クールな皮膚科のコンサルタントは、イソトレチノイン（レチノイドの一種）の内服を処方します！</span>@@
+  - Oral isotretinoin is a bit... weird. It causes mood disturbances. So, make sure you screen for mental health issues! @@html:<span class="ja">イソトレチノイン経口剤は、ちょっと... 変なんです。気分障害を引き起こします。だから、精神衛生上の問題がないかどうか、必ず検査してください！</span>@@
+    - The three-arm acne monster is now angry and sad because of this drug! @@html:<span class="ja">3本腕のニキビ怪獣が、この薬のせいで怒ったり悲しんだりするようになった！</span>@@
 
 * Basal cell carcinoma
 :PROPERTIES:
@@ -92,11 +92,11 @@ Now, let's go in detail! @@html:<span class="jp">さあ、詳しく見ていき�
 
 Posted: 2023-02-01 | Updated: 2023-02-02
 
-This is a malignant tumour. @@html:<span class="jp">これは悪性の腫瘍です。</span>@@
+This is a malignant tumour. @@html:<span class="ja">これは悪性の腫瘍です。</span>@@
 
-It is not common for this type of cancer to spread. @@html:<span class="jp">このタイプのがんは、転移することはあまりありません。</span>@@
+It is not common for this type of cancer to spread. @@html:<span class="ja">このタイプのがんは、転移することはあまりありません。</span>@@
 
-It grows /very slowly/. @@html:<span class="jp">成長がとても遅いのです。</span>@@
+It grows /very slowly/. @@html:<span class="ja">成長がとても遅いのです。</span>@@
 
 Risk factors are:
 - Ultraviolet light exposure
@@ -108,19 +108,19 @@ Risk factors are:
 :CUSTOM_ID: org47157c6
 :END:
 
-- It does /not/ cause any pain. @@html:<span class="jp">痛みを感じることはありません。</span>@@
-- You will find it on the skin which is exposed to the sunlight (so, usually the face). @@html:<span class="jp">日光にさらされる肌（つまり、通常は顔）にできます。</span>@@
+- It does /not/ cause any pain. @@html:<span class="ja">痛みを感じることはありません。</span>@@
+- You will find it on the skin which is exposed to the sunlight (so, usually the face). @@html:<span class="ja">日光にさらされる肌（つまり、通常は顔）にできます。</span>@@
 - Pearly colour (like [[https://lh3.googleusercontent.com/pw/AMWts8C6lMxXfEcHHnGvH-AnCxv13iIej70xPhTUye7yKwpz0bvEGk_AnJcrWe93z_B8d90g1RkPvc3Gaai2fXPUKBO3hRbidi1gindzLZ_0o4TdO2mV_0-pkBpdk_fuWb9CxO8piNO4u8AFKlxg-CSgJDM=w640-h480-no?authuser=3][this]]).
-- The border of the nodule will be rolled over and it will have an ulcer in the middle which does /not/ heal (like [[https://lh3.googleusercontent.com/pw/AMWts8Cdt6LvfmGDHbgl2Il0Ywz9lzpHtgpScvB0SX9TU9aXW1aanaOTX6LB2oJUt_pKBhUMyiV2tL2QPpU1hts-2NCC8X9VlDGcA719soxh7tFs2HsaOqpzliYTOK28kDTrn4p0FBCiFX4oh741LPewbww=w640-h480-no?authuser=3][this]]). @@html:<span class="jp">結節の境目が転がって、真ん中に潰瘍ができ、それが治らない。</span>@@
+- The border of the nodule will be rolled over and it will have an ulcer in the middle which does /not/ heal (like [[https://lh3.googleusercontent.com/pw/AMWts8Cdt6LvfmGDHbgl2Il0Ywz9lzpHtgpScvB0SX9TU9aXW1aanaOTX6LB2oJUt_pKBhUMyiV2tL2QPpU1hts-2NCC8X9VlDGcA719soxh7tFs2HsaOqpzliYTOK28kDTrn4p0FBCiFX4oh741LPewbww=w640-h480-no?authuser=3][this]]). @@html:<span class="ja">結節の境目が転がって、真ん中に潰瘍ができ、それが治らない。</span>@@
 
 ** Types
 :PROPERTIES:
 :CUSTOM_ID: orgb8a54e5
 :END:
 
-There are many types of basal cell carcinoma. @@html:<span class="jp">基底細胞癌には多くの種類があります。</span>@@
+There are many types of basal cell carcinoma. @@html:<span class="ja">基底細胞癌には多くの種類があります。</span>@@
 
-To be honest, you do /not/ need to know them. You can have a look at some photos [[https://dermnetnz.org/cme/lesions/basal-cell-carcinoma-cme][here]] (this is a very good website). This is just for your interest. I listed some of the unique ones below @@html:<span class="jp">正直なところ、あなたはそれらを知る必要はないでしょう。ここでいくつかの写真を見ることができます（これは非常に良いウェブサイトです）。これはあくまで興味本位です。以下にユニークなものをいくつか挙げてみました。</span>@@:
+To be honest, you do /not/ need to know them. You can have a look at some photos [[https://dermnetnz.org/cme/lesions/basal-cell-carcinoma-cme][here]] (this is a very good website). This is just for your interest. I listed some of the unique ones below @@html:<span class="ja">正直なところ、あなたはそれらを知る必要はないでしょう。ここでいくつかの写真を見ることができます（これは非常に良いウェブサイトです）。これはあくまで興味本位です。以下にユニークなものをいくつか挙げてみました。</span>@@:
 - Superficial. Look at [[https://lh3.googleusercontent.com/pw/AMWts8AuVbsaFxk4x28bZm-IYzniuxd6othiTeMabCuiWLSTr8x6LRd7F9F7q-eFElEDbiiAo4rytgV9D0Y7Tb3sMYlMURZpB_WqfG6QLiUkKizfFvsRVxab4yT3Osrj3lRKvIpeHXKX36HR36uDbEWKQ1g=w640-h480-no?authuser=3][this]].
 - Nodular. Look at [[https://lh3.googleusercontent.com/pw/AMWts8C6lMxXfEcHHnGvH-AnCxv13iIej70xPhTUye7yKwpz0bvEGk_AnJcrWe93z_B8d90g1RkPvc3Gaai2fXPUKBO3hRbidi1gindzLZ_0o4TdO2mV_0-pkBpdk_fuWb9CxO8piNO4u8AFKlxg-CSgJDM=w640-h480-no?authuser=3][this]].
 - Pigmented. Look at [[https://lh3.googleusercontent.com/pw/AMWts8AYM1VUemU8vgwEnOc8drDX9aMbgoKdhgb4Zjvuvg8SnSZ2rSnOBqpe6NCiE5QyXoe9nKSfD_pqIC4WXyDmEvVCoPJvbPnql-7WKXMluRHtnr2PFcCDW66uzMayxqHGL985kwCn3zc5JAFbWM690vM=w640-h480-no?authuser=3][this]].
@@ -131,8 +131,8 @@ To be honest, you do /not/ need to know them. You can have a look at some photos
 :END:
 
 - Surgical excision.
-- Mohs surgery if the cancer is near a cosmetic area (like the eyes). @@html:<span class="jp">がんが美容部位（目など）の近くにある場合のモース手術。</span>@@
-- If the cancer is low-risk, then you can use topical immunosuppressant drugs such as imiquimod and fluorouracil. @@html:<span class="jp">がんのリスクが低い場合は、イミキモドやフルオロウラシルなどの免疫抑制剤の外用薬を使用することができます。</span>@@
+- Mohs surgery if the cancer is near a cosmetic area (like the eyes). @@html:<span class="ja">がんが美容部位（目など）の近くにある場合のモース手術。</span>@@
+- If the cancer is low-risk, then you can use topical immunosuppressant drugs such as imiquimod and fluorouracil. @@html:<span class="ja">がんのリスクが低い場合は、イミキモドやフルオロウラシルなどの免疫抑制剤の外用薬を使用することができます。</span>@@
 
 * Managing dermatological diseases
 :PROPERTIES:
@@ -141,24 +141,24 @@ To be honest, you do /not/ need to know them. You can have a look at some photos
 
 Posted: 2023-02-01 | Updated: 2023-02-02
 
-When treating dermatological disease, it is important to consider what patients want and what they like. @@html:<span class="jp">皮膚科の病気の治療では、患者さんが何を求めているか、何が好きかを考えることが大切です。</span>@@
+When treating dermatological disease, it is important to consider what patients want and what they like. @@html:<span class="ja">皮膚科の病気の治療では、患者さんが何を求めているか、何が好きかを考えることが大切です。</span>@@
 
 ** Topical
 :PROPERTIES:
 :CUSTOM_ID: org4344e14
 :END:
 
-This is the most common type of treatment. @@html:<span class="jp">これが最も一般的な治療法です。</span>@@
+This is the most common type of treatment. @@html:<span class="ja">これが最も一般的な治療法です。</span>@@
 
-There are many types of topical treatments. But, the main ones are @@html:<span class="jp">外用剤には多くの種類があります。しかし、主なものは</span>@@:
+There are many types of topical treatments. But, the main ones are @@html:<span class="ja">外用剤には多くの種類があります。しかし、主なものは</span>@@:
 - Emollients:
-  - Creams: this is can be used for dry skin conditions. But, they are usually used in /acute/ cases. You can use this to massage the place! @@html:<span class="jp">これは、乾燥肌の症状にも使用できます。しかし、通常は急性の場合に使用されます。これを使ってマッサージができるんです！</span>@@
+  - Creams: this is can be used for dry skin conditions. But, they are usually used in /acute/ cases. You can use this to massage the place! @@html:<span class="ja">これは、乾燥肌の症状にも使用できます。しかし、通常は急性の場合に使用されます。これを使ってマッサージができるんです！</span>@@
   - Ointments: this is used for /dry/ skin conditions. It is more sticky than creams (this is why patients like to use creams instead of ointments).
 - Topical glucocorticoids:
-  - /Mild/ glucocorticoids are used in delicate areas. @@html:<span class="jp">デリケートな部分には軽度のグルココルチコイドを使用します。</span>@@
-  - /Strong/ glucocorticoids are used when the disease is too complex/advanced. @@html:<span class="jp">強力なグルココルチコイドは、病気があまりに複雑／進行している場合に使用されます。</span>@@
-  - Skin atrophy (when the skin becomes weak) is a common side effect of using topical glucocorticoids. @@html:<span class="jp">皮膚萎縮（皮膚が弱くなること）は、グルココルチコイド外用剤の使用でよく見られる副作用です。</span>@@
-  - Here are some glucocorticoids @@html:<span class="jp">グルココルチコイドを紹介します</span>@@:
+  - /Mild/ glucocorticoids are used in delicate areas. @@html:<span class="ja">デリケートな部分には軽度のグルココルチコイドを使用します。</span>@@
+  - /Strong/ glucocorticoids are used when the disease is too complex/advanced. @@html:<span class="ja">強力なグルココルチコイドは、病気があまりに複雑／進行している場合に使用されます。</span>@@
+  - Skin atrophy (when the skin becomes weak) is a common side effect of using topical glucocorticoids. @@html:<span class="ja">皮膚萎縮（皮膚が弱くなること）は、グルココルチコイド外用剤の使用でよく見られる副作用です。</span>@@
+  - Here are some glucocorticoids @@html:<span class="ja">グルココルチコイドを紹介します</span>@@:
     - Mild: hydrocortisone 0.5%
     - Moderate: Eumovate
     - Potent: betamethasone
@@ -169,10 +169,10 @@ There are many types of topical treatments. But, the main ones are @@html:<span 
 :END:
 
 - Retinoids:
-  - These are oral drugs. @@html:<span class="jp">これらは経口薬です。</span>@@
-  - Retinoids are a type of drugs that is similar to vitamin A. @@html:<span class="jp">レチノイドは、ビタミンAに由来する点や、化学構造や機能の点で、同様の物質の種類を指す。</span>@@
-  - Retinoids are used for diseases are acne and psoriasis. @@html:<span class="jp">レチノイドは、にきびや乾癬などの病気に使われます。</span>@@
-  - Retinoids work by helping skin cells become specialised (this process is called "differentiation"). You can read more about "differentiation" on [[https://ja.wikipedia.org/wiki/%E5%88%86%E5%8C%96][Wikipedia]]. @@html:<span class="jp">レチノイドは、皮膚細胞が特殊化するのを助ける働きをします（このプロセスを「分化」と呼びます）。多細胞生物に於いて、個々の細胞が構造機能的に変化すること。</span>@@
-  - Retinoids reduce inflammation. @@html:<span class="jp">レチノイドは炎症を抑える。</span>@@
+  - These are oral drugs. @@html:<span class="ja">これらは経口薬です。</span>@@
+  - Retinoids are a type of drugs that is similar to vitamin A. @@html:<span class="ja">レチノイドは、ビタミンAに由来する点や、化学構造や機能の点で、同様の物質の種類を指す。</span>@@
+  - Retinoids are used for diseases are acne and psoriasis. @@html:<span class="ja">レチノイドは、にきびや乾癬などの病気に使われます。</span>@@
+  - Retinoids work by helping skin cells become specialised (this process is called "differentiation"). You can read more about "differentiation" on [[https://ja.wikipedia.org/wiki/%E5%88%86%E5%8C%96][Wikipedia]]. @@html:<span class="ja">レチノイドは、皮膚細胞が特殊化するのを助ける働きをします（このプロセスを「分化」と呼びます）。多細胞生物に於いて、個々の細胞が構造機能的に変化すること。</span>@@
+  - Retinoids reduce inflammation. @@html:<span class="ja">レチノイドは炎症を抑える。</span>@@
   - Systemic retinoids are teratogenic!
-- Immunosuppressants: these drugs make the immune system weak and they reduce inflammation. They are used in many diseases, including eczema! @@html:<span class="jp">これらの薬は免疫系を弱め、炎症を抑えます。湿疹をはじめ、多くの疾患に使用されています！</span>@@
+- Immunosuppressants: these drugs make the immune system weak and they reduce inflammation. They are used in many diseases, including eczema! @@html:<span class="ja">これらの薬は免疫系を弱め、炎症を抑えます。湿疹をはじめ、多くの疾患に使用されています！</span>@@

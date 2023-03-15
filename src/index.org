@@ -25,16 +25,16 @@
 :PROPERTIES:
 :CUSTOM_ID: eh
 :END:
-This website is a gift for my /best/ friend! @@html:<span class="jp">このウェブサイトは、私の大親友への贈り物です！</span>@@
+This website is a gift for my /best/ friend! @@html:<span class="ja">このウェブサイトは、私の大親友への贈り物です！</span>@@
 
-The this colour means that it is a link. For example, [[https://www.youtube.com/embed/aRCVKqBPsFU][this is a link]]! @@html:<span class="jp">ピンクのハイライトは、リンクであることを意味します。例えば、<a href="https://www.youtube.com/embed/aRCVKqBPsFU">これはリンクです</a>！</span>@@
+The this colour means that it is a link. For example, [[https://www.youtube.com/embed/aRCVKqBPsFU][this is a link]]! @@html:<span class="ja">ピンクのハイライトは、リンクであることを意味します。例えば、<a href="https://www.youtube.com/embed/aRCVKqBPsFU">これはリンクです</a>！</span>@@
 
 * Chapters
 :PROPERTIES:
 :CUSTOM_ID: toc
 :END:
 
-Click the chapter which you want to study! @@html:<span class="jp">勉強したい章をクリックしてください！</span>@@
+Click the chapter which you want to study! @@html:<span class="ja">勉強したい章をクリックしてください！</span>@@
 
 - [[file:./cp/index.org][Clinical Pharmacology - 臨床薬理学 (cp)]]
 - [[file:./og/index.org][Obstetrics and Gynaecology - 産婦人科学 (og)]]
@@ -54,13 +54,13 @@ Click the chapter which you want to study! @@html:<span class="jp">勉強した�
 <!-- :CUSTOM_ID: orgdcbac4b -->
 <!-- :END: -->
 
-<!-- In each chapter, you will find a table of topics. @@html:<span class="jp">各章には、トピックの表が掲載されています。</span>@@ -->
+<!-- In each chapter, you will find a table of topics. @@html:<span class="ja">各章には、トピックの表が掲載されています。</span>@@ -->
 
-<!-- Click on the header of the column to sort it! Cool, right?! @@html:<span class="jp">列のヘッダーをクリックするとソートされます！すごいね！</span>@@ -->
+<!-- Click on the header of the column to sort it! Cool, right?! @@html:<span class="ja">列のヘッダーをクリックするとソートされます！すごいね！</span>@@ -->
 
-<!-- Click on the "DATE POSTED" header, then the table will be sorted by date... @@html:<span class="jp">「DATE POSTED」ヘッダをクリックすると、日付順にソートされます。</span>@@ -->
+<!-- Click on the "DATE POSTED" header, then the table will be sorted by date... @@html:<span class="ja">「DATE POSTED」ヘッダをクリックすると、日付順にソートされます。</span>@@ -->
 
-<!-- Click on the "TITLE" header, then the table will be sorted by alphabetical order... @@html:<span class="jp">「TITLE」のヘッダーをクリックすると、テーブルがアルファベット順にソートされます。。。</span>@@ -->
+<!-- Click on the "TITLE" header, then the table will be sorted by alphabetical order... @@html:<span class="ja">「TITLE」のヘッダーをクリックすると、テーブルがアルファベット順にソートされます。。。</span>@@ -->
 #+END_EXPORT
 
 * Disclaimer
@@ -68,8 +68,8 @@ Click the chapter which you want to study! @@html:<span class="jp">勉強した�
 :CUSTOM_ID: org1b89221
 :END:
 
-Disclaimer. @@html:<span class="jp">免責事項。</span>@@
+Disclaimer. @@html:<span class="ja">免責事項。</span>@@
 
-Please note that the translation may not be correct. However, I will try my absolute best to make sure that the translation is as accurate as possible. @@html:<span class="jp">翻訳が正確でない可能性があることをご了承ください。しかし、可能な限り正確な翻訳をするよう、絶対的な努力をします。</span>@@
+Please note that the translation may not be correct. However, I will try my absolute best to make sure that the translation is as accurate as possible. @@html:<span class="ja">翻訳が正確でない可能性があることをご了承ください。しかし、可能な限り正確な翻訳をするよう、絶対的な努力をします。</span>@@
 
-The content of this site is not intended as medical advice or as a diagnostic tool. If you have a medical problem, you should seek medical advice. @@html:<span class="jp">本サイトのコンテンツは、医学的なアドバイスや診断のためのものではありません。医療上の問題がある場合は、医師の診断を受ける必要があります。</span>@@
+The content of this site is not intended as medical advice or as a diagnostic tool. If you have a medical problem, you should seek medical advice. @@html:<span class="ja">本サイトのコンテンツは、医学的なアドバイスや診断のためのものではありません。医療上の問題がある場合は、医師の診断を受ける必要があります。</span>@@

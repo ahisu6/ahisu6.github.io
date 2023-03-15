@@ -24,7 +24,7 @@
 
 Posted: 2023-02-12 | Updated: 2023-02-15
 
-These diseases may affect the woman in the following places @@html:<span class="jp">これらの病気は、次のような場所で女性に影響を与える可能性があります</span>@@:
+These diseases may affect the woman in the following places @@html:<span class="ja">これらの病気は、次のような場所で女性に影響を与える可能性があります</span>@@:
 1. Vagina
 2. Cervix
 3. Uterus ([[file:./001.org::#orgdbf80b3][Pelvic inflammatory disease]]): I will not cover this one because I have already done that!
@@ -34,13 +34,13 @@ These diseases may affect the woman in the following places @@html:<span class="
 :CUSTOM_ID: org46ecfa6
 :END:
 
-In the vagina, there is bacteria called "Lactobacillus acidophilus". @@html:<span class="jp">膣の中には「Lactobacillus acidophilus」という菌がいます。</span>@@
+In the vagina, there is bacteria called "Lactobacillus acidophilus". @@html:<span class="ja">膣の中には「Lactobacillus acidophilus」という菌がいます。</span>@@
 
-Lactobacillus acidophilus bacteria releases lactic acid (this is why the word "/lact/ obacillus" has "/lact/")! @@html:<span class="jp">「Lactobacillus acidophilus」は乳酸を放出する（「ラクトバチルス」に「ラクト」が付くのはこのためである）。</span>@@
+Lactobacillus acidophilus bacteria releases lactic acid (this is why the word "/lact/ obacillus" has "/lact/")! @@html:<span class="ja">「Lactobacillus acidophilus」は乳酸を放出する（「ラクトバチルス」に「ラクト」が付くのはこのためである）。</span>@@
 
-When the woman has bacterial vaginosis, the number of lactobacilli decreases! @@html:<span class="jp">女性が細菌性膣炎になると、ラクトバチルが減少してしまうのです！</span>@@
+When the woman has bacterial vaginosis, the number of lactobacilli decreases! @@html:<span class="ja">女性が細菌性膣炎になると、ラクトバチルが減少してしまうのです！</span>@@
 
-Not only that, but also, another bacteria starts to colonise the vagina! It's called Gardnerella vaginalis! Gardnerella bacteria is /evil/!!! @@html:<span class="jp">それだけでなく、膣内には別の細菌が繁殖し始めるのです! それは、ガードネレラ膣炎と呼ばれるものです。ガードネレラ菌は悪だ！！！</span>@@
+Not only that, but also, another bacteria starts to colonise the vagina! It's called Gardnerella vaginalis! Gardnerella bacteria is /evil/!!! @@html:<span class="ja">それだけでなく、膣内には別の細菌が繁殖し始めるのです! それは、ガードネレラ膣炎と呼ばれるものです。ガードネレラ菌は悪だ！！！</span>@@
 
 *** Signs and symptoms of bacterial vaginosis
 :PROPERTIES:
@@ -48,19 +48,19 @@ Not only that, but also, another bacteria starts to colonise the vagina! It's ca
 :END:
 
 - No symptoms.
-- Milky discharge with fish smell. @@html:<span class="jp">魚臭のする乳白色のおりもの。</span>@@
-  - Maybe Gardnerella vaginalis is a fish that like swimming in the vagina... @@html:<span class="jp">Gardnerella vaginalisは、膣の中を好んで泳ぐ魚なのかもしれない。。。</span>@@
+- Milky discharge with fish smell. @@html:<span class="ja">魚臭のする乳白色のおりもの。</span>@@
+  - Maybe Gardnerella vaginalis is a fish that like swimming in the vagina... @@html:<span class="ja">Gardnerella vaginalisは、膣の中を好んで泳ぐ魚なのかもしれない。。。</span>@@
 
 *** Investigations of bacterial vaginosis
 :PROPERTIES:
 :CUSTOM_ID: org7ee3662
 :END:
 
-- To diagnose bacterial vaginosis, we use something called Amsel criteria @@html:<span class="jp">細菌性膣炎の診断には、「アムセル基準」というものがあります</span>@@:
-  - Clue cells: these are bacteria which stick to vagina cells. They look like [[https://lh3.googleusercontent.com/pw/AMWts8CVbgBk1pxHdOdWdTa3MPKd_cplKhlbU-96ug0KzYGKqhaDxWLBBSCqUkzPXaGlKezhODzlAnDqcjdTATKrJuQbINmC5ft2NNNEE8OkwPMxEZzoIsX0TgB4_7h8IyYPpE51htxr-rfRj-FkNlm9g5Q6=w700-h400-s-no?authuser=3][this]]. @@html:<span class="jp">これらは、膣の細胞に付着する細菌です。</span>@@
-  - Vaginal pH higher than 4.5: Remember, if we lose the acidic bacteria, then no more acid is produced!!!!!! So... the vagina will become /less/ acidic!!!!!!!! @@html:<span class="jp">膣内pHが4.5より高い：酸性菌がいなくなれば、それ以上酸が作られないことを忘れないでください！！！！！！！つまり。。。膣内は酸性度が低くなる！！！！！！！</span>@@
-  - Positive whiff test: basically, if you smell any fish in the vaginal discharge, then that means the test is positive! @@html:<span class="jp">基本的に、膣分泌物に魚の臭いがあれば、それは検査が陽性であることを意味します！</span>@@
-  - Thin and white vaginal discharge. @@html:<span class="jp">薄くて白い膣分泌物が出る。</span>@@
+- To diagnose bacterial vaginosis, we use something called Amsel criteria @@html:<span class="ja">細菌性膣炎の診断には、「アムセル基準」というものがあります</span>@@:
+  - Clue cells: these are bacteria which stick to vagina cells. They look like [[https://lh3.googleusercontent.com/pw/AMWts8CVbgBk1pxHdOdWdTa3MPKd_cplKhlbU-96ug0KzYGKqhaDxWLBBSCqUkzPXaGlKezhODzlAnDqcjdTATKrJuQbINmC5ft2NNNEE8OkwPMxEZzoIsX0TgB4_7h8IyYPpE51htxr-rfRj-FkNlm9g5Q6=w700-h400-s-no?authuser=3][this]]. @@html:<span class="ja">これらは、膣の細胞に付着する細菌です。</span>@@
+  - Vaginal pH higher than 4.5: Remember, if we lose the acidic bacteria, then no more acid is produced!!!!!! So... the vagina will become /less/ acidic!!!!!!!! @@html:<span class="ja">膣内pHが4.5より高い：酸性菌がいなくなれば、それ以上酸が作られないことを忘れないでください！！！！！！！つまり。。。膣内は酸性度が低くなる！！！！！！！</span>@@
+  - Positive whiff test: basically, if you smell any fish in the vaginal discharge, then that means the test is positive! @@html:<span class="ja">基本的に、膣分泌物に魚の臭いがあれば、それは検査が陽性であることを意味します！</span>@@
+  - Thin and white vaginal discharge. @@html:<span class="ja">薄くて白い膣分泌物が出る。</span>@@
 
 *** Treatment of bacterial vaginosis
 :PROPERTIES:
@@ -68,30 +68,30 @@ Not only that, but also, another bacteria starts to colonise the vagina! It's ca
 :END:
 
 - Oral metronidazole ([[file:../cp/001.org::#metronidazole][see the story of metronidazole]]).
-  - The metro train will come and destroy all of the evil Gardnerella bacteria!!!! @@html:<span class="jp">メトロトレインがやってきて、邪悪なガードネレラ菌をすべて駆逐してくれる！！！！</span>@@
+  - The metro train will come and destroy all of the evil Gardnerella bacteria!!!! @@html:<span class="ja">メトロトレインがやってきて、邪悪なガードネレラ菌をすべて駆逐してくれる！！！！</span>@@
 
 ** Vulvovaginal candidiasis
 :PROPERTIES:
 :CUSTOM_ID: orgec31300
 :END:
 
-This is when there is too much of the Candida albicans fungus... @@html:<span class="jp">これは、カンジダ・アルビカンス菌が多すぎる場合です。。。</span>@@
+This is when there is too much of the Candida albicans fungus... @@html:<span class="ja">これは、カンジダ・アルビカンス菌が多すぎる場合です。。。</span>@@
 
-Remember the name of this fungus. It is important!!! @@html:<span class="jp">この菌の名前を覚えてください。大事なことです！！！</span>@@
+Remember the name of this fungus. It is important!!! @@html:<span class="ja">この菌の名前を覚えてください。大事なことです！！！</span>@@
 
-The word "albicans" is similar to the word "albino"!! @@html:<span class="jp">「アルビカンス」という言葉は「アルビノ」に似ている！！</span>@@
+The word "albicans" is similar to the word "albino"!! @@html:<span class="ja">「アルビカンス」という言葉は「アルビノ」に似ている！！</span>@@
 
-Albino means "white"! @@html:<span class="jp">アルビノは「白い」という意味！</span>@@
+Albino means "white"! @@html:<span class="ja">アルビノは「白い」という意味！</span>@@
 
 *** Signs and symptoms of vulvovaginal candidiasis
 :PROPERTIES:
 :CUSTOM_ID: org402f401
 :END:
 
-- White vaginal discharge that looks like... cheese! Say "CHEEEEESE"!!!!! @@html:<span class="jp">白い膣分泌物が。。。チーズのようだ! 「CHEEEEESE」と言いなさい！！！！！</span>@@
-- The discharge does /not/ have any smell. @@html:<span class="jp">吐出物に臭いはない。</span>@@
-- Red vagina and vulva. @@html:<span class="jp">膣や外陰部が赤い。</span>@@
-- Burning sensation and itch. @@html:<span class="jp">灼熱感や痒みがある。</span>@@
+- White vaginal discharge that looks like... cheese! Say "CHEEEEESE"!!!!! @@html:<span class="ja">白い膣分泌物が。。。チーズのようだ! 「CHEEEEESE」と言いなさい！！！！！</span>@@
+- The discharge does /not/ have any smell. @@html:<span class="ja">吐出物に臭いはない。</span>@@
+- Red vagina and vulva. @@html:<span class="ja">膣や外陰部が赤い。</span>@@
+- Burning sensation and itch. @@html:<span class="ja">灼熱感や痒みがある。</span>@@
 
 *** Investigations of vulvovaginal candidiasis
 :PROPERTIES:
@@ -105,16 +105,16 @@ Albino means "white"! @@html:<span class="jp">アルビノは「白い」とい�
 :CUSTOM_ID: org41ad989
 :END:
 
-- Remember! Do /not/ give any /oral/ antifungals to pregnant women!!! @@html:<span class="jp">忘れないで！妊婦に抗真菌剤の経口投与をしないこと！！！</span>@@
-- Oral fluconazole (see the story of [[file:../cp/001.org::#fluconazole][fluconazole]]): only give this if the woman is /not/ pregnant! @@html:<span class="jp">妊娠していない場合のみ投与してください！</span>@@
-  - Conan is soooo old and he is NOT pregnant... so, we can give him fluconazole! @@html:<span class="jp">古いコナンはとても高齢で、妊娠はしていない。。。だから、フルコナゾールを飲ませればいいのです！</span>@@
-- Intravaginal clotrimazole (see the story of [[file:../cp/001.org::#clotrimazole][clotrimazole]]): give this if the woman is pregnant!! @@html:<span class="jp">この薬を妊婦に飲ませろ！！</span>@@
-  - Imagine putting a black bird inside a pregnant woman. This black bird will fight all of the Candida! Also, this black bird will protect the baby of that woman!! Ehhhhhhh creeeeeepy lol. But, at least you will never forget this horrible picture... @@html:<span class="jp">妊婦の体内に黒い鳥を入れることを想像してください。この黒い鳥がカンジダ菌と全部戦ってくれるんです！また、この黒い鳥は、あの女の子供を守ってくれる！！え～～～っと気持ち悪い笑。でも、少なくともこの恐ろしい絵は一生忘れないでしょう。。。</span>@@
-- Topical imidazole: you can give this in addition to the above drugs (do /not/ give it alone by itself)! It just helps with the vulval inflammation!!! @@html:<span class="jp">上記の薬に追加して与えることができます（単独で与えてはいけません）！外陰部の炎症に効くだけです！！！</span>@@
-- Sometimes, the woman might 4 candidiasis infections per year. In this case, you need to give her the following @@html:<span class="jp">カンジダ症は、1年に4回発症することもあります。この場合、以下のものを与える必要があります。</span>@@
-  - Oral fluconazole every day for 3 days! @@html:<span class="jp">フルコナゾールを3日間毎日内服！</span>@@
-  - Then, keep giving her fluconazole every week for 6 months! @@html:<span class="jp">そして、6ヶ月間、毎週フルコナゾールを与え続けてください！</span>@@
-  - Poor Conan... they keep using him to kill Candida fungus... @@html:<span class="jp">コナンがかわいそう。。。カンジダ菌退治に使われ続けてる。。。</span>@@
+- Remember! Do /not/ give any /oral/ antifungals to pregnant women!!! @@html:<span class="ja">忘れないで！妊婦に抗真菌剤の経口投与をしないこと！！！</span>@@
+- Oral fluconazole (see the story of [[file:../cp/001.org::#fluconazole][fluconazole]]): only give this if the woman is /not/ pregnant! @@html:<span class="ja">妊娠していない場合のみ投与してください！</span>@@
+  - Conan is soooo old and he is NOT pregnant... so, we can give him fluconazole! @@html:<span class="ja">古いコナンはとても高齢で、妊娠はしていない。。。だから、フルコナゾールを飲ませればいいのです！</span>@@
+- Intravaginal clotrimazole (see the story of [[file:../cp/001.org::#clotrimazole][clotrimazole]]): give this if the woman is pregnant!! @@html:<span class="ja">この薬を妊婦に飲ませろ！！</span>@@
+  - Imagine putting a black bird inside a pregnant woman. This black bird will fight all of the Candida! Also, this black bird will protect the baby of that woman!! Ehhhhhhh creeeeeepy lol. But, at least you will never forget this horrible picture... @@html:<span class="ja">妊婦の体内に黒い鳥を入れることを想像してください。この黒い鳥がカンジダ菌と全部戦ってくれるんです！また、この黒い鳥は、あの女の子供を守ってくれる！！え～～～っと気持ち悪い笑。でも、少なくともこの恐ろしい絵は一生忘れないでしょう。。。</span>@@
+- Topical imidazole: you can give this in addition to the above drugs (do /not/ give it alone by itself)! It just helps with the vulval inflammation!!! @@html:<span class="ja">上記の薬に追加して与えることができます（単独で与えてはいけません）！外陰部の炎症に効くだけです！！！</span>@@
+- Sometimes, the woman might 4 candidiasis infections per year. In this case, you need to give her the following @@html:<span class="ja">カンジダ症は、1年に4回発症することもあります。この場合、以下のものを与える必要があります。</span>@@
+  - Oral fluconazole every day for 3 days! @@html:<span class="ja">フルコナゾールを3日間毎日内服！</span>@@
+  - Then, keep giving her fluconazole every week for 6 months! @@html:<span class="ja">そして、6ヶ月間、毎週フルコナゾールを与え続けてください！</span>@@
+  - Poor Conan... they keep using him to kill Candida fungus... @@html:<span class="ja">コナンがかわいそう。。。カンジダ菌退治に使われ続けてる。。。</span>@@
 
 * Uterine fibroids (G)
 :PROPERTIES:
@@ -123,27 +123,27 @@ Albino means "white"! @@html:<span class="jp">アルビノは「白い」とい�
 
 Posted: 2023-02-09 | Updated: 2023-02-10
 
-So, do you remember the layers of the uterus? If not, then look at this [[https://lh3.googleusercontent.com/pw/AMWts8CAIyrASH6CUm8lu736qR8qKmRm6A9QL9esmRRdb65xhnDESLWBmp98-V0Df6BQXuX7anr0IbB9baZbpY0So1V0B0ms_iMFnMDwHro1VgepAmq7DGaGTpRkCJPdwMFmz9hAiqfsRgoerFOhUAohufM6=w880-h435-s-no?authuser=3][picture]]. @@html:<span class="jp">さて、子宮の層は覚えていますか？そうでないなら、この絵を見てください。</span>@@
+So, do you remember the layers of the uterus? If not, then look at this [[https://lh3.googleusercontent.com/pw/AMWts8CAIyrASH6CUm8lu736qR8qKmRm6A9QL9esmRRdb65xhnDESLWBmp98-V0Df6BQXuX7anr0IbB9baZbpY0So1V0B0ms_iMFnMDwHro1VgepAmq7DGaGTpRkCJPdwMFmz9hAiqfsRgoerFOhUAohufM6=w880-h435-s-no?authuser=3][picture]]. @@html:<span class="ja">さて、子宮の層は覚えていますか？そうでないなら、この絵を見てください。</span>@@
 
-Fibroids is when the myometrium of the uterus grows. @@html:<span class="jp">子宮筋腫は、子宮の筋層が増殖することです。</span>@@
+Fibroids is when the myometrium of the uterus grows. @@html:<span class="ja">子宮筋腫は、子宮の筋層が増殖することです。</span>@@
 
-Fibroids are super common! @@html:<span class="jp">子宮筋腫は超常識！</span>@@
+Fibroids are super common! @@html:<span class="ja">子宮筋腫は超常識！</span>@@
 
-Fibroids are sometimes called "leiomyoma". So, the word "leiomyoma" just means "fibroid". @@html:<span class="jp">子宮筋腫は「平滑筋腫」と呼ばれることもあります。つまり、「平滑筋腫」という言葉は「筋腫」を意味するだけなのです。</span>@@
+Fibroids are sometimes called "leiomyoma". So, the word "leiomyoma" just means "fibroid". @@html:<span class="ja">子宮筋腫は「平滑筋腫」と呼ばれることもあります。つまり、「平滑筋腫」という言葉は「筋腫」を意味するだけなのです。</span>@@
 
 They mainly affect:
-- Women who have never had children. @@html:<span class="jp">子供を産んだことのない女性。</span>@@
-- African women. @@html:<span class="jp">アフリカの女性。</span>@@
+- Women who have never had children. @@html:<span class="ja">子供を産んだことのない女性。</span>@@
+- African women. @@html:<span class="ja">アフリカの女性。</span>@@
 
-Fibroids /love/ oestrogen and progesterone... @@html:<span class="jp">子宮筋腫はエストロゲンとプロゲステロンが大好き。。。</span>@@
+Fibroids /love/ oestrogen and progesterone... @@html:<span class="ja">子宮筋腫はエストロゲンとプロゲステロンが大好き。。。</span>@@
 
-Oestrogen and progesterone make fibroids grow big. @@html:<span class="jp">エストロゲンとプロゲステロンは子宮筋腫を大きくする。</span>@@
+Oestrogen and progesterone make fibroids grow big. @@html:<span class="ja">エストロゲンとプロゲステロンは子宮筋腫を大きくする。</span>@@
 
-After menopause, fibroids sometimes decrease in size. Weird, right? Well, not really! After menopause, the woman has low oestrogen. So... no oestrogen means the fibroids will get hungry and reduce in size! @@html:<span class="jp">閉経後、子宮筋腫が小さくなることがあります。変でしょう？まあ、そうでもないんですけどね！閉経後は、エストロゲンが少なくなります。ということは。。。エストロゲンがないということは、筋腫が腹をくくって小さくなる！</span>@@
+After menopause, fibroids sometimes decrease in size. Weird, right? Well, not really! After menopause, the woman has low oestrogen. So... no oestrogen means the fibroids will get hungry and reduce in size! @@html:<span class="ja">閉経後、子宮筋腫が小さくなることがあります。変でしょう？まあ、そうでもないんですけどね！閉経後は、エストロゲンが少なくなります。ということは。。。エストロゲンがないということは、筋腫が腹をくくって小さくなる！</span>@@
 
-In pregnancy, fibroids can grow in size. Can you guess why? That's right! In pregnancy, there is a lot of oestrogen. So, more oestrogen means that the fibroid will eat a lot and become @@html:<span class="jp">ぷにぷに！</span>@@! @@html:<span class="jp">妊娠すると、子宮筋腫は大きくなることがあります。なぜかわかりますか？そうなんです！妊娠中は、エストロゲンがたくさん分泌されます。妊娠すると、エストロゲンがたくさん出るんです。つまり、エストロゲンが多いということは、筋腫がたくさん食べてぷにぷにになるということなんですね！</span>@@
+In pregnancy, fibroids can grow in size. Can you guess why? That's right! In pregnancy, there is a lot of oestrogen. So, more oestrogen means that the fibroid will eat a lot and become @@html:<span class="ja">ぷにぷに！</span>@@! @@html:<span class="ja">妊娠すると、子宮筋腫は大きくなることがあります。なぜかわかりますか？そうなんです！妊娠中は、エストロゲンがたくさん分泌されます。妊娠すると、エストロゲンがたくさん出るんです。つまり、エストロゲンが多いということは、筋腫がたくさん食べてぷにぷにになるということなんですね！</span>@@
 
-Fibroids can have different names. This depends on the location of the fibroid. See this [[https://lh3.googleusercontent.com/pw/AMWts8DOqlxPFLZDkv7Zt5yxoMxNXqeE3iP-WK7t62Gvcqhh0m_Dn6rNeNmrH64d7nWUzITxW0SI6WwCB3jHc5SD5XiG-aH16wiA8hh4ua0ROvq49_Bi2AfG6WVzcfNldhdhFOBQHV8GvnDJFjvNJw8HG9Zv=w548-h470-s-no?authuser=3][picture]]. @@html:<span class="jp">子宮筋腫にはさまざまな名前がついていることがあります。これは、筋腫の場所によって異なります。</span>@@
+Fibroids can have different names. This depends on the location of the fibroid. See this [[https://lh3.googleusercontent.com/pw/AMWts8DOqlxPFLZDkv7Zt5yxoMxNXqeE3iP-WK7t62Gvcqhh0m_Dn6rNeNmrH64d7nWUzITxW0SI6WwCB3jHc5SD5XiG-aH16wiA8hh4ua0ROvq49_Bi2AfG6WVzcfNldhdhFOBQHV8GvnDJFjvNJw8HG9Zv=w548-h470-s-no?authuser=3][picture]]. @@html:<span class="ja">子宮筋腫にはさまざまな名前がついていることがあります。これは、筋腫の場所によって異なります。</span>@@
 
 ** Signs and symptoms
 :PROPERTIES:
@@ -152,11 +152,11 @@ Fibroids can have different names. This depends on the location of the fibroid. 
 
 Clinical signs:
 - No symptoms: Sometimes the woman has no symptoms!
-- Abdominal pressure and abdominal bloating. @@html:<span class="jp">腹部圧迫感、腹部膨満感。</span>@@
-- Abnormal uterine bleeding: I talked about this before. See this [[file:./001.org::#org89fa98b][link]]. @@html:<span class="jp">以前、こんな話をしました。</span>@@
+- Abdominal pressure and abdominal bloating. @@html:<span class="ja">腹部圧迫感、腹部膨満感。</span>@@
+- Abnormal uterine bleeding: I talked about this before. See this [[file:./001.org::#org89fa98b][link]]. @@html:<span class="ja">以前、こんな話をしました。</span>@@
 - Anaemia: fibroids cause a lot of heavy bleeding!!!!
-- Subfertility: this means that the woman does not become pregnant easily. This is because sometimes the fibroid can make the uterus look abnormal. So, the fertilised egg cannot live well :(. @@html:<span class="jp">ということは、妊娠しにくいということです。筋腫によって子宮が異常に見えることがあるからです。だから、受精卵はうまく生きられないのです :(。</span>@@
-- Abdominal mass: if the fibroid is big enough, then you might be able to feel it when you do abdominal examination. @@html:<span class="jp">筋腫が大きければ、腹部の検査で感じることができるかもしれません。</span>@@
+- Subfertility: this means that the woman does not become pregnant easily. This is because sometimes the fibroid can make the uterus look abnormal. So, the fertilised egg cannot live well :(. @@html:<span class="ja">ということは、妊娠しにくいということです。筋腫によって子宮が異常に見えることがあるからです。だから、受精卵はうまく生きられないのです :(。</span>@@
+- Abdominal mass: if the fibroid is big enough, then you might be able to feel it when you do abdominal examination. @@html:<span class="ja">筋腫が大きければ、腹部の検査で感じることができるかもしれません。</span>@@
 
 ** Investigations
 :PROPERTIES:
@@ -172,15 +172,15 @@ Clinical signs:
 :END:
 
 Ok. So... there are 3 main issues we need to treat here:
-1. No treatment: if the fibroid is not causing any issues, then you can just leave it! @@html:<span class="jp">治療しない：子宮筋腫が問題を起こしていないのであれば、そのまま放置しておいても大丈夫です。</span>@@
+1. No treatment: if the fibroid is not causing any issues, then you can just leave it! @@html:<span class="ja">治療しない：子宮筋腫が問題を起こしていないのであれば、そのまま放置しておいても大丈夫です。</span>@@
 2. The bleeding: if there is a lot of bleeding, then follow this [[https://lh3.googleusercontent.com/pw/AMWts8DTpmhgFm0VEO9Mu0UbYLQsLEtd5_BStzi7IeNbfW7H2D8-neCf7PqUTtDqqYb6VzF3GtlwJhqc44su7fza5L5wZnAaDiHASGhAEYnn96l_48pk5rLpm1fO0EvRnlq_XbGdy1p5UDtKI07yHO-4wnY=w885-h623-no?authuser=0][treatment plan]]. I talked about it [[file:./001.org::#orgfeaf8e2][here]]!
-3. The fibroid mass: we need to make the fibroid decrease in size! We need to do the following @@html:<span class="jp">筋腫を小さくする必要があります。次のことをする必要があります</span>@@:
-  - GnRH agonists: these drugs reduce the amount of oestrogen in the body. No oestrogen means that the fibroid will be hungry and will be smaller!!! @@html:<span class="jp">これらの薬剤は、体内のエストロゲンの量を減少させます。エストロゲンがないということは、筋腫が腹をくくって小さくなる！！！</span>@@
+3. The fibroid mass: we need to make the fibroid decrease in size! We need to do the following @@html:<span class="ja">筋腫を小さくする必要があります。次のことをする必要があります</span>@@:
+  - GnRH agonists: these drugs reduce the amount of oestrogen in the body. No oestrogen means that the fibroid will be hungry and will be smaller!!! @@html:<span class="ja">これらの薬剤は、体内のエストロゲンの量を減少させます。エストロゲンがないということは、筋腫が腹をくくって小さくなる！！！</span>@@
   - Surgery: there are multiple surgical options:
-    - If the fibroid is small (less than 3 mm), then we can remove it using hysteroscopy. @@html:<span class="jp">筋腫が小さい（3mm以下）場合は、子宮鏡で摘出することができます。</span>@@
-    - If the fibroid is bigger, then we do myomectomy (we basically just cut the fibroid). @@html:<span class="jp">筋腫が大きければ、子宮筋腫核出術（基本的に子宮筋腫を切るだけ）を行います。</span>@@
+    - If the fibroid is small (less than 3 mm), then we can remove it using hysteroscopy. @@html:<span class="ja">筋腫が小さい（3mm以下）場合は、子宮鏡で摘出することができます。</span>@@
+    - If the fibroid is bigger, then we do myomectomy (we basically just cut the fibroid). @@html:<span class="ja">筋腫が大きければ、子宮筋腫核出術（基本的に子宮筋腫を切るだけ）を行います。</span>@@
     - Hysterectomy: remove the /all/ of the uterus.
-    - Uterine artery embolization: basically, we can cut the blood supply to the fibroid. No blood = fibroid is weak!!!! @@html:<span class="jp">基本的には、子宮筋腫への血液供給をカットすればいいのですが 血液がない＝子宮筋腫が弱っている！！！！</span>@@
+    - Uterine artery embolization: basically, we can cut the blood supply to the fibroid. No blood = fibroid is weak!!!! @@html:<span class="ja">基本的には、子宮筋腫への血液供給をカットすればいいのですが 血液がない＝子宮筋腫が弱っている！！！！</span>@@
 
 ** Complications
 :PROPERTIES:
@@ -188,9 +188,9 @@ Ok. So... there are 3 main issues we need to treat here:
 :END:
 
 The complications you need to know is called "red degeneration":
-- This happens in pregnant women who have fibroids. @@html:<span class="jp">これは、子宮筋腫を持つ妊婦に起こることです。</span>@@
-- For some reason, the fibroid starts bleeding on the inside... @@html:<span class="jp">なぜか子宮筋腫の内側から出血が始まり。。。</span>@@
-- This causes a lot of pain for the pregnant woman!! @@html:<span class="jp">そのため、妊婦さんには大変な苦痛を与えてしまうのです！！</span>@@
+- This happens in pregnant women who have fibroids. @@html:<span class="ja">これは、子宮筋腫を持つ妊婦に起こることです。</span>@@
+- For some reason, the fibroid starts bleeding on the inside... @@html:<span class="ja">なぜか子宮筋腫の内側から出血が始まり。。。</span>@@
+- This causes a lot of pain for the pregnant woman!! @@html:<span class="ja">そのため、妊婦さんには大変な苦痛を与えてしまうのです！！</span>@@
 
 * Venous thromboembolism in pregnancy (O)
 :PROPERTIES:
@@ -199,17 +199,17 @@ The complications you need to know is called "red degeneration":
 
 Posted: 2023-02-07 | Updated: 2023-02-07
 
-We have talked about pre-eclampsia. @@html:<span class="jp">子癇前症についてお話させていただきました。</span>@@
+We have talked about pre-eclampsia. @@html:<span class="ja">子癇前症についてお話させていただきました。</span>@@
 
-Now, let's talk about clotting issues in pregnancy! @@html:<span class="jp">さて、今回は、妊娠中の血栓症についてです！</span>@@
+Now, let's talk about clotting issues in pregnancy! @@html:<span class="ja">さて、今回は、妊娠中の血栓症についてです！</span>@@
 
-In pregnancy, the woman is at risk of having a blood clot. @@html:<span class="jp">妊娠中は、血栓ができる危険性があります。</span>@@
+In pregnancy, the woman is at risk of having a blood clot. @@html:<span class="ja">妊娠中は、血栓ができる危険性があります。</span>@@
 
-This is because the levels of clotting factors in the woman's blood increases. @@html:<span class="jp">これは、女性の血液中の凝固因子の濃度が上昇するためです。</span>@@
+This is because the levels of clotting factors in the woman's blood increases. @@html:<span class="ja">これは、女性の血液中の凝固因子の濃度が上昇するためです。</span>@@
 
-Also, fibrinolytic activity (the activity which breaks down clots) decreases!!! @@html:<span class="jp">また、線溶活性（血栓を分解する活動）も低下します！！！</span>@@
+Also, fibrinolytic activity (the activity which breaks down clots) decreases!!! @@html:<span class="ja">また、線溶活性（血栓を分解する活動）も低下します！！！</span>@@
 
-Of course, with any clotting issue, you have to think about pulmonary embolism. @@html:<span class="jp">もちろん、血液凝固の問題があれば、肺塞栓症も考えなければならない。</span>@@
+Of course, with any clotting issue, you have to think about pulmonary embolism. @@html:<span class="ja">もちろん、血液凝固の問題があれば、肺塞栓症も考えなければならない。</span>@@
 
 ** Signs and symptoms
 :PROPERTIES:
@@ -242,10 +242,10 @@ Of course, with any clotting issue, you have to think about pulmonary embolism. 
 
 Look at this [[https://lh3.googleusercontent.com/pw/AMWts8CjoyHCCh0JFreZPnKVPOzTuqCgjmnjfOt0Dc0Bs9-85ebWQSZTv9jY0jTdHzj5Pd2Txl7ZXdNWcZPCPtYlREguxVQbWI8cZSOZULzgiSiVVspuSRIRtl3y2XYfhQWT0IqjDQ3USmdzJPDk1PAZy1K4=w1262-h620-s-no?authuser=3][picture]]. I tried to make it simple. I hope it helps!
 
-To prevent venous thromboembolism in pregnancy, you need the following @@html:<span class="jp">妊娠中の静脈血栓塞栓症を予防するために、以下のことが必要です</span>@@:
-- Look for risk factors (you can find these on the "Venous thromboembolism in pregnancy" page on PassMedicine). @@html:<span class="jp">危険因子を探す（PassMedicineの「Venous thromboembolism in pregnancy」ページで確認できます）。</span>@@
-  - If the woman has 4 or more risk factors, then give LMWH from the first trimester of pregnancy. Stop at 6 weeks /after/ she gives birth. @@html:<span class="jp">4つ以上の危険因子がある場合は、妊娠第1期からLMWHを投与する。出産後6週で中止する。</span>@@
-  - If the woman has 3 risk factors, then give LMWH from 28 weeks of pregnancy. Stop at 6 weeks /after/ she gives birth. @@html:<span class="jp">もし、3つの危険因子があれば、妊娠28週からLMWHを投与します。出産後6週で中止する。</span>@@
-- If the woman is about to give birth, but then you realise that she has deep vein thrombosis, do this @@html:<span class="jp">出産間際に深部静脈血栓症が見つかった場合</span>@@:
+To prevent venous thromboembolism in pregnancy, you need the following @@html:<span class="ja">妊娠中の静脈血栓塞栓症を予防するために、以下のことが必要です</span>@@:
+- Look for risk factors (you can find these on the "Venous thromboembolism in pregnancy" page on PassMedicine). @@html:<span class="ja">危険因子を探す（PassMedicineの「Venous thromboembolism in pregnancy」ページで確認できます）。</span>@@
+  - If the woman has 4 or more risk factors, then give LMWH from the first trimester of pregnancy. Stop at 6 weeks /after/ she gives birth. @@html:<span class="ja">4つ以上の危険因子がある場合は、妊娠第1期からLMWHを投与する。出産後6週で中止する。</span>@@
+  - If the woman has 3 risk factors, then give LMWH from 28 weeks of pregnancy. Stop at 6 weeks /after/ she gives birth. @@html:<span class="ja">もし、3つの危険因子があれば、妊娠28週からLMWHを投与します。出産後6週で中止する。</span>@@
+- If the woman is about to give birth, but then you realise that she has deep vein thrombosis, do this @@html:<span class="ja">出産間際に深部静脈血栓症が見つかった場合</span>@@:
   - Do /not/ panic!
-  - Just give her anticoagulation drugs for at least /3 months/ (just like you do with the standard provoked deep vein thrombosis)! @@html:<span class="jp">少なくとも3ヶ月は抗凝固剤を投与してください（通常の誘発性深部静脈血栓症の場合と同じです）！</span>@@
+  - Just give her anticoagulation drugs for at least /3 months/ (just like you do with the standard provoked deep vein thrombosis)! @@html:<span class="ja">少なくとも3ヶ月は抗凝固剤を投与してください（通常の誘発性深部静脈血栓症の場合と同じです）！</span>@@

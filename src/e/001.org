@@ -21,13 +21,13 @@
 
 Posted: 2023-02-28 | Updated: 2023-02-28
 
-Before we learn about this, you need to understand that antidiuretic hormone (ADH) /stops/ you from urinating!! @@html:<span class="jp">このことを学ぶ前に、抗利尿ホルモンが尿を止めるということを理解する必要があります！！</span>@@
+Before we learn about this, you need to understand that antidiuretic hormone (ADH) /stops/ you from urinating!! @@html:<span class="ja">このことを学ぶ前に、抗利尿ホルモンが尿を止めるということを理解する必要があります！！</span>@@
 
-In chemistry, there is something called "osmolality". This means "how much stuff is dissolved in a liquid". I like to think of this as "concentration". If you add more salt to water, then the water will be more concentrated (therefore it will have /higher/ osmolality)... @@html:<span class="jp">化学の世界には「osmolality」というものがあります。これは「液体にどれだけの物質が溶けているか」という意味です。私は、これを「濃縮」と考えたいのです。水に塩を多く入れると、水の濃度が濃くなる(そのため、「osmolality」が高くなります)。</span>@@
+In chemistry, there is something called "osmolality". This means "how much stuff is dissolved in a liquid". I like to think of this as "concentration". If you add more salt to water, then the water will be more concentrated (therefore it will have /higher/ osmolality)... @@html:<span class="ja">化学の世界には「osmolality」というものがあります。これは「液体にどれだけの物質が溶けているか」という意味です。私は、これを「濃縮」と考えたいのです。水に塩を多く入れると、水の濃度が濃くなる(そのため、「osmolality」が高くなります)。</span>@@
 
-There are 2 types of diabetes insipidus @@html:<span class="jp">Diabetes insipidusには2つのタイプがあります</span>@@:
-- Central: this means that there is an issue with the brain (the brain is not producing antidiuretic hormone). @@html:<span class="jp">これは、脳に問題があることを意味します(脳から抗利尿ホルモンが分泌されない)。</span>@@
-- Nephrogenic: this means that there is an issue with the kidneys (the kidneys are not responding to antidiuretic hormone). @@html:<span class="jp">これは、腎臓に問題があることを意味します(腎臓が抗利尿ホルモンに反応しない)。</span>@@
+There are 2 types of diabetes insipidus @@html:<span class="ja">Diabetes insipidusには2つのタイプがあります</span>@@:
+- Central: this means that there is an issue with the brain (the brain is not producing antidiuretic hormone). @@html:<span class="ja">これは、脳に問題があることを意味します(脳から抗利尿ホルモンが分泌されない)。</span>@@
+- Nephrogenic: this means that there is an issue with the kidneys (the kidneys are not responding to antidiuretic hormone). @@html:<span class="ja">これは、腎臓に問題があることを意味します(腎臓が抗利尿ホルモンに反応しない)。</span>@@
 
 ** Signs and symptoms
 :PROPERTIES:
@@ -43,13 +43,13 @@ There are 2 types of diabetes insipidus @@html:<span class="jp">Diabetes insipid
 :END:
 
 - High blood osmolality
-  1. Because your brain is not producing ADH, you will keep urinating. @@html:<span class="jp">脳からADHが分泌されないので、尿が出続けることになります。</span>@@
-  2. All this urination will reduce your blood volume. @@html:<span class="jp">この排尿により、血液量は減少します。</span>@@
-  3. If you reduce your blood volume, that means your blood will be /more/ concentrated. @@html:<span class="jp">血液量を減らせば、それだけ血液が濃縮されるということです。</span>@@
-  4. Therefore, you will have higher blood osmolality (because your blood is /more/ concentrated). @@html:<span class="jp">そのため、血液の「osmolality」が高くなります（血液が濃縮されるため）。</span>@@
+  1. Because your brain is not producing ADH, you will keep urinating. @@html:<span class="ja">脳からADHが分泌されないので、尿が出続けることになります。</span>@@
+  2. All this urination will reduce your blood volume. @@html:<span class="ja">この排尿により、血液量は減少します。</span>@@
+  3. If you reduce your blood volume, that means your blood will be /more/ concentrated. @@html:<span class="ja">血液量を減らせば、それだけ血液が濃縮されるということです。</span>@@
+  4. Therefore, you will have higher blood osmolality (because your blood is /more/ concentrated). @@html:<span class="ja">そのため、血液の「osmolality」が高くなります（血液が濃縮されるため）。</span>@@
 - Low urine osmolality
-  1. Because you are urinating a lot of water, your urine will become diluted. @@html:<span class="jp">水分を多く排出しているため、尿が薄くなってしまいます。</span>@@
-  2. So, your urine will have a /low/ osmolality. @@html:<span class="jp">だから、尿の「osmolality」が低くなります。</span>@@
+  1. Because you are urinating a lot of water, your urine will become diluted. @@html:<span class="ja">水分を多く排出しているため、尿が薄くなってしまいます。</span>@@
+  2. So, your urine will have a /low/ osmolality. @@html:<span class="ja">だから、尿の「osmolality」が低くなります。</span>@@
 
 ** Treatment
 :PROPERTIES:
@@ -59,11 +59,11 @@ There are 2 types of diabetes insipidus @@html:<span class="jp">Diabetes insipid
 This depends on the type.
 
 - Central diabetes insipidus:
-  - Because your brain is /not/ producing ADH, you need to give your body some drugs that contain ADH. @@html:<span class="jp">脳からADHが分泌されないので、ADHを含む薬を体に投与する必要があります。</span>@@
-  - So, we give something called "desmopressin" ([[file:../cp/001.org::#desmopressin][see the story of desmopressin]]) (which is the same as ADH)!!!! @@html:<span class="jp">そこで、「デスモプレシン」というものを投与します（ADHと同じものです）！！！！</span>@@
-  - The Sumo fighters sometimes pass a lot of urine... so, they need to keep taking desmopressin to stop that! @@html:<span class="jp"><mark>相撲</mark>取りは尿量が多いことがあるので。。。それを止めるためにデ<mark>スモ</mark>プレシンを飲み続けなければならないのです！</span>@@
+  - Because your brain is /not/ producing ADH, you need to give your body some drugs that contain ADH. @@html:<span class="ja">脳からADHが分泌されないので、ADHを含む薬を体に投与する必要があります。</span>@@
+  - So, we give something called "desmopressin" ([[file:../cp/001.org::#desmopressin][see the story of desmopressin]]) (which is the same as ADH)!!!! @@html:<span class="ja">そこで、「デスモプレシン」というものを投与します（ADHと同じものです）！！！！</span>@@
+  - The Sumo fighters sometimes pass a lot of urine... so, they need to keep taking desmopressin to stop that! @@html:<span class="ja"><mark>相撲</mark>取りは尿量が多いことがあるので。。。それを止めるためにデ<mark>スモ</mark>プレシンを飲み続けなければならないのです！</span>@@
 - Nephrogenic diabetes insipidus:
-  - Thiazide diuretics: these drugs allow the kidneys to absorb more salt and water! @@html:<span class="jp">これらの薬は、腎臓がより多くの塩分と水分を吸収することを可能にします。</span>@@
+  - Thiazide diuretics: these drugs allow the kidneys to absorb more salt and water! @@html:<span class="ja">これらの薬は、腎臓がより多くの塩分と水分を吸収することを可能にします。</span>@@
 
 * Parathyroid diseases
 :PROPERTIES:
@@ -72,25 +72,25 @@ This depends on the type.
 
 Posted: 2023-02-02 | Updated: 2023-02-05
 
-- You have 4 parathyroid glands. @@html:<span class="jp">副甲状腺は4つあるんですね。</span>@@
-- Parathyroid glands have a lot of cells. These cells are called chief cells. @@html:<span class="jp">副甲状腺にはたくさんの細胞があります。これらの細胞は「chief cells」と呼ばれています。</span>@@
-- Chief cells secrete parathyroid hormones! @@html:<span class="jp">「Chief cells」が副甲状腺ホルモンを分泌！</span>@@
-- Parathyroid hormone increases the osteoclast activity. @@html:<span class="jp">副甲状腺ホルモンは破骨細胞の活性を高める。</span>@@
-- Osteoclasts break bones. @@html:<span class="jp">破骨細胞は骨を壊す。</span>@@
-- When bone is broken, calcium is released into the blood! @@html:<span class="jp">骨が折れると、カルシウムが血液中に放出されるのです！</span>@@
-- When there is too much calcium in the body, the calcium will tell the parathyroid glands to /stop/ making hormones. This is called negative feedback! @@html:<span class="jp">体内のカルシウムが過剰になると、カルシウムは副甲状腺にホルモンを作るのを止めるように指示します。これをネガティブフィードバックといいます！</span>@@
-- Phosphate /sticks/ to calcium in the blood! Make sure you remember this, it will become important later!! @@html:<span class="jp">リン酸塩は血液中のカルシウムとくっつく！これは必ず覚えておいてください後で重要になりますよ！！</span>@@
+- You have 4 parathyroid glands. @@html:<span class="ja">副甲状腺は4つあるんですね。</span>@@
+- Parathyroid glands have a lot of cells. These cells are called chief cells. @@html:<span class="ja">副甲状腺にはたくさんの細胞があります。これらの細胞は「chief cells」と呼ばれています。</span>@@
+- Chief cells secrete parathyroid hormones! @@html:<span class="ja">「Chief cells」が副甲状腺ホルモンを分泌！</span>@@
+- Parathyroid hormone increases the osteoclast activity. @@html:<span class="ja">副甲状腺ホルモンは破骨細胞の活性を高める。</span>@@
+- Osteoclasts break bones. @@html:<span class="ja">破骨細胞は骨を壊す。</span>@@
+- When bone is broken, calcium is released into the blood! @@html:<span class="ja">骨が折れると、カルシウムが血液中に放出されるのです！</span>@@
+- When there is too much calcium in the body, the calcium will tell the parathyroid glands to /stop/ making hormones. This is called negative feedback! @@html:<span class="ja">体内のカルシウムが過剰になると、カルシウムは副甲状腺にホルモンを作るのを止めるように指示します。これをネガティブフィードバックといいます！</span>@@
+- Phosphate /sticks/ to calcium in the blood! Make sure you remember this, it will become important later!! @@html:<span class="ja">リン酸塩は血液中のカルシウムとくっつく！これは必ず覚えておいてください後で重要になりますよ！！</span>@@
 
 ** Hyperparathyroidism
 :PROPERTIES:
 :CUSTOM_ID: org42ae0d6
 :END:
 
-HYPERparathyroidism is when there is /too much/ parathyroid hormone. @@html:<span class="jp">副甲状腺機能亢進症とは、副甲状腺ホルモンが過剰に分泌されている状態のことです。</span>@@
+HYPERparathyroidism is when there is /too much/ parathyroid hormone. @@html:<span class="ja">副甲状腺機能亢進症とは、副甲状腺ホルモンが過剰に分泌されている状態のことです。</span>@@
 
 There are two types:
-- Primary: this is due to reasons inside the parathyroid gland. So, in this case, the parathyroid gland is sad :(. @@html:<span class="jp">というのは、副甲状腺の中の理由によるものです。つまりこの場合副甲状腺は悲しいのです :(。</span>@@
-- Secondary: this is due to reasons outside parathyroid gland. So, in this case, the parathyroid gland is happy. @@html:<span class="jp">というのは、副甲状腺以外の理由によるものです。ですから、この場合、副甲状腺は幸せなのです。</span>@@
+- Primary: this is due to reasons inside the parathyroid gland. So, in this case, the parathyroid gland is sad :(. @@html:<span class="ja">というのは、副甲状腺の中の理由によるものです。つまりこの場合副甲状腺は悲しいのです :(。</span>@@
+- Secondary: this is due to reasons outside parathyroid gland. So, in this case, the parathyroid gland is happy. @@html:<span class="ja">というのは、副甲状腺以外の理由によるものです。ですから、この場合、副甲状腺は幸せなのです。</span>@@
 
 *** Primary hyperparathyroidism
 :PROPERTIES:
@@ -105,11 +105,11 @@ There are two types:
 :END:
 
 - Clinical:
-  - Vague symptoms like fatigue. @@html:<span class="jp">疲労感などの漠然とした症状。</span>@@
-  - Bone pain: this is because the bones are being broken by osteoclasts. @@html:<span class="jp">というのは、破骨細胞によって骨が壊されているからです。</span>@@
-  - Kidney stones: all of that extra calcium is going through the kidneys! @@html:<span class="jp">これは、余分なカルシウムがすべて腎臓を経由してしまうからなのです！</span>@@
+  - Vague symptoms like fatigue. @@html:<span class="ja">疲労感などの漠然とした症状。</span>@@
+  - Bone pain: this is because the bones are being broken by osteoclasts. @@html:<span class="ja">というのは、破骨細胞によって骨が壊されているからです。</span>@@
+  - Kidney stones: all of that extra calcium is going through the kidneys! @@html:<span class="ja">これは、余分なカルシウムがすべて腎臓を経由してしまうからなのです！</span>@@
 - Imaging:
-  - Calcium in the joints cartilage (chondrocalcinosis). This usually happens in the knee. See [[https://lh3.googleusercontent.com/pw/AMWts8B5FO0E1CA5csvO85NjS83v5LCxBVxpG6_GbKUnG8Qru99RmXka2u49lsJR6YGJ-8_n61ZypgfMI7gQr7L19TriCY-0YlTPDJU0ZbtlkZtqbIQVk_Xg62_769uyTajTpyEsCFSib-LgbwPWfRsXPx4=w771-h600-s-no?authuser=3][this]] (I got this picture from this [[https://radiopaedia.org/cases/chondrocalcinosis-of-the-knee-2][website]]). @@html:<span class="jp">関節軟骨のカルシウム（軟骨石灰化症）。</span>@@
+  - Calcium in the joints cartilage (chondrocalcinosis). This usually happens in the knee. See [[https://lh3.googleusercontent.com/pw/AMWts8B5FO0E1CA5csvO85NjS83v5LCxBVxpG6_GbKUnG8Qru99RmXka2u49lsJR6YGJ-8_n61ZypgfMI7gQr7L19TriCY-0YlTPDJU0ZbtlkZtqbIQVk_Xg62_769uyTajTpyEsCFSib-LgbwPWfRsXPx4=w771-h600-s-no?authuser=3][this]] (I got this picture from this [[https://radiopaedia.org/cases/chondrocalcinosis-of-the-knee-2][website]]). @@html:<span class="ja">関節軟骨のカルシウム（軟骨石灰化症）。</span>@@
   - pepper-pot appearance on x-ray. See [[https://lh3.googleusercontent.com/pw/AMWts8CPrtTpAPDyEuZPACJfvDc-LIAc723CTqa7jt7oys1WH1iD4a5htJOdrNQ15GC_Sxy2YxRs5P3FEAXU9pVKZXoI6gUGyCk94TLTLEGTXCOGYECeYsf9W2hVPAaphmBIj6mrQ1h7vrEHDM_iQi1s1zc=w630-h493-s-no?authuser=3][this]].
   - osteoporosis on DXA scan
 
@@ -118,68 +118,68 @@ There are two types:
 :CUSTOM_ID: org7136f49
 :END:
 
-- Parathyroid hormone levels: these will be /high/. @@html:<span class="jp">これらは高くなります。</span>@@
-- Serum calcium levels: these will be /high/. @@html:<span class="jp">これらは高くなります。</span>@@
-- Parathyroid scanning: this is done if you think the patient has parathyroid adenoma. @@html:<span class="jp">副甲状腺腺腫と思われる場合に行います。</span>@@
+- Parathyroid hormone levels: these will be /high/. @@html:<span class="ja">これらは高くなります。</span>@@
+- Serum calcium levels: these will be /high/. @@html:<span class="ja">これらは高くなります。</span>@@
+- Parathyroid scanning: this is done if you think the patient has parathyroid adenoma. @@html:<span class="ja">副甲状腺腺腫と思われる場合に行います。</span>@@
 
 **** Treatment of primary hyperparathyroidism
 :PROPERTIES:
 :CUSTOM_ID: orgb43b25b
 :END:
 
-- Surgery: you need to remove the adenoma!!! @@html:<span class="jp">腺腫を切除する必要がある！！！</span>@@
-  - Only do surgery in patients who have the following features @@html:<span class="jp">以下の特徴を持つ患者さんにのみ、手術を行う</span>@@:
-    - Age: the patient must be under 50 years old! @@html:<span class="jp">患者は50歳未満でなければならない！</span>@@
-    - Signs and symptoms: organ damage (for example, they have kidney issues because of high calcium). @@html:<span class="jp">臓器障害（例えば、高カルシウムのために腎臓に問題があるなど）。</span>@@
-- If you cannot do surgery on patient @@html:<span class="jp">手術ができないのであれば、こうする必要があります</span>@@:
-  - Tell them to drink lots of water (so that they don't get kidney stones)! @@html:<span class="jp">水をたくさん飲むように言う（腎臓結石にならないように）！</span>@@
-  - Also, monitor their renal functions and calcium levels! @@html:<span class="jp">また、腎臓の機能やカルシウムの値も観察してください！</span>@@
+- Surgery: you need to remove the adenoma!!! @@html:<span class="ja">腺腫を切除する必要がある！！！</span>@@
+  - Only do surgery in patients who have the following features @@html:<span class="ja">以下の特徴を持つ患者さんにのみ、手術を行う</span>@@:
+    - Age: the patient must be under 50 years old! @@html:<span class="ja">患者は50歳未満でなければならない！</span>@@
+    - Signs and symptoms: organ damage (for example, they have kidney issues because of high calcium). @@html:<span class="ja">臓器障害（例えば、高カルシウムのために腎臓に問題があるなど）。</span>@@
+- If you cannot do surgery on patient @@html:<span class="ja">手術ができないのであれば、こうする必要があります</span>@@:
+  - Tell them to drink lots of water (so that they don't get kidney stones)! @@html:<span class="ja">水をたくさん飲むように言う（腎臓結石にならないように）！</span>@@
+  - Also, monitor their renal functions and calcium levels! @@html:<span class="ja">また、腎臓の機能やカルシウムの値も観察してください！</span>@@
 
 *** Secondary hyperparathyroidism
 :PROPERTIES:
 :CUSTOM_ID: orgc53ad6c
 :END:
 
-- This is usually caused by chronic kidney failure. @@html:<span class="jp">これは、通常、慢性腎不全によって引き起こされます。</span>@@
-- When kidney fails, phosphate does not leave the body. @@html:<span class="jp">腎臓が機能しなくなると、リン酸塩が体外に出なくなる。</span>@@
-- Now, there will be too much phosphate in blood. @@html:<span class="jp">今、血液中のリン酸塩が過剰になる。</span>@@
-- This phosphate will stick to all of the calcium. This causes calcium levels to be low. @@html:<span class="jp">このリン酸塩はカルシウムの全てに付着します。そのため、カルシウムの値が低くなってしまうのです。</span>@@
-- Parathyroid glands will panic! They will panic because there is little calcium in blood!! @@html:<span class="jp">副甲状腺がパニックになる！血液中のカルシウムが少ないのでパニックになるのです！！</span>@@
-- So, parathyroid glands will make more hormones. @@html:<span class="jp">だから、副甲状腺はホルモンを多く作るようになる。</span>@@
-- Like we said before, these hormones will break the bones to increase the level of calcium! @@html:<span class="jp">先ほども言ったように、このホルモンは骨を壊してカルシウムの量を増やしてくれるのです！</span>@@
+- This is usually caused by chronic kidney failure. @@html:<span class="ja">これは、通常、慢性腎不全によって引き起こされます。</span>@@
+- When kidney fails, phosphate does not leave the body. @@html:<span class="ja">腎臓が機能しなくなると、リン酸塩が体外に出なくなる。</span>@@
+- Now, there will be too much phosphate in blood. @@html:<span class="ja">今、血液中のリン酸塩が過剰になる。</span>@@
+- This phosphate will stick to all of the calcium. This causes calcium levels to be low. @@html:<span class="ja">このリン酸塩はカルシウムの全てに付着します。そのため、カルシウムの値が低くなってしまうのです。</span>@@
+- Parathyroid glands will panic! They will panic because there is little calcium in blood!! @@html:<span class="ja">副甲状腺がパニックになる！血液中のカルシウムが少ないのでパニックになるのです！！</span>@@
+- So, parathyroid glands will make more hormones. @@html:<span class="ja">だから、副甲状腺はホルモンを多く作るようになる。</span>@@
+- Like we said before, these hormones will break the bones to increase the level of calcium! @@html:<span class="ja">先ほども言ったように、このホルモンは骨を壊してカルシウムの量を増やしてくれるのです！</span>@@
 
 **** Investigations of secondary hyperparathyroidism
 :PROPERTIES:
 :CUSTOM_ID: org7f66a18
 :END:
 
-- Serum phosphate levels: these will be /high/. It is high because the kidney is not removing it. @@html:<span class="jp">これらは高くなります。腎臓で除去しきれないから高いのです。</span>@@
-- Parathyroid hormone levels: these will be /high/. @@html:<span class="jp">これらは高くなります。</span>@@
-- Serum calcium levels: these will be /low/. It is low because phosphate is binding to it. @@html:<span class="jp">これは低いでしょう。リン酸塩が結合しているため低くなっています。</span>@@
+- Serum phosphate levels: these will be /high/. It is high because the kidney is not removing it. @@html:<span class="ja">これらは高くなります。腎臓で除去しきれないから高いのです。</span>@@
+- Parathyroid hormone levels: these will be /high/. @@html:<span class="ja">これらは高くなります。</span>@@
+- Serum calcium levels: these will be /low/. It is low because phosphate is binding to it. @@html:<span class="ja">これは低いでしょう。リン酸塩が結合しているため低くなっています。</span>@@
 
 *** Complications of hyperparathyroidism
 :PROPERTIES:
 :CUSTOM_ID: orgb131996
 :END:
 
-Sometimes the patient might have /really/ high calcium. This is /very/ dangerous. @@html:<span class="jp">時には、患者さんのカルシウムがとても高くなることがあります。これは非常に危険です。</span>@@
+Sometimes the patient might have /really/ high calcium. This is /very/ dangerous. @@html:<span class="ja">時には、患者さんのカルシウムがとても高くなることがあります。これは非常に危険です。</span>@@
 
-You need to treat it /now/. Do not /wait/! @@html:<span class="jp">今すぐ治療する必要があります。待てない！</span>@@
+You need to treat it /now/. Do not /wait/! @@html:<span class="ja">今すぐ治療する必要があります。待てない！</span>@@
 
 To treat it, do this:
-- Give /4 litre/ of fluid per day: this will remove the extra calcium through the urine. @@html:<span class="jp">というのは、余分なカルシウムを尿で排出してしまうからです。</span>@@
-- Give IV bisphosphonates: this will prevent bone from breaking. @@html:<span class="jp">これは、骨が折れるのを防ぐためです。</span>@@
+- Give /4 litre/ of fluid per day: this will remove the extra calcium through the urine. @@html:<span class="ja">というのは、余分なカルシウムを尿で排出してしまうからです。</span>@@
+- Give IV bisphosphonates: this will prevent bone from breaking. @@html:<span class="ja">これは、骨が折れるのを防ぐためです。</span>@@
 
 ** Hypoparathyroidism
 :PROPERTIES:
 :CUSTOM_ID: org4334e2b
 :END:
 
-This is when there is /low/ level of parathyroid hormone. @@html:<span class="jp">これは、副甲状腺ホルモンの値が低い場合です。</span>@@
+This is when there is /low/ level of parathyroid hormone. @@html:<span class="ja">これは、副甲状腺ホルモンの値が低い場合です。</span>@@
 
 It is caused by things like:
-- Surgical damage: sometimes surgeons can damage a part of the parathyroid gland. This causes the gland to stop working! @@html:<span class="jp">副甲状腺は、外科医が一部を損傷することがあります。これにより、副甲状腺は機能しなくなります！</span>@@
-- DiGeorge syndrome: this is a congenital issue. The baby is born without thymus and without parathyroid glands! So, if the patient does not have parathyroid glands, then they cannot produce parathyroid hormone! @@html:<span class="jp">これは先天性の問題です。赤ちゃんは、胸腺がなく、副甲状腺もない状態で生まれてきますですから、副甲状腺がなければ、副甲状腺ホルモンを分泌することができないのです！</span>@@
+- Surgical damage: sometimes surgeons can damage a part of the parathyroid gland. This causes the gland to stop working! @@html:<span class="ja">副甲状腺は、外科医が一部を損傷することがあります。これにより、副甲状腺は機能しなくなります！</span>@@
+- DiGeorge syndrome: this is a congenital issue. The baby is born without thymus and without parathyroid glands! So, if the patient does not have parathyroid glands, then they cannot produce parathyroid hormone! @@html:<span class="ja">これは先天性の問題です。赤ちゃんは、胸腺がなく、副甲状腺もない状態で生まれてきますですから、副甲状腺がなければ、副甲状腺ホルモンを分泌することができないのです！</span>@@
 
 *** Signs and symptoms of hypoparathyroidism
 :PROPERTIES:
@@ -187,35 +187,35 @@ It is caused by things like:
 :END:
 
 - Clinical
-  - Muscle spasm and tingly sensation: this is because of the low calcium level! @@html:<span class="jp">筋肉の痙攣やヒリヒリ感：これはカルシウムが少ないから！</span>@@
+  - Muscle spasm and tingly sensation: this is because of the low calcium level! @@html:<span class="ja">筋肉の痙攣やヒリヒリ感：これはカルシウムが少ないから！</span>@@
 
 *** Investigations of hypoparathyroidism
 :PROPERTIES:
 :CUSTOM_ID: org99bb60e
 :END:
 
-- Parathyroid hormone levels: these will /low/. @@html:<span class="jp">これは低いでしょう。</span>@@
-- Serum calcium levels: these will /low/. @@html:<span class="jp">これは低いでしょう。</span>@@
+- Parathyroid hormone levels: these will /low/. @@html:<span class="ja">これは低いでしょう。</span>@@
+- Serum calcium levels: these will /low/. @@html:<span class="ja">これは低いでしょう。</span>@@
 
 *** Treatment of hypoparathyroidism
 :PROPERTIES:
 :CUSTOM_ID: org8d5c44a
 :END:
 
-- Oral calcium and vitamin D: as we said, these patients have /low/ calcium. So, we need to give them things which will increase the calcium level! @@html:<span class="jp">この患者さんたちはカルシウムが少ない。ですから、カルシウムを増やすようなものを与える必要があるのです！</span>@@
-- You can also give parathyroid hormone injections to treat osteoporosis. This is /not/ licensed. @@html:<span class="jp">また、骨粗鬆症の治療のために副甲状腺ホルモンの注射をすることもできます。これは免許制ではありません。</span>@@
+- Oral calcium and vitamin D: as we said, these patients have /low/ calcium. So, we need to give them things which will increase the calcium level! @@html:<span class="ja">この患者さんたちはカルシウムが少ない。ですから、カルシウムを増やすようなものを与える必要があるのです！</span>@@
+- You can also give parathyroid hormone injections to treat osteoporosis. This is /not/ licensed. @@html:<span class="ja">また、骨粗鬆症の治療のために副甲状腺ホルモンの注射をすることもできます。これは免許制ではありません。</span>@@
 
 ** Pseudohypoparathyroidism
 :PROPERTIES:
 :CUSTOM_ID: orgefdeb82
 :END:
 
-There is a type called "Pseudohypoparathyroidism". This is when the level of parathyroid hormones is good, but the organs are not responding to this parathyroid hormone. @@html:<span class="jp">「Pseudohypoparathyroidism」と呼ばれるタイプがあります。副甲状腺ホルモンの分泌量は良いのですが、この副甲状腺ホルモンに臓器が反応しない場合に起こります。</span>@@
+There is a type called "Pseudohypoparathyroidism". This is when the level of parathyroid hormones is good, but the organs are not responding to this parathyroid hormone. @@html:<span class="ja">「Pseudohypoparathyroidism」と呼ばれるタイプがあります。副甲状腺ホルモンの分泌量は良いのですが、この副甲状腺ホルモンに臓器が反応しない場合に起こります。</span>@@
 
 *** Investigations of pseudohypoparathyroidism
 :PROPERTIES:
 :CUSTOM_ID: org1e0880c
 :END:
 
-- Parathyroid hormone levels: these will /high/. This is because the parathyroid gland keeps making hormones, but the organs are not accepting it! @@html:<span class="jp">が高くなります。これは副甲状腺がホルモンを作り続けているのに臓器がそれを受け入れていないためです！</span>@@
-- Serum calcium levels: these will /low/. This is because the organs are not accepting hormone, so, no calcium is being created! @@html:<span class="jp">が低くなります。これは内臓がホルモンを受け入れないためで、カルシウムが作られないのです！</span>@@
+- Parathyroid hormone levels: these will /high/. This is because the parathyroid gland keeps making hormones, but the organs are not accepting it! @@html:<span class="ja">が高くなります。これは副甲状腺がホルモンを作り続けているのに臓器がそれを受け入れていないためです！</span>@@
+- Serum calcium levels: these will /low/. This is because the organs are not accepting hormone, so, no calcium is being created! @@html:<span class="ja">が低くなります。これは内臓がホルモンを受け入れないためで、カルシウムが作られないのです！</span>@@

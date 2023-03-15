@@ -16,15 +16,15 @@
 :CUSTOM_ID: org3c1ff02
 :END:
 
-In here you will find a table of different drugs. @@html:<span class="jp">この中に、さまざまな薬剤の表があります。</span>@@
+In here you will find a table of different drugs. @@html:<span class="ja">この中に、さまざまな薬剤の表があります。</span>@@
 
-I will give you some silly stories so that you remember them. @@html:<span class="jp">思い出に残るように、くだらない話をします。</span>@@
+I will give you some silly stories so that you remember them. @@html:<span class="ja">思い出に残るように、くだらない話をします。</span>@@
 
-Hopefully, this will help you. @@html:<span class="jp">うまくいけば、お役に立てるかもしれません。</span>@@
+Hopefully, this will help you. @@html:<span class="ja">うまくいけば、お役に立てるかもしれません。</span>@@
 
-You can use this list to create your /own/ stories! @@html:<span class="jp">これらのニーモニックを使って、あなただけのバカ話を作ることができます！</span>@@
+You can use this list to create your /own/ stories! @@html:<span class="ja">これらのニーモニックを使って、あなただけのバカ話を作ることができます！</span>@@
 
-Message me if you would like me to make a mnemonic for a certain drug! @@html:<span class="jp">もし、ある薬のニモニックを作ってほしいということであれば、ぜひ教えてください！</span>@@
+Message me if you would like me to make a mnemonic for a certain drug! @@html:<span class="ja">もし、ある薬のニモニックを作ってほしいということであれば、ぜひ教えてください！</span>@@
 
 * List of drugs
 :PROPERTIES:
