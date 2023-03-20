@@ -16,6 +16,59 @@
 
 #+TOC: headlines 2
 
+* Reactive arthritis
+:PROPERTIES:
+:CUSTOM_ID: org2c0517f
+:END:
+
+Posted: 2023-03-19 | Updated: 2023-03-19
+
+Sometimes we get an infection from a certain bacteria. For example: salmonella, campylobacter, or e. coli... @@html:<span class="ja">ある細菌に感染することがあります。例えば、サルモネラ菌、カンピロバクター、大腸菌などです。。。</span>@@
+
+And... @@html:<span class="ja">そして。。。</span>@@
+
+For some weird reason, the knee becomes inflamed... @@html:<span class="ja">変な理由で膝が炎症を起こしてしまう。。。</span>@@
+
+I know... @@html:<span class="ja">分かってるんだ。。。</span>@@
+
+This is VERY weird... lol @@html:<span class="ja">これは非常に奇妙なことだ。。。笑</span>@@
+
+So, make sure you pay attention to the patient history. They might mention that they had an infection less 4 weeks ago!!! @@html:<span class="ja">ですから、患者さんの病歴に注意を払うようにしてください。4週間も前に感染症にかかったというようなことを言われるかもしれません！！！</span>@@
+
+You need to remember that the joint swelling stays for LESS than 6 weeks!!!! @@html:<span class="ja">関節の腫れが6週間弱残ることを忘れてはいけない！！！！</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org5607f86
+:END:
+
+These are the signs and symptoms:
+- Conjunctivitis
+- Urethritis
+- Arthritis: this happens mainly in the knees and ankles!!!! @@html:<span class="ja">膝や足首を中心に起こる！！！！</span>@@
+
+There is a nice way to remember these signs:
+- You can't see (because your eyelids are inflamed). @@html:<span class="ja">見えないんですね(まぶたが炎症を起こしているため)。</span>@@
+- You can't pee (because your urethra is inflamed). @@html:<span class="ja">おしっこが出ない(尿道が炎症を起こしているため)。</span>@@
+- You can't climb a tree (because of joint pain). @@html:<span class="ja">木に登れない(関節痛のため)。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org5227087
+:END:
+
+- Usually, you can get the diagnosis from history. @@html:<span class="ja">通常、病歴から診断を得ることができます。</span>@@
+- Joint aspiration. @@html:<span class="ja">患部の関節から液体を吸引する。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: orgbadf955
+:END:
+
+- NSAIDs: this will usually solve the issue!!
+- IF NSAIDs did not help, then give steroids.
+- IF steroids did not help, then give methotrexate.
+
 * Polymyalgia rheumatica and temporal arteritis
 :PROPERTIES:
 :CUSTOM_ID: org09f9cc9
