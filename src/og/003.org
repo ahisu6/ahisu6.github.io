@@ -124,7 +124,7 @@ Posted: 2023-02-21 | Updated: 2023-02-21
 You asked me this question on 2023-02-21:
 - Why is there hyponatraemia and fluid retention during labour/pregnancy?
 
-Here is the answer...
+This explanation was taken (and simplified) from Demertzidou et al. (2022).
 
 When the woman is pregnant, the kidneys change in structure and function. @@html:<span class="ja">妊娠すると、腎臓の構造と機能が変化します。</span>@@
 
@@ -146,6 +146,13 @@ So, this means that there will be more water in the woman, and therefore more hy
 Another thing is... during labour, some women vomit a lot. Sooooo, doctors will tell the woman to keep drinking water... @@html:<span class="ja"> もうひとつは、陣痛中にたくさん吐く女性がいることです。だから、医師は女性に水を飲み続けるように言うのですが。。。</span>@@
 
 If the woman keeps drinking water, then... her blood will be less salty. @@html:<span class="ja">もし、女性が水を飲み続ければ。。。血液の塩分が少なくなる。</span>@@
+
+** References
+:PROPERTIES:
+:CUSTOM_ID: orgae8e13a
+:END:
+
+Demertzidou, E., Zill-E-Huma, R., & Modi, M. (2022). Peripartum hyponatraemia: an overview of physiology, prevention and management. The Obstetrician & Gynaecologist, 24(3). https://doi.org/10.1111/tog.12809
 
 * Ectopic pregnancy (G)
 :PROPERTIES:
