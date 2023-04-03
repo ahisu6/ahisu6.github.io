@@ -67,7 +67,10 @@
 - What about @@html:<span class="ja">トリ</span>@@?
 - @@html:<span class="ja">うーん。。。トリ？とり？？鳥？？？</span>@@
   - This means "bird", right?
+- @@html:<span class="ja">マゾール。。。まぜる。。。混ぜる？？？？</span>@@
+  - This means "to mix something", right?
 - So... let's combine "black" and "bird" to get @@html:<span class="ja">黒い鳥</span>@@...
+- Let's add the last word in to get... @@html:<span class="ja">黒い鳥は、後で食べるために菌類を混ぜている。。。。</span>@@
 - I know, I know... I added @@html:<span class="ja">い</span>@@ and this is cheating... but who cares!!!!
 
 ** Summary
@@ -75,7 +78,7 @@
 :CUSTOM_ID: org53bba51
 :END:
 
-- Whenever you see clotrimazole, try to think of a black bird :) @@html:<span class="ja">黒い鳥</span>@@
+- Whenever you see clotrimazole, try to think of a black bird mixing fungi! @@html:<span class="ja">黒い鳥は、後で食べるために菌類を混ぜている！</span>@@
 
 * Mifepristone
 :PROPERTIES:
