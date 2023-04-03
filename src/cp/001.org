@@ -78,7 +78,7 @@
 :CUSTOM_ID: org53bba51
 :END:
 
-- Whenever you see clotrimazole, try to think of a black bird mixing fungi! @@html:<span class="ja">黒い鳥は、後で食べるために菌類を混ぜている！</span>@@
+- Whenever you see clotrimazole, try to think of a black bird mixing fungi! @@html:<span class="ja"><mark>黒い鳥</mark>は、後で食べるために菌類を<mark>混ぜている</mark>！</span>@@
 
 * Mifepristone
 :PROPERTIES:
