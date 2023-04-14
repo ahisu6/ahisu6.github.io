@@ -30,7 +30,7 @@ Posted: 2023-04-13 | Updated: 2023-04-13
   3. Androgen
      - Function: controls oestrogen and testosterone levels. @@html:<span class="ja">これにより、エストロゲンとテストステロンのレベルがコントロールされます。</span>@@
 
-Look at this [[https://lh3.googleusercontent.com/pw/AJFCJaXOKEsiRbqhoE6q4SKnIIJ6e4X483w-7HFy-ocIOjnplN2iteKjLgUfez6PtnAitM4TEGi7EWoHiMPCocTxbTl3SJFjR97QPczZxW75v5S3_AgG49NwylWWT4hg7T22XK-gaCgmUANe_Q_S_OGluulM=w500-h500-s-no?authuser=0][picture]], and then read the text:
+Look at this [[https://lh3.googleusercontent.com/pw/AJFCJaXOKEsiRbqhoE6q4SKnIIJ6e4X483w-7HFy-ocIOjnplN2iteKjLgUfez6PtnAitM4TEGi7EWoHiMPCocTxbTl3SJFjR97QPczZxW75v5S3_AgG49NwylWWT4hg7T22XK-gaCgmUANe_Q_S_OGluulM=w500-h500-s-no?authuser=0][picture]] and this [[https://lh3.googleusercontent.com/pw/AJFCJaWoCSRZixTm8z5iURM6NcREg0fX1w3HkB7rD2dwOdc9MLI9VDelziUvr6rWur8nleaxb90lwj0fE7GhD7cENRGr_FKiyWsymCzNUIA69BEPgkmdJyVvCmgixmulX1GTvJBNTiV7UE6TRmG9Gh6yFM2z=w500-h500-s-no?authuser=0][picture]], and then read the text:
 1. Hypothalamus releases corticotrophic releasing hormone (CRH). @@html:<span class="ja">視床下部から副腎皮質刺激放出ホルモンが分泌される。</span>@@
 2. Pituitary gland then releases adrenocorticotropic hormone (ACTH). @@html:<span class="ja">すると、下垂体から副腎皮質刺激ホルモン(ACTH)が分泌されます。</span>@@
 3. This makes the cool adrenal gland (the orange hat) release cortisol. @@html:<span class="ja"><mark>コル</mark>チゾール</span>@@... this sounds @@html:<span class="ja"><mark>クール</mark>ね</span>@@. The kidney looks cool, huh? It is doing some skiing :). @@html:<span class="ja">そうすると、副腎（オレンジ色の帽子の部分）というすごいところから、コルチゾールが分泌されます。腎臓がかっこよく見えるでしょ？スキーをやっているようです :)。</span>@@
