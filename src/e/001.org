@@ -44,7 +44,7 @@ There are many causes:
 - Causes from INSIDE body:
   - Pituitary cancer: this will cause the pituitary gland to keep making ACTH, and that will keep telling the adrenal gland: "MAKE MORE CORTISOL!" @@html:<span class="ja">下垂体がん: 下垂体がACTHを作り続けるようになります。したがって、それが副腎に伝え続けることになる: 「コルチゾールをもっと作れ！」。</span>@@
   - Small cell lung cancer: this type of cancer makes hormones that look like ACTH. These hormones will tell the adrenal gland to make more cortisol. @@html:<span class="ja">小細胞肺がん: このタイプのがんは、ACTHのようなホルモンを作ります。これらのホルモンは、副腎にコルチゾールをもっと作るように指示します。</span>@@
-  - Adrenal gland cancer: if there is cancer in the adrenal gland, then it will keep making cortisol. See this [[https://lh3.googleusercontent.com/pw/AJFCJaVCFAdSylUobyk3BI-5g8GOZ7utgF9A0rKbwtec0EJXo5_EryoojFkdGzgI4FASsm5CjGL-rXN28M4wyh5QCtZu5A9UtvcvR-sye59DTxSvhCHKiR7k-na6ZNFr57Qb1ATvH4Oklk2hjmYLSzWFZ3Lp=w500-h500-s-no?authuser=0][picture]]. @@html:<span class="ja">副腎がん: 副腎にがんがあると、コルチゾールを作り続けることになります。</span>@@
+  - Adrenal gland cancer: if there is cancer in the adrenal gland, then it will keep making cortisol. See this [[https://lh3.googleusercontent.com/pw/AJFCJaUSoHr8xcleaL9GX2ndZNx3UcaKY2CLWzVgQkAXm4GfkFMI_OUS94y07x_6d5NiYPOGxJobrGAj3xlD_VbvxDzPASaOhMGrsxogMeNRpnhbe9CndYuArU3LvfKH5i7wQJdTjDTIPSTU2RKIvlU8kC66=w500-h500-s-no?authuser=0][picture]]. @@html:<span class="ja">副腎がん: 副腎にがんがあると、コルチゾールを作り続けることになります。</span>@@
 
 ** Signs and symptoms
 :PROPERTIES:
