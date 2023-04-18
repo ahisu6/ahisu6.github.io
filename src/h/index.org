@@ -1,8 +1,8 @@
-#+TITLE: History taking skills
+#+TITLE: History
 
 #+BEGIN_EXPORT html
-<div class="engt">History taking skills</div>
-<div class="japt">病歴聴取スキル</div>
+<div class="engt">History</div>
+<div class="japt">病歴聴取</div>
 #+END_EXPORT
 
 [[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/h/index.org][Edit]]
