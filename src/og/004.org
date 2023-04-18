@@ -68,7 +68,7 @@ There is a lot of information here. I summarised it for you in this [[https://lh
     - Under the microscope, you will see Schiller-Duval bodies (which are basically glomeruli). @@html:<span class="ja">顕微鏡で見ると、シラー・デュバル小体（これは基本的に糸球体である）が見えます。</span>@@
     - It secretes alpha fetoprotein. @@html:<span class="ja">αフェトプロテインを分泌する。</span>@@
     - It affects children!!! Yolk is a baby!!!! @@html:<span class="ja">子供に影響する！！！卵の黄身は赤ちゃん！！！！</span>@@
-    - Yolk @@html:<mark>sac</mark>@@: @@html:<mark>S</mark>@@chiller-Duval bodies, @@html:<mark>A</mark>@@lpha fetoprotein, @@html:<mark>C</mark>@@hildren!!!
+    - @@html:Yolk <mark>sac</mark>: <mark>S</mark>chiller-Duval bodies, <mark>A</mark>lpha fetoprotein, <mark>C</mark>hildren!!!@@
   - Dysgerminoma
     - This secretes hCG and lactate dehydrogenase (LDH).
 3. Sex cord-stromal
