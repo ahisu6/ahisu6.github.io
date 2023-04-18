@@ -44,6 +44,6 @@ You need to ask these questions for any presenting complaint @@html:<span class=
 2. @@html:<mark>O</mark>nset@@: when did it start? @@html:<span class="ja">症状の発現時間: いつから始まったのですか？</span>@@
 3. @@html:<mark>P</mark>rogress and time@@: did it get better or worse? Is it there all the time? Is there just in the morning? Is there after food/drink? @@html:<span class="ja">症状の進行と時期: 良くなったのか、悪くなったのか？ずっとあるのでしょうか？朝だけですか？食べ物や飲み物の後にありますか？</span>@@
 
-@@html:So, to remember these, you can use the word <mark>DOP</mark>! Like, the DOPs that you have to do in the hospital!!!!@@
+@@html:So, to remember these, you can use the word <mark>DOP</mark>! Like the DOPs that you have to do in the hospital!!!! <span class="ja">で、これらを覚えるには、<mark>DOP</mark>という言葉を使うといいんです！病院でやらなければならないDOPsのようにね！！！！</span>@@
 
 Awesome, right?! @@html:<span class="ja">すごいね？！</span>@@
