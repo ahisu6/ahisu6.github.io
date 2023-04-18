@@ -23,7 +23,7 @@
 
 Posted: 2023-04-14 | Updated: 2023-04-14
 
-Wanna know a really cool trick to make sure that your history is /amazing/? @@html:<span class="ja">あなたの歴史を素晴らしいものにする、とてもクールなトリックを知りたくありませんか？</span>@@
+Yo! Do you want to know a really cool trick to make sure that your history is /amazing/? @@html:<span class="ja">あなたの歴史を素晴らしいものにする、とてもクールなトリックを知りたくありませんか？</span>@@
 
 Keep reading. @@html:<span class="ja">読み進めてください。</span>@@
 
