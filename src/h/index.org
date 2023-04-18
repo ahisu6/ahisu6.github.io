@@ -1,0 +1,27 @@
+#+TITLE: History taking skills
+
+#+BEGIN_EXPORT html
+<div class="engt">History taking skills</div>
+<div class="japt">病歴聴取スキル</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/h/index.org][Edit]]
+
+[[file:../index.org][Home]]
+
+-----
+
+* List of topics
+:PROPERTIES:
+:CUSTOM_ID: htopics
+:END:
+
+#+ATTR_HTML: :class sortable
+| Page | Title                | Date posted |
+|------+----------------------+-------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#org8c96f99][Basics of symptoms]] |  2023-04-14 |
+
+
+#+BEGIN_EXPORT html
+<script src="https://ahisu6.github.io/assets/js/sortTable.js"></script>
+#+END_EXPORT
