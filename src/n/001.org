@@ -59,7 +59,7 @@ Here is a summary:
 | Seizure type             | First line       | Second line      | Story                                                                                |
 |--------------------------+------------------+------------------+--------------------------------------------------------------------------------------|
 | Absence                  | Ethosuximide     | Sodium valproate | @@html:<mark>え～と</mark> and I give you <mark>salt</mark>@@                        |
-| Generalised tonic-clonic | Sodium valproate | Lamotrigine      | @@html:<mark>魔神</mark> driving <mark>リムジン</mark>@@                             |
+| Generalised tonic-clonic | Sodium valproate | Lamotrigine      | @@html:魔神 putting <mark>salt</mark> on person and driving <mark>リムジン</mark>@@  |
 | Myoclonic                | Sodium valproate | Levetiracetam    | @@html:Put <mark>salt</mark> on frog legs then <mark>leave</mark> them@@             |
 | Focal                    | Lamotrigine      | Carbamazepine    | @@html:Guy focusing on driving <mark>リムジン</mark> then he hits <mark>car</mark>@@ |
 
