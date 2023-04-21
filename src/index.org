@@ -14,11 +14,11 @@
 
 -----
 #+BEGIN_EXPORT html
-<div class="japt">私の目には、あなたはいつもこの花を思い出させてくれるでしょう。素敵な友人でいてくれてありがとう。</div>
+<!-- <div class="japt">私の目には、あなたはいつもこの花を思い出させてくれるでしょう。素敵な友人でいてくれてありがとう。</div> -->
 
-<div style="text-align: center; font-size: 3em;">
-<a style="text-decoration: none;" href="https://drive.google.com/uc?export=view&amp;id=18Wk2AzGZsZXmVQ8IWdbY7-vkiYR5ae5o">花。<br>この絵は、花であるあなたを描いています。</a>
-</div>
+<!-- <div style="text-align: center; font-size: 3em;"> -->
+<!-- <a style="text-decoration: none;" href="https://drive.google.com/uc?export=view&amp;id=18Wk2AzGZsZXmVQ8IWdbY7-vkiYR5ae5o">花。<br>この絵は、花であるあなたを描いています。</a> -->
+<!-- </div> -->
 #+END_EXPORT
 
 * え？
@@ -27,7 +27,7 @@
 :END:
 This website is a gift for my /best/ friend! @@html:<span class="ja">このウェブサイトは、私の大親友への贈り物です！</span>@@
 
-The this colour means that it is a link. For example, [[https://www.youtube.com/embed/aRCVKqBPsFU][this is a link]]! @@html:<span class="ja">ピンクのハイライトは、リンクであることを意味します。例えば、<a href="https://www.youtube.com/embed/aRCVKqBPsFU">これはリンクです</a>！</span>@@
+Pink colour means that it is a link. For example, [[https://www.youtube.com/embed/aRCVKqBPsFU][this is a link]]! @@html:<span class="ja">ピンクのハイライトは、リンクであることを意味します。例えば、<a href="https://www.youtube.com/embed/aRCVKqBPsFU">これはリンクです</a>！</span>@@
 
 * Chapters
 :PROPERTIES:
