@@ -5,7 +5,7 @@
 <div class="japt">神経学</div>
 #+END_EXPORT
 
-[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/e/index.org][Edit]]
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/n/index.org][Edit]]
 
 [[file:../index.org][Home]]
 
@@ -19,7 +19,7 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                | Date posted |
 |------+----------------------+-------------|
-| [[file:./001.org][001]]  | [[file:./001.org::#org70426c1][Epilepsy]] |  2023-04-21 |
+| [[file:./001.org][001]]  | [[file:./001.org::#org70426c1][Epilepsy]] |  2023-04-20 |
 
 #+BEGIN_EXPORT html
 <script src="https://ahisu6.github.io/assets/js/sortTable.js"></script>
