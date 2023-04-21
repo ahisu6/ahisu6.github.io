@@ -25,7 +25,6 @@
              :with-author nil
              :with-toc nil
              :section-numbers nil
-             :org-html-metadata-timestamp-format "%Y-%m-%d %H:%M:%S"
              :org-publish-use-timestamps t
              :time-stamp-file t)))
 
