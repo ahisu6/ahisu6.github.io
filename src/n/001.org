@@ -55,6 +55,14 @@ If you want to have a look at a /clonic/ seizure, see this [[https://lh3.googleu
 :CUSTOM_ID: org5c8ada3
 :END:
 
+Here is a summary:
+| Seizure type             | First line       | Second line      | Story                                                                                |
+|--------------------------+------------------+------------------+--------------------------------------------------------------------------------------|
+| Absence                  | Ethosuximide     | Sodium valproate | @@html:<mark>え～と</mark> and I give you <mark>salt</mark>@@                        |
+| Generalised tonic-clonic | Sodium valproate | Lamotrigine      | @@html:<mark>魔神</mark> driving <mark>リムジン</mark>@@                             |
+| Myoclonic                | Sodium valproate | Levetiracetam    | @@html:Put <mark>salt</mark> on frog legs then <mark>leave</mark> them@@             |
+| Focal                    | Lamotrigine      | Carbamazepine    | @@html:Guy focusing on driving <mark>リムジン</mark> then he hits <mark>car</mark>@@ |
+
 - Absence seizure:
   1. Ethosuximide. @@html:<span class="ja"><mark>エト</mark>スクシミド。 わ！！！！見てください！これは「エト」です？私はこの薬を「え～と」ヒーラーと呼びたいのです。え～～と～～～～～～～～～...。誰かが「え～と」と言うたびに その人が欠神発作を起こしているのではないかと考えるようになる。そこにいるように見えて、実はいないのです。</span>@@
   2. Sodium valproate. @@html:<span class="ja">あなたは「え～と 」が好きでよく言っています。まず、エトスキシミドを投与してみます。しかし、それが失敗したら...だから、今度あなたがそれを言ったら、私はあなたに塩をあげます(言い換えれば、私はあなたにナトリウム(sodium)をあげます)。そうすれば、あなたは「え～と」を言わなくなります。ごめん笑。問題は解決しました... ククククク。</span>@@
