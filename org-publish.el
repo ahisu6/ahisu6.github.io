@@ -27,7 +27,7 @@
              :section-numbers nil
              :org-publish-use-timestamps t
              :org-publish-use-timestamps-flag t
-             :time-stamp-file t)))
+             :time-stamp-file nil)))
 
 ;; Generate the site output
 (org-publish-all t)
