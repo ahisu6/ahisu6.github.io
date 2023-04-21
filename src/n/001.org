@@ -56,7 +56,7 @@ Sorry, I will add this soon...
   2. Sodium valproate. @@html:<span class="ja">あなたは「え～と 」が好きでよく言っています。まず、エトスキシミドを投与してみます。しかし、それが失敗したら...だから、今度あなたがそれを言ったら、私はあなたに塩をあげます（言い換えれば、私はあなたにナトリウム(sodium)をあげます）。そうすれば、あなたは「え～と」を言わなくなります。ごめん笑。問題は解決しました... ククククク。</span>@@
 
 - Generalised tonic-clonic seizure. See this [[https://lh3.googleusercontent.com/pw/AJFCJaUtyexG3EH2ee5f0pecyCR4yp65qGZuM74gDbhc4sCRycGPuVjEiyAHt_bg_AHWunqJKizMjZy8KmTd_eYTPqI-68x7zitrqGHncMoGQCXhRjuccKgf0QAV2InNWN83wHNRLmwifKKeqNoIVUL9CHA8=w500-h500-s-no?authuser=1][picture]]:
-  1. Sodium valproate. Sodium is salty... so, imagine that one day there was someone having tonic-clonic seizure on the ground. Then, some evil person came and put salt on that person... @@html:<span class="ja">ナトリウムは塩辛い...だから、ある日、地面で強直間代発作を起こしている人がいたとする。すると、ある悪い人がやってきて、その人に塩をかけたとする...。</span>@@
+  1. Sodium valproate. @@html:Sodium is salty... so, imagine that one day there was someone having tonic-clonic seizure on the ground. Then, some genie (<mark>genie</mark> sounds like <mark>gene</mark>ralised seizure) came and put salt on that person... <span class="ja">ナトリウムは塩辛い...だから、ある日、地面で強直間代発作を起こしている人がいたとする。すると、ある<mark>魔神</mark>(これを「ま<mark>じん</mark>」と読みます)がやってきて、その人に塩を塗った...。</span>@@
   2. Lamotrigine. @@html:<span class="ja"><mark>ラモ</mark>トリギン。ラモ... リム... お！<mark>リム</mark>ジンですね！！！そこで今度は、悪人が塩を撒いた後、<mark>リム</mark>ジンを使って現場から逃走したとする。</span>@@
 
 - Myoclonic seizures:
