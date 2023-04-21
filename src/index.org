@@ -42,7 +42,7 @@ Click the chapter which you want to study! @@html:<span class="ja">勉強した�
 - Cardiology - 循環器学 (c)
 - Respiratory - 呼吸器学 (r)
 - Surgery - 外科学 (s)
-- Neurology - 神経学 (n)
+- [[file:./n/index.org][Neurology - 神経学 (n)]]
 - [[file:./d/index.org][Dermatology - 皮膚科学 (d)]]
 - [[file:./e/index.org][Endocrinology - 内分泌学 (e)]]
 - Gastroenterology - 消化器学 (g)
