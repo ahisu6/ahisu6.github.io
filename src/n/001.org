@@ -84,4 +84,26 @@ Here is a summary:
 :CUSTOM_ID: org068fd27
 :END:
 
-Sorry, I will add this soon...
+1. What is the first line treatment of myoclonic seizure?
+2. What is the first line treatment of absence seizure?
+3. What is the second line treatment of myoclonic seizure?
+4. What is the second line treatment of generalised tonic-clonic seizure?
+5. What is the second line treatment of focal seizure?
+6. What is the first line treatment of generalised tonic-clonic seizure?
+7. What is the first line treatment of focal seizure?
+8. What is the second line treatment of absence seizure?
+
+@@html:<div onclick="reveal()">Click this sentence to see the answers! <span class="ja">この文章をクリックすると、答えが表示されます！</span></div><div style="display: none;">@@
+1. @@html:Sodium valproate. Frog legs! Remember the <mark>salt</mark> on the dancing frog legs!!!@@
+2. @@html:Ethosuximide. Remember the <mark>え～と</mark>?@@
+3. @@html:Levetiracetam. After the man put salt on the dancing frog legs, he <mark>leaves</mark> the kitchen!@@
+4. @@html:Lamotrigine. After the genie puts salt on people, he escaped using his <mark>limousine</mark>!@@
+5. @@html:Carbamazepine. The guy who was driving the limousine hit another <mark>car</mark>! <span class="ja">やれやれ...。</span>@@
+6. @@html:Sodium valproate. Remember the genie that is putting <mark>salt</mark> on the people?@@
+7. @@html:Lamotrigine. Remember the guy focusing on driving his <mark>limousine</mark>? He's so すごい...。@@
+8. @@html:Sodium valproate. When you keep saying <span class="ja">え～と</span>, I give you <mark>salt</mark>!@@
+@@html:</div>@@
+
+#+BEGIN_EXPORT html
+<script src="https://ahisu6.github.io/assets/js/revealAnswer.js"></script>
+#+END_EXPORT
