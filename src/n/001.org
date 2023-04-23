@@ -55,7 +55,7 @@ If you want to have a look at a /clonic/ seizure, see this [[https://lh3.googleu
 :CUSTOM_ID: org5c8ada3
 :END:
 
-Here is a summary:
+Here is a summary. Click on this link to [[file:../cp/001.org::#epilepsy][see the story of these epilepsy drugs]]:
 | Seizure type             | First line       | Second line      | Story                                                                                |
 |--------------------------+------------------+------------------+--------------------------------------------------------------------------------------|
 | Absence                  | Ethosuximide     | Sodium valproate | @@html:<mark>え～と</mark> and I give you <mark>salt</mark>@@                        |
