@@ -31,13 +31,14 @@
 :CUSTOM_ID: orgb2e53d5
 :END:
 
-| Drug             | Story                                                                                      |
-|------------------+--------------------------------------------------------------------------------------------|
-| Sodium valproate | @@html:Sodium is <mark>salty</mark>!@@                                                     |
-| Ethosuximide     | @@html:え～と～～～～@@                                                                    |
-| Lamotrigine      | @@html:<mark>ラモ</mark>トリギン。ラモ... リム... お！<mark>リム</mark>ジンですね@@        |
-| Levetiracetam    | @@html:<mark>Leve</mark>tiracetam sounds like leave. <mark>Leave the frogs alone</mark>!@@ |
-| Carbamazepine    | @@html:<mark>Car</mark>bamazepine sounds like a <mark>car</mark>. ガアアアア！！！@@                                 |
+| Drug             | Story                                                                                              |
+|------------------+----------------------------------------------------------------------------------------------------|
+| Sodium valproate | @@html:Sodium is <mark>salty</mark>!@@                                                             |
+| Ethosuximide     | @@html:え～と～～～～@@                                                                            |
+| Lamotrigine      | @@html:<mark>ラモ</mark>トリギン。ラモ... リム... お！<mark>リム</mark>ジンですね！@@              |
+| Levetiracetam    | @@html:<mark>Leve</mark>tiracetam sounds like leave. <mark>Leave the frogs alone</mark>!@@         |
+| Carbamazepine    | @@html:<mark>Car</mark>bamazepine sounds like a <mark>car</mark>. ブぅン～... キキィ～～～！！！@@ |
+
 
 * Levothyroxine
 :PROPERTIES:
