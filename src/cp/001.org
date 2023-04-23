@@ -25,8 +25,9 @@
 - Epilepsy is NOT a drug.
 - But, the table below is super nice. It has the main drugs, and ways to remember them!
 - Learn it!
+- Here is a link to the [[file:../n/001.org::#org70426c1][epilepsy topic]].
 
-** Summary of epilepsy drugs
+** Summary
 :PROPERTIES:
 :CUSTOM_ID: orgb2e53d5
 :END:
