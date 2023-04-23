@@ -16,6 +16,29 @@
 
 #+TOC: headlines 2
 
+* Epilepsy drugs
+:PROPERTIES:
+:CUSTOM_ID: epilepsy
+:END:
+
+- I know, I know...
+- Epilepsy is NOT a drug.
+- But, the table below is super nice. It has the main drugs, and ways to remember them!
+- Learn it!
+
+** Summary of epilepsy drugs
+:PROPERTIES:
+:CUSTOM_ID: orgb2e53d5
+:END:
+
+| Drug             | Story                                                                                      |
+|------------------+--------------------------------------------------------------------------------------------|
+| Sodium valproate | @@html:Sodium is <mark>salty</mark>!@@                                                     |
+| Ethosuximide     | @@html:え～と～～～～@@                                                                    |
+| Lamotrigine      | @@html:<mark>ラモ</mark>トリギン。ラモ... リム... お！<mark>リム</mark>ジンですね@@        |
+| Levetiracetam    | @@html:<mark>Leve</mark>tiracetam sounds like leave. <mark>Leave the frogs alone</mark>!@@ |
+| Carbamazepine    | @@html:<mark>Car</mark>bamazepine sounds like a <mark>car</mark>. ガアアアア！！！@@                                 |
+
 * Levothyroxine
 :PROPERTIES:
 :CUSTOM_ID: levothyroxine
