@@ -101,7 +101,7 @@ Here is a summary:
 5. @@html:Carbamazepine. The guy who was driving the limousine hit another <mark>car</mark>! <span class="ja">やれやれ...。</span>@@
 6. @@html:Sodium valproate. Remember the genie that is putting <mark>salt</mark> on the people?@@
 7. @@html:Lamotrigine. Remember the guy focusing on driving his <mark>limousine</mark>? He's so すごい...。@@
-8. @@html:Sodium valproate. When you keep saying <span class="ja">え～と</span>, I give you <mark>salt</mark>!@@
+8. @@html:Sodium valproate. When you keep saying え～と, I give you <mark>salt</mark>!@@
 @@html:</div>@@
 
 #+BEGIN_EXPORT html
