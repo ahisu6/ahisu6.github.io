@@ -24,12 +24,6 @@ jobs:
       - name: Copy ~assets~ folders to the ~public~ folder
         run: cp -R ./src/assets/ ./public
 
-      - name: Commit timestamps
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Automatic commit
-          file_pattern: 'public/timestamps/*'
-
       - name: Publish generated content to GitHub Pages branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
