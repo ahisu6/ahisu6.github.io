@@ -26,7 +26,7 @@ Ok. Big topic. Focus with me!
 - Adrenal gland is found on top of the kidneys. @@html:<span class="ja">副腎は、腎臓の上にあります。</span>@@
 - Adrenal gland makes a very important hormone called "Aldosterone" @@html:<span class="ja">アルドステロン。副腎は「アルドステロン」という非常に重要なホルモンを作っています。</span>@@
   - See this [[https://lh3.googleusercontent.com/pw/AJFCJaV-H3J9odoK0Zivc3qzojRg7OudTWQyasf_ukZrmrgESYgVZjrBhc-MGGSH76ByWZnYNy5cTaI2wVB6YNPw8pJVlMI9fkmZsNySBTC-ylgVexqOutZO-5mTOqPSK7k20Eq5p5g57JA7d4nypiyzUDyK=w580-h762-s-no?authuser=1][picture]]!
-  - @@html:<span class="ja">アル<mark>ドス</mark>テロン</span> has a <mark>どす<mark> (which means "knife" or <span class="ja">「おどす」の略か</span>) in the bag...@@
+  - @@html:<span class="ja">アル<mark>ドス</mark>テロン</span> has a <mark>どす</mark> (which means "knife" or <span class="ja">「おどす」の略か</span>) in the bag...@@
   - @@html:Aldo<mark>s</mark>terone increases amount of <mark>s</mark>odium and water in body. That's how you remember it: Aldo<mark>s</mark>terone and <mark>s</mark>odium!!"@@
   - @@html:Yummmmmm <mark>s</mark>alty... <mark>s</mark>alty <mark>s</mark>odium aldo<mark>s</mark>terone...@@
   - Salt gives us high blood pressure. Maybe you should stop eating salt... @@html:<span class="ja">塩分は高血圧になる... あなたは塩分を摂るのをやめたほうがいいかもしれませんね...。</span>@@
