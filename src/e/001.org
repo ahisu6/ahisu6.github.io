@@ -14,6 +14,126 @@
 
 #+TOC: headlines 2
 
+* Adrenal insufficiency
+:PROPERTIES:
+:CUSTOM_ID: org63d3f05
+:END:
+
+Posted: 2023-04-22 | Updated: 2023-04-22
+
+Ok. Big topic. Focus with me!
+
+- Adrenal gland is found on top of the kidneys. @@html:<span class="ja">副腎は、腎臓の上にあります。</span>@@
+- Adrenal gland makes a very important hormone called "Aldosterone" @@html:<span class="ja">アルドステロン。副腎は「アルドステロン」という非常に重要なホルモンを作っています。</span>@@
+  - See this [[https://lh3.googleusercontent.com/pw/AJFCJaV-H3J9odoK0Zivc3qzojRg7OudTWQyasf_ukZrmrgESYgVZjrBhc-MGGSH76ByWZnYNy5cTaI2wVB6YNPw8pJVlMI9fkmZsNySBTC-ylgVexqOutZO-5mTOqPSK7k20Eq5p5g57JA7d4nypiyzUDyK=w580-h762-s-no?authuser=1][picture]]!
+  - @@html:<span class="ja">アル<mark>ドス</mark>テロン</span> has a <mark>どす<mark> (which means "knife" or <span class="ja">「おどす」の略か</span>) in the bag...@@
+  - @@html:Aldo<mark>s</mark>terone increases amount of <mark>s</mark>odium and water in body. That's how you remember it: Aldo<mark>s</mark>terone and <mark>s</mark>odium!!"@@
+  - @@html:Yummmmmm <mark>s</mark>alty... <mark>s</mark>alty <mark>s</mark>odium aldo<mark>s</mark>terone...@@
+  - Salt gives us high blood pressure. Maybe you should stop eating salt... @@html:<span class="ja">塩分は高血圧になる... あなたは塩分を摂るのをやめたほうがいいかもしれませんね...。</span>@@
+  - Soooo, do you like @@html:<span class="ja">アルドステロン</span>@@? It makes your body more salty... you must like it... right?????
+  - @@html:Also, also, also... <span class="ja">アルドステロン</span> hates potassium and hydrogen. One time I heard <span class="ja">アルドステロン</span> say this: I will use my どす to kill potassium and hydrogen...@@
+  - @@html:Aldo<mark>s</mark>terone only likes <mark>s</mark>odium. Aldosterone might be your new best friend!!!@@
+
+In adrenal insufficiency, there adrenal gland does /not/ make hormones. @@html:<span class="ja">副腎機能不全では、副腎がホルモンを作らない。</span>@@
+
+There are 3 types of adrenal insufficiency (you need to look at this [[https://lh3.googleusercontent.com/pw/AJFCJaXOKEsiRbqhoE6q4SKnIIJ6e4X483w-7HFy-ocIOjnplN2iteKjLgUfez6PtnAitM4TEGi7EWoHiMPCocTxbTl3SJFjR97QPczZxW75v5S3_AgG49NwylWWT4hg7T22XK-gaCgmUANe_Q_S_OGluulM=w500-h500-s-no?authuser=0][picture]] and this [[https://lh3.googleusercontent.com/pw/AJFCJaWoCSRZixTm8z5iURM6NcREg0fX1w3HkB7rD2dwOdc9MLI9VDelziUvr6rWur8nleaxb90lwj0fE7GhD7cENRGr_FKiyWsymCzNUIA69BEPgkmdJyVvCmgixmulX1GTvJBNTiV7UE6TRmG9Gh6yFM2z=w500-h500-s-no?authuser=0][picture]] to understand how the following works):
+1. Primary: problem with adrenal gland. @@html:<span class="ja">副腎の問題。</span>@@
+2. Secondary: problem with pituitary gland. @@html:<span class="ja">下垂体の問題。</span>@@
+3. Tertiary: problem with hypothalamus. @@html:<span class="ja">視床下部の問題。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org358f61e
+:END:
+
+These depend on whether the presentation is /acute/ or /chronic/.
+
+1. Acute:
+  - Shock!
+  - Shock!
+  - Shock!
+  - Shock!
+  - Shock!
+  - PANIC!!!!!
+  - Low sodium level. @@html:<span class="ja">ナトリウム濃度が低い。</span>@@
+  - Low blood pressure. Because there is veryyyyyyyyyy /little/ sodium in body. @@html:<span class="ja">低血圧。体内のナトリウム濃度が低いため。</span>@@
+  - High potassium. There is no aldosterone. So, potassium is happy because aldosterone will not attack potassium with どす knife. See this [[https://lh3.googleusercontent.com/pw/AJFCJaV-H3J9odoK0Zivc3qzojRg7OudTWQyasf_ukZrmrgESYgVZjrBhc-MGGSH76ByWZnYNy5cTaI2wVB6YNPw8pJVlMI9fkmZsNySBTC-ylgVexqOutZO-5mTOqPSK7k20Eq5p5g57JA7d4nypiyzUDyK=w580-h762-s-no?authuser=1][picture]]! @@html:<span class="ja">カリウムが多い。アルドステロンがないんです。だから、アルドステロンはカリウムを「どす」で攻撃しないので、カリウムは幸せです。</span>@@
+
+2. Chronic:
+  - Weakness
+  - Low blood pressure
+  - Low weight
+  - The person wants to eat sugar and salt... yep! So... give them sugar and give them salt!!!
+
+Now, let's talk about the types:
+1. Primary = broken adrenal gland @@html:<mark>P</mark>rimary causes <mark>p</mark>igments. Notice the 2 P letters@@ = Addison disease!!!!
+  - Less libido. So, the person doesn't want to have sex. @@html:<span class="ja">性欲が減退する。だから、その人はセックスをしたくないのです。</span>@@
+  - High potassium. There is no aldosterone. So, potassium is happy because aldosterone will not attack potassium with どす knife. See this [[https://lh3.googleusercontent.com/pw/AJFCJaV-H3J9odoK0Zivc3qzojRg7OudTWQyasf_ukZrmrgESYgVZjrBhc-MGGSH76ByWZnYNy5cTaI2wVB6YNPw8pJVlMI9fkmZsNySBTC-ylgVexqOutZO-5mTOqPSK7k20Eq5p5g57JA7d4nypiyzUDyK=w580-h762-s-no?authuser=1][picture]]! @@html:<span class="ja">カリウムが多い。アルドステロンがないんです。だから、アルドステロンはカリウムを「どす」で攻撃しないので、カリウムは幸せです。</span>@@
+  - Metabolic acidosis. Again, this is because there is no aldosterone. So, hydrogen ions are happy!!! See this [[https://lh3.googleusercontent.com/pw/AJFCJaV-H3J9odoK0Zivc3qzojRg7OudTWQyasf_ukZrmrgESYgVZjrBhc-MGGSH76ByWZnYNy5cTaI2wVB6YNPw8pJVlMI9fkmZsNySBTC-ylgVexqOutZO-5mTOqPSK7k20Eq5p5g57JA7d4nypiyzUDyK=w580-h762-s-no?authuser=1][picture]]!
+  - Low blood pressure, of course!
+  - Low sugar level
+  - Increased dark pigments in your skin! Yes, Primary type makes you tanned! Remember this: @@html:<mark>P</mark>rimary causes <mark>p</mark>igments@@
+
+2. Secondary = broken pituitary gland
+  - This one does /not/ cause low blood pressure.
+  - This one does /not/ causes high potassium.
+  - Less libido. So, the person doesn't want to have sex. @@html:<span class="ja">性欲が減退する。だから、その人はセックスをしたくないのです。</span>@@
+  - Low sugar level.
+
+3. Tertiary = broken hypothalamus
+  - Same symptoms as Secondary!
+  - This happens because we stopped steroid treatment veryyyyy quickly!!!! @@html:<span class="ja">これは、ステロイド治療を非常に急に止めたために起こることです！！！！</span>@@
+  - @@html:Remember this: <mark>T</mark>ertiary is because of <mark>t</mark>reatment. Notice the 2 T letters.@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: orgdd7b267
+:END:
+
+There are 2 things we need to look at:
+- Test the glucocorticoid: so, test cortisol and ACTH
+- Test the mineralocorticoids: soooo, test sodium and potassium
+
+Okay? So, remember these 2 groups!
+
+Testing glucocorticoids:
+1. First, do ACTH stimulation test.
+2. Then, measure the cortisol level in the blood.
+3. Wait 30 minutes.
+4. Measure the cortisol level again!
+5. Interpret cortisol levels. See this picture.
+
+| Lab stuff         | Primary | Secondary/tertiary                               |
+|-------------------+---------+--------------------------------------------------|
+| Aldosterone level | low     | オーケー (because adrenal gland is OK)           |
+| Cortisol level    | low     | low (because pituitary gland is NOT making ACTH) |
+| ACTH              | HIGH    | low (because pituitary gland is NOT making ACTH) |
+| Sodium            | low     | オーケー (but... sometimes low...)               |
+| Potassium         | HIGH    | オーケー                                         |
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org6df6b06
+:END:
+
+- See this [[https://lh3.googleusercontent.com/pw/AJFCJaVa9Cd0dFDNcXWRfgBrAQZuIbpy-qxTJFfEuinOu9vAwyGbSjyf30FoIwkPnhyXk05iMyiYWCDiht2owecK0j7hmdH9xdPFQ5ZinFQuR3PY2fc236hWgt4y0II08evbbhc89tX5idH2hQqyWO5mgmfS=w595-h842-s-no?authuser=1][picture]]!
+- @@html:Give oral <mark>hydro</mark>cortisone to replace the low cortisol!!!! Hydro... <mark>hydro</mark> means water!!! Imagine the cool kidney surfing on the beach waves!!!!!!!! <span class="ja">ハイドロ... ハイドロとは水のことです！！！！ビーチの波でサーフィンをするクールなキドニーを想像してみてください！！！！！！！！</span>@@
+  - If patient is already on hydrocortisone, then tell them that they should double the dose when they feel sick!
+- @@html:Give oral <mark>flu</mark>drocortisone to replace minerals (sodium)! Oh no!! The kidney now has the flu because of the cold water :( <span class="ja">いやぁ～、今の腎臓は冷たい水のせいでインフルエンザになってしまいました。</span>@@
+- Give dehydroepiandrosterone (DHEA) (wow such a @@html:<span class="ja">大</span>@@ name....) to replace androgens.
+
+- @@html:If the patient has acute adrenal cri<mark>s</mark>i<mark>s</mark>, then................ EMERGENCY!!! PANIC!!!!!!!!! After you PANIC, do this stuff@@:
+  - @@html:<mark>S</mark>teroid: give IM hydrocortisone!!! QUICK!!!!!!!!!!!!!!!! 100 mg!! Remember my favourite kanji: <span class="ja">百！！！</span>@@
+  - @@html:<mark>S</mark>aline: give fluids!!!@@
+  - @@html:<mark>S</mark>ugar: give 10% glucose!@@
+
+** Questions
+:PROPERTIES:
+:CUSTOM_ID: org4dd0b64
+:END:
+
+Sorry, I was suuuuper busy. I will make questions soon, don't worry!!!
+
 * Cushing syndrome
 :PROPERTIES:
 :CUSTOM_ID: org90ea4ab
@@ -68,8 +188,8 @@ Have a look at this [[https://lh3.googleusercontent.com/pw/AJFCJaWKIfYZu-cD73_1s
   - [[https://lh3.googleusercontent.com/pw/AJFCJaUyjgd1WBPiVOENZyB8BC1nQHdLLDwR6caFD2MRuIp0G5us1AfSegWs_jqbGYa5tb-9SpcPp3_0urNNbunVwMRIBsktKU_KV6fzgBr0daOdr_4Jbl09eHDnUb7ouK8wPb-J2R_E5CTjVq284zVRoVNd=w1219-h914-s-no?authuser=0][Japanese chart 2]].
 
 Here are the charts in English @@html:<span class="ja">以下、英語表記のチャートです</span>@@:
-- [[https://lh3.googleusercontent.com/pw/AJFCJaXppt_I2s4meL5GBCP_8C1SI_0dSySgwnxPWPHiecX8ETWJ7NTYCkYYZoTqsWl1gsbXsgfqvHxaAjddnjcp_nLunX14fDhTwKIA9v8pyKRAu8F1e5l-HfRP-fyCoaEkOnT2vVJAKFOabFtBhEdRACpD=w1209-h914-s-no?authuser=0][English chart 1]]
-- [[https://lh3.googleusercontent.com/pw/AJFCJaXbrrvAbfCY-FHMK3aE0ST0iFJGEYNJWVGNzda3slSFGbSNbm3z3u7yzQDizyFNNiQqPW37-3pO_mbuZWYyCzw0-yIpqDPxW7a2azwV4rjdWvjb5qPY67JhpiLj0N24Pa0dG7AEglY0m1DG_b6CiPCK=w1213-h914-s-no?authuser=0][English chart 2]]
+- [[https://lh3.googleusercontent.com/pw/AJFCJaXppt_I2s4meL5GBCP_8C1SI_0dSySgwnxPWPHiecX8ETWJ7NTYCkYYZoTqsWl1gsbXsgfqvHxaAjddnjcp_nLunX14fDhTwKIA9v8pyKRAu8F1e5l-HfRP-fyCoaEkOnT2vVJAKFOabFtBhEdRACpD=w1209-h914-s-no?authuser=0][English chart 1]].
+- [[https://lh3.googleusercontent.com/pw/AJFCJaXbrrvAbfCY-FHMK3aE0ST0iFJGEYNJWVGNzda3slSFGbSNbm3z3u7yzQDizyFNNiQqPW37-3pO_mbuZWYyCzw0-yIpqDPxW7a2azwV4rjdWvjb5qPY67JhpiLj0N24Pa0dG7AEglY0m1DG_b6CiPCK=w1213-h914-s-no?authuser=0][English chart 2]].
 
 ** Treatment
 :PROPERTIES:
