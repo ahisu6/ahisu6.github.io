@@ -11,11 +11,10 @@
 -----
 
 #+BEGIN_EXPORT html
-<!-- <div class="japt">私の目には、あなたはいつもこの花を思い出させてくれるでしょう。素敵な友人でいてくれてありがとう。</div> -->
-
-<!-- <div style="text-align: center; font-size: 3em;"> -->
-<!-- <a style="text-decoration: none;" href="https://drive.google.com/uc?export=view&amp;id=18Wk2AzGZsZXmVQ8IWdbY7-vkiYR5ae5o">花。<br>この絵は、花であるあなたを描いています。</a> -->
-<!-- </div> -->
+<div style="text-align: center; font-size: 2em;">
+<a style="text-decoration: none;" href="https://drive.google.com/uc?export=view&amp;id=18Wk2AzGZsZXmVQ8IWdbY7-vkiYR5ae5o">花。<br>この絵は、花であるあなたを描いています。</a>
+</div>
+<div class="japt">私の目には、あなたはいつもこの花を思い出させてくれるでしょう。素敵な友人でいてくれてありがとう。</div>
 #+END_EXPORT
 
 * え？
