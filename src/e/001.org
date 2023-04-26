@@ -404,3 +404,4 @@ There is a type called "Pseudohypoparathyroidism". This is when the level of par
 
 - Parathyroid hormone levels: these will /high/. This is because the parathyroid gland keeps making hormones, but the organs are not accepting it! @@html:<span class="ja">が高くなります。これは副甲状腺がホルモンを作り続けているのに臓器がそれを受け入れていないためです！</span>@@
 - Serum calcium levels: these will /low/. This is because the organs are not accepting hormone, so, no calcium is being created! @@html:<span class="ja">が低くなります。これは内臓がホルモンを受け入れないためで、カルシウムが作られないのです！</span>@@
+
