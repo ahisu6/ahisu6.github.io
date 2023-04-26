@@ -15,6 +15,19 @@
 <a style="text-decoration: none;" href="https://drive.google.com/uc?export=view&amp;id=18Wk2AzGZsZXmVQ8IWdbY7-vkiYR5ae5o">花。<br>この絵は、花であるあなたを描いています。</a>
 </div>
 <div class="japt">私の目には、あなたはいつもこの花を思い出させてくれるでしょう。素敵な友人でいてくれてありがとう。</div>
+
+<!-- * Sorting tables -->
+<!-- :PROPERTIES: -->
+<!-- :CUSTOM_ID: orgdcbac4b -->
+<!-- :END: -->
+
+<!-- In each chapter, you will find a table of topics. @@html:<span class="ja">各章には、トピックの表が掲載されています。</span>@@ -->
+
+<!-- Click on the header of the column to sort it! Cool, right?! @@html:<span class="ja">列のヘッダーをクリックするとソートされます！すごいね！</span>@@ -->
+
+<!-- Click on the "DATE POSTED" header, then the table will be sorted by date... @@html:<span class="ja">「DATE POSTED」ヘッダをクリックすると、日付順にソートされます。</span>@@ -->
+
+<!-- Click on the "TITLE" header, then the table will be sorted by alphabetical order... @@html:<span class="ja">「TITLE」のヘッダーをクリックすると、テーブルがアルファベット順にソートされます。。。</span>@@ -->
 #+END_EXPORT
 
 * え？
@@ -44,21 +57,6 @@ Click the chapter which you want to study! @@html:<span class="ja">勉強した�
 - [[file:./e/index.org][Endocrinology - 内分泌学 (e)]]
 - Gastroenterology - 消化器学 (g)
 - [[file:./rh/index.org][Rheumatology - リウマチ学 (rh)]]
-
-#+BEGIN_EXPORT html
-<!-- * Sorting tables -->
-<!-- :PROPERTIES: -->
-<!-- :CUSTOM_ID: orgdcbac4b -->
-<!-- :END: -->
-
-<!-- In each chapter, you will find a table of topics. @@html:<span class="ja">各章には、トピックの表が掲載されています。</span>@@ -->
-
-<!-- Click on the header of the column to sort it! Cool, right?! @@html:<span class="ja">列のヘッダーをクリックするとソートされます！すごいね！</span>@@ -->
-
-<!-- Click on the "DATE POSTED" header, then the table will be sorted by date... @@html:<span class="ja">「DATE POSTED」ヘッダをクリックすると、日付順にソートされます。</span>@@ -->
-
-<!-- Click on the "TITLE" header, then the table will be sorted by alphabetical order... @@html:<span class="ja">「TITLE」のヘッダーをクリックすると、テーブルがアルファベット順にソートされます。。。</span>@@ -->
-#+END_EXPORT
 
 * Disclaimer
 :PROPERTIES:
