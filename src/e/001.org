@@ -101,7 +101,7 @@ Testing glucocorticoids:
 2. Then, measure the cortisol level in the blood.
 3. Wait 30 minutes.
 4. Measure the cortisol level again!
-5. Interpret cortisol levels. See this picture.
+5. Interpret cortisol levels. See this [[https://lh3.googleusercontent.com/pw/AJFCJaVodl3iEUd7onNvqNv3HcFBWsvvTcEF-B3tqgNcxrIal4BtpAmeMFWdFn4JkZdOe7_Ozhz4CHsB5NkkQFoQMMC5xwcldwKU_d67FoQhY-RWO1t7oREvlFhS5YZZ-NwxMhQ9-a14mbfg5veBJBXE5ctX=w1259-h954-s-no?authuser=1][picture]].
 
 | Lab stuff         | Primary | Secondary/tertiary                               |
 |-------------------+---------+--------------------------------------------------|
