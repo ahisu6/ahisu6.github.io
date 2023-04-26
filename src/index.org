@@ -24,6 +24,7 @@
 :PROPERTIES:
 :CUSTOM_ID: eh
 :END:
+
 This website is a gift for my /best/ friend! @@html:<span class="ja">このウェブサイトは、私の大親友への贈り物です！</span>@@
 
 Pink colour means that it is a link. For example, [[https://www.youtube.com/embed/aRCVKqBPsFU][this is a link]]! @@html:<span class="ja">ピンクのハイライトは、リンクであることを意味します。例えば、<a href="https://www.youtube.com/embed/aRCVKqBPsFU">これはリンクです</a>！</span>@@
