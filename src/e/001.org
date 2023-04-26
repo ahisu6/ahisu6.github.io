@@ -103,6 +103,8 @@ Testing glucocorticoids:
 4. Measure the cortisol level again!
 5. Interpret cortisol levels. See this [[https://lh3.googleusercontent.com/pw/AJFCJaVodl3iEUd7onNvqNv3HcFBWsvvTcEF-B3tqgNcxrIal4BtpAmeMFWdFn4JkZdOe7_Ozhz4CHsB5NkkQFoQMMC5xwcldwKU_d67FoQhY-RWO1t7oREvlFhS5YZZ-NwxMhQ9-a14mbfg5veBJBXE5ctX=w1259-h954-s-no?authuser=1][picture]].
 
+Look at this table and learn it. I read many books and I summarised the information for you in a nice table! @@html:<span class="ja">この表を見て、学んでください。私はたくさんの本を読み、あなたのために情報を素敵な表でまとめました！</span>@@
+
 | Lab stuff         | Primary | Secondary/tertiary                               |
 |-------------------+---------+--------------------------------------------------|
 | Aldosterone level | low     | オーケー (because adrenal gland is OK)           |
