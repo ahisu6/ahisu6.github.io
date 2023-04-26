@@ -21,7 +21,7 @@
 
 Posted: 2023-04-22 | Updated: 2023-04-22
 
-Ok. Big topic. Focus with me!
+Ok. Big topic. Focus with me! @@html:<span class="ja">やれやれ</span>@@
 
 - Adrenal gland is found on top of the kidneys. @@html:<span class="ja">副腎は、腎臓の上にあります。</span>@@
 - Adrenal gland makes a very important hormone called "Aldosterone" @@html:<span class="ja">アルドステロン。副腎は「アルドステロン」という非常に重要なホルモンを作っています。</span>@@
