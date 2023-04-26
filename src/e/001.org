@@ -31,7 +31,7 @@ Ok. Big topic. Focus with me!
   - @@html:Yummmmmm <mark>s</mark>alty... <mark>s</mark>alty <mark>s</mark>odium aldo<mark>s</mark>terone...@@
   - Salt gives us high blood pressure. Maybe you should stop eating salt... @@html:<span class="ja">塩分は高血圧になる... あなたは塩分を摂るのをやめたほうがいいかもしれませんね...。</span>@@
   - Soooo, do you like @@html:<span class="ja">アルドステロン</span>@@? It makes your body more salty... you must like it... right?????
-  - @@html:Also, also, also... <span class="ja">アルドステロン</span> hates potassium and hydrogen. One time I heard <span class="ja">アルドステロン</span> say this: I will use my どす to kill potassium and hydrogen...@@
+  - @@html:Also, also, also... <span class="ja">アルドステロン</span> hates potassium and hydrogen. One time I heard <span class="ja">アルドステロン</span> say this: I will use my どす to kill potassium and hydrogen...@@ See this [[https://lh3.googleusercontent.com/pw/AJFCJaV-H3J9odoK0Zivc3qzojRg7OudTWQyasf_ukZrmrgESYgVZjrBhc-MGGSH76ByWZnYNy5cTaI2wVB6YNPw8pJVlMI9fkmZsNySBTC-ylgVexqOutZO-5mTOqPSK7k20Eq5p5g57JA7d4nypiyzUDyK=w580-h762-s-no?authuser=1][picture]]!
   - @@html:Aldo<mark>s</mark>terone only likes <mark>s</mark>odium. Aldosterone might be your new best friend!!!@@
 
 In adrenal insufficiency, there adrenal gland does /not/ make hormones. @@html:<span class="ja">副腎機能不全では、副腎がホルモンを作らない。</span>@@
