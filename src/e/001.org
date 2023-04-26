@@ -153,7 +153,7 @@ Posted: 2023-04-13 | Updated: 2023-04-13
 Look at this [[https://lh3.googleusercontent.com/pw/AJFCJaXOKEsiRbqhoE6q4SKnIIJ6e4X483w-7HFy-ocIOjnplN2iteKjLgUfez6PtnAitM4TEGi7EWoHiMPCocTxbTl3SJFjR97QPczZxW75v5S3_AgG49NwylWWT4hg7T22XK-gaCgmUANe_Q_S_OGluulM=w500-h500-s-no?authuser=0][picture]] and this [[https://lh3.googleusercontent.com/pw/AJFCJaWoCSRZixTm8z5iURM6NcREg0fX1w3HkB7rD2dwOdc9MLI9VDelziUvr6rWur8nleaxb90lwj0fE7GhD7cENRGr_FKiyWsymCzNUIA69BEPgkmdJyVvCmgixmulX1GTvJBNTiV7UE6TRmG9Gh6yFM2z=w500-h500-s-no?authuser=0][picture]], and then read the text:
 1. Hypothalamus releases corticotrophic releasing hormone (CRH). @@html:<span class="ja">視床下部から副腎皮質刺激放出ホルモンが分泌される。</span>@@
 2. Pituitary gland then releases adrenocorticotropic hormone (ACTH). @@html:<span class="ja">すると、下垂体から副腎皮質刺激ホルモン(ACTH)が分泌されます。</span>@@
-3. This makes the cool adrenal gland (the orange hat) release cortisol. @@html:<span class="ja"><mark>コル</mark>チゾール</span>@@... this sounds @@html:<span class="ja"><mark>クール</mark>ね</span>@@. The kidney looks cool, huh? It is doing some skiing :). @@html:<span class="ja">そうすると、副腎（オレンジ色の帽子の部分）というすごいところから、コルチゾールが分泌されます。腎臓がかっこよく見えるでしょ？スキーをやっているようです :)。</span>@@
+3. This makes the cool adrenal gland (the orange hat) release cortisol. @@html:<span class="ja"><mark>コル</mark>チゾール</span>@@... this sounds @@html:<span class="ja"><mark>クール</mark>ね</span>@@. The kidney looks cool, huh? It is doing some skiing :). @@html:<span class="ja">そうすると、副腎(オレンジ色の帽子の部分)というすごいところから、コルチゾールが分泌されます。腎臓がかっこよく見えるでしょ？スキーをやっているようです :)。</span>@@
 4. When there is too much cortisol, the adrenal gland will start telling the hypothalamus and the pituitary gland to stop making hormones. Look at this [[https://lh3.googleusercontent.com/pw/AJFCJaWoCSRZixTm8z5iURM6NcREg0fX1w3HkB7rD2dwOdc9MLI9VDelziUvr6rWur8nleaxb90lwj0fE7GhD7cENRGr_FKiyWsymCzNUIA69BEPgkmdJyVvCmgixmulX1GTvJBNTiV7UE6TRmG9Gh6yFM2z=w500-h500-s-no?authuser=0][picture]]. @@html:<span class="ja">コルチゾールが多すぎると、副腎は視床下部や下垂体にホルモンを作るのをやめるように指示を出すようになります。</span>@@
 
 In Cushing syndrome, there is tooooooo much cortisol. Wayyyyyy toooooooo much. @@html:<span class="ja">クッシング症候群では、コルチゾールが多すぎるのです。非常に多すぎる。</span>@@
@@ -231,7 +231,7 @@ There are 2 types of diabetes insipidus @@html:<span class="ja">Diabetes insipid
   1. Because your brain is not producing ADH, you will keep urinating. @@html:<span class="ja">脳からADHが分泌されないので、尿が出続けることになります。</span>@@
   2. All this urination will reduce your blood volume. @@html:<span class="ja">この排尿により、血液量は減少します。</span>@@
   3. If you reduce your blood volume, that means your blood will be /more/ concentrated. @@html:<span class="ja">血液量を減らせば、それだけ血液が濃縮されるということです。</span>@@
-  4. Therefore, you will have higher blood osmolality (because your blood is /more/ concentrated). @@html:<span class="ja">そのため、血液の「osmolality」が高くなります（血液が濃縮されるため）。</span>@@
+  4. Therefore, you will have higher blood osmolality (because your blood is /more/ concentrated). @@html:<span class="ja">そのため、血液の「osmolality」が高くなります(血液が濃縮されるため)。</span>@@
 - Low urine osmolality
   1. Because you are urinating a lot of water, your urine will become diluted. @@html:<span class="ja">水分を多く排出しているため、尿が薄くなってしまいます。</span>@@
   2. So, your urine will have a /low/ osmolality. @@html:<span class="ja">だから、尿の「osmolality」が低くなります。</span>@@
@@ -245,7 +245,7 @@ This depends on the type.
 
 - Central diabetes insipidus:
   - Because your brain is /not/ producing ADH, you need to give your body some drugs that contain ADH. @@html:<span class="ja">脳からADHが分泌されないので、ADHを含む薬を体に投与する必要があります。</span>@@
-  - So, we give something called "desmopressin" ([[file:../cp/001.org::#desmopressin][see the story of desmopressin]]) (which is the same as ADH)!!!! @@html:<span class="ja">そこで、「デスモプレシン」というものを投与します（ADHと同じものです）！！！！</span>@@
+  - So, we give something called "desmopressin" ([[file:../cp/001.org::#desmopressin][see the story of desmopressin]]) (which is the same as ADH)!!!! @@html:<span class="ja">そこで、「デスモプレシン」というものを投与します(ADHと同じものです)！！！！</span>@@
   - The Sumo fighters sometimes pass a lot of urine... so, they need to keep taking desmopressin to stop that! @@html:<span class="ja"><mark>相撲</mark>取りは尿量が多いことがあるので。。。それを止めるためにデ<mark>スモ</mark>プレシンを飲み続けなければならないのです！</span>@@
 - Nephrogenic diabetes insipidus:
   - Thiazide diuretics: these drugs allow the kidneys to absorb more salt and water! @@html:<span class="ja">これらの薬は、腎臓がより多くの塩分と水分を吸収することを可能にします。</span>@@
@@ -294,7 +294,7 @@ There are two types:
   - Bone pain: this is because the bones are being broken by osteoclasts. @@html:<span class="ja">というのは、破骨細胞によって骨が壊されているからです。</span>@@
   - Kidney stones: all of that extra calcium is going through the kidneys! @@html:<span class="ja">これは、余分なカルシウムがすべて腎臓を経由してしまうからなのです！</span>@@
 - Imaging:
-  - Calcium in the joints cartilage (chondrocalcinosis). This usually happens in the knee. See [[https://lh3.googleusercontent.com/pw/AMWts8B5FO0E1CA5csvO85NjS83v5LCxBVxpG6_GbKUnG8Qru99RmXka2u49lsJR6YGJ-8_n61ZypgfMI7gQr7L19TriCY-0YlTPDJU0ZbtlkZtqbIQVk_Xg62_769uyTajTpyEsCFSib-LgbwPWfRsXPx4=w771-h600-s-no?authuser=3][this]] (I got this picture from this [[https://radiopaedia.org/cases/chondrocalcinosis-of-the-knee-2][website]]). @@html:<span class="ja">関節軟骨のカルシウム（軟骨石灰化症）。</span>@@
+  - Calcium in the joints cartilage (chondrocalcinosis). This usually happens in the knee. See [[https://lh3.googleusercontent.com/pw/AMWts8B5FO0E1CA5csvO85NjS83v5LCxBVxpG6_GbKUnG8Qru99RmXka2u49lsJR6YGJ-8_n61ZypgfMI7gQr7L19TriCY-0YlTPDJU0ZbtlkZtqbIQVk_Xg62_769uyTajTpyEsCFSib-LgbwPWfRsXPx4=w771-h600-s-no?authuser=3][this]] (I got this picture from this [[https://radiopaedia.org/cases/chondrocalcinosis-of-the-knee-2][website]]). @@html:<span class="ja">関節軟骨のカルシウム(軟骨石灰化症)。</span>@@
   - pepper-pot appearance on x-ray. See [[https://lh3.googleusercontent.com/pw/AMWts8CPrtTpAPDyEuZPACJfvDc-LIAc723CTqa7jt7oys1WH1iD4a5htJOdrNQ15GC_Sxy2YxRs5P3FEAXU9pVKZXoI6gUGyCk94TLTLEGTXCOGYECeYsf9W2hVPAaphmBIj6mrQ1h7vrEHDM_iQi1s1zc=w630-h493-s-no?authuser=3][this]].
   - osteoporosis on DXA scan
 
@@ -315,9 +315,9 @@ There are two types:
 - Surgery: you need to remove the adenoma!!! @@html:<span class="ja">腺腫を切除する必要がある！！！</span>@@
   - Only do surgery in patients who have the following features @@html:<span class="ja">以下の特徴を持つ患者さんにのみ、手術を行う</span>@@:
     - Age: the patient must be under 50 years old! @@html:<span class="ja">患者は50歳未満でなければならない！</span>@@
-    - Signs and symptoms: organ damage (for example, they have kidney issues because of high calcium). @@html:<span class="ja">臓器障害（例えば、高カルシウムのために腎臓に問題があるなど）。</span>@@
+    - Signs and symptoms: organ damage (for example, they have kidney issues because of high calcium). @@html:<span class="ja">臓器障害(例えば、高カルシウムのために腎臓に問題があるなど)。</span>@@
 - If you cannot do surgery on patient @@html:<span class="ja">手術ができないのであれば、こうする必要があります</span>@@:
-  - Tell them to drink lots of water (so that they don't get kidney stones)! @@html:<span class="ja">水をたくさん飲むように言う（腎臓結石にならないように）！</span>@@
+  - Tell them to drink lots of water (so that they don't get kidney stones)! @@html:<span class="ja">水をたくさん飲むように言う(腎臓結石にならないように)！</span>@@
   - Also, monitor their renal functions and calcium levels! @@html:<span class="ja">また、腎臓の機能やカルシウムの値も観察してください！</span>@@
 
 *** Secondary hyperparathyroidism
