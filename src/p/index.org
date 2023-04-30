@@ -1,0 +1,28 @@
+#+TITLE: Paediatrics
+
+#+BEGIN_EXPORT html
+<div class="engt">Paediatrics</div>
+<div class="japt">小児科学</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/p/index.org][Edit]]
+
+[[file:../index.org][Home]]
+
+-----
+
+* List of topics
+:PROPERTIES:
+:CUSTOM_ID: ptopics
+:END:
+
+
+#+ATTR_HTML: :class sortable
+| Page | Title                | Date posted |
+|------+----------------------+-------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#org013ca3b][Viral rashes in kids]] |  2023-04-30 |
+
+
+#+BEGIN_EXPORT html
+<script src="https://ahisu6.github.io/assets/js/sortTable.js"></script>
+#+END_EXPORT
