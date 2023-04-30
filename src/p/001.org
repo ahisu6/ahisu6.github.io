@@ -128,13 +128,15 @@ I will add pictures for you to make it easier! @@html:<span class="ja">どれも
 :CUSTOM_ID: orgcf59002
 :END:
 
-- Caused by parvovirus B19. This is the smallest human virus... smol... @@html:<span class="ja">これは、最小のヒトウイルス... スモールですね！</span>@@
+- Caused by parvovirus B19.
+- @@html::<mark>P</mark>arvovirus B19 causes sl<mark>pp</mark>ed cheeks! Look at the letter P@@
+- This is the smallest human virus... smol... @@html:<span class="ja">これは、最小のヒトウイルス... スモールですね！</span>@@
 - This type of virus affect the blood of the person. So, if the patient has blood problem (like anaemia, sickle-cell disease, etc.), then they will have worse symptoms!!!! @@html:<span class="ja">このタイプのウイルスは、人の血液に影響を及ぼします。そのため、患者さんが血液の問題(貧血や鎌状赤血球症など)を抱えている場合、症状が悪化します！</span>@@
 
 - First, the child gets fever.
 - After the fever the cheeks will have a red rash. Look at this [[https://lh3.googleusercontent.com/pw/AJFCJaWqIWBWKYk-BOk9OoriKwqK2xF6jJtjbNCC_iI1ajiLZ0kCX5EbKs7XOgIiYOQ4Js-iQ3LxrtjXuWBU0yaeaLG43FWrTKBPgdpP44LIjhZz0he-of_PMgOT5FIhDbS2hfqP5XuhdF_GxisdKkiwmZ9x=w320-h203-s-no?authuser=1][picture]]. @@html:<span class="ja">発熱後、頬に赤い発疹ができる... トマトです</span>@@
 - Sometimes, warm things will also make the cheeks red... so smol. @@html:<span class="ja">時には、暖かいものも頬を赤くする... 大スモールですね。</span>@@
-- It looks like someone slapped the baby... @@html:<span class="ja">誰かが赤ちゃんをひっぱたいたように見える...。</span>@@
+- @@html:It looks like someone sla<mark>pp</mark>ed the baby... Remember, <mark>P</mark>arvovirus B19 causes sl<mark>pp</mark>ed cheeks! Look at the letter P! <span class="ja">誰かが赤ちゃんをひっぱたいたように見える...。</span>@@
 - When the rash disappears, the child will no longer be infectious!!! @@html:<span class="ja">発疹が消えたら、その子の感染力はなくなります！！！やった！！！</span>@@
 - If the patient has sickle-cell disease (it is a disease which affects the blood), then they will have a crisis!!! @@html:<span class="ja">もし患者さんが鎌状赤血球症(血液に影響を与える病気です)であれば、危機を迎えます！！！</span>@@
 
