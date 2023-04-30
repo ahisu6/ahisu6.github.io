@@ -48,7 +48,7 @@ Click the chapter which you want to study! @@html:<span class="ja">勉強した�
 - [[file:./h/index.org][History - 病歴聴取 (h)]]
 - [[file:./cp/index.org][Clinical Pharmacology - 臨床薬理学 (cp)]]
 - [[file:./og/index.org][Obstetrics and Gynaecology - 産婦人科学 (og)]]
-- Paediatrics - 小児科学 (p)
+- [[file:./p/index.org][Paediatrics - 小児科学 (p)]]
 - Cardiology - 循環器学 (c)
 - Respiratory - 呼吸器学 (r)
 - Surgery - 外科学 (s)
