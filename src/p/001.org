@@ -89,7 +89,7 @@ I will add pictures for you to make it easier! @@html:<span class="ja">どれも
   - @@html:<mark>Co</mark>njuctivits: eyelid inflammation@@
   - @@html:<mark>Co</mark>ugh: cough is... cough!@@
   - @@html:<mark>Ko</mark>plik spots: these look like salt.........@@ Look at this [[https://lh3.googleusercontent.com/pw/AJFCJaWZrZ6EI9YeGyuZ261tC-K41IL4T0vS-hhIvBY7OlgyS2h9l9eWveVtXgLELwRXC8gSeZQQsvl7_iXt-iO0VpURprDiWwmiYGhiWU-EDn0f52ET5fbq4sfKkRe85Ha8xZp8xQdF5wgIWBKzH0yZiEM5=w240-h235-s-no?authuser=1][picture]].
-  - @@html:Look! They all have the <span class="ja">こ</span> sound! <span class="ja">こここここここここここここ....</span> If you see a lot of <span class="ja">こ</span>, then it must be measles! Quick, run away!!!! <mark>こ</mark>わいですよ！大怖い！！！！@@
+  - @@html:Look! They all have the <span class="ja">こ</span> sound! <span class="ja">こここここここここここここ....</span> If you see a lot of <span class="ja">こ</span>, then it must be measles! Quick, run away!!!! <mark>こここここここ</mark>わいですよ！大怖い！！！！@@
 - Rash phase signs:
   - Patient will get rash all over the body. @@html:<span class="ja">全身に発疹が出る。</span>@@
   - Buuuuuuuuut, there is /no/ rash on their hands and feet!! @@html:<span class="ja">しかし、患者さんの手や足には発疹はありません！！！</span>@@
