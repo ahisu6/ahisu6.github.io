@@ -16,10 +16,10 @@
 :CUSTOM_ID: ptopics
 :END:
 
-
 #+ATTR_HTML: :class sortable
 | Page | Title                | Date posted |
 |------+----------------------+-------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#org2e444db][Jaundice]] |  2023-05-02 |
 | [[file:./001.org][001]]  | [[file:./001.org::#org013ca3b][Viral rashes in kids]] |  2023-04-30 |
 
 
