@@ -16,6 +16,118 @@
 
 #+TOC: headlines 2
 
+* Jaundice
+:PROPERTIES:
+:CUSTOM_ID: org2e444db
+:END:
+
+Posted: 2023-05-02 | Updated: 2023-05-02
+
+You can look in PassMedicine for more information.
+
+The Illustrated Textbook of Paediatrics has a lot of good stuff. You can check Chapter 11, Jaundice.
+
+I will try to explain these diseases as best I can. I apologize for the delay due to lack of time. However, if you need an explanation of a particular disease, please let me know and I will do it instantly! @@html:<span class="ja">これらの病気について、できる限り解説していこうと思います。時間がなく、遅れていることをお詫びします。しかし、特定の病気の説明が必要な場合は、私に言ってください、私は即座にそれを行います！</span>@@
+
+I love this topic. It's so すごい
+
+Ok. So, babies get jaundice a /lot/. Sooooo much jaundice. This is because of many reasons @@html:<span class="ja">赤ちゃんは黄疸がよく出る。こんなに黄疸が出るんですね。これは様々な理由によるものです</span>@@:
+- Blood cells of the baby have a shorter life. It is only 70 days (adults have 120 days)! @@html:<span class="ja">赤ちゃんの血球は寿命が短いのです。わずか70日です(大人は120日)！</span>@@
+- Babies are not good at bilirubin metabolism... @@html:<span class="ja">赤ちゃんはビリルビンの代謝が苦手...。</span>@@
+
+Why should you care? Well, many reasons @@html:<span class="ja">なぜ気にする必要があるのでしょうか？まあ、いろいろな理由があります</span>@@:
+1. Jaundice at birth is a really bad sign!!! I will explain it below! @@html:<span class="ja">出生時の黄疸は本当に悪い兆候です!!! 以下、説明します！</span>@@
+2. Because babies are not good at bilirubin metabolism, there are many complications! @@html:<span class="ja">赤ちゃんはビリルビン代謝が苦手なため、合併症が多いのです！</span>@@
+  - One of these complications is kernicterus. This is when bilirubin enters the brain! @@html:<span class="ja">その合併症のひとつが「ケルニクテラス」です。これは、ビリルビンが脳に入り込むことです！</span>@@
+
+It is extremely important that you see and learn this cycle. I have translated it for you in Japanese. Please see this [[https://lh3.googleusercontent.com/pw/AJFCJaWRFKNTbdE67QHgf3iIWDg7cRB87cS7IachnOt0nLo-C97XwN9x4g5Udldlwlal9if5BJUNM6pzw2IvlqdkLh-lqGCxNtEouUwlYnSXShVmBtifDhMGofoymKmUD8RFvYnMYxVZjhIBl9IrMQvAjTTd=w1916-h944-s-no?authuser=1][picture]]. Please let me know if there is anything which is not clear. I have taken this diagram from a textbook called: Illustrated Textbook of Paediatrics (I have sent you a message about this!). @@html:<span class="ja">このサイクルを見て、学ぶことは非常に重要です。日本語に訳してみました。何か不明な点があれば教えてください。この図は、Illustrated Textbook of Paediatricsという教科書から引用しました（これについては、メッセージでお知らせしました！）。</span>@@
+
+Jaundice appears when there is more than 80 μmol/l of bilirubin in the blood. @@html:<span class="ja">黄疸は、血液中のビリルビンが80μmol/l以上ある場合に現れます。</span>@@
+
+There are 3 categories of jaundice in children @@html:<span class="ja">小児の黄疸は3つに分類されます</span>@@:
+1. Jaundice in the first 24 hours of life. This is bad. This is /really/ bad! @@html:<span class="ja">生後24時間以内の黄疸。これはヤバいです。これは本当に悪いことです！</span>@@
+2. Jaundice shorter than 2 weeks. @@html:<span class="ja">黄疸が2週間より短い。</span>@@
+3. Jaundice longer than 2 weeks. @@html:<span class="ja">黄疸が2週間以上続いている。</span>@@
+
+The following is list of few important causes. There is a longer list on PassMedicine. Look for a page called "Jaundice in the newborn period":
+
+| Jaundice type                 | Cause                                      |
+|-------------------------------+--------------------------------------------|
+| First 24 hours of life        | Blood of baby is breaking. This is urgent! |
+| Jaundice shorter than 2 weeks | Physiological jaundice (this is okay!)     |
+| Jaundice longer than 2 weeks  | See the table below!                       |
+ 
+@@html:<span class="ja">以下は、いくつかの重要な原因のリストです。PassMedicineには、もっと長いリストがあります。「Jaundice in the newborn period」というページを探してみてください</span>@@:
+
+| 黄疸の種類          | 想定される原因                                     |
+|---------------------+----------------------------------------------------|
+| 生後24時間の間に    | 赤ちゃんの血液が壊れそうです。これは緊急事態です！ |
+| 黄疸が2週間より短い | 生理的黄疸（これは大丈夫です！）                   |
+| 黄疸が2週間以上続く | 下表をご参照ください！                             |
+
+Causes of jaundice longer than 2 weeks depend on whether the bilirubin is conjugated or not conjugated (there are more causes, but these are the important ones. There is a longer list on PassMedicine. Look for a page called "Jaundice in the newborn period"):
+
+| Conjugated       | Unconjugated        |
+|------------------+---------------------|
+| Bile duct issues | Physiological       |
+| Liver issues     | High GI obstruction |
+
+@@html:<span class="ja">2週間以上の黄疸の原因は、ビリルビンが抱合しているか抱合していないかによって異なります(もっと原因があるのですが、重要なのはこれです。詳しくは教科書で調べてみてください！)。PassMedicineには、もっと長いリストがあります。「Jaundice in the newborn period」というページを探してみてください</span>@@:
+
+| 共役ビリルビン | 非共役ビリルビン   |
+|----------------+--------------------|
+| 胆管の問題     | 生理的黄疸         |
+| 肝臓の問題     | 消化管上部の閉塞感 |
+
+The /most/ important thing to remember is that if jaundice happens before 24 hours after birth, you need to act urgently!!! @@html:<span class="ja">最も重要なことは、黄疸が生後24時間以前に起こった場合、緊急に対応する必要があることです！！！</span>@@
+
+Another interesting thing to remember is that jaundice that is shorter than 2 weeks can happen in babies that are being breastfed! @@html:<span class="ja">また、母乳で育てている赤ちゃんには、2週間より短い黄疸が起こることがあるのも興味深い点です！すごいね？</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org40fc620
+:END:
+
+- Jaundice usually starts at the top of the head, and then it moves downwards! @@html:<span class="ja">黄疸は通常、頭のてっぺんから始まり、下へ下へと移動していきます！</span>@@
+- It causes the white part of the eye to become yellow! @@html:<span class="ja">白目の部分が黄色くなる！</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org0d6882f
+:END:
+
+- Jaundice can be checked using a machine that measures the amount of bilirubin on the skin! @@html:<span class="ja">黄疸は、皮膚に付着したビリルビンの量を測定する機械で調べることができます！すごいね？</span>@@
+- You can also do a bilirubin blood test... @@html:<span class="ja">ビリルビンの血液検査もできます`...。</span>@@
+- If there is jaundice longer than 2 weeks, you should do these tests. There is a longer list on PassMedicine. Look for a page called "Jaundice in the newborn period" @@html:<span class="ja">黄疸が2週間以上ある場合は、これらの検査を行う必要があります。PassMedicineには、もっと長いリストがあります。「Jaundice in the newborn period」というページを探してみてください</span>@@:
+  - A test to tell you the amount of conjugated and unconjugated bilirubin. This is the most important one. You must remember this!!! @@html:<span class="ja">共役ビリルビンと非共役ビリルビンの量を知るための検査です。これが一番大事なんです。これは必ず覚えておいてください！！！</span>@@
+  - Coombs' test (this tests for blood breakdow) @@html:<span class="ja">クームス試験(血液の分解を調べる試験です)</span>@@
+  - Thyroid tests @@html:<span class="ja">甲状腺検査</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org314f04b
+:END:
+
+There are 2 types of treatments @@html:<span class="ja">トリートメントの種類は2種類</span>@@:
+1. Blood transfusion. Use this if @@html:<span class="ja">輸血をする。以下のいずれかに該当する場合に使用します</span>@@:
+  - If the baby's blood is being broken down (jaundice in the first 24 hours of life)!!! @@html:<span class="ja">赤ちゃんの血液が分解されている場合(生後24時間以内の黄疸)！！！</span>@@
+  - If the bilirubin is suuuuuuuuuuuper high! @@html:<span class="ja">ビリルビンが極端に高い場合</span>@@
+2. Phototherapy
+  - This turns unconjugated bilirubin into safe chemical that is removed in urine! @@html:<span class="ja">これにより、非共役ビリルビンは安全な化学物質に変わり、尿中に排出されます！</span>@@
+
+** Complications
+:PROPERTIES:
+:CUSTOM_ID: org495a3d8
+:END:
+
+- Like we said earlier, bilirubin can enter the brain and cause kernicterus. See this [[https://lh3.googleusercontent.com/pw/AJFCJaWRFKNTbdE67QHgf3iIWDg7cRB87cS7IachnOt0nLo-C97XwN9x4g5Udldlwlal9if5BJUNM6pzw2IvlqdkLh-lqGCxNtEouUwlYnSXShVmBtifDhMGofoymKmUD8RFvYnMYxVZjhIBl9IrMQvAjTTd=w1916-h944-s-no?authuser=1][picture]]. @@html:<span class="ja">先ほども言ったように、ビリルビンが脳に入り込んで、ケルニクテラスを引き起こすことがあります。</span>@@
+- The signs of kernicterus are @@html:<span class="ja">ケルニクテラスの兆候は</span>@@:
+  - Fatigue @@html:<span class="ja">疲労度</span>@@
+  - Poor feeding @@html:<span class="ja">食事の摂取量を減らす</span>@@
+  - Arched back @@html:<span class="ja">アーチ型の背中</span>@@
+  - Seizures @@html:<span class="ja">発作</span>@@
+  - Coma!!! @@html:<span class="ja">昏睡状態！！！</span>@@
+
 * Viral rashes in kids
 :PROPERTIES:
 :CUSTOM_ID: org013ca3b
