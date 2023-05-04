@@ -16,7 +16,6 @@
 
 #+TOC: headlines 2
 
-
 * Acne vulgaris
 :PROPERTIES:
 :CUSTOM_ID: org8c6625b
@@ -36,7 +35,7 @@ This affects the hair follicle, hair shaft, and sebaceous gland. @@html:<span cl
   - White papules: this happens if the top is closed.
   - Black holes: this happens if the top is open.
 - pustules
-- ice-pick scars (like [[https://lh3.googleusercontent.com/pw/AMWts8AJTqNHj9CAnN9GeKJlS8aBhy9MJTwjbvHOdfgiKh-S_HkrKuW0M67jDAR4XjpGObWBPARrK_6asGmiesW9t3yvS-Ze-hHwCDx4FK7pzZ9-HH0y5RW-p1Vnwdyjtq96-TsUC-cG9SIj7djgdgVGgrk=s225-no?authuser=3][this]])
+- ice-pick scars (like [[https://drive.google.com/open?id=1q0tXvjSl_KkmQsh2mDvP--hsZjeQLaqg&usp=drive_copy][this]])
 
 ** Complications
 :PROPERTIES:
@@ -110,8 +109,8 @@ Risk factors are:
 
 - It does /not/ cause any pain. @@html:<span class="ja">痛みを感じることはありません。</span>@@
 - You will find it on the skin which is exposed to the sunlight (so, usually the face). @@html:<span class="ja">日光にさらされる肌（つまり、通常は顔）にできます。</span>@@
-- Pearly colour (like [[https://lh3.googleusercontent.com/pw/AMWts8C6lMxXfEcHHnGvH-AnCxv13iIej70xPhTUye7yKwpz0bvEGk_AnJcrWe93z_B8d90g1RkPvc3Gaai2fXPUKBO3hRbidi1gindzLZ_0o4TdO2mV_0-pkBpdk_fuWb9CxO8piNO4u8AFKlxg-CSgJDM=w640-h480-no?authuser=3][this]]).
-- The border of the nodule will be rolled over and it will have an ulcer in the middle which does /not/ heal (like [[https://lh3.googleusercontent.com/pw/AMWts8Cdt6LvfmGDHbgl2Il0Ywz9lzpHtgpScvB0SX9TU9aXW1aanaOTX6LB2oJUt_pKBhUMyiV2tL2QPpU1hts-2NCC8X9VlDGcA719soxh7tFs2HsaOqpzliYTOK28kDTrn4p0FBCiFX4oh741LPewbww=w640-h480-no?authuser=3][this]]). @@html:<span class="ja">結節の境目が転がって、真ん中に潰瘍ができ、それが治らない。</span>@@
+- Pearly colour (like [[https://drive.google.com/open?id=1uUZPDKNriMTLHuUqRTY3BynoiDgvgHSZ&usp=drive_copy][this]]).
+- The border of the nodule will be rolled over and it will have an ulcer in the middle which does /not/ heal (like [[https://drive.google.com/open?id=1OuXKBi365Fhr8D-QXaxkU0LHCAjxtUFw&usp=drive_copy][this]]). @@html:<span class="ja">結節の境目が転がって、真ん中に潰瘍ができ、それが治らない。</span>@@
 
 ** Types
 :PROPERTIES:
@@ -121,9 +120,9 @@ Risk factors are:
 There are many types of basal cell carcinoma. @@html:<span class="ja">基底細胞癌には多くの種類があります。</span>@@
 
 To be honest, you do /not/ need to know them. You can have a look at some photos [[https://dermnetnz.org/cme/lesions/basal-cell-carcinoma-cme][here]] (this is a very good website). This is just for your interest. I listed some of the unique ones below @@html:<span class="ja">正直なところ、あなたはそれらを知る必要はないでしょう。ここでいくつかの写真を見ることができます（これは非常に良いウェブサイトです）。これはあくまで興味本位です。以下にユニークなものをいくつか挙げてみました。</span>@@:
-- Superficial. Look at [[https://lh3.googleusercontent.com/pw/AMWts8AuVbsaFxk4x28bZm-IYzniuxd6othiTeMabCuiWLSTr8x6LRd7F9F7q-eFElEDbiiAo4rytgV9D0Y7Tb3sMYlMURZpB_WqfG6QLiUkKizfFvsRVxab4yT3Osrj3lRKvIpeHXKX36HR36uDbEWKQ1g=w640-h480-no?authuser=3][this]].
-- Nodular. Look at [[https://lh3.googleusercontent.com/pw/AMWts8C6lMxXfEcHHnGvH-AnCxv13iIej70xPhTUye7yKwpz0bvEGk_AnJcrWe93z_B8d90g1RkPvc3Gaai2fXPUKBO3hRbidi1gindzLZ_0o4TdO2mV_0-pkBpdk_fuWb9CxO8piNO4u8AFKlxg-CSgJDM=w640-h480-no?authuser=3][this]].
-- Pigmented. Look at [[https://lh3.googleusercontent.com/pw/AMWts8AYM1VUemU8vgwEnOc8drDX9aMbgoKdhgb4Zjvuvg8SnSZ2rSnOBqpe6NCiE5QyXoe9nKSfD_pqIC4WXyDmEvVCoPJvbPnql-7WKXMluRHtnr2PFcCDW66uzMayxqHGL985kwCn3zc5JAFbWM690vM=w640-h480-no?authuser=3][this]].
+- Superficial. Look at [[https://drive.google.com/open?id=1emF7bBJLHgwnswE74qAKHXZe2MYE4g-H&usp=drive_copy][this]].
+- Nodular. Look at [[https://drive.google.com/open?id=1uUZPDKNriMTLHuUqRTY3BynoiDgvgHSZ&usp=drive_copy][this]].
+- Pigmented. Look at [[https://drive.google.com/open?id=1GFbVz0QbCAjm5EyL5XhdbAfa7vmCYWtX&usp=drive_copy][this]].
 
 ** Treatment
 :PROPERTIES:
