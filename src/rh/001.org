@@ -80,7 +80,7 @@ Hi again @@html:<span class="ja">笑。</span>@@
 
 So, doctors think that these two diseases are linked together... @@html:<span class="ja">だから、この2つの病気は連動していると医師は考えているのですが。。。</span>@@
 
-The first disease is "polymyalgia rheumatica". "Poly" means "many". This disease causes joint and muscle pain in the proximal parts of the body (such as shoulders, hips, and trunk. See this [[https://lh3.googleusercontent.com/pw/AMWts8BI-ZJxhPuQpNUOWbRBKg13W617xaIXRqwx4CxS-1f5MIzRir-qV2hksuoMiLEur-v-bzvjg_u-wxSPVywuNtxgE6Y9NkJX8zhjYtRLNHlF8y3PM5-qiAAhM-SBUK2vhW7ni39ZRlrxJ-id0LT_SSFw=w483-h914-no?authuser=1][picture]]). It also causes fever and weight loss!!! But... surprisingly, this does /not/ cause weakness! @@html:<span class="ja">1つ目の病気は、「リウマチ性多発筋痛」です。「Poly 」は 「many 」の意味です。この病気は、体の近位部（肩、腰、体幹など）の関節や筋肉の痛みを引き起こします。</span>@@
+The first disease is "polymyalgia rheumatica". "Poly" means "many". This disease causes joint and muscle pain in the proximal parts of the body (such as shoulders, hips, and trunk. See this [[https://drive.google.com/uc?export=view&id=1886c9sWn4V-uFWD91Q-INZbapK39qMoc][picture]]). It also causes fever and weight loss!!! But... surprisingly, this does /not/ cause weakness! @@html:<span class="ja">1つ目の病気は、「リウマチ性多発筋痛」です。「Poly 」は 「many 」の意味です。この病気は、体の近位部（肩、腰、体幹など）の関節や筋肉の痛みを引き起こします。</span>@@
 
 The second disease is "temporal arteritis". Sometimes, they call this "giant cell arteritis". This is inflammation of carotid artery branches. It mainly affects older people. @@html:<span class="ja">2つ目の病気は、「側頭動脈炎」です。これを「巨細胞性動脈炎」と呼ぶこともあります。頸動脈の枝の炎症です。主に高齢者に発症します。</span>@@
 
@@ -92,7 +92,7 @@ Temporal arteritis might be linked to polymyalgia rheumatica! What do you think?
 :END:
 
 - Polymyalgia rheumatica:
-  - Proximal pain (such as shoulders and hips). See this [[https://lh3.googleusercontent.com/pw/AMWts8BI-ZJxhPuQpNUOWbRBKg13W617xaIXRqwx4CxS-1f5MIzRir-qV2hksuoMiLEur-v-bzvjg_u-wxSPVywuNtxgE6Y9NkJX8zhjYtRLNHlF8y3PM5-qiAAhM-SBUK2vhW7ni39ZRlrxJ-id0LT_SSFw=w483-h914-no?authuser=1][picture]].
+  - Proximal pain (such as shoulders and hips). See this [[https://drive.google.com/uc?export=view&id=1886c9sWn4V-uFWD91Q-INZbapK39qMoc][picture]].
   - There is /no/ muscle weakness! The muscles are OKAY! The muscles have /no/ problems! This is very important!!! @@html:<span class="ja">筋力低下がない！筋肉は大丈夫です！筋肉に問題はない！これはとても重要なことです！！！</span>@@
   - Fever
   - Weight loss
