@@ -229,3 +229,4 @@ There are criteria which will tell you what kind of treatment you should give...
 | 胎児の心拍はあるか？                                                 | 心拍がない     | 心拍がない                                            | 心拍数発見 |
 | hCG level                                                            | 1000以下       | 1500以下                                              | 5000以上   |
 | 同時期に別の子宮内妊娠があった場合、このような管理は可能でしょうか？ | はい           | いいえ (メトトレキサートは胎児に悪いからです！！！！) | はい       |
+
