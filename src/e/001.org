@@ -152,11 +152,11 @@ Posted: 2023-04-13 | Updated: 2023-04-13
   3. Androgen
      - Function: controls oestrogen and testosterone levels. @@html:<span class="ja">これにより、エストロゲンとテストステロンのレベルがコントロールされます。</span>@@
 
-Look at this [[https://drive.google.com/uc?export=view&id=1QBgWGLVij0aL_zWGh_IxPAXq6hwa1mg3][picture]] and this [[https://drive.google.com/uc?export=view&id=1pUbOX2ZN2idbRMcs3PthgePo2Hv2nBZO][picture]], and then read the text:
+See this [[https://drive.google.com/uc?export=view&id=1QBgWGLVij0aL_zWGh_IxPAXq6hwa1mg3][picture]] and this [[https://drive.google.com/uc?export=view&id=1pUbOX2ZN2idbRMcs3PthgePo2Hv2nBZO][picture]], and then read the text:
 1. Hypothalamus releases corticotrophic releasing hormone (CRH). @@html:<span class="ja">視床下部から副腎皮質刺激放出ホルモンが分泌される。</span>@@
 2. Pituitary gland then releases adrenocorticotropic hormone (ACTH). @@html:<span class="ja">すると、下垂体から副腎皮質刺激ホルモン(ACTH)が分泌されます。</span>@@
 3. This makes the cool adrenal gland (the orange hat) release cortisol. @@html:<span class="ja"><mark>コル</mark>チゾール</span>@@... this sounds @@html:<span class="ja"><mark>クール</mark>ね</span>@@. The kidney looks cool, huh? It is doing some skiing :). @@html:<span class="ja">そうすると、副腎(オレンジ色の帽子の部分)というすごいところから、コルチゾールが分泌されます。腎臓がかっこよく見えるでしょ？スキーをやっているようです :)。</span>@@
-4. When there is too much cortisol, the adrenal gland will start telling the hypothalamus and the pituitary gland to stop making hormones. Look at this [[https://drive.google.com/uc?export=view&id=1pUbOX2ZN2idbRMcs3PthgePo2Hv2nBZO][picture]]. @@html:<span class="ja">コルチゾールが多すぎると、副腎は視床下部や下垂体にホルモンを作るのをやめるように指示を出すようになります。</span>@@
+4. When there is too much cortisol, the adrenal gland will start telling the hypothalamus and the pituitary gland to stop making hormones. See this [[https://drive.google.com/uc?export=view&id=1pUbOX2ZN2idbRMcs3PthgePo2Hv2nBZO][picture]]. @@html:<span class="ja">コルチゾールが多すぎると、副腎は視床下部や下垂体にホルモンを作るのをやめるように指示を出すようになります。</span>@@
 
 In Cushing syndrome, there is tooooooo much cortisol. Wayyyyyy toooooooo much. @@html:<span class="ja">クッシング症候群では、コルチゾールが多すぎるのです。非常に多すぎる。</span>@@
 
