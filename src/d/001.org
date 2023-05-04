@@ -35,7 +35,7 @@ This affects the hair follicle, hair shaft, and sebaceous gland. @@html:<span cl
   - White papules: this happens if the top is closed.
   - Black holes: this happens if the top is open.
 - pustules
-- ice-pick scars (like [[https://drive.google.com/open?id=1q0tXvjSl_KkmQsh2mDvP--hsZjeQLaqg&usp=drive_copy][this]])
+- ice-pick scars (like [[https://drive.google.com/uc?export=view&id=1q0tXvjSl_KkmQsh2mDvP--hsZjeQLaqg][this]])
 
 ** Complications
 :PROPERTIES:
@@ -109,8 +109,8 @@ Risk factors are:
 
 - It does /not/ cause any pain. @@html:<span class="ja">痛みを感じることはありません。</span>@@
 - You will find it on the skin which is exposed to the sunlight (so, usually the face). @@html:<span class="ja">日光にさらされる肌（つまり、通常は顔）にできます。</span>@@
-- Pearly colour (like [[https://drive.google.com/open?id=1uUZPDKNriMTLHuUqRTY3BynoiDgvgHSZ&usp=drive_copy][this]]).
-- The border of the nodule will be rolled over and it will have an ulcer in the middle which does /not/ heal (like [[https://drive.google.com/open?id=1OuXKBi365Fhr8D-QXaxkU0LHCAjxtUFw&usp=drive_copy][this]]). @@html:<span class="ja">結節の境目が転がって、真ん中に潰瘍ができ、それが治らない。</span>@@
+- Pearly colour (like [[https://drive.google.com/uc?export=view&id=1uUZPDKNriMTLHuUqRTY3BynoiDgvgHSZ][this]]).
+- The border of the nodule will be rolled over and it will have an ulcer in the middle which does /not/ heal (like [[https://drive.google.com/uc?export=view&id=1OuXKBi365Fhr8D-QXaxkU0LHCAjxtUFw][this]]). @@html:<span class="ja">結節の境目が転がって、真ん中に潰瘍ができ、それが治らない。</span>@@
 
 ** Types
 :PROPERTIES:
@@ -120,9 +120,9 @@ Risk factors are:
 There are many types of basal cell carcinoma. @@html:<span class="ja">基底細胞癌には多くの種類があります。</span>@@
 
 To be honest, you do /not/ need to know them. You can have a look at some photos [[https://dermnetnz.org/cme/lesions/basal-cell-carcinoma-cme][here]] (this is a very good website). This is just for your interest. I listed some of the unique ones below @@html:<span class="ja">正直なところ、あなたはそれらを知る必要はないでしょう。ここでいくつかの写真を見ることができます（これは非常に良いウェブサイトです）。これはあくまで興味本位です。以下にユニークなものをいくつか挙げてみました。</span>@@:
-- Superficial. Look at [[https://drive.google.com/open?id=1emF7bBJLHgwnswE74qAKHXZe2MYE4g-H&usp=drive_copy][this]].
-- Nodular. Look at [[https://drive.google.com/open?id=1uUZPDKNriMTLHuUqRTY3BynoiDgvgHSZ&usp=drive_copy][this]].
-- Pigmented. Look at [[https://drive.google.com/open?id=1GFbVz0QbCAjm5EyL5XhdbAfa7vmCYWtX&usp=drive_copy][this]].
+- Superficial. Look at [[https://drive.google.com/uc?export=view&id=1emF7bBJLHgwnswE74qAKHXZe2MYE4g-H][this]].
+- Nodular. Look at [[https://drive.google.com/uc?export=view&id=1uUZPDKNriMTLHuUqRTY3BynoiDgvgHSZ][this]].
+- Pigmented. Look at [[https://drive.google.com/uc?export=view&id=1GFbVz0QbCAjm5EyL5XhdbAfa7vmCYWtX][this]].
 
 ** Treatment
 :PROPERTIES:
