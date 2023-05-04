@@ -96,7 +96,7 @@ OR
 :CUSTOM_ID: org83f2e1f
 :END:
 
-- See this [[https://lh3.googleusercontent.com/pw/AMWts8BnyDT6TCExKopOMfDvRY2KyqJD4hMGgtKL7DPwEcqMmRgNAONXd0EJR2-BTp0y1HkXpJtNykVQXrJZHRgWCMW8f07CgzO7RGKIX-CA5ErRTnu0_4ry3dV-6kf-pFTVSS7welurSqFxOqyPdlryLFBw=w1269-h717-s-no?authuser=3][picture]]!
+- See this [[https://drive.google.com/uc?export=view&id=1nvLHwnK2Xy7nlGtMb2r0onzhqmfmcbJ9][picture]]!
 - Do a diabetes meeting with the pregnant woman.
 - Use /short/ -acting insulin!!!!!
 
@@ -163,7 +163,7 @@ Posted: 2023-02-20 | Updated: 2023-02-20
 
 This is when the embryo implants outside of the uterine cavity. @@html:<span class="ja">これは、胚が子宮腔の外に着床することである。</span>@@
 
-Most common wrong site of implant is fallopian tube. See this [[https://lh3.googleusercontent.com/pw/AMWts8BnRnJxyu2729QDCZn4J0S36p4aHnzZtD7Qm37oIvhFDY3kWCIkd_sI3HpHi82uEoFYnV9nQOhcqokJ-bu6iwyNwNHD8AskClJbWMMS7kg1gTBAIsM9gG954U1hJ-lQgCVPXNNw4zu4moiX1TFlkTWD=w732-h529-s-no?authuser=3][picture]] for the other possible places! @@html:<span class="ja">最も一般的な着床部位の間違いは卵管です。</span>@@
+Most common wrong site of implant is fallopian tube. See this [[https://drive.google.com/uc?export=view&id=1Yx9blFSiIK2bXNo3NnDosyPxTN2j7Qre][picture]] for the other possible places! @@html:<span class="ja">最も一般的な着床部位の間違いは卵管です。</span>@@
 
 Risk factors, go to "Ectopic pregnancy: epidemiology and risk factors" page on PassMedicine to learn more! @@html:<span class="ja">PassMedicineの「Ectopic pregnancy: epidemiology and risk factors」のページに移動して、もっと詳しく見る</span>@@:
 - Damage to tubes (for example, damage done after pelvic inflammatory disease) @@html:<span class="ja">管の損傷（骨盤内炎症性疾患の後遺症など）</span>@@
