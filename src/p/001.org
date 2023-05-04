@@ -174,7 +174,7 @@ I will add pictures for you to make it easier! @@html:<span class="ja">どれも
 :END:
 
 - Caused by varicella zoster virus (VZV).
-- It is infectious during the first 4 days /before/ the rash. And, it will stay infectious for 5 days /after/ the rash!!! @@html:<span class="ja">発疹が出る前の4日間は感染力があります。そして、発疹が出た後5日間は感染力があります！！！</span>@@
+- It is no longer infectious after /all/ of the rash has become crusty!!! @@html:<span class="ja">発疹がすべてカサカサになった後は、もう感染しません！！！</span>@@
 
 - Fever!
 - It is suuuuuuuuuuuuuper itchy. I remember when I had it as a kid. PAIN!!!! Sooooo itchy! @@html:<span class="ja">超かゆいです。子供のころにあったのを思い出しました。いたみ！というくらい痒い！</span>@@
