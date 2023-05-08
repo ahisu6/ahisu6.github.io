@@ -16,6 +16,54 @@
 
 #+TOC: headlines 2
 
+* Transient tachypnoea of the newborn
+:PROPERTIES:
+:CUSTOM_ID: org33cd0f9
+:END:
+
+Posted: 2023-05-08 | Updated: 2023-05-08
+
+Newborn children can sometimes have a difficulty with breathing. @@html:<span class="ja">生まれたばかりの子どもは、時に呼吸が苦しくなることがあります。</span>@@
+
+There are many causes for this. I will cover the most common ones. Let's start with transient tachypnoea of the newborn! @@html:<span class="ja">その原因は様々です。その中でも代表的なものを取り上げていきます。まずは、新生児の一過性頻呼吸から！</span>@@
+
+This is the most common one! @@html:<span class="ja">これが最も一般的なものです！</span>@@
+
+Basically, when the baby is in the uterus, it has fluid in its lungs. @@html:<span class="ja">基本的に、赤ちゃんが子宮の中にいるときは、肺に液体が溜まっている状態です。</span>@@
+
+Before the baby is born, the fluid becomes reabsorbed. So, normally, when the baby is born there is no fluid in the lungs! @@html:<span class="ja">赤ちゃんが生まれる前に、液体は再吸収されるようになります。ですから、通常、赤ちゃんが生まれたときには、肺に液体はありません！</span>@@
+
+But sometimes, the lungs fail at reabsorbing the fluid. So, because there is fluid in the lungs, the baby will struggle to breathe! @@html:<span class="ja">しかし、肺が液体を再吸収できないことがあるのです。そのため、肺に水分があるため、赤ちゃんは息苦しくなります！</span>@@
+
+This is more common if the baby is born via a c-section. @@html:<span class="ja">帝王切開で生まれた場合は、この傾向が強いです。</span>@@
+
+Do not panic! This is okay! The baby will breathe again soon! I promise! @@html:<span class="ja">慌てないでください！これは大丈夫です！赤ちゃんはすぐに呼吸を再開します！やくそく！</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org3ce2314
+:END:
+
+- High respiratory rate! @@html:<span class="ja">呼吸数が多い！</span>@@
+- X-ray signs:
+  - Fluid in the lung fissures!! @@html:<span class="ja">肺の裂け目には液体が溜まっている！！</span>@@
+  - The lungs will look very inflated! @@html:<span class="ja">肺がとても膨らんでいるように見えるでしょう！</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: orgc1acd89
+:END:
+
+- You should do chest x-ray to see if there is fluid in the lungs! @@html:<span class="ja">胸部X線検査をして、肺に水が溜まっているかどうかを確認する必要があります！</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org186e67e
+:END:
+
+- Give oxygen to the baby. @@html:<span class="ja">赤ちゃんに酸素を供給する。</span>@@
+- If the baby is struggling to drink milk, then put a nasogastric tube and cannula! @@html:<span class="ja">赤ちゃんがミルクを飲むのに苦労しているようなら、経鼻胃管とカニューレを入れる！</span>@@
+
 * Jaundice
 :PROPERTIES:
 :CUSTOM_ID: org2e444db
