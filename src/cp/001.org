@@ -81,6 +81,7 @@
 :CUSTOM_ID: org15fed98
 :END:
 
+- See this [[https://drive.google.com/uc?export=view&id=1ufJJzU2e7rVGYQvUJuTYC3mUFM9J1Ppv][picture]].
 - Whenever you see desmopressin, remember the sumo fighters. Sumo fighters eat a lot of desmopressin so that they store more water in their bodies!! @@html:<span class="ja">デスモプレシンを見かけたら、<mark>相撲</mark>取りのことを思い出してください。相撲取りは、体内に水分を多く蓄えるために、デスモプレシンをたくさん食べているのです！！</span>@@
 
 * Misoprostol
