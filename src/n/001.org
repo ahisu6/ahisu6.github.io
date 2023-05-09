@@ -79,6 +79,12 @@ Here is a summary. Click on this link to [[file:../cp/001.org::#epilepsy][see th
   1. Lamotrigine. @@html:One day, there was a guy focusing (<mark>focus</mark> sounds like "<mark>focal</mark> seizure") soooooooooo much on driving a limousine. <span class="ja">ある日、<mark>リム</mark>ジンの運転に集中（「<mark>集中</mark>」は「<mark>焦点</mark>発作」のような響き）している男がいた。</span>@@
   2. Carbamazepine. @@html:<span class="ja">カルバマゼピン。カル... カー！</span> <mark>Car</mark>bamazepine sounds like a <mark>car</mark>! So, the guy who was driving the limousine accidentally hit another car on the road! <span class="ja">リムジンを運転していた人が、誤って道路で他の<mark>カー</mark>にぶつかってしまったんですね！やれやれ...。</span>@@
 
+- Epilepsy in pregnancy:
+  - If the woman is pregnant, then you should give her /only 1/ antiepileptic drug! @@html:<span class="ja">妊娠している場合は、てんかん治療薬を1種類だけ投与する！</span>@@
+  - Only choose one drug! You can choose any one of those @@html:<span class="ja">薬剤は1つだけ選んでください！どれか1つを選ぶことができます</span>@@:
+    - Carbamazepine /OR/ lamotrigine
+  - @@html:Because the woman is pregnant, we should give her a <mark>car</mark> or you can give her a <mark>リムジン</mark> because she is pregnant and because she cannot walk! <span class="ja">その女性は妊娠しているので、車を与えるべきでしょうし、妊娠していて歩けないので、リムジンを与えることもできます！</span>@@
+
 ** Questions
 :PROPERTIES:
 :CUSTOM_ID: org068fd27
