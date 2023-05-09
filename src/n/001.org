@@ -80,7 +80,8 @@ Here is a summary. Click on this link to [[file:../cp/001.org::#epilepsy][see th
   2. Carbamazepine. @@html:<span class="ja">カルバマゼピン。カル... カー！</span> <mark>Car</mark>bamazepine sounds like a <mark>car</mark>! So, the guy who was driving the limousine accidentally hit another car on the road! <span class="ja">リムジンを運転していた人が、誤って道路で他の<mark>カー</mark>にぶつかってしまったんですね！やれやれ...。</span>@@
 
 - Epilepsy in pregnancy:
-  - If the woman is pregnant, then you should give her /only 1/ antiepileptic drug! @@html:<span class="ja">妊娠している場合は、てんかん治療薬を1種類だけ投与する！</span>@@
+  - These drugs can affect the development of the baby. So, we only give one drug to the pregnant woman because we want to keep the baby safe. @@html:<span class="ja">これらの薬は、赤ちゃんの発育に影響を与える可能性があります。ですから、赤ちゃんの安全を考え、妊婦さんには1種類の薬しか投与しません。</span>@@
+  - If the woman is pregnant, then you should give her /only 1/ antiepileptic drug! Just 1!!!@@html:<span class="ja">妊娠している場合は、てんかん治療薬を1種類だけ投与する！ひとつだけ！！！</span>@@
   - Only choose one drug! You can choose any one of those @@html:<span class="ja">薬剤は1つだけ選んでください！どれか1つを選ぶことができます</span>@@:
     - Carbamazepine /OR/ lamotrigine
   - @@html:Because the woman is pregnant, we should give her a <mark>car</mark> or you can give her a <mark>リムジン</mark> because she is pregnant and because she cannot walk! <span class="ja">その女性は妊娠しているので、車を与えるべきでしょうし、妊娠していて歩けないので、リムジンを与えることもできます！</span>@@
