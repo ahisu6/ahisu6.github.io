@@ -84,7 +84,7 @@ Here is a summary. Click on this link to [[file:../cp/001.org::#epilepsy][see th
   - If the woman is pregnant, then you should give her /only 1/ antiepileptic drug! Just 1!!!@@html:<span class="ja">妊娠している場合は、てんかん治療薬を1種類だけ投与する！ひとつだけ！！！</span>@@
   - Only choose one drug! You can choose any one of those @@html:<span class="ja">薬剤は1つだけ選んでください！どれか1つを選ぶことができます</span>@@:
     - Carbamazepine /OR/ lamotrigine
-  - @@html:Because the woman is pregnant, we should give her a <mark>car</mark> or you can give her a <mark>リムジン</mark> because she is pregnant and because she cannot walk! <span class="ja">その女性は妊娠しているので、車を与えるべきでしょうし、妊娠していて歩けないので、リムジンを与えることもできます！</span>@@
+  - @@html:Because the woman is pregnant, it means that she cannot walk a lot. So we should give her a <mark>car</mark> or you can give her a <mark>リムジン</mark><span class="ja">この女性は妊娠しているので、たくさん歩くことはできないということです。ですから、彼女に車を贈るべきですし、リムジンを贈ることもできます。</span>@@
 
 ** Questions
 :PROPERTIES:
