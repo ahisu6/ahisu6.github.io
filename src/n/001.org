@@ -19,7 +19,7 @@
 :CUSTOM_ID: org70426c1
 :END:
 
-Posted: 2023-04-20 | Updated: 2023-04-20
+Posted: 2023-04-20 | Updated: 2023-05-09
 
 First, let's define the word "seizure". Seizure is high-frequency activation of neurons. @@html:<span class="ja">まず、「発作」という言葉の定義を説明します。発作とは、神経細胞が高周波で活性化することです。</span>@@
 
