@@ -16,6 +16,58 @@
 
 #+TOC: headlines 2
 
+* Bronchiolitis
+:PROPERTIES:
+:CUSTOM_ID: org402db5e
+:END:
+
+Posted: 2023-05-11 | Updated: 2023-05-11
+
+I saw this in the winter. I saw it sooooo much!!! @@html:<span class="ja">私は冬にこれを見た。すごーく見ました！！！</span>@@
+
+It is very common in children that are under the age of 12 months! @@html:<span class="ja">生後12ヶ月未満のお子様によく見られる症状です！</span>@@
+
+It is a viral infection. It is caused by respiratory syncytial virus (RSV). You must know this. This is very important. @@html:<span class="ja">ウイルス感染症である。呼吸器合胞体ウイルス(RSV)が原因です。これを知っておく必要があります。これはとても重要なことです。</span>@@
+
+Usually, the baby is fine. But, it can be severe if the baby was born prematurely or if the baby has other diseases. @@html:<span class="ja">通常、赤ちゃんは元気です。しかし、早産で生まれたり、赤ちゃんが他の病気を持っていたりすると、重症化することがあります。</span>@@
+
+The virus affects the bronchioles of the baby. See this [[https://drive.google.com/uc?export=view&id=1lj6NciEPTCXnFTKVJbiHUZFZB8m9wllZ][picture]]. @@html:<span class="ja">このウイルスは、赤ちゃんの気管支に感染します。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org51c3523
+:END:
+
+- Flu symptoms!
+  - Fever
+  - Blocked nose. Sooooooooooooooo much mucus!
+  - Breathless. Again, this is because there is sooooooooooooooooo much mucus. SOOOOOOOOOOOOOOOOOO MUCH!
+  - Dry cough
+- Wheezing!!
+- When you listen with the stethoscope, you will hear crackles! @@html:<span class="ja">聴診器で聴くと、パチパチと音がします！</span>@@
+
+Look at this [[https://drive.google.com/uc?export=view&id=1ale8Lv3LNwPDywdMBcPMtvf1JUn-YDWw][picture]]. These following symptoms are very, very, very important to remember. This is because if the baby has one of them, you must send the baby to the /hospital right now/ @@html:<span class="ja">これらの以下の症状は、とても、とても、とても大切なことなので、覚えておいてください。というのも、もし赤ちゃんがこのうちのひとつでも持っていたら、今すぐ病院へ行かせなければならないからです</span>@@:
+- Apnoea: This is when the baby stops breathing for few seconds. @@html:<span class="ja">無呼吸です： 赤ちゃんが数秒間呼吸を止めることです。</span>@@
+- Respiratory distress: So, things like stridor or chest recession! @@html:<span class="ja">呼吸困難です： つまり、喘鳴や胸部後退のようなものです！</span>@@
+- Blue baby... @@html:<span class="ja">青色系の赤ちゃん...。</span>@@
+- Oxygen saturation less than 92%. @@html:<span class="ja">酸素飽和度が92％未満。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org983ae2f
+:END:
+
+- Do oxygen saturations to see if the baby is okay! @@html:<span class="ja">酸素飽和度測定をして、赤ちゃんが大丈夫かどうか確認する！</span>@@
+- To fully and accurately check if the baby has bronchiolitis, we can do tests of nasopharyngeal mucus to see if there is a virus. @@html:<span class="ja">赤ちゃんが気管支炎かどうかを完全かつ正確に確認するために、鼻咽頭粘液の検査をして、ウイルスがあるかどうかを確認します。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org3a764a9
+:END:
+
+- Give oxygen if the baby has less than 92% saturations. @@html:<span class="ja">赤ちゃんの酸素飽和度が92％以下なら酸素を投与する。</span>@@
+- Because there is so much mucus in the nose, it is hard for the baby to eat food. So, sometimes they put NG tube. @@html:<span class="ja">鼻の中に粘液が多いので、赤ちゃんは食べ物を食べるのが大変です。そこで、NGチューブを入れることもあります。</span>@@
+
 * Transient tachypnoea of the newborn
 :PROPERTIES:
 :CUSTOM_ID: org33cd0f9
