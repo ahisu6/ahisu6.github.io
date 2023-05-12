@@ -54,9 +54,10 @@ Finally, do these:
 1. Medical, surgical, drug, family, and social history
 2. In the social history, remember to ask about previous jobs. If they works in a coal mine, this is worrying (because they will get lung issues). @@html:<span class="ja">ソーシャルヒストリーでは、以前の仕事について尋ねることを忘れないようにしましょう。炭鉱で働いていた場合は心配です（肺に問題があるため）。</span>@@
 
-Look at this [[https://drive.google.com/uc?export=view&id=10bsmx4apyOAErXArjB7mOvKM474UdEx6][picture]], and then read this story.
+Look at this [[https://drive.google.com/uc?export=view&id=10bsmx4apyOAErXArjB7mOvKM474UdEx6][picture]], and then read this story:
+
 Once upon a time, there was an <mark>asthmatic weasel (WHEEZE and SHORTNESS OF BREATH)</mark> in the forest. That weasel likes to eat <mark>coal (COAL MINE JOB)</mark>. One day, the weasel ate too much coah and he started <mark>coughing a lot of nuts (COUGH)</mark>. The nuts were suuuuuper big, and they caused the weasel a lot of <mark>pain (PAIN)</mark>. The weasel was in so much pain, he started to get <mark>ドキドキドキドキドキドキドキドキドキドキ (PALPITATIONS)</mark>. His heart became soooo hot, and the weasel started <mark>burning (FEVER)</mark> and <mark>sweating (NIGHT SWEATS)</mark>.
-むかしむかし、森にイタチさんがいました。その<mark>喘息持ちのイタチさん(WHEEZE and SHORTNESS OF BREATH)</mark>は、<mark>石炭(COAL MINE JOB)</mark>を食べるのが好きです。ある日、イタチさんが石炭を食べ過ぎて、<mark>木の実をたくさん咳き込むようになりました(COUGH)</mark>。その木の実はとても大きく、イタチさんを<mark>大苦しめました(PAIN)</mark>。イタチさんはあまりの痛さに、<mark>ドキドキドキドキドキドキドキドキドキドキ(PALPITATIONS)</mark>してきました。心臓は大熱くなり、イタチさんは<mark>火照り(FEVER)</mark>、<mark>汗をかき(NIGHT SWEATS)</mark>はじめました。
+@@html:<span class="ja">むかしむかし、森にイタチさんがいました。その<mark>喘息持ちのイタチさん(WHEEZE and SHORTNESS OF BREATH)</mark>は、<mark>石炭(COAL MINE JOB)</mark>を食べるのが好きです。ある日、イタチさんが石炭を食べ過ぎて、<mark>木の実をたくさん咳き込むようになりました(COUGH)</mark>。その木の実はとても大きく、イタチさんを<mark>大苦しめました(PAIN)</mark>。イタチさんはあまりの痛さに、<mark>ドキドキドキドキドキドキドキドキドキドキ(PALPITATIONS)</mark>してきました。心臓は大熱くなり、イタチさんは<mark>火照り(FEVER)</mark>、<mark>汗をかき(NIGHT SWEATS)</mark>はじめました。</span>@@
 
 Done!
 
