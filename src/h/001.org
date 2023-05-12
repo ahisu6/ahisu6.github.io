@@ -15,7 +15,6 @@
 -----
 
 #+TOC: headlines 2
-
 * Chest symptoms
 :PROPERTIES:
 :CUSTOM_ID: orgbf282eb
@@ -32,11 +31,11 @@ The heart can cause cough (for example, if the patient has heart failure which c
 So, it's important that we come up with a way to help find the cause! @@html:<span class="ja">だから、原因究明のための方法を考えることが重要なんです！</span>@@
 
 - If a patient comes with pain, then just do the normal SOCRATES. @@html:<span class="ja">痛みを伴う患者さんが来たら、普通にSOCRATESをやればいいんです。</span>@@
-- If a patient comes with anything else, then do the <mark>DOP</mark>. Click [[#org8c96f99][here]] to learn more about the DOP. @@html:<span class="ja">それ以外の症状で来院された場合は、DOPを行います。DOPについて詳しく知りたい方は、リンクをクリックしてください。</span>@@
+- If a patient comes with anything else, then do the @@html:<mark>DOP</mark>@@. Click [[#org8c96f99][here]] to learn more about the DOP. @@html:<span class="ja">それ以外の症状で来院された場合は、DOPを行います。DOPについて詳しく知りたい方は、リンクをクリックしてください。</span>@@
 
 Now then, let's move on the fun part. @@html:<span class="ja">さて、それではお楽しみに移らせていただきます。</span>@@
 
-Now, you need to ask the patient more specific questions. If the patient answers "yes", to any of these questions, you must do <mark>DOP</mark> for that symptom. This is what you need to ask @@html:<span class="ja">次に、患者さんにもっと具体的な質問をする必要があります。これらの質問のいずれかに患者さんが「はい」と答えた場合、その特定の症状を分析するためにDOPを実施する必要があります。以下は、質問すべき内容である</span>@@:
+Now, you need to ask the patient more specific questions. If the patient answers "yes", to any of these questions, you must do @@html:<mark>DOP</mark> for that symptom. This is what you need to ask <span class="ja">次に、患者さんにもっと具体的な質問をする必要があります。これらの質問のいずれかに患者さんが「はい」と答えた場合、その特定の症状を分析するためにDOPを実施する必要があります。以下は、質問すべき内容である</span>@@:
 1. Do you have any wheeze or shortness of breath? @@html:<span class="ja">喘ぎ声や息切れはないか？</span>@@
 2. Do you have any cough? @@html:<span class="ja">咳はないか？</span>@@
 3. Do you have any chest pain? If yes, then do SOCRATES. @@html:<span class="ja">胸の痛みは？ある場合は、SOCRATESを行う。</span>@@
@@ -56,7 +55,7 @@ Finally, do these:
 
 Look at this [[https://drive.google.com/uc?export=view&id=10bsmx4apyOAErXArjB7mOvKM474UdEx6][picture]], and then read this story:
 
-Once upon a time, there was an <mark>asthmatic weasel (WHEEZE and SHORTNESS OF BREATH)</mark> in the forest. That weasel likes to eat <mark>coal (COAL MINE JOB)</mark>. One day, the weasel ate too much coah and he started <mark>coughing a lot of nuts (COUGH)</mark>. The nuts were suuuuuper big, and they caused the weasel a lot of <mark>pain (PAIN)</mark>. The weasel was in so much pain, he started to get <mark>ドキドキドキドキドキドキドキドキドキドキ (PALPITATIONS)</mark>. His heart became soooo hot, and the weasel started <mark>burning (FEVER)</mark> and <mark>sweating (NIGHT SWEATS)</mark>.
+@@html:Once upon a time, there was an <mark>asthmatic weasel (WHEEZE and SHORTNESS OF BREATH)</mark> in the forest. That weasel likes to eat <mark>coal (COAL MINE JOB)</mark>. One day, the weasel ate too much coah and he started <mark>coughing a lot of nuts (COUGH)</mark>. The nuts were suuuuuper big, and they caused the weasel a lot of <mark>pain (PAIN)</mark>. The weasel was in so much pain, he started to get <mark>ドキドキドキドキドキドキドキドキドキドキ (PALPITATIONS)</mark>. His heart became soooo hot, and the weasel started <mark>burning (FEVER)</mark> and <mark>sweating (NIGHT SWEATS)</mark>.@@
 @@html:<span class="ja">むかしむかし、森にイタチさんがいました。その<mark>喘息持ちのイタチさん(WHEEZE and SHORTNESS OF BREATH)</mark>は、<mark>石炭(COAL MINE JOB)</mark>を食べるのが好きです。ある日、イタチさんが石炭を食べ過ぎて、<mark>木の実をたくさん咳き込むようになりました(COUGH)</mark>。その木の実はとても大きく、イタチさんを<mark>大苦しめました(PAIN)</mark>。イタチさんはあまりの痛さに、<mark>ドキドキドキドキドキドキドキドキドキドキ(PALPITATIONS)</mark>してきました。心臓は大熱くなり、イタチさんは<mark>火照り(FEVER)</mark>、<mark>汗をかき(NIGHT SWEATS)</mark>はじめました。</span>@@
 
 Done!
