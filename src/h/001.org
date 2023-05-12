@@ -16,6 +16,50 @@
 
 #+TOC: headlines 2
 
+* Chest symptoms
+:PROPERTIES:
+:CUSTOM_ID: orgbf282eb
+:END:
+
+In the chest we have the heart and the lung. This is basic anatomy. @@html:<span class="ja">胸には、心臓と肺がある。これが基本的な解剖学です。</span>@@
+
+The heart can cause pain (for example, if the patient has heart attack). The lung can also cause pain (for example, if the patient has pneumothorax). @@html:<span class="ja">心臓は痛みを引き起こすことがあります（例えば、患者さんが心臓発作を起こした場合）。肺も痛みを引き起こすことがあります（例えば、患者さんが気胸になった場合）。</span>@@
+
+The heart can cause shortness of breath (for example, if the patient has heart failure which causes fluid to go to the lungs). The lung can also cause shortness of breath (for example, if the patient has asthma). @@html:<span class="ja">心臓は息切れの原因になることがあります（例えば、肺に水分が行くような心不全の場合など）。肺も息切れを起こすことがあります（例えば、患者さんが喘息持ちの場合など）。</span>@@
+
+The heart can cause cough (for example, if the patient has heart failure which causes fluid to go to the lungs, and that makes the patient cough). The lung can also cause cough (for example, if the patient has lung infection). @@html:<span class="ja">心臓が原因で咳が出ることがあります（例えば、心不全で肺に水が溜まり、それが原因で咳が出る場合など）。肺も咳を引き起こすことがあります（例えば、患者さんが肺に感染している場合など）。</span>@@
+
+So, it's important that we come up with a way to help find the cause! @@html:<span class="ja">だから、原因究明のための方法を考えることが重要なんです！</span>@@
+
+- If a patient comes with pain, then just do the normal SOCRATES. @@html:<span class="ja">痛みを伴う患者さんが来たら、普通にSOCRATESをやればいいんです。</span>@@
+- If a patient comes with anything else, then do the <mark>DOP</mark>. Click [[#org8c96f99][here]] to learn more about the DOP. @@html:<span class="ja">それ以外の症状で来院された場合は、DOPを行います。DOPについて詳しく知りたい方は、リンクをクリックしてください。</span>@@
+
+Now then, let's move on the fun part. @@html:<span class="ja">さて、それではお楽しみに移らせていただきます。</span>@@
+
+Now, you need to ask the patient more specific questions. If the patient answers "yes", to any of these questions, you must do <mark>DOP</mark> for that symptom. This is what you need to ask @@html:<span class="ja">次に、患者さんにもっと具体的な質問をする必要があります。これらの質問のいずれかに患者さんが「はい」と答えた場合、その特定の症状を分析するためにDOPを実施する必要があります。以下は、質問すべき内容である</span>@@:
+1. Do you have any wheeze or shortness of breath? @@html:<span class="ja">喘ぎ声や息切れはないか？</span>@@
+2. Do you have any cough? @@html:<span class="ja">咳はないか？</span>@@
+3. Do you have any chest pain? If yes, then do SOCRATES. @@html:<span class="ja">胸の痛みは？ある場合は、SOCRATESを行う。</span>@@
+4. Do you have any palpitations? @@html:<span class="ja">ドキドキしたことはありますか？</span>@@
+5. Do you have any fever? @@html:<span class="ja">熱はないのですか？</span>@@
+6. Do you have any night sweats? @@html:<span class="ja">寝汗をかくことはないですか？</span>@@
+7. Do you have any weight changes? @@html:<span class="ja">体重の変化はありますか？</span>@@
+8. Are you opening your bowels? @@html:<span class="ja">ウンチは出ていますか？</span>@@
+9. Are you passing urine? @@html:<span class="ja">尿は出ていますか？</span>@@
+10. Do you have any nausea or vomiting? @@html:<span class="ja">吐き気や嘔吐はないですか？</span>@@
+
+After you do these questions, do a summary and then ask about ICE. @@html:<span class="ja">これらの質問をした後、サマリーを行い、その後ICEについて質問します。</span>@@
+
+Finally, do these:
+1. Medical, surgical, drug, family, and social history
+2. In the social history, remember to ask about previous jobs. If they works in a coal mine, this is worrying (because they will get lung issues). @@html:<span class="ja">ソーシャルヒストリーでは、以前の仕事について尋ねることを忘れないようにしましょう。炭鉱で働いていた場合は心配です（肺に問題があるため）。</span>@@
+
+Look at this [[https://drive.google.com/uc?export=view&id=10bsmx4apyOAErXArjB7mOvKM474UdEx6][picture]], and then read this story.
+Once upon a time, there was an <mark>asthmatic weasel (WHEEZE and SHORTNESS OF BREATH)</mark> in the forest. That weasel likes to eat <mark>coal (COAL MINE JOB)</mark>. One day, the weasel ate too much coah and he started <mark>coughing a lot of nuts (COUGH)</mark>. The nuts were suuuuuper big, and they caused the weasel a lot of <mark>pain (PAIN)</mark>. The weasel was in so much pain, he started to get <mark>ドキドキドキドキドキドキドキドキドキドキ (PALPITATIONS)</mark>. His heart became soooo hot, and the weasel started <mark>burning (FEVER)</mark> and <mark>sweating (NIGHT SWEATS)</mark>.
+むかしむかし、森にイタチさんがいました。その<mark>喘息持ちのイタチさん(WHEEZE and SHORTNESS OF BREATH)</mark>は、<mark>石炭(COAL MINE JOB)</mark>を食べるのが好きです。ある日、イタチさんが石炭を食べ過ぎて、<mark>木の実をたくさん咳き込むようになりました(COUGH)</mark>。その木の実はとても大きく、イタチさんを<mark>大苦しめました(PAIN)</mark>。イタチさんはあまりの痛さに、<mark>ドキドキドキドキドキドキドキドキドキドキ(PALPITATIONS)</mark>してきました。心臓は大熱くなり、イタチさんは<mark>火照り(FEVER)</mark>、<mark>汗をかき(NIGHT SWEATS)</mark>はじめました。
+
+Done!
+
 * Basics of symptoms
 :PROPERTIES:
 :CUSTOM_ID: org8c96f99
