@@ -15,10 +15,13 @@
 -----
 
 #+TOC: headlines 2
+
 * Chest symptoms
 :PROPERTIES:
 :CUSTOM_ID: orgbf282eb
 :END:
+
+Posted: 2023-05-12 | Updated: 2023-05-12
 
 In the chest we have the heart and the lung. This is basic anatomy. @@html:<span class="ja">胸には、心臓と肺がある。これが基本的な解剖学です。</span>@@
 
