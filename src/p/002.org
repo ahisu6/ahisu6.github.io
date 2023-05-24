@@ -39,7 +39,7 @@ You need to act NOW! @@html:<span class="ja">今すぐ行動する必要があ�
 - Exam signs
   - It usually starts with increased thirst and drinking a lot of water. @@html:<span class="ja">通常、喉の渇きが増し、水をたくさん飲むことから始まります。</span>@@
   - Then it becomes worse. The child will start to smell of acetone. @@html:<span class="ja">すると、もっとひどくなります。子どもはアセトンの臭いがするようになります。</span>@@
-  - The child will vomit. A looooooooooooooooooooooooooot of vomiting. When we vomit, we lose a lot of potassium (the symbol for potassium is K+). Remember this. @@html:吐くと、カリウム（カリウムの記号はK+）が大量に失われます。これを覚えておいてください。吐<mark>く</mark> (はく) = <mark>K</mark>+... KKKKKKKKKKKKKKKKKKKKKKK = くくくくくくくくくくくくくくくくくくくくくくく...。@@
+  - The child will vomit. A looooooooooooooooooooooooooot of vomiting. When we vomit, we lose a lot of potassium (the symbol for potassium is K+). Remember this. @@html:<span class="ja">吐くと、カリウム（カリウムの記号はK+）が大量に失われます。これを覚えておいてください。吐<mark>く</mark> (はく) = <mark>K</mark>+... KKKKKKKKKKKKKKKKKKKKKKK = くくくくくくくくくくくくくくくくくくくくくくく...。</span>@@
   - Tummy pain. @@html:<span class="ja">お腹の痛み。</span>@@
   - There is fast breathing because of acidosis (this is called Kussmaul breathing). @@html:<span class="ja">アシドーシスのために速い呼吸がある（これをクスマウル呼吸という）。</span>@@
   - Shock because of dehydration!!!!! @@html:<span class="ja">脱水症状によるショック！！！！！</span>@@
