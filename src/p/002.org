@@ -45,7 +45,7 @@ You need to act NOW! @@html:<span class="ja">今すぐ行動する必要があ�
   - Shock because of dehydration!!!!! @@html:<span class="ja">脱水症状によるショック！！！！！</span>@@
 
 - Lab signs:
-  - The blood glucose will be more than 11 mmol/L! @@html:<mark>11</mark>... いちいち... ひとひと... ひとびと... <mark>人々</mark>！DKAになると、血液中の糖分濃度が高いので、<mark>人々</mark>はパニックになります。あなたは砂糖が嫌いですね！@@ 
+  - The blood glucose will be more than 11 mmol/L! @@html:<span class="ja"><mark>11</mark>... いちいち... ひとひと... ひとびと... <mark>人々</mark>！DKAになると、血液中の糖分濃度が高いので、<mark>人々</mark>はパニックになります。あなたは砂糖が嫌いですね！</span>@@ 
   - The blood ketone level will be more than 3 mmol/L! @@html:<span class="ja">血中ケトン濃度が3mmol/L以上となる！</span>@@
   - Arterial blood gas (ABG) will show acidosis. @@html:<span class="ja">動脈血ガス（ABG）はアシドーシスを示すだろう。</span>@@
 
