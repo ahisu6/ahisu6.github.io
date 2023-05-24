@@ -23,7 +23,7 @@
 
 Posted: 2023-05-25 | Updated: 2023-05-25
 
-This is a dangerous and potentially deadly complication of type 1 diabetes. @@html:<span class="ja">これは1型糖尿病の危険な合併症であり、死に至る可能性もあります。</span>@@
+Diabetic ketoacidosis (DKA) is a dangerous and potentially deadly complication of type 1 diabetes. @@html:<span class="ja">これは1型糖尿病の危険な合併症であり、死に至る可能性もあります。</span>@@
 
 It happens when the body's cells are not able to use sugar for energy. This is because there is no insulin. @@html:<span class="ja">体の細胞が糖をエネルギーとして使えなくなることで起こります。インスリンがないためです。</span>@@
 
