@@ -32,3 +32,13 @@ This is a table of goroawase. I am putting this table here to make it easier for
 | 10, 十, 拾   | と, とお         | じ, じゅう       | テ, テン         |
 | ., 点        | テン             | (decimal point)  |                  |
 
+* Resources
+:PROPERTIES:
+:CUSTOM_ID: org4c95c49
+:END:
+
+Here are some useful websites for you:
+- [[http://www2u.biglobe.ne.jp/~b-jack/bn/pken.html]] - you can put numbers in this website, and it will create goroawase for you. This is a really good website. I recommend that you use it. @@html:<span class="ja">このサイトに数字を入れると、あなたの語呂合わせを作ってくれるんです。これは本当に良いサイトです。私はあなたに使うように勧めています。</span>@@
+- [[https://terakoya.ameba.jp/a000001596/]] - this website teaches you how to use goroawase. @@html:<span class="ja">このサイトでは、語呂合わせの使い方を紹介しています。</span>@@
+- [[https://seoi.net/goro/]] - this is another website which can create goroawase for you. @@html:<span class="ja">こちらもあなたの語呂合わせを作成することができるサイトです。</span>@@
+
