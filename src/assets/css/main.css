@@ -67,6 +67,10 @@ TABLE,th,td,tr {
   border: 0.05em dotted #e9e9cf;
 }
 
+th {
+  background-color: #5b5b46;
+}
+
 @media (max-width: 500px) {
   body {
     padding: 2em;
