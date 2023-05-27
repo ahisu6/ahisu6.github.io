@@ -1,11 +1,11 @@
-#+TITLE: Clinical Pharmacology
+#+TITLE: Goroawase
 
 #+BEGIN_EXPORT html
-<div class="engt">Clinical Pharmacology</div>
-<div class="japt">臨床薬理学</div>
+<div class="engt">Goroawase</div>
+<div class="japt">語呂合わせ</div>
 #+END_EXPORT
 
-[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/cp/index.org][Edit]]
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/goroawase/index.org][Edit]]
 
 [[file:../index.org][Home]]
 
