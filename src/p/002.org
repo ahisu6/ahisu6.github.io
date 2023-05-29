@@ -90,9 +90,8 @@ This is most common if the child has chromosome issues like Down syndrome. @@htm
 :CUSTOM_ID: orgc89f371
 :END:
 
-When doing ultrasound scan of the pregnant woman, we can see this defect at 20 weeks of pregnancy. @@html:<span class="ja">妊婦の超音波検査では、妊娠20週でこの欠損を確認することができます。</span>@@
-
-You can do echo of the heart to see the hole.
+- When doing ultrasound scan of the pregnant woman, we can see this defect at 20 weeks of pregnancy. @@html:<span class="ja">妊婦の超音波検査では、妊娠20週でこの欠損を確認することができます。</span>@@
+- You can do echo of the heart to see the hole.
 
 ** Treatment
 :PROPERTIES:
