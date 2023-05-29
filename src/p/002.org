@@ -16,6 +16,51 @@
 
 #+TOC: headlines 2
 
+* Ventricular septal defect
+:PROPERTIES:
+:CUSTOM_ID: org679a2ce
+:END:
+
+Posted: 2023-05-29 | Updated: 2023-05-29
+
+Ventricular septal defect. Watch this super great [[https://www.youtube.com/watch?v=e7ObXrdtXek][video]] for more detail!
+
+There is a hole between the ventricles. @@html:<span class="ja">心臓の心室の間に穴が開いている。</span>@@
+
+This is most common if the child has chromosome issues like Down syndrome. @@html:<span class="ja">これは、ダウン症などの染色体の問題を持つお子さんに多いです。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: orgb3c1ddf
+:END:
+
+- The baby will not grow properly. @@html:<span class="ja">The baby will not grow well.</span>@@
+- The baby will have heart failure symptoms. @@html:<span class="ja">赤ちゃんには心不全の症状が出ます。</span>@@
+- Every time the heart contracts, there is a murmur heard. This is because the blood moves through the hole in the ventricles. So, this causes pan-systolic murmur. @@html:<span class="ja">心臓が収縮するたびに、雑音が聞こえます。これは、血液が心室の穴を通って移動するためです。つまり、これが汎収縮期雑音の原因です。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: orgc89f371
+:END:
+
+When doing ultrasound scan of the pregnant woman, we can see this defect at 20 weeks of pregnancy. @@html:<span class="ja">妊婦の超音波検査では、妊娠20週でこの欠損を確認することができます。</span>@@
+
+You can do echo of the heart to see the hole.
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org2abc631
+:END:
+
+This defect usually fixes itself. But sometimes, the baby might need heart failure treatment (for example, drugs to remove extra water from the body, like diuretics). The baby might also need surgery. @@html:<span class="ja">この欠陥は通常、自然に治ります。しかし、時には心不全の治療（例えば、利尿剤のように体内の余分な水分を取り除く薬）が必要になることがあります。また、手術が必要になることもあります。</span>@@
+
+** Complications
+:PROPERTIES:
+:CUSTOM_ID: org9a06de4
+:END:
+
+If you do not treat a big hole, the baby will get heart failure! @@html:<span class="ja">大きな穴を治療しないと、赤ちゃんは心不全になります！</span>@@
+
 * Congenital heart defects
 :PROPERTIES:
 :CUSTOM_ID: org415ffc8
