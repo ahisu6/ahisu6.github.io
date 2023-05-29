@@ -27,7 +27,7 @@ Atrial septal defect. Watch this nice [[https://www.youtube.com/watch?v=7nhfuQUM
 
 There is a hole between the atria. @@html:<span class="ja">心臓の心房の間に穴が開いている。</span>@@
 
-There are two types: ostium primum and ostium secundum. Ostium secundum is more common.
+There are two types: ostium primum and ostium secundum. Ostium secundum is more common. @@html:<span class="ja">Ostium secundumの方が一般的です。</span>@@
 
 Blood with oxygen will go from left atrium to the right atrium. @@html:<span class="ja">酸素を含んだ血液は、左心房から右心房へと流れていきます。</span>@@
 
