@@ -16,6 +16,53 @@
 
 #+TOC: headlines 2
 
+* Atrial septal defect
+:PROPERTIES:
+:CUSTOM_ID: org14b0e78
+:END:
+
+Posted: 2023-05-29 | Updated: 2023-05-29
+
+Atrial septal defect. Watch this nice [[https://www.youtube.com/watch?v=7nhfuQUMltA][video]]!
+
+There is a hole between the atria. @@html:<span class="ja">心臓の心房の間に穴が開いている。</span>@@
+
+There are two types: ostium primum and ostium secundum. Ostium secundum is more common.
+
+Blood with oxygen will go from left atrium to the right atrium. @@html:<span class="ja">酸素を含んだ血液は、左心房から右心房へと流れていきます。</span>@@
+
+So, the good blood will go to the bad side of the heart... therefore, no problem! The body will still get good blood! @@html:<span class="ja">つまり、良い血液は悪い方の心臓に行くことになる...したがって、問題はない！体に良い血液が行き渡ることに変わりはありません！</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org7aa6f0d
+:END:
+
+- This usually has no symptoms. @@html:<span class="ja">これは通常、自覚症状がありません。</span>@@
+- There might be a clot forming... @@html:<span class="ja">血栓が出来ている可能性がある。。。</span>@@
+- You might here something called splitting of second heart sound. Watch this [[https://youtu.be/UNWxKDvBFik?t=459][video]] to understand this. This guy will explain it in a really nice way.
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org76ca34d
+:END:
+
+Echo of the heart!
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org3d22e23
+:END:
+
+This depends on the type of the hole. The heart is very weird, and I don't think you need to worry about this too much. Treat ostium secundum with something called cardiac catheterisation. @@html:This is how you can remember it: se<mark>c</mark>undum is treated with <mark>c</mark>ardiac <mark>c</mark>atheterisation. CCC!!!! <span class="ja">これは、穴の種類によります。心臓はとても不思議なもので、あまり気にする必要はないと思います。Ostium secundumを「心臓カテーテル検査」というもので治療します。</span>@@
+
+** Complications
+:PROPERTIES:
+:CUSTOM_ID: org07c5b5b
+:END:
+
+- Eisenmenger syndrome. I will explain this later.
+
 * Ventricular septal defect
 :PROPERTIES:
 :CUSTOM_ID: org679a2ce
@@ -59,7 +106,8 @@ This defect usually fixes itself. But sometimes, the baby might need heart failu
 :CUSTOM_ID: org9a06de4
 :END:
 
-If you do not treat a big hole, the baby will get heart failure! @@html:<span class="ja">大きな穴を治療しないと、赤ちゃんは心不全になります！</span>@@
+- If you do not treat a big hole, the baby will get heart failure! @@html:<span class="ja">大きな穴を治療しないと、赤ちゃんは心不全になります！</span>@@
+- Eisenmenger syndrome. I will explain this later.
 
 * Congenital heart defects
 :PROPERTIES:
