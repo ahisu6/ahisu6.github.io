@@ -81,7 +81,7 @@ This is most common if the child has chromosome issues like Down syndrome. @@htm
 :CUSTOM_ID: orgb3c1ddf
 :END:
 
-- The baby will not grow properly. @@html:<span class="ja">The baby will not grow well.</span>@@
+- The baby will not grow properly. @@html:<span class="ja">赤ちゃんがうまく育たなくなる。</span>@@
 - The baby will have heart failure symptoms. @@html:<span class="ja">赤ちゃんには心不全の症状が出ます。</span>@@
 - Every time the heart contracts, there is a murmur heard. This is because the blood moves through the hole in the ventricles. So, this causes pan-systolic murmur. @@html:<span class="ja">心臓が収縮するたびに、雑音が聞こえます。これは、血液が心室の穴を通って移動するためです。つまり、これが汎収縮期雑音の原因です。</span>@@
 
