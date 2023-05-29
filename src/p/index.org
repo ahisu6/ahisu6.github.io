@@ -19,6 +19,7 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                | Date posted |
 |------+----------------------+-------------|
+| [[file:./002.org][002]]  | [[file:./002.org::#org415ffc8][Congenital heart defects]] |  2023-05-29 |
 | [[file:./002.org][002]]  | [[file:./002.org::#org70566ac][Diabetic ketoacidosis]] |  2023-05-25 |
 | [[file:./001.org][001]]  | [[file:./001.org::#org3fe0ed9][Dehydration]] |  2023-05-21 |
 | [[file:./001.org][001]]  | [[file:./001.org::#org402db5e][Bronchiolitis]] |  2023-05-11 |
