@@ -16,6 +16,35 @@
 
 #+TOC: headlines 2
 
+* Congenital heart defects
+:PROPERTIES:
+:CUSTOM_ID: org415ffc8
+:END:
+
+Posted: 2023-05-21 | Updated: 2023-05-21
+
+This is an easy topic. If you learn it using the Ahisu6 method! @@html:<span class="ja">これは簡単なテーマです。Ahisu6メソッドで学べば！</span>@@
+
+So, the right ventricle sends blood to the lungs. The right ventricle has blood without oxygen. This is the bad blood. @@html:<span class="ja">そこで、右心室は肺に血液を送ります。右心室には酸素のない血液があります。これが悪玉血液です。</span>@@
+
+The left ventricle sends blood to the body. The left ventricle has blood with oxygen. This is the good blood. @@html:<span class="ja">左心室は、血液を体に送る。左心室には酸素を含んだ血液があります。これが良い血液です。いいです！！！</span>@@
+
+Some babies can get heart diseases at birth. We divide these into two groups @@html:<span class="ja">生まれながらにして心臓の病気になる赤ちゃんもいます。これを2つのグループに分けます</span>@@:
+1. Diseases that make a blue baby (cyanosis)... blueeeee 笑 @@html:<span class="ja">青い赤ちゃんができる病気。</span>@@
+2. Diseases without /cyanosis/ @@html:<span class="ja">赤ちゃんの色に影響を与えない病気。</span>@@
+
+Another way to divide these diseases is based on the shunt. Shunt means the direction of blood. We have two types of shunts @@html:<span class="ja">これらの病気のもう一つの分け方は、シャントに基づいています。シャントとは、血液の方向性を意味します。シャントには2種類あります。</span>@@
+1. @@html:<mark>r</mark>ight-to-<mark>l</mark>eft: this causes ea<mark>RL</mark>y cyanosis. Get it? If you don't, please ask me to explain it further. The RIGHT colour is BLUE!!! This is because bad blood from the right side of the heart will go to the left side of the heart, and therefore to the rest of the body. <span class="ja">わかったかな？わからない人は、さらに説明してもらってください。RIGHTの色はBLUEです！！！これは、心臓の右側から出た悪い血液が、心臓の左側へ、つまり体の他の部分へ行くからです。</span>@@
+2. left-to-right: this does /not/ cause cyanosis. There is no blue in here... @@html:<span class="ja">チアノーゼを起こすことはありません。ここに青色はありません。。。</span>@@
+
+| left-to-right                   | @@html:<mark>R</mark>ight-to-<mark>L</mark>eft = ea<mark>RL</mark>y cyanosis@@ |
+|---------------------------------+--------------------------------------------------------------------------------|
+| Ventricular septal defect (VSD) | Tetralogy of Fallot                                                            |
+| Atrial septal defect (ASD)      | Transposition of great vessels                                                 |
+| Patent ductus arteriosus (PDA)  |                                                                                |
+
+I will create separate topics for these diseases! @@html:<span class="ja">これらの病気については、別のトピックを作成することにします！</span>@@
+
 * Diabetic ketoacidosis
 :PROPERTIES:
 :CUSTOM_ID: org70566ac
