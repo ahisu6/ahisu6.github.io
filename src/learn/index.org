@@ -34,7 +34,7 @@ This is a table of goroawase. I am putting this table here to make it easier for
 
 ** Resources
 :PROPERTIES:
-:CUSTOM_ID: org4c95c49
+:CUSTOM_ID: orga66a124
 :END:
 
 Here are some useful websites for you:
