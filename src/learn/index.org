@@ -24,7 +24,9 @@ This is probably basic stuff for you. @@html:<span class="ja">これは、あな
 
 But, I do not want to assume that you know this. So, I will write it here just as a reminder. @@html:<span class="ja">しかし、私は、あなたがすでに知っていると決めつけたくはない。だから、念のためここに書いておく。</span>@@
 
-It is so important to repeat the material over and over again. @@html:<span class="ja">何度も何度も繰り返すことがとても大切なのです。</span>@@
+It is so important to repeat the things over and over again. @@html:<span class="ja">何度も何度も繰り返すことがとても大切なのです。</span>@@
+
+Not only that, but they must be repeated over a long period of time. @@html:<span class="ja">それだけでなく、長期間にわたって繰り返されなければならない。</span>@@
 
 The stories which I create for you must be repeated frequently. Otherwise, you will forget them. @@html:<span class="ja">私があなたのために作った物語は、頻繁に繰り返されなければならない。そうでなければ、忘れてしまうでしょう。</span>@@
 
