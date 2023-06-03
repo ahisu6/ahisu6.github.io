@@ -14,7 +14,7 @@
 
 #+TOC: headlines 2
 
-* Repetition and remembering
+* 繰り返し、記憶する
 :PROPERTIES:
 :CUSTOM_ID: org4279268
 :END:
