@@ -32,7 +32,7 @@ This is a table of goroawase. I am putting this table here to make it easier for
 | 10, 十, 拾   | と, とお         | じ, じゅう       | テ, テン         |
 | ., 点        | テン             | (decimal point)  |                  |
 
-* Resources
+** Resources
 :PROPERTIES:
 :CUSTOM_ID: org4c95c49
 :END:
