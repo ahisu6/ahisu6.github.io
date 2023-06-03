@@ -1,8 +1,8 @@
-#+TITLE: Goroawase
+#+TITLE: Learn
 
 #+BEGIN_EXPORT html
-<div class="engt">Goroawase</div>
-<div class="japt">語呂合わせ</div>
+<div class="engt">Learn</div>
+<div class="japt">学ぶ</div>
 #+END_EXPORT
 
 [[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/goroawase/index.org][Edit]]
