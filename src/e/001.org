@@ -56,6 +56,8 @@ In adrenal insufficiency, the adrenal gland stops working. all of these hormones
 
 Like we said before, the adrenal gland makes cortisol. If we have no cortisol, then we will not feel hungry. So, that means we will not eat food. If we do not eat food, we will lose a lot of weight. @@html:<span class="ja">先ほども言ったように、副腎はコルチゾールを作っています。コルチゾールがなければ、空腹を感じることはないでしょう。ということは、食べ物を食べなくなるということです。食べ物を食べなければ、体重は大きく減ります。</span>@@
 
+The adrenal glands make cortisol. Cortisol tells the liver to make more glucose. If there is no cortisol in the blood, the liver will be very confused. Therefore, the liver will not make glucose anymore. This causes a low sugar level. @@html:<span class="ja">副腎はコルチゾールを作る。コルチゾールは肝臓にブドウ糖をもっと作れという指示を出します。もし血中にコルチゾールがなければ、肝臓は非常に混乱することになります。そのため、肝臓はブドウ糖を作らなくなります。これが低血糖の原因となります。</span>@@
+
 There are 3 types of adrenal insufficiency (you need to look at this [[https://drive.google.com/uc?export=view&id=1QBgWGLVij0aL_zWGh_IxPAXq6hwa1mg3][picture]] and this [[https://drive.google.com/uc?export=view&id=1pUbOX2ZN2idbRMcs3PthgePo2Hv2nBZO][picture]] to understand how the following works):
 1. Primary: problem with adrenal gland. @@html:<span class="ja">副腎の問題。</span>@@
 2. Secondary: problem with pituitary gland. @@html:<span class="ja">下垂体の問題。</span>@@
