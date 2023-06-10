@@ -36,6 +36,11 @@ It is more likely to happen if the baby is a boy and has Down's syndrome. @@html
 Before we continue, there is something important you need to know about something called "meconium" @@html:<span class="ja">その前に、「meconium」というものについて知っておいていただきたい大切なことがあります</span>@@:
 - Meconium is first poop that baby passes. It looks black. Here is a [[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Meconium.jpg/800px-Meconium.jpg][picture]]. @@html:<span class="ja">「Meconium」とは、赤ちゃんが最初に出すウンチのことです。見た目は黒っぽいです。</span>@@
 - Usually, babies poop the meconium within /48 hours/ after birth. @@html:<span class="ja">通常、赤ちゃんは生後48時間以内に「meconium」をウンチします。</span>@@
+  - 48 hours!
+    - 4 = よ
+    - 8 = は
+    - 48 = よは = 余波 =  waves...
+    - @@html:Imagine waves (<mark>余波</mark>) of black meconium that come <mark>48</mark> hours after the baby is born... ew! <span class="ja">赤ちゃんが生まれてから<mark>48時間</mark>後にやってくる黒い「meconium」の<mark>余波</mark>を想像してください... うわぁ！</span>@@
 
 ** Signs and symptoms
 :PROPERTIES:
