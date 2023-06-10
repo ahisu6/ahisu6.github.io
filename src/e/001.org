@@ -35,8 +35,8 @@ Ok. Big topic. Focus with me! @@html:<span class="ja">やれやれ</span>@@
      - An example of glucocorticoids is cortisol. @@html:<span class="ja">グルココルチコイドの一例として、コルチゾールがあります。</span>@@
      - Cortisol does many things in the body. @@html:<span class="ja">コルチゾールは体内でいろいろな働きをします。</span>@@
      - Cortisol makes the human feel very hungry! @@html:<span class="ja">コルチゾールは、ヒトが非常に空腹を感じるようにします！</span>@@
-     - Cortisol increases the blood pressure by making the arteries contract and become smaller. @@html:<span class="ja">コルチゾールは、動脈を収縮させて細くすることで、血圧を上昇させます。</span>@@
      - Cortisol increases the blood glucose level by asking the liver to break down more sugar. @@html:<span class="ja">コルチゾールは、肝臓に糖の分解を促すことで、血糖値を上昇させます。</span>@@
+     - Cortisol increases the blood pressure by making the arteries contract and become smaller. @@html:<span class="ja">コルチゾールは、動脈を収縮させて細くすることで、血圧を上昇させます。</span>@@
      - Cortisol decreases bones by slowing down the bone cells. @@html:<span class="ja">コルチゾールは、骨細胞の働きを鈍らせることで骨を減少させます。</span>@@
   3. Androgen
      - Function: controls oestrogen and testosterone levels. @@html:<span class="ja">これにより、エストロゲンとテストステロンのレベルがコントロールされます。</span>@@
