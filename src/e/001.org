@@ -14,6 +14,48 @@
 
 #+TOC: headlines 2
 
+* Hyperosmolar hyperglycaemic state
+:PROPERTIES:
+:CUSTOM_ID: orgcd73fc0
+:END:
+
+Posted: 2023-06-10 | Updated: 2023-06-10
+
+This is a complication of T2DM. @@html:<span class="ja">T2DMの合併症である。</span>@@
+
+This is similar to DKA, but the difference is there are /no/ ketones in here! @@html:<span class="ja">これはDKAと似ていますが、違うのはここにはケトン体がないことです！</span>@@
+
+Also, this affects older people. Basically, it usually starts because the old person is dehydrated or has an infection for a long time. @@html:<span class="ja">また、これは高齢者にも影響します。基本的には、老人が脱水症状を起こしたり、感染症に長くかかったりすることで始まるのが普通です。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org2bf6732
+:END:
+
+- Confusion............ え～と...。
+- Nausea.
+- Low blood volume because of dehydration. @@html:<span class="ja">脱水のため血液量が少ない。</span>@@
+- The blood will be very concentrated because there is no water. @@html:<span class="ja">水がないので血液は非常に濃縮されます。</span>@@
+- High sugar level. @@html:<span class="ja">糖度が高い。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: orgf81f67e
+:END:
+
+- Check sugar level.
+- Check blood osmolality.
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org4d31c85
+:END:
+
+- Give IV fluid. @@html:<span class="ja">静脈内輸液が行われる。</span>@@
+- Then... keep giving IV fluids. @@html:<span class="ja">その後... 輸液を続けてください。</span>@@
+- Keep monitoring the level of glucose. @@html:<span class="ja">グルコースレベルを監視し続ける。</span>@@
+- You should only give insulin when the blood sugar level stops decreasing. @@html:<span class="ja">インスリンは、血糖値の低下が止まってから投与する必要があります！！！！</span>@@
+
 * Adrenal insufficiency
 :PROPERTIES:
 :CUSTOM_ID: org63d3f05
