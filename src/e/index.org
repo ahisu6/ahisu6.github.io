@@ -19,6 +19,7 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                | Date posted |
 |------+----------------------+-------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#orgcd73fc0][Hyperosmolar hyperglycaemic state]] |  2023-06-10 |
 | [[file:./001.org][001]]  | [[file:./001.org::#org63d3f05][Adrenal insufficiency]] |  2023-04-22 |
 | [[file:./001.org][001]]  | [[file:./001.org::#org90ea4ab][Cushing syndrome]] |  2023-04-13 |
 | [[file:./001.org][001]]  | [[file:./001.org::#orgb916ee6][Diabetes insipidus]] |  2023-02-28 |
