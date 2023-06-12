@@ -63,4 +63,4 @@ This is a life-threatening allergic reaction to something like peanuts. @@html:<
   4. Thennn, give hydrocortisone. @@html:<span class="ja">そして、ヒドロコルチゾンを投与します。</span>@@
     - Hydrocortisone is a steroid. Steroids reduce inflammation and prevent future symptoms. @@html:<span class="ja">ヒドロコルチゾンはステロイドの一種です。ステロイドは、炎症を抑え、将来の症状を予防します。</span>@@
     - @@html:Hydrocortisone. <mark>Hydro</mark>cortisone!!!! Hydro... <mark>hydro</mark> means water!@@
-    - @@html:So, after the people eat ら～めん, they will become thirsty. So, they will drink water (they are now <mark>hydrated</mark> (this sounds like <mark>hydro</mark>cortisone)!).@@
+    - @@html:So, after the people eat ら～めん, they will become thirsty. So, they will drink water. They are now <mark>hydrated</mark> (this sounds like <mark>hydro</mark>cortisone).@@
