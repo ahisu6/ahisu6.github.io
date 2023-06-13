@@ -71,7 +71,7 @@ In adults, hypoglycaemia is when blood sugar is below 4 mmol/L @@html:<span clas
 - If the person is awake and not dizzy, then you can give them "fast-acting carbohydrate" in the mouth. So, things like sugar tablets or sweeeeeeeet drink... If the new-born baby has a low sugar level but does not have any symptoms, then you can just keep feeding the baby milk! @@html:<span class="ja">目が覚めていて、フラフラしていなければ、「即効性のある炭水化物」を口に含ませてあげればいいのです。つまり、砂糖の錠剤や甘い飲み物のようなものです。新生児の糖度が低くても症状がなければ、そのままミルクを与え続けても大丈夫です！</span>@@
 - If the new-born baby has symptoms, then give /10%/ IV dextrose (dextrose is just another name for sugar) @@html:<span class="ja">新生児に症状がある場合は、dextrose（dextroseは砂糖の別名です）を10%点滴します。</span>@@:
   - 10 = じ = 児
-  - 児 = child!
+  - 児 = child.
   - @@html:Easy to remember! Give <mark>10</mark>% dextrose to the <mark>児</mark>！<span class="ja"><mark>児</mark>に<mark>10</mark>%デキストローズを与える。</span>@@
 - If the adult is not awake, then give /20%/ IV dextrose! @@html:<span class="ja">成人が覚醒していない場合は、20％のブドウ糖を静脈内投与する！</span>@@
 - So, you might be wondering, why should we not give oral food to unconscious patients? Well, this is because they might choke on the food! Pay attention to this in the exam! @@html:<span class="ja">では、なぜ意識のない患者さんに経口食を与えてはいけないのか、疑問に思われるかもしれません。それは、食べ物を喉に詰まらせてしまう可能性があるからです！試験では、この点に注意してください！</span>@@
