@@ -56,11 +56,12 @@ If there is hypoglycaemia in adults:
   - ふろ... 風呂
   - 風呂 = bath
   - @@html:Imagine a new-born baby having a bath (<mark>風呂</mark>) and eating a big sugar cube because the <mark>blood sugar of the baby is low</mark>. <span class="ja">生まれたばかりの赤ちゃんがお<mark>風呂</mark>に入り、血糖値が低いので大きな角砂糖を食べているところを想像してください。</span>@@
-
 - In adults, hypoglycaemia is when blood sugar is below 4 mmol/L @@html:<span class="ja">成人の場合、血糖値が4mmol/L以下になると低血糖となる</span>@@:
   - 4 = し = 士
   - 士 = soldier
   - @@html:Imagine a soldier (<mark>士</mark>) in the war. The soldier is holding a pistol that <mark>shoots sugar cubes</mark> to give sugar to support the other soldiers. <span class="ja">戦争に参加する<mark>士</mark>を想像してください。その士はピストルを持っていて、<mark>角砂糖</mark>を撃って他の士を支援するために砂糖を与える。</span>@@
+- Doctors sometimes cannot tell if low blood sugar is caused by a problem with the pancreas or if it is a result of taking drugs. So, the doctor might do a test called "C-peptide test". @@html:<span class="ja">低血糖が膵臓の問題で起こるのか、それとも薬の服用が原因なのか、医師が見分けられないこともあります。そこで、医師が「C-peptide test」という検査をすることがあります。</span>@@
+  - Measuring C-peptide is an accurate way to find out how much insulin your body is making. So, if there is little C-peptide, then that means your body is not making enough insulin. @@html:<span class="ja">C-peptideを測定することで、体内でどれだけインスリンが作られているかを正確に知ることができます。つまり、C-peptideが少ないということは、体内でインスリンが十分に作られていないことを意味します。</span>@@
 
 ** Treatment
 :PROPERTIES:
