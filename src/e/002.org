@@ -58,7 +58,7 @@ This is a life-threatening allergic reaction to something like peanuts. @@html:<
   3. Then, give antihistamines. You should use chlorphenamine. @@html:<span class="ja">次に、抗ヒスタミン剤を投与します。クロルフェナミンを使ってください。</span>@@
     - This removes histamine. @@html:<span class="ja">これにより、ヒスタミンが除去されます。</span>@@
     - Chlorphenamine. クロルフェニラミン。
-    - ラミン... らみん... This sounds like ら～めん... おいしいいいいいいいいです笑
+    - ラミン... らみん... らみ～ん... this sounds like ラーメン... おいしいいいいいいいいです笑
     - So, after the giant peanut stops throwing peanuts, the people will sit and eat some ラーメン笑 @@html:<span class="ja">だから、巨大なピーナッツがピーナッツを投げるのを止めた後、人々は座って<mark>ラーメン</mark>を食べます笑</span>@@
   4. Thennn, give hydrocortisone. @@html:<span class="ja">そして、ヒドロコルチゾンを投与します。</span>@@
     - Hydrocortisone is a steroid. Steroids reduce inflammation and prevent future symptoms. @@html:<span class="ja">ヒドロコルチゾンはステロイドの一種です。ステロイドは、炎症を抑え、将来の症状を予防します。</span>@@
