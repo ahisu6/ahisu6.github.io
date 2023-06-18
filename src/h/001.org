@@ -16,6 +16,49 @@
 
 #+TOC: headlines 2
 
+* Do Not Attempt Resuscitation (DNAR)
+:PROPERTIES:
+:CUSTOM_ID: orgc29f40c
+:END:
+
+This is the same as Do Not Attempt Cardiopulmonary Resuscitation (DNACPR).
+
+When someone becomes very ill, the heart might stop working. If the heart stops working, then we would need to do CPR. @@html:<span class="ja">誰かが重病になると、心臓が止まることがあります。もし心臓が止まってしまったら、心肺蘇生をしなければならないでしょう。</span>@@
+
+Sometimes, doctors will think that CPR might cause more harm to the patient, and it might make the patient disabled. @@html:<span class="ja">時には、医師が心肺蘇生をすることで患者さんにもっと害が及ぶかもしれない、患者さんに障害が残るかもしれないと考えることもあるでしょう。</span>@@
+
+This is a medical decision. That means that the patient cannot reject the decision. @@html:<span class="ja">これは医学的な決定である。つまり、患者さんはその決定を拒否することはできません。</span>@@
+
+An important thing to note is that DNACPR only applies when the patient's heart stops beating. So, if the patient's is fine, then we continue to give the best treatment. @@html:<span class="ja">重要なのは、DNACPRが適用されるのは、患者さんの心臓が停止したときだけだということです。ですから、患者さんの心臓が元気であれば、私たちは最善の治療を続けます。</span>@@
+
+Say these things in order:
+1. Good morning, my name is Dr. XYZ. Can I get your name and date of birth please? @@html:<span class="ja">おはようございます、私はドクターXYZと申します。あなたのお名前と生年月日をお聞かせください。</span>@@
+2. Thank you for coming today. @@html:<span class="ja">本日はご来場いただきありがとうございました。</span>@@
+3. So, before we begin, I would like to ask you a question if you do not mind. @@html:<span class="ja">では、その前に、差し支えなければ質問させてください。</span>@@
+4. Could you tell me what you know so far? @@html:<span class="ja">これまでに分かっていることを教えていただけますか？</span>@@
+5. /Give the patient some time to explain./ @@html:<span class="ja"><i>患者さんに説明する時間を与えてください。</i></span>@@
+6. Thank you for sharing this with me. Now, you may have thought about this already, but since your condition is at a critical stage, one topic that is crucial for us to discuss is resuscitation. @@html:<span class="ja">このようなことを教えていただき、ありがとうございます。さて、すでにお考えかもしれませんが、あなたの状態は危機的な段階にあるため、私たちにとって極めて重要な話題のひとつが「蘇生」です。</span>@@
+7. Do you know what that means? @@html:<span class="ja">その意味がわかりますか？</span>@@
+8. /Give the patient some time to explain./ @@html:<span class="ja"><i>患者さんに説明する時間を与えてください。</i></span>@@
+9. As your sickness worsens, you can experience a cardiac arrest, which is when your heart stops beating. @@html:<span class="ja">病気が悪化すると、心臓が止まる「心停止」を起こすこともあります。</span>@@
+10. Sometimes, when the heart stops beating, we do something called Cardiopulmonary Resuscitation, or CPR. @@html:<span class="ja">心臓が止まったときに、心肺蘇生法（CPR）ということをすることもあります。</span>@@
+11. CPR is when we try to make the patient's heart start beating again. We do something called "chest compressions". The chest compressions will try to make the heart pump blood around the body. @@html:<span class="ja">CPRとは、患者さんの心臓を再び鼓動させようとすることです。私たちは「胸骨圧迫」と呼ばれるものを行います。胸骨圧迫は、心臓が体中に血液を送り出すようにするものです。</span>@@
+12. /Give the patient few seconds of silence./ @@html:<span class="ja"><i>患者に数秒の沈黙を与える。</i></span>@@
+13. Is that clear so far? Do you have any questions for me? Could you repeat back to me what I have said just to make sure that I explained it clearly for you?  @@html:<span class="ja">ここまででクリアでしょうか？何か質問はありますか？私が言ったことをもう一度言ってもらえますか？あなたのために明確に説明したことを確認するために。</span>@@
+14. /Give the patient some time to explain./ @@html:<span class="ja"><i>患者さんに説明する時間を与えてください。</i></span>@@
+15. CPR is a very aggressive thing to do. During CPR, sometimes the ribs of the patient might break. Sometimes brain damage can happen because there was not enough blood. This can make the patient become disabled. @@html:<span class="ja">心肺蘇生は、とてもアグレッシブな行為です。CPR中に、時には患者の肋骨が折れるかもしれません。血液が足りなかったために、脳が損傷することもあります。その結果、患者さんに障害が残ることもあります。</span>@@
+16. So, as a medical team, we believe that CPR in this case will not be successful. Even if CPR is successful, it might cause a lot of harm to the you. @@html:<span class="ja">ですから、医療チームとしては、このケースでの心肺蘇生は成功しないと考えています。仮に心肺蘇生が成功したとしても、あなたに多くの害を与えるかもしれません。</span>@@
+17. We are doing this in the best interest of the patient. @@html:<span class="ja">私たちは、患者さんの最善の利益のためにやっているのです。</span>@@
+18. /Give the patient few seconds of silence./ @@html:<span class="ja"><i>患者に数秒の沈黙を与える。</i></span>@@ 
+19. This is a medical decision. So, I am telling you about this just to keep everything transparent, and to keep you informed. @@html:<span class="ja">これは医学的な判断です。だから、すべてを透明にして、情報を提供し続けるために、このことをお話ししているのです。</span>@@
+20. One important thing to say is that DNACPR only applies when your heart stops beating. So, we will continue to give you all the best treatment that you need. So, we will keep giving you antibiotics and other medications. @@html:<span class="ja">ひとつ重要なことは、DNACPRは心臓が停止したときにのみ適用されるということです。ですから、私たちは、あなたが必要とするすべての最善の治療を与え続けます。ですから、抗生物質やその他の薬も与え続けます。</span>@@
+21. Do you have any questions for me? @@html:<span class="ja">何か質問はありますか？</span>@@
+22. /Give the patient some time to explain./ @@html:<span class="ja"><i>患者さんに説明する時間を与えてください。</i></span>@@
+23. I understand that this may be upsetting. Please, do not hesitate to talk to us if you need anything. Thank you once again for talking to me. @@html:<span class="ja">ご不快な思いをされることもあるかと思います。どうぞ、何かありましたら、遠慮なくお話しください。改めて、お話してくださってありがとうございました。</span>@@
+ 
+The patient might say "I want CPR." or they might say "No, I disagree with you." If they say that, then you should reply with this sentence @@html:<span class="ja">患者さんは「I want CPR」 と言うかもしれませんし、「No, I disagree with you」と言うかもしれません。もしそう言われたら、この文章で返すといいでしょう</span>@@:
+- DNACPR is a medical decision, and it is not possible to refuse it or appeal against it. But, if you would like, I can arrange a meeting with the consultant to discuss this further. @@html:<span class="ja">DNACPRは医学的な決定であり、それを拒否したり、不服申し立てをしたりすることはできません。しかし、もしご希望であれば、コンサルタントとの面談をアレンジして、さらに詳しくお話することも可能です。</span>@@
+
 * Chest symptoms
 :PROPERTIES:
 :CUSTOM_ID: orgbf282eb
