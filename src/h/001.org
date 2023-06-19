@@ -125,6 +125,9 @@ Say these things in order:
 26. Would you like me to inform anyone else about this? @@html:<span class="ja">このことを他の人に知らせた方がいいでしょうか？</span>@@
 27. I understand that this may be upsetting. Please, do not hesitate to talk to us if you need anything. Thank you once again for talking to me. @@html:<span class="ja">ご不快な思いをされることもあるかと思います。どうぞ、何かありましたら、遠慮なくお話しください。改めて、お話してくださってありがとうございました。</span>@@
 
+The patient might say "I want CPR." or they might say "No, I disagree with you." If they say that, then you should reply with this sentence @@html:<span class="ja">患者さんは「I want CPR」 と言うかもしれませんし、「No, I disagree with you」と言うかもしれません。もしそう言われたら、この文章で返すといいでしょう</span>@@:
+- DNACPR is a medical decision, and it is not possible to refuse it or appeal against it. But, if you would like, I can arrange a meeting with the consultant to discuss this further. @@html:<span class="ja">DNACPRは医学的な決定であり、それを拒否したり、不服申し立てをしたりすることはできません。しかし、もしご希望であれば、コンサルタントとの面談をアレンジして、さらに詳しくお話することも可能です。</span>@@
+
 * Chest symptoms
 :PROPERTIES:
 :CUSTOM_ID: orgbf282eb
