@@ -122,9 +122,10 @@ Say these things in order:
 20. One important thing to say is that DNACPR only applies when your heart stops beating. So, we will continue to give you all the best treatment that you need. So, we will keep giving you antibiotics and other medications. @@html:<span class="ja">ひとつ重要なことは、DNACPRは心臓が停止したときにのみ適用されるということです。ですから、私たちは、あなたが必要とするすべての最善の治療を与え続けます。ですから、抗生物質やその他の薬も与え続けます。</span>@@
 21. Do you have any questions for me? @@html:<span class="ja">何か質問はありますか？</span>@@
 22. /Give the patient some time to explain./ @@html:<span class="ja"><i>患者さんに説明する時間を与えてください。</i></span>@@
-24. That is all I have for you. I will just give you a quick summary of what we discussed today. @@html:<span class="ja">以上、ご報告させていただきます。今日お話ししたことを簡単にまとめておきますね。</span>@@
-25. /Do a quick summary./ @@html:<span class="ja"><i>簡単なまとめをしてください。</i></span>@@
-26. Would you like me to inform anyone else about this? @@html:<span class="ja">このことを他の人に知らせた方がいいでしょうか？</span>@@
+23. That is all I have for you. I will just give you a quick summary of what we discussed today. @@html:<span class="ja">以上、ご報告させていただきます。今日お話ししたことを簡単にまとめておきますね。</span>@@
+24. /Do a quick summary./ @@html:<span class="ja"><i>簡単なまとめをしてください。</i></span>@@
+25. Would you like me to inform anyone else about this? @@html:<span class="ja">このことを他の人に知らせた方がいいでしょうか？</span>@@
+26. Here is an information leaflet saying what we have talked about today. @@html:<span class="ja">今日お話したことを書いたインフォメーションリーフレットです。</span>@@
 27. I understand that this may be upsetting. Please, do not hesitate to talk to us if you need anything. Thank you once again for talking to me. @@html:<span class="ja">ご不快な思いをされることもあるかと思います。どうぞ、何かありましたら、遠慮なくお話しください。改めて、お話してくださってありがとうございました。</span>@@
 
 The patient might say "I want CPR." or they might say "No, I disagree with you." If they say that, then you should reply with this sentence @@html:<span class="ja">患者さんは「I want CPR」 と言うかもしれませんし、「No, I disagree with you」と言うかもしれません。もしそう言われたら、この文章で返すといいでしょう</span>@@:
