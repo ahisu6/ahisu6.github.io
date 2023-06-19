@@ -19,6 +19,7 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                | Date posted |
 |------+----------------------+-------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#org4b25905][Advance Directive]] |  2023-06-19 |
 | [[file:./001.org][001]]  | [[file:./001.org::#orgc29f40c][Do Not Attempt Resuscitation (DNAR)]] |  2023-06-18 |
 | [[file:./001.org][001]]  | [[file:./001.org::#orgbf282eb][Chest symptoms]] |  2023-05-12 |
 | [[file:./001.org][001]]  | [[file:./001.org::#org8c96f99][Basics of symptoms]] |  2023-04-14 |
