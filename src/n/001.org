@@ -31,7 +31,7 @@ Sometimes, during treatment, the patient might still get some symptoms. This is 
 :END:
 
 @@html:The symptoms are easy to remember. Parkinson <mark>TRAPS</mark> the body@@:
-1. @@html:<mark>T</mark>@@remor.
+1. @@html:<mark>T</mark>remor: this tremor happens when the patient is resting.  <span class="ja">この振戦は患者が安静にしているときに起こる。</span>@@
 2. @@html:<mark>R</mark>@@igidity.
 3. @@html:<mark>A</mark>kinesia: this means that the body is slow at moving. <span class="ja">つまり、体の動きが鈍いということだ</span>@@
 4. @@html:<mark>P</mark>ostural instability: this means that the patient might be wobbly. <span class="ja">これは、患者がふらつく可能性があることを意味する。</span>@@
