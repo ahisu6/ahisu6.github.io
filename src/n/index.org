@@ -19,6 +19,7 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                | Date posted |
 |------+----------------------+-------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#org87512dc][Parkinson disease]] |  2023-06-22 |
 | [[file:./001.org][001]]  | [[file:./001.org::#org70426c1][Epilepsy]] |  2023-04-20 |
 
 #+BEGIN_EXPORT html
