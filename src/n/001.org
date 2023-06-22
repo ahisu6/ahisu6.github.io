@@ -14,7 +14,6 @@
 
 #+TOC: headlines 2
 
-
 * Parkinson disease
 :PROPERTIES:
 :CUSTOM_ID: org87512dc
@@ -32,11 +31,11 @@ Sometimes, during treatment, the patient might still get some symptoms. This is 
 :END:
 
 @@html:The symptoms are easy to remember. Parkinson <mark>TRAPS</mark> the body@@
-1. Tremor.
-2. Rigidity.
-3. Akinesia: this means that the body is slow at moving. @@html:<span class="ja">つまり、体の動きが鈍いということだ</span>@@
-4. Postural instability: this means that the patient might be wobbly. @@html:<span class="ja">これは、患者がふらつく可能性があることを意味する。</span>@@
-5. Shuffling gait: watch this [[https://www.youtube.com/watch?v=yhj1PktNA1c][video]]!
+1. @@html:<mark>T</mark>@@remor.
+2. @@html:<mark>R</mark>@@igidity.
+3. @@html:<mark>A</mark>kinesia: this means that the body is slow at moving. <span class="ja">つまり、体の動きが鈍いということだ</span>@@
+4. @@html:<mark>P</mark>ostural instability: this means that the patient might be wobbly. <span class="ja">これは、患者がふらつく可能性があることを意味する。</span>@@
+5. @@html:<mark>S</mark>@@huffling gait: watch this [[https://www.youtube.com/watch?v=yhj1PktNA1c][video]]!
 
 ** Investigations
 :PROPERTIES:
