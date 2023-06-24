@@ -36,8 +36,8 @@ Some COCP plans have 21 hormonal pills, and 7 fake pills. @@html:<span class="ja
 These fake pills cause something called a "withdrawal bleed." @@html:<span class="ja">これらの偽薬は「禁断症状出血」と呼ばれるものを引き起こす。</span>@@
 
 Here is a diagram which explains what happens to your hormones when you take the pill @@html:<span class="ja">ピルを飲むとホルモンに何が起こるかを説明した図がある</span>@@:
-- [[https://drive.google.com/uc?export=view&id=1pfveJK3RKz8i1EBhCCAFGCa6jBZfPq4X][Japanese version]].
-- [[https://drive.google.com/uc?export=view&id=1hzge3qHcbc1JtLYj9WeFeglsEBF6owiC][English version]].
+1. [[https://drive.google.com/uc?export=view&id=1pfveJK3RKz8i1EBhCCAFGCa6jBZfPq4X][Japanese version]].
+2. [[https://drive.google.com/uc?export=view&id=1hzge3qHcbc1JtLYj9WeFeglsEBF6owiC][English version]].
 
 Say these things in order:
 1. Good morning, my name is Dr. XYZ. Can I get your name and date of birth please? @@html:<span class="ja">おはようございます、私はドクターXYZと申します。あなたのお名前と生年月日をお聞かせください。</span>@@
