@@ -1,0 +1,95 @@
+#+TITLE: History 002
+
+#+BEGIN_EXPORT html
+<div class="engt">History</div>
+<div class="japt">病歴聴取</div>
+<div class="engt">Page 002</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/h/002.org][Edit]]
+
+[[file:./index.org][Home]]
+
+[[file:./001.org][<< Previous page]] - [[file:./003.org][Next page >>]]
+
+-----
+
+#+TOC: headlines 2
+
+* Combined Oral Contraceptive Pill (COCP) Counselling
+:PROPERTIES:
+:CUSTOM_ID: org7d34bc2
+:END:
+
+Posted: 2023-06-24 | Updated: 2023-06-24
+
+COCP is a hormonal pill. @@html:<span class="ja">COCPはホルモン剤である。</span>@@
+
+COCP has oestrogen and progestogen. @@html:<span class="ja">COCPにはエストロゲンとプロゲストゲンがある。</span>@@
+
+The high level oestrogen and progestogen trick the body. They will tell the body to stop ovulation. @@html:<span class="ja">高濃度のエストロゲンとプロゲストゲンが体をだます。それらは排卵を止めるよう体に指示する。</span>@@
+
+The patient will have to take a pill every day. @@html:<span class="ja">患者は毎日錠剤を飲まなければならない。</span>@@
+
+Some COCP plans have 21 hormonal pills, and 7 fake pills. @@html:<span class="ja">COCPプランの中には、21種類のホルモン剤と7種類の偽薬があるものもある。</span>@@
+
+These fake pills cause something called a "withdrawal bleed." @@html:<span class="ja">これらの偽薬は「禁断症状出血」と呼ばれるものを引き起こす。</span>@@
+
+Say these things in order:
+1. Good morning, my name is Dr. XYZ. Can I get your name and date of birth please? @@html:<span class="ja">おはようございます、私はドクターXYZと申します。あなたのお名前と生年月日をお聞かせください。</span>@@
+2. Thank you for coming today. @@html:<span class="ja">本日はご来場いただきありがとうございました。</span>@@
+3. So, before we begin, I would like to ask you a question if you do not mind. @@html:<span class="ja">では、その前に、差し支えなければ質問させてください。</span>@@
+4. What do you already know about the combined oral contraceptive pill? @@html:<span class="ja">経口避妊薬配合ピルについてすでに知っていることは？</span>@@
+5. /Give the patient some time to explain./ @@html:<span class="ja"><i>患者さんに説明する時間を与えてください。</i></span>@@
+6. Is there anything in particular that worries you about the combined oral contraceptive pill? @@html:<span class="ja">経口避妊薬併用ピルについて、特に心配なことはありますか？</span>@@
+7. /Give the patient some time to explain./ @@html:<span class="ja"><i>患者さんに説明する時間を与えてください。</i></span>@@
+8. What are your expectations regarding the combined oral contraceptive pill? @@html:<span class="ja">複合経口避妊ピルについて、どのようなことを期待していますか？</span>@@
+9. /Give the patient some time to explain./ @@html:<span class="ja"><i>患者さんに説明する時間を与えてください。</i></span>@@
+10. The pill contains hormones that stop your ovaries from releasing an egg each month. Without an egg, you can't get pregnant. The pill also thickens the mucus at the tip of your womb, which makes it difficult for sperm to swim up and reach an egg. @@html:<span class="ja">ピルには、毎月卵巣から卵子が放出されるのを止めるホルモンが含まれています。卵子がなければ妊娠することはできません。また、ピルは子宮の先端の粘液を厚くし、精子が卵子まで泳いで到達するのを難しくします。</span>@@
+11. /Give the patient few seconds of silence./ @@html:<span class="ja"><i>患者に数秒の沈黙を与える。</i></span>@@
+12. Is that clear so far? Do you have any questions for me? Could you repeat back to me what I have said just to make sure that I explained it clearly for you? ここまででクリアでしょうか？何か質問はありますか？私が言ったことをもう一度言ってもらえますか？あなたのために明確に説明したことを確認するために。
+13. /Give the patient some time to explain./ @@html:<span class="ja"><i>患者さんに説明する時間を与えてください。</i></span>@@
+14. That is great. Thank you. @@html:<span class="ja">それは素晴らしい。ありがとう。</span>@@
+15. So, the pill is 99% effective at preventing pregnancy if you take it correctly, but it does not offer protection against sexually transmitted infections. @@html:<span class="ja">だから、ピルは正しく飲めば99％妊娠を防ぐ効果がありますが、性感染症を防ぐ効果はありません。</span>@@
+16. To take the pill correctly, you need to take it each day and don't miss pills. @@html:<span class="ja">ピルを正しく服用するには、毎日欠かさず服用する必要があります。</span>@@
+17. /Give the patient few seconds of silence./ @@html:<span class="ja"><i>患者に数秒の沈黙を与える。</i></span>@@
+18. I will just do a quick summary of what I have told you so far. @@html:<span class="ja">これまでお話ししたことを簡単にまとめておこう。</span>@@
+19. /Do a quick summary./ @@html:<span class="ja"><i>簡単なまとめをしてください。</i></span>@@
+20. Would you like me to talk about the advantages and disadvantages of the pill? @@html:<span class="ja">ピルのメリットとデメリットについて話しましょうか？</span>@@
+21. Some of the advantages are: it is 99% effective. Another advantage is that it is a non-invasive method. Finally, the pill can improve acne. @@html:<span class="ja">利点としては、99％効果があることです。もう一つの利点は、非侵襲的な方法であるということです。最後に、ピルはニキビを改善することができる。</span>@@
+22. Some of the disadvantages are: it does not prevent STIs. Another bad thing is that you have to remember to take it every day. Finally, some patients might get headache and breast tenderness. @@html:<span class="ja">欠点としては、性病を予防できないことが挙げられる。もう一つの悪い点は、毎日忘れずに服用しなければならないことです。最後に、患者によっては頭痛や乳房の圧痛を感じることがあります。</span>@@
+23. There are more advantages and disadvantages. So, here is an information leaflet which talks about all of them. If you have questions, then please ask me. @@html:<span class="ja">メリットもあればデメリットもある。そこで、これらすべてについて書かれたインフォメーション・リーフレットを用意しました。ご質問があれば、私にお尋ねください。</span>@@
+24. /Give the patient few seconds of silence./ @@html:<span class="ja"><i>患者に数秒の沈黙を与える。</i></span>@@
+25. I will just do a quick summary of what I have told you so far. @@html:<span class="ja">これまでお話ししたことを簡単にまとめておこう。</span>@@
+26. /Do a quick summary./ @@html:<span class="ja"><i>簡単なまとめをしてください。</i></span>@@
+27. There are some risks associated with taking the pill. I feel like you should know about this so that you can make an informed decision. Would you like me to discuss this now? @@html:<span class="ja">ピルの服用にはいくつかのリスクがあります。あなたが十分な情報を得た上で決断できるように、このことについて知っておくべきだと思います。今お話ししましょうか？</span>@@
+28. There are two main risks. @@html:<span class="ja">主なリスクは2つある。</span>@@
+29. The first risk is that there is a small chance that the pill can clots in your legs and lungs. @@html:<span class="ja">第一のリスクは、ピルが足や肺に血栓を作る可能性があることです。</span>@@
+30. It is very important that you do not take the pill if you had blood clots or heart issues in the past. @@html:<span class="ja">過去に血栓や心臓に問題があった場合は、ピルを服用しないことが非常に重要です。</span>@@
+31. Also, if you have migraine, then you must not take the pill as it can increase the risk of a blood clot forming. @@html:<span class="ja">また、片頭痛のある人は、血栓ができるリスクが高まるので、ピルを服用してはならない。</span>@@
+32. Another risk is cancer. The pill increases your risk of developing breast and cervical cancer. @@html:<span class="ja">もう一つのリスクは癌である。ピルは乳がんや子宮頸がんの発症リスクを高めます。</span>@@
+33. So, if you have a family history of breast cancer, then you must not take the pill. @@html:<span class="ja">ですから、乳がんの家族歴がある人は、ピルを飲んではいけません。</span>@@
+34. /Give the patient few seconds of silence./ @@html:<span class="ja"><i>患者に数秒の沈黙を与える。</i></span>@@
+35. Is that clear so far? Do you have any questions for me? Could you repeat back to me what I have said just to make sure that I explained it clearly for you? @@html:<span class="ja">ここまででクリアでしょうか？何か質問はありますか？私が言ったことをもう一度言ってもらえますか？あなたのために明確に説明したことを確認するために。</span>@@
+36. /Give the patient some time to explain./ @@html:<span class="ja"><i>患者さんに説明する時間を与えてください。</i></span>@@
+37. Now, you might be thinking, "what if I miss a pill?" @@html:<span class="ja">「ピルを飲み忘れたらどうしよう」と思うかもしれない。</span>@@
+38. If you miss one pill, then take the missed pill right away and carry on as usual with the other pills in the pack. No need for emergency contraception. @@html:<span class="ja">1錠飲み忘れた場合は、飲み忘れた錠剤をすぐに服用し、パック内の他の錠剤を通常通り服用する。緊急避妊の必要はありません。</span>@@
+39. If you missed more than one pill, then you should take the most recent missed pills immediately. Leave any earlier missed pills. Use condoms or skip intercourse for the following 7 days. If you've had sex within the last week, you should get advice on emergency contraception. @@html:<span class="ja">複数の錠剤を飲み忘れた場合は、飲み忘れた直近の錠剤をすぐに服用すること。以前に飲み忘れたピルは残しておく。その後7日間はコンドームを使用するか、性交を控える。最近1週間以内に性交渉を持った人は、緊急避妊のアドバイスを受けるべきです。</span>@@
+40. If there are seven or more pills left, then you should finish the pack and have the usual 7-day break. @@html:<span class="ja">残りが7錠以上ある場合は、1パックを飲み終え、通常の7日間の休薬期間を設ける。</span>@@
+41. If there are less than seven pills left in the pack, you should finish the pack. Then, after the pack is finished, you should start a new pack the next day. This means taking the pills one after the other without skipping any days. @@html:<span class="ja">パックに残っている錠剤が7錠未満の場合は、残りの錠剤を服用する。パックが終わったら、次の日に新しいパックを始める。つまり、1日も欠かさずに次々と錠剤を飲むということだ。</span>@@
+42. /Give the patient few seconds of silence./ @@html:<span class="ja"><i>患者に数秒の沈黙を与える。</i></span>@@
+43. Is that clear so far? Do you have any questions for me? Could you repeat back to me what I have said just to make sure that I explained it clearly for you? ここまででクリアでしょうか？何か質問はありますか？私が言ったことをもう一度言ってもらえますか？あなたのために明確に説明したことを確認するために。
+44. /Give the patient some time to explain./ @@html:<span class="ja"><i>患者さんに説明する時間を与えてください。</i></span>@@
+45. Good. @@html:<span class="ja">いいです。</span>@@
+46. 笑。 This is a smile :)))
+47. If you have any questions, let me know. @@html:<span class="ja">何か質問があれば言ってくれ。</span>@@
+48. Thank you for speaking to me today. @@html:<span class="ja">今日は話してくれてありがとう。</span>@@
+
+The patient might ask the following questions @@html:<span class="ja">患者は次のような質問をするかもしれない</span>@@:
+- Do certain medications interact with the pill? @@html:<span class="ja">ある種の薬はピルと相互作用がありますか？</span>@@
+  - Yes, some drugs interact. A few examples are HIV drugs, epilepsy drugs, and St John's Wort. There are more drugs mentioned in the information leaflet that I have provided you with. @@html:<span class="ja">はい、相互作用がある薬もあります。例えば、HIV治療薬、てんかん治療薬、セント・ジョーンズ・ワートなどです。私がお渡しした情報リーフレットには、もっと多くの薬剤が記載されています。</span>@@
+- What if I am vomiting or have diarrhoea? @@html:<span class="ja">嘔吐や下痢の場合はどうすればいいですか？</span>@@
+  - If you vomit within 2 hours after taking the pill, then you should take another pill. @@html:<span class="ja">ピルを服用後2時間以内に嘔吐した場合は、別のピルを服用する必要があります。</span>@@
+  - If you have severe diarrhoea in the last 24 hours, then this is considered as a missed pill. So, follow the instructions that are shown in the leaflet. @@html:<span class="ja">もし、24時間以内にひどい下痢をした場合は、飲み忘 れとみなされます。そのため、リーフレットに記載されている指示に従ってください。</span>@@
+- What if I want to get pregnant? @@html:<span class="ja">妊娠を希望する場合は？</span>@@
+  - If you want to get pregnant, then stop taking the pill. Then, wait for the first natural period to come. After the natural period comes, you can become pregnant. @@html:<span class="ja">妊娠を望むなら、ピルの服用を中止すること。そして、最初の自然な生理が来るのを待ちます。自然な生理が来れば、妊娠することができます。</span>@@
