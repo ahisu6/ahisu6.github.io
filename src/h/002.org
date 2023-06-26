@@ -16,9 +16,9 @@
 
 #+TOC: headlines 2
 
-* Progesterone-only pill
+* Progesterone-only Pill
 :PROPERTIES:
-:CUSTOM_ID: orgece7405
+:CUSTOM_ID: org87e7518
 :END:
 
 Posted: 2023-06-27 | Updated: 2023-06-27
