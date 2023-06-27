@@ -31,11 +31,11 @@ Anywayyyyyyyyy 笑
 
 The POP does not have oestrogen. So, this pill will not stop ovulation. @@html:<span class="ja">POPにはエストロゲンは含まれていません。ですから、このピルで排卵が止まることはありません。</span>@@
 
-This means that the woman must take the pill at the exact same time each day. @@html:<span class="ja">つまり、女性は毎日まったく同じ時間にピルを服用しなければならない。</span>@@
+This means that the woman must take the pill at the /exact/ same time each day. @@html:<span class="ja">つまり、女性は毎日まったく同じ時間にピルを服用しなければならない。</span>@@
 
 If the woman does not do that, then her uterus will pop (like a balloon)... no, I'm joking lol. Sorry. @@html:<span class="ja">もし女性がそうしなければ、子宮が「pop / 弾ける」をすることになる (風船のように)...。いや、冗談だよ笑。ごめん。</span>@@
 
-But, seriously, the woman should take the pill at the same time every day. @@html:<span class="ja">しかし、真面目な話、女性は毎日同じ時間にピルを飲むべきだ。</span>@@
+But, seriously, the woman should take the pill at the /same time/ every day. @@html:<span class="ja">しかし、真面目な話、女性は毎日同じ時間にピルを飲むべきだ。</span>@@
 
 Say these things in order:
 1. Good morning, my name is Dr. XYZ. Can I get your name and date of birth please? @@html:<span class="ja">おはようございます、私はドクターXYZと申します。あなたのお名前と生年月日をお聞かせください。</span>@@
@@ -53,7 +53,7 @@ Say these things in order:
 13. /Give the patient some time to explain./ @@html:<span class="ja"><i>患者さんに説明する時間を与えてください。</i></span>@@
 14. That is great. Thank you. @@html:<span class="ja">それは素晴らしい。ありがとう。</span>@@
 15. So, the pill is 99% effective at preventing pregnancy if you take it correctly, but it does not offer protection against sexually transmitted infections. @@html:<span class="ja">だから、ピルは正しく飲めば99％妊娠を防ぐ効果がありますが、性感染症を防ぐ効果はありません。</span>@@
-16. @@html:<mark>To take the pill correctly, you need to take it each day at the exact same time. Also, you must not miss pills. <span class="ja">ピルを正しく服用するには、毎日まったく同じ時間に服用する必要があります。また、ピルの飲み忘れも禁物です。</span></mark>@@
+16. @@html:<mark>To take the pill correctly, you need to take it each day at the /exact/ same time. Also, you must not miss pills. <span class="ja">ピルを正しく服用するには、毎日まったく同じ時間に服用する必要があります。また、ピルの飲み忘れも禁物です。</span></mark>@@
 17. /Give the patient few seconds of silence./ @@html:<span class="ja"><i>患者に数秒の沈黙を与える。</i></span>@@
 18. I will just do a quick summary of what I have told you so far. @@html:<span class="ja">これまでお話ししたことを簡単にまとめておこう。</span>@@
 19. /Do a quick summary./ @@html:<span class="ja"><i>簡単なまとめをしてください。</i></span>@@
