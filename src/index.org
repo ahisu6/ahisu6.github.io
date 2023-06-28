@@ -51,7 +51,7 @@ Click the chapter which you want to study! @@html:<span class="ja">勉強した�
 - [[file:./og/index.org][Obstetrics and Gynaecology - 産婦人科学 (og)]]
 - [[file:./p/index.org][Paediatrics - 小児科学 (p)]]
 - Cardiology - 循環器学 (c)
-- Respiratory - 呼吸器学 (r)
+- [[file:./r/index.org][Respiratory - 呼吸器学 (r)]]
 - Surgery - 外科学 (s)
 - [[file:./n/index.org][Neurology - 神経学 (n)]]
 - [[file:./d/index.org][Dermatology - 皮膚科学 (d)]]
