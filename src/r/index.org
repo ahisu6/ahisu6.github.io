@@ -1,0 +1,26 @@
+#+TITLE: Respiratory
+
+#+BEGIN_EXPORT html
+<div class="engt">Respiratory</div>
+<div class="japt">呼吸器学</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/r/index.org][Edit]]
+
+[[file:../index.org][Home]]
+
+-----
+
+* List of topics
+:PROPERTIES:
+:CUSTOM_ID: rtopics
+:END:
+
+#+ATTR_HTML: :class sortable
+| Page | Title                            | Date posted |
+|------+----------------------------------+-------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#orgbcdf257][Pulmonary embolism]]                    |  2023-06-28 |
+
+#+BEGIN_EXPORT html
+<script src="https://ahisu6.github.io/assets/js/sortTable.js"></script>
+#+END_EXPORT
