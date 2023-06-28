@@ -21,7 +21,7 @@
 :CUSTOM_ID: org87e7518
 :END:
 
-Posted: 2023-06-27 | Updated: 2023-06-27
+Posted: 2023-06-27 | Updated: 2023-06-28
 
 The progesterone-only pill (POP) is different from the COCP. @@html:<span class="ja">プロゲステロンのみのピル（POP）はCOCPとは異なる。</span>@@
 
@@ -152,7 +152,7 @@ The patient might ask the following questions @@html:<span class="ja">患者は�
 :CUSTOM_ID: org7d34bc2
 :END:
 
-Posted: 2023-06-24 | Updated: 2023-06-24
+Posted: 2023-06-24 | Updated: 2023-06-28
 
 COCP is a hormonal pill. @@html:<span class="ja">COCPはホルモン剤である。</span>@@
 
