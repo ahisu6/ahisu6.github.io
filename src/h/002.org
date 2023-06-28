@@ -39,6 +39,10 @@ Yeahhhhh, maybe I should sleep now... 笑
 
 But, seriously, the woman should take the pill at the /same time/ every day. @@html:<span class="ja">しかし、真面目な話、女性は毎日同じ時間にピルを飲むべきだ。</span>@@
 
+Before explaining any drug or procedure to the patient, you must take a bit of history. @@html:<span class="ja">患者に薬や処置を説明する前に、少し病歴を聞かなければならない。</span>@@
+
+In the case of contraceptions, you must take a brief sexual and menstrual history. @@html:<span class="ja">避妊の場合は、簡単な性生活歴と月経歴を聴取しなければならない。</span>@@
+
 Say these things in order:
 1. Good morning, my name is Dr. XYZ. Can I get your name and date of birth please? @@html:<span class="ja">おはようございます、私はドクターXYZと申します。あなたのお名前と生年月日をお聞かせください。</span>@@
 2. Thank you for coming today. @@html:<span class="ja">本日はご来場いただきありがとうございました。</span>@@
@@ -165,6 +169,10 @@ These fake pills cause something called a "withdrawal bleed." @@html:<span class
 Here is a diagram which explains what happens to your hormones when you take the pill @@html:<span class="ja">ピルを飲むとホルモンに何が起こるかを説明した図がある</span>@@:
 1. [[https://drive.google.com/uc?export=view&id=1pfveJK3RKz8i1EBhCCAFGCa6jBZfPq4X][Japanese version]].
 2. [[https://drive.google.com/uc?export=view&id=1hzge3qHcbc1JtLYj9WeFeglsEBF6owiC][English version]].
+
+Before explaining any drug or procedure to the patient, you must take a bit of history. @@html:<span class="ja">患者に薬や処置を説明する前に、少し病歴を聞かなければならない。</span>@@
+
+In the case of contraceptions, you must take a brief sexual and menstrual history. @@html:<span class="ja">避妊の場合は、簡単な性生活歴と月経歴を聴取しなければならない。</span>@@
 
 Say these things in order:
 1. Good morning, my name is Dr. XYZ. Can I get your name and date of birth please? @@html:<span class="ja">おはようございます、私はドクターXYZと申します。あなたのお名前と生年月日をお聞かせください。</span>@@
