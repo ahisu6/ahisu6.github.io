@@ -63,6 +63,7 @@ In antiphospholipid syndrome, there are 3 important antibodies @@html:<span clas
 :CUSTOM_ID: orge33f012
 :END:
 
+- This depends on 2 things: is the woman pregnant? Did the woman have blood clots before? @@html:<span class="ja">これは2つのことによる。その女性は妊娠しているか？以前に血栓ができたことがあるか？</span>@@
 - Of course, because the blood is sticky, we should give... low-dose aspirin! @@html:<span class="ja">もちろん、血液は粘着性があるので、低用量のアスピリンを投与すべきだ！</span>@@
 - If the woman is pregnant, then give her /low molecular weight heparin/. @@html:<span class="ja">妊娠している場合は、低分子ヘパリンを投与する。</span>@@
 - Avoid giving COCP. This is because COCP causes blood clots. @@html:<span class="ja">COCPの投与は避ける。COCPは血栓を引き起こすからである。</span>@@
