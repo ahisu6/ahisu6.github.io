@@ -16,6 +16,44 @@
 
 #+TOC: headlines 2
 
+* Polyarteritis nodosa
+:PROPERTIES:
+:CUSTOM_ID: org5510b29
+:END:
+
+Posted: 2023-07-20 | Updated: 2023-07-20
+
+@@html:Polyarteritis nodosa is an inflammation of blood vessels everywhere in the body. But... polyarteritis nodosa does not affect the lungs! Remember: in <mark>P</mark>oly<mark>A</mark>rteritis <mark>N</mark>odosa, the <mark>P</mark>ulmonary <mark>A</mark>rtery is <mark>N</mark>ot involved... <mark>PAN and PAN</mark>! <span class="ja">結節性多発動脈炎は全身の血管の炎症です。しかし結節性多発動脈炎は肺には影響しません！</span>@@
+
+@@html:<mark>P</mark>oly<mark>A</mark>rteritis nodosa is associated with he<mark>PA</mark>titis B infection. <span class="ja">結節性多発動脈炎はB型肝炎感染と関連している。</span>@@
+
+Just remember, if a hepatitis B patient has joint pain, fever, and weight loss... then the answer is polyarteritis nodosa! @@html:<span class="ja">B型肝炎患者に関節痛、発熱、体重減少があれば、結節性多発動脈炎である！</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: orgf3233c0
+:END:
+
+- Generalised symptoms such as weight loss and fever. @@html:<span class="ja">体重減少や発熱などの全身症状。</span>@@
+- Muscle pain.
+- Joint pain.
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org780df4c
+:END:
+
+- Do hepatitis B tests.
+- You can also do skin biopsy!
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org3c0a3da
+:END:
+
+- Steroids
+- Treat hepatitis B!
+
 * Antiphospholipid syndrome
 :PROPERTIES:
 :CUSTOM_ID: orgc418e9b
