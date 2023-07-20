@@ -19,6 +19,7 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                | Date posted |
 |------+----------------------+-------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#org0d7a733][Ankylosing spondylitis]] |  2023-07-20 |
 | [[file:./001.org][001]]  | [[file:./001.org::#org2c0517f][Reactive arthritis]] |  2023-03-19 |
 | [[file:./001.org][001]]  | [[file:./001.org::#org09f9cc9][Polymyalgia rheumatica and temporal arteritis]] |  2023-02-27 |
 
