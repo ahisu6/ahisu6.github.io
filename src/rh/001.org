@@ -16,6 +16,48 @@
 
 #+TOC: headlines 2
 
+* Ankylosing spondylitis
+:PROPERTIES:
+:CUSTOM_ID: org0d7a733
+:END:
+
+Posted: 2023-07-20 | Updated: 2023-07-20
+
+This is a disease that causes inflammation in the spine that can lead to stiffness and fusion of the spine making it hard to move. Like a bamboo stick! @@html:<span class="ja">背骨に炎症が起こり、背骨が硬くなったり癒着したりして動きにくくなる病気です。竹の棒のように！</span>@@
+
+This is mainly happens in young men. @@html:<span class="ja">これは主に若い男性に起こる。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org4ae4a08
+:END:
+
+- Spine pain:
+  - Morning stiffness that improves with activity. @@html:<span class="ja">朝のこわばりは活動によって改善する。</span>@@
+  - Pain is worse at night. @@html:<span class="ja">痛みは夜間に悪化する。</span>@@
+  - Pain in the butt. @@html:<span class="ja">尻が痛い。</span>@@
+  - Decreased spinal movement. @@html:<span class="ja">脊柱の動きの低下。</span>@@
+- Pain outside the joints @@html:<span class="ja">関節以外の痛み</span>@@:
+  - Acute anterior uveitis (inflammation of the eye). See this [[https://drive.google.com/uc?export=view&id=1bFVmGMLqmv8CHJ4xHbco-p_ow6LGDFhw][picture]]. @@html:<span class="ja">急性前部ぶどう膜炎（眼球の炎症）。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org3aa5503
+:END:
+
+- X-ray: look at this [[https://drive.google.com/uc?export=view&id=1S2-m5sGzRSQGiHVlK4K7WZFkQcQ4GWge][picture]] for the signs!
+- CRP and ESR are both high... of course 笑
+- HLA-B27: This is a common exam question.
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org35f8c09
+:END:
+
+- Keep doing exercise like swimming and do physiotherapy... @@html:<span class="ja">水泳などの運動を続け、理学療法を行う...。</span>@@
+- NSAID is the first-line!
+- If the patient has pain in places other than the spine, then give them disease-modifying drugs (the same ones we use for rheumatoid arthritis)! @@html:<span class="ja">脊椎以外の場所に痛みがある場合は、疾患修飾薬（関節リウマチに使うものと同じ）を投与する！</span>@@
+
 * Reactive arthritis
 :PROPERTIES:
 :CUSTOM_ID: org2c0517f
