@@ -81,6 +81,7 @@ There are many causes for HYPoOooOoOOthryoidism:
 - If the woman is about to become pregnant, then you must increase the dose of levothyroxine. This is because pregnant women need a lot of thyroid hormones. @@html:<span class="ja">その女性が妊娠しようとしているのであれば、レボチロキシンの量を増やさなければなりません。妊婦はたくさんの甲状腺ホルモンを必要とするからです。</span>@@
 - Also, calcium carbonate can interact with levothyroxine! So, be careful!!! @@html:<span class="ja">また、炭酸カルシウムはレボチロキシンと相互作用する可能性があります！だから気をつけて！！！</span>@@
   - Calcium carbonate sticks to levothyroxine and prevents the absorption of levothyroxine! @@html:<span class="ja">炭酸カルシウムはレボチロキシンとくっつき、レボチロキシンの吸収を妨げる！</span>@@
+- Levothyroxine makes the bone more weak... やれやれ...
 
 * Phaeochromocytoma
 :PROPERTIES:
