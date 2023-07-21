@@ -16,6 +16,163 @@
 
 #+TOC: headlines 2
 
+* Type 2 Diabetes Mellitus
+:PROPERTIES:
+:CUSTOM_ID: org82c832e
+:END:
+
+Posted: 2023-07-21 | Updated: 2023-07-21
+
+This is a common condition. @@html:<span class="ja">これはよくある病気だ。</span>@@
+
+Make sure you know the drugs used. @@html:<span class="ja">使用されている薬剤を確認してください。</span>@@
+
+I drew some charts for you. Please have a look at them and let me know if you do not understand anything. @@html:<span class="ja">いくつかグラフを描いてみた。どうぞご覧になって、わからないことがあれば教えてください。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org07609a3
+:END:
+
+- Usually, there are no symptoms. @@html:<span class="ja">通常、症状はない。</span>@@
+- Thirsty.
+- Weight loss.
+- Urinating a lot.
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org3c62abd
+:END:
+
+You can do HbA1c or you can check blood glucose. @@html:<span class="ja">あなたはHbA1cを調べることができるし、血糖値を調べることもできる。</span>@@
+
+If the patient has symptoms and has a high blood glucose, then they are diagnosed with diabetes. @@html:<span class="ja">症状があり、血糖値が高ければ糖尿病と診断される。</span>@@
+
+If the patient has a high blood glucose level, but they do not have symptoms, then you need to do another blood test. @@html:<span class="ja">血糖値が高くても症状がなければ、もう一度血液検査をする必要があります。</span>@@
+
+| Blood level? | Symptoms? | Does patient have diabetes?            |
+|--------------+-----------+----------------------------------------|
+| High         | Yes       | Diabetes                               |
+| High         | No        | Patient needs to repeat the blood test |
+
+Let's talk about the first way. This is called blood glucose method @@html:<span class="ja">最初の方法について説明しよう。これは血糖値と呼ばれる方法である</span>@@:
+- Japanese: see this [[https://drive.google.com/uc?export=view&id=1LM-obCkz42W2WasPOS_dgcIemUgd4u2t][picture]].
+- English: see this [[https://drive.google.com/uc?export=view&id=1RQPlByenmhV1shOCZToHKuJTs1t35MhD][picture]].
+- Fasting glucose is more than 7 mmol/l. @@html:<span class="ja">空腹時グルコースが7mmol/l以上</span>@@
+  - 7 = ち = 知 = wisdom
+  - @@html:It is a sign of <mark>知</mark> if someone <mark>stops eating food</mark> for a long time. <span class="ja">長期間の<mark>断食</mark>は<mark>知</mark>のしるしである。</span>@@
+- Random glucose is more than 11.1 mmol/l. @@html:<span class="ja"><mark>ランダム</mark>サンプルの血糖値が11.1mmol/l以上。</span>@@
+  - 1 = ひ
+  - 11.1 = ひひ.ひ
+  - @@html:Sometimes you and I do this <mark>ひひひ</mark> laugh <mark>randomly</mark>.@@ @@html:<span class="ja">時々、あなたと私は<mark>ランダム</mark>に「<mark>ひひひ</mark>」をするんだ。</span>@@
+
+Now, let's talk about the second way. This is called HbA1c @@html:<span class="ja">では、2番目の方法について説明しよう。これはHbA1cと呼ばれるものです</span>@@:
+- Japanese: see this [[https://drive.google.com/uc?export=view&id=1tg3wFPxyymbGdcXXioicPE16882LJG_R][picture]].
+- English: see this [[https://drive.google.com/uc?export=view&id=1n1mvJzctB3OrA4Y-Kpbm9e_SH898oKJI][picture]].
+- If the HbA1c level is more than 48 mmol/mol, then the patient has diabetes. @@html:<span class="ja">HbA1c値が48mmol/l以上であれば糖尿病である。</span>@@
+
+After you start treatment, you should check the HbA1c levels every 3-6 months. Then, when the levels are stable, keep checking them every 6 months. @@html:<span class="ja">治療開始後は、3～6ヵ月ごとにHbA1c値をチェックする必要があります。その後、値が安定したら、6ヵ月ごとにチェックを続けます。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: orgef8b70f
+:END:
+
+When the patient is first diagnosed with diabetes, you need to agree on a target HbA1c. This means that you should try to reduce the level of HbA1c so that it is the same as the target. @@html:<span class="ja">患者が初めて糖尿病と診断されたら、HbA1cの目標値を決めておく必要があります。つまり、HbA1cの値が目標値と同じになるように減らす努力をしなければなりません。</span>@@
+
+There are few things that change the target HbA1c level. Here is a table @@html:<span class="ja">HbA1cの目標値を変えるものはほとんどない。ここに表がある</span>@@:
+
+| Treatment                                                                                | Target HbA1c |
+|------------------------------------------------------------------------------------------+--------------|
+| Lifestyle advice and metformin                                                           | 48 mmol/mol  |
+| Patient on drugs that cause hypoglycaemia                                                | 53 mmol/mol  |
+| Patient already has diabetes treatment, but their HbA1c is /still more than 58 mmol/mol/ | 53 mmol/mol  |
+
+First-line is lifestyle advice. @@html:<span class="ja">第一選択治療は生活習慣のアドバイスである。</span>@@
+
+The first-line drug is metformin. @@html:<span class="ja">第一選択薬はメトホルミンである。</span>@@
+
+Sometimes, metformin can cause diarrhoea and stomach pain. If the patient gets those symptoms, then you need to switch to a metformin type that is released /slowly/ (this is called "modified-release metformin"). @@html:<span class="ja">メトホルミンは時に下痢や胃痛を起こすことがある。もしそのような症状が出た場合は、メトホルミンの放出がゆっくりなタイプ（これを「徐放性メトホルミン / modified-release metformin」といいます）に変更する必要があります。</span>@@
+
+If the patient has heart issues, then you should give SGLT-2 inhibitors with the metformin. @@html:<span class="ja">もし患者が心臓に問題を抱えているなら、メトホルミンと一緒にSGLT-2阻害薬を投与すべきである。</span>@@
+
+In the table below, I have summarised all of the diabetes drugs. I will try to make stories for them when I have time. @@html:<span class="ja">下の表に、糖尿病治療薬をすべてまとめてみた。時間があるときに、これらの薬についての物語を作ろうと思う。</span>@@
+
+#+BEGIN_EXPORT html
+<table>
+<tbody>
+<tr>
+<th class="org-left" scope="col">Drug group</th>
+<th class="org-left" scope="col">Examples</th>
+<th class="org-left" scope="col">Side effects</th>
+<th class="org-left" scope="col">Special notes</th>
+</tr>
+<tr>
+<td class="org-left">Metformin</td>
+<td class="org-left">Metformin</td>
+<td class="org-left">
+<ul>
+<li>Gastrointestinal side-effects like diarrhoea</li>
+<li>Lactic acidosis</li>
+</ul>
+</td>
+<td class="org-left">This is the first line.</td>
+</tr>
+<tr>
+<td class="org-left">Sulfonylureas</td>
+<td class="org-left">Gliclazide, glipizide</td>
+<td class="org-left">
+<ul>
+<li>These can reduce your glucose level a loooooooot</li>
+</ul>
+</td>
+<td class="org-left">These are used when the patient has heart issues.</td>
+</tr>
+<tr>
+<td class="org-left">Glitazones</td>
+<td class="org-left">Pioglitazone</td>
+<td class="org-left">
+<ul>
+<li>These can cause the body to store a lot of water. So, they might give the patient pulmonary oedema (fluid in the lung).</li>
+<li>Liver issues</li>
+</ul>
+</td>
+<td class="org-left">Do not use these if the patient has heart failure. They will make the heart failure much worse.</td>
+</tr>
+<tr>
+<td class="org-left">Gliptins</td>
+<td class="org-left">Sitagliptin</td>
+<td class="org-left">
+<ul>
+<li>UTI</li>
+</ul>
+</td>
+<td class="org-left">These do not cause weight gain.</td>
+</tr>
+<tr>
+<td class="org-left">Incretins</td>
+<td class="org-left">Exenatide</td>
+<td class="org-left">
+<ul>
+<li>Pancreatitis</li>
+</ul>
+</td>
+<td class="org-left">These make you feel less hungry.</td>
+</tr>
+<tr>
+<td class="org-left">SGLT2 inhibitors</td>
+<td class="org-left">Dapagliflozin</td>
+<td class="org-left">
+<ul>
+<li>&nbsp;These make you urinate a lot of sugar. So, you might get genital fungal infection!</li>
+</ul>
+</td>
+<td class="org-left">These help with weight loss.</td>
+</tr>
+</tbody>
+</table>
+#+END_EXPORT
+
 * Hypothyroidism
 :PROPERTIES:
 :CUSTOM_ID: orgfed91cd
