@@ -123,10 +123,10 @@ In the table below, I have summarised all of the diabetes drugs. I will try to m
 <td class="org-left">Gliclazide, glipizide</td>
 <td class="org-left">
 <ul>
-<li>These can reduce your glucose level a loooooooot</li>
+<li>These can reduce your glucose level a loooooooot. So, there is a risk of low blood glucose level.</li>
 </ul>
 </td>
-<td class="org-left">These are used when the patient has heart issues.</td>
+<td class="org-left">These are usually used with metformin.</td>
 </tr>
 <tr>
 <td class="org-left">Glitazones</td>
