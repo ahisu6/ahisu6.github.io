@@ -164,7 +164,7 @@ In the table below, I have summarised all of the diabetes drugs. I will try to m
 <td class="org-left">Dapagliflozin</td>
 <td class="org-left">
 <ul>
-<li>&nbsp;These make you urinate a lot of sugar. So, you might get genital fungal infection!</li>
+<li>&nbsp;These make you urinate a lot of sugar. So, you might get genital fungal infection. This is because fungus likes sugar!</li>
 </ul>
 </td>
 <td class="org-left">These help with weight loss.</td>
