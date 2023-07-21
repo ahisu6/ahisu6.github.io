@@ -41,6 +41,13 @@ Hypothyroidism has two types:
 - Primary: this is when the thyroid gland is broken (remember, the thyroid gland produces T4 hormone). This is the common one. @@html:<span class="ja">これは甲状腺が壊れた場合です（甲状腺はT4ホルモンを生成することを覚えておいてください）。これが一般的なものです。</span>@@
 - Secondary: this is when the hypothalamus is broken (hypothalamus produces TSH). This is quite rare. @@html:<span class="ja">これは視床下部が壊れた場合である（視床下部はTSHを産生する）。これはかなりまれなことです。</span>@@
 
+There are many causes for HYPoOooOoOOthryoidism:
+1. Hashimoto's thyroiditis: this affects the thyroid gland. It is autoimmune. It releases antibody called anti-TPO. @@html:<span class="ja">これは甲状腺に影響する。自己免疫性です。抗TPOと呼ばれる抗体を放出します。</span>@@
+2. Thyroid gland surgery
+3. Drugs: lithium and amiodarone! Remember those two! Important!!!
+  - Lithium stops the thyroid gland from making thyroid hormone. @@html:<span class="ja">リチウムは甲状腺が甲状腺ホルモンを作るのを止める。</span>@@
+  - Amiodarone sticks to thyroid hormones. @@html:<span class="ja">アミオダロンは甲状腺ホルモンにくっつく。ベタベタ、ベタベタ、ベタベタ、ベタベタ、ベタベタ、ベタベタ...。</span>@@
+
 ** Signs and symptoms
 :PROPERTIES:
 :CUSTOM_ID: org86f9baf
