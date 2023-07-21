@@ -16,6 +16,64 @@
 
 #+TOC: headlines 2
 
+* Hypothyroidism
+:PROPERTIES:
+:CUSTOM_ID: orgfed91cd
+:END:
+
+Posted: 2023-07-21 | Updated: 2023-07-21
+
+Thyroid gland makes... thyroid hormones. Wowwwwww. Really??? NO WAY!!!!!!!
+
+Ok ok seriously. These hormones regulate body processes, like the speed of cells and organs. @@html:<span class="ja">これらのホルモンは、細胞や臓器のスピードなど、身体のプロセスを調節する。</span>@@
+
+HYPOthryoidism means that we have /few/ thyroid hormones (called T4 hormones). So... everything will be /slow/. Look at that!!! @@html:<mark>hypo</mark> sounds like <mark>slow</mark>@@.
+
+If we have no thyroid hormones, then we cannot generate heat!!!! @@html:<span class="ja">甲状腺ホルモンがなければ、熱を発生させることはできない！！！！</span>@@
+
+You know this already.
+
+Easy.
+
+Here is the weird part...
+
+Hypothyroidism has two types:
+- Primary: this is when the thyroid gland is broken (remember, the thyroid gland produces T4 hormone). This is the common one. @@html:<span class="ja">これは甲状腺が壊れた場合です（甲状腺はT4ホルモンを生成することを覚えておいてください）。これが一般的なものです。</span>@@
+- Secondary: this is when the hypothalamus is broken (hypothalamus produces TSH). This is quite rare. @@html:<span class="ja">これは視床下部が壊れた場合である（視床下部はTSHを産生する）。これはかなりまれなことです。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org86f9baf
+:END:
+
+- Everything is /slow/ and /low/ in HYPOthryoidism!
+- Weight gain... if you are very  @@html:<span class="ja">ぷにぷに</span>@@ then you will be slow at running!!!
+- /Low/ temperature. You will feel cold /all/ the time!!!!
+- /Low/ hair... Low hair???? @@html:<span class="ja">え？えーと。。。まって、まって、まって...。</span>@@
+  - Hair loss and dry skin!!!
+  - Loss of eyebrow hair!
+- /Low/ heart rate (bradycardia)
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org8b6e9ad
+:END:
+
+- You must check the TSH level and T4 levels. @@html:<span class="ja">TSH値とT4値をチェックする必要があります。</span>@@
+  - T4 will be low because the thyroid is broken. @@html:<span class="ja">甲状腺が壊れているので、T4は低くなる。</span>@@
+  - TSH will be high because the hypothalamus is panicking and it is saying "Ahhhh why are the T4 levels low?! I should make more TSH!!!" @@html:<span class="ja">TSHが高くなるのは、視床下部がパニックを起こし、「ああ、なぜT4値が低いのだ？！もっとTSHを作るべきだ！！！」。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org07e0ec8
+:END:
+
+- You should give levothyroxine to the patient. @@html:<span class="ja">患者にレボチロキシンを投与する必要がある。</span>@@
+- Levothyroxine is basically thyroid hormones. @@html:<span class="ja">レボチロキシンは基本的に甲状腺ホルモンである。</span>@@
+- If the woman is about to become pregnant, then you must increase the dose of levothyroxine. This is because pregnant women need a lot of thyroid hormones. @@html:<span class="ja">その女性が妊娠しようとしているのであれば、レボチロキシンの量を増やさなければなりません。妊婦はたくさんの甲状腺ホルモンを必要とするからです。</span>@@
+- Also, calcium carbonate can interact with levothyroxine! So, be careful!!! @@html:<span class="ja">また、炭酸カルシウムはレボチロキシンと相互作用する可能性があります！だから気をつけて！！！</span>@@
+  - Calcium carbonate sticks to levothyroxine and prevents the absorption of levothyroxine! @@html:<span class="ja">炭酸カルシウムはレボチロキシンとくっつき、レボチロキシンの吸収を妨げる！</span>@@
+
 * Phaeochromocytoma
 :PROPERTIES:
 :CUSTOM_ID: org1ffb3ae
