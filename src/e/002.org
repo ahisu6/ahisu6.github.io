@@ -68,7 +68,7 @@ There are many causes for HYPoOooOoOOthryoidism:
 
 - You must check the TSH level and T4 levels. @@html:<span class="ja">TSH値とT4値をチェックする必要があります。</span>@@
   - T4 will be low because the thyroid is broken. @@html:<span class="ja">甲状腺が壊れているので、T4は低くなる。</span>@@
-  - TSH will be high because the hypothalamus is panicking and it is saying "Ahhhh why are the T4 levels low?! I should make more TSH!!!" @@html:<span class="ja">TSHが高くなるのは、視床下部がパニックを起こし、「ああ、なぜT4値が低いのだ？！もっとTSHを作るべきだ！！！」。</span>@@
+  - TSH will be high because the hypothalamus is panicking and it is saying "Ahhhh why are the T4 levels low?! I should make more TSH!!!" @@html:<span class="ja">TSHが高くなるのは、視床下部がパニックを起こし、「あ～、なぜT4値が低いのだ？！もっとTSHを作るべきだ！！！」。</span>@@
 
 ** Treatment
 :PROPERTIES:
