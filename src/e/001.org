@@ -373,6 +373,7 @@ There are two types:
 
 - Parathyroid hormone levels: these will be /high/. @@html:<span class="ja">これらは高くなります。</span>@@
 - Serum calcium levels: these will be /high/. @@html:<span class="ja">これらは高くなります。</span>@@
+- Phosphate will be low. This is because phosphate sticks to calcium. @@html:<span class="ja">リン酸濃度は低くなる。これはリン酸塩がカルシウムとくっつくからだ。</span>@@
 - Parathyroid scanning: this is done if you think the patient has parathyroid adenoma. @@html:<span class="ja">副甲状腺腺腫と思われる場合に行います。</span>@@
 
 **** Treatment of primary hyperparathyroidism
