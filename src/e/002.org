@@ -167,7 +167,7 @@ In the table below, I have summarised all of the diabetes drugs. I will try to m
 <li>These make you urinate a lot of sugar. So, you might get genital fungal infection. This is because fungus likes sugar!</li>
 </ul>
 </td>
-<td class="org-left">These help with weight loss.</td>
+<td class="org-left">These help with weight loss. Also, give these if the patient has heart issues!</td>
 </tr>
 </tbody>
 </table>
