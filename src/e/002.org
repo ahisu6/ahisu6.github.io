@@ -50,10 +50,10 @@ If the patient has symptoms and has a high blood glucose, then they are diagnose
 
 If the patient has a high blood glucose level, but they do not have symptoms, then you need to do another blood test. @@html:<span class="ja">血糖値が高くても症状がなければ、もう一度血液検査をする必要があります。</span>@@
 
-| Sugar level? | Symptoms? | Does patient have diabetes?            |
-|--------------+-----------+----------------------------------------|
-| High         | Yes       | Diabetes                               |
-| High         | No        | Patient needs to repeat the blood test |
+| Sugar level? | Symptoms? | Diagnosis?                              |
+|--------------+-----------+-----------------------------------------|
+| High         | Yes       | Diabetes                                |
+| High         | No        | Patient needs to repeat the blood test! |
 
 Let's talk about the first way. This is called blood glucose method @@html:<span class="ja">最初の方法について説明しよう。これは血糖値と呼ばれる方法である</span>@@:
 - Japanese: see this [[https://drive.google.com/uc?export=view&id=1RQPlByenmhV1shOCZToHKuJTs1t35MhD][picture]].
