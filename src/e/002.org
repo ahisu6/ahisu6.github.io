@@ -42,7 +42,7 @@ Hypothyroidism has two types:
 - Secondary: this is when the hypothalamus is broken (hypothalamus produces TSH). This is quite rare. @@html:<span class="ja">これは視床下部が壊れた場合である（視床下部はTSHを産生する）。これはかなりまれなことです。</span>@@
 
 There are many causes for HYPoOooOoOOthryoidism:
-1. Hashimoto's thyroiditis: this affects the thyroid gland. It is autoimmune. It releases antibody called anti-TPO (Thyroid PerOxidase). @@html:<span class="ja">これは甲状腺に影響する。自己免疫性です。抗TPO（Thyroid PerOxidase）と呼ばれる抗体を放出します。</span>@@
+1. Hashimoto thyroiditis: this affects the thyroid gland. It is autoimmune. It releases antibody called anti-TPO (Thyroid PerOxidase). @@html:<span class="ja">これは甲状腺に影響する。自己免疫性です。抗TPO（Thyroid PerOxidase）と呼ばれる抗体を放出します。</span>@@
 2. Thyroid gland surgery
 3. Drugs: lithium and amiodarone! Remember those two! Important!!!
   - Lithium stops the thyroid gland from making thyroid hormone. @@html:<span class="ja">リチウムは甲状腺が甲状腺ホルモンを作るのを止める。</span>@@
@@ -69,6 +69,7 @@ There are many causes for HYPoOooOoOOthryoidism:
 - You must check the TSH level and T4 levels. @@html:<span class="ja">TSH値とT4値をチェックする必要があります。</span>@@
   - T4 will be low because the thyroid is broken. @@html:<span class="ja">甲状腺が壊れているので、T4は低くなる。</span>@@
   - TSH will be high because the hypothalamus is panicking and it is saying "Ahhhh why are the T4 levels low?! I should make more TSH!!!" @@html:<span class="ja">TSHが高くなるのは、視床下部がパニックを起こし、「あ～、なぜT4値が低いのだ？！もっとTSHを作るべきだ！！！」。</span>@@
+- If you think that the patient has Hashimoto thyroiditis, then you should check if there is anti-TPO in the blood. @@html:<span class="ja">患者が橋本甲状腺炎であると思われる場合は、血液中に抗TPOがあるかどうかを調べるべきです。</span>@@
 
 ** Treatment
 :PROPERTIES:
