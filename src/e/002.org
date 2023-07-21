@@ -50,7 +50,7 @@ If the patient has symptoms and has a high blood glucose, then they are diagnose
 
 If the patient has a high blood glucose level, but they do not have symptoms, then you need to do another blood test. @@html:<span class="ja">血糖値が高くても症状がなければ、もう一度血液検査をする必要があります。</span>@@
 
-| Blood level? | Symptoms? | Does patient have diabetes?            |
+| Sugar level? | Symptoms? | Does patient have diabetes?            |
 |--------------+-----------+----------------------------------------|
 | High         | Yes       | Diabetes                               |
 | High         | No        | Patient needs to repeat the blood test |
