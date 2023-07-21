@@ -19,6 +19,7 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                | Date posted |
 |------+----------------------+-------------|
+| [[file:./002.org][002]]  | [[file:./002.org::#org1ffb3ae][Phaeochromocytoma]] |  2023-07-21 |
 | [[file:./002.org][002]]  | [[file:./002.org::#org5506f29][Hypoglycaemia]] |  2023-06-13 |
 | [[file:./002.org][002]]  | [[file:./002.org::#orgeec3172][Anaphylaxis]] |  2023-06-12 |
 | [[file:./001.org][001]]  | [[file:./001.org::#orgcd73fc0][Hyperosmolar hyperglycaemic state]] |  2023-06-10 |
