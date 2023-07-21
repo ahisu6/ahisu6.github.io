@@ -16,6 +16,49 @@
 
 #+TOC: headlines 2
 
+* Phaeochromocytoma
+:PROPERTIES:
+:CUSTOM_ID: org1ffb3ae
+:END:
+
+Posted: 2023-07-21 | Updated: 2023-07-21
+
+This is a cancer of the adrenal gland. @@html:<span class="ja">これは副腎の癌である。</span>@@
+
+It is associated with a group of cancers called "Multiple Endocrine Neoplasia Type 2". @@html:<span class="ja">「Multiple Endocrine Neoplasia Type 2」と呼ばれる一群のがんと関連している。</span>@@
+
+This cancer makes a lot of adrenaline. @@html:<span class="ja">このがんはアドレナリンを大量に分泌する。</span>@@
+
+Adrenaline belongs to a group of chemicals called "catecholamine". @@html:<span class="ja">アドレナリンは「カテコールアミン」と呼ばれる化学物質群に属する。</span>@@
+
+The adrenaline makes your blood pressure /really/ high. @@html:<span class="ja">アドレナリンは血圧を非常に、非常に高くする。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org6d88fc6
+:END:
+
+- @@html:You can remember the symptoms of <mark>P</mark>haeochromocytoma like this <mark>PPP</mark>@@:
+  - @@html:High blood <mark>P</mark>ressure: very, very, very, very, very, very, very, very, very, very, very high blood pressure.@@
+  - @@html:Head <mark>P</mark>ain: there is a lot of headache.@@
+  - @@html:<mark>P</mark>alpitations: the adrenaline makes your heart beat faster. <span class="ja">アドレナリンが心臓の鼓動を早める。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: orgceb2971
+:END:
+
+- You should do a blood test to see if the patient has catecholamine (like we said before, catecholamine is another word for adrenaline). @@html:<span class="ja">血液検査をして、患者にカテコールアミン（前にも言ったように、カテコールアミンとはアドレナリンの別名である）があるかどうかを確認する必要がある。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org794af8f
+:END:
+
+- @@html:First, you need to give the patient alpha-blocker. You need to use <mark>p</mark>henoxybenzamine. This is easy to remember: <mark>P</mark>henoxybenzamine and <mark>P</mark>haeochromocytoma. <span class="ja">まず、患者にα遮断薬を投与する必要がある。フェノキシベンザミンを使う必要がある。これは覚えやすい：<mark>フェ</mark>ノキシベンザミンと<mark>フェ</mark>オクロモサイトーマ。</span>@@
+- Then, give a beta-blocker. @@html:<span class="ja">それからβ遮断薬を投与する。</span>@@
+- Then, after few weeks, you need to do surgery to remove the cancer. @@html:<span class="ja">そして数週間後、癌を取り除く手術をする必要がある。</span>@@
+
 * Hypoglycaemia
 :PROPERTIES:
 :CUSTOM_ID: org5506f29
