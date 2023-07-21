@@ -19,6 +19,7 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                | Date posted |
 |------+----------------------+-------------|
+| [[file:./002.org][002]]  | [[file:./002.org::#org82c832e][Type 2 Diabetes Mellitus]] |  2023-07-21 |
 | [[file:./002.org][002]]  | [[file:./002.org::#orgfed91cd][Hypothyroidism]] |  2023-07-21 |
 | [[file:./002.org][002]]  | [[file:./002.org::#org1ffb3ae][Phaeochromocytoma]] |  2023-07-21 |
 | [[file:./002.org][002]]  | [[file:./002.org::#org5506f29][Hypoglycaemia]] |  2023-06-13 |
