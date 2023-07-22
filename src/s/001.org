@@ -25,7 +25,7 @@ Posted: 2023-07-23 | Updated: 2023-07-23
 
 This is the cancer of the colon and the rectum. @@html:<span class="ja">これは結腸と直腸の癌である。</span>@@
 
-We do screening in the UK. It is called Faecal Immunochemical Test (FIT) screening. This is done every 2 years. @@html:<span class="ja">英国ではスクリーニングを行っています。これはFIT（Faecal Immunochemical Test）スクリーニングと呼ばれています。これは2年ごとに行われます。</span>@@
+We do screening in the UK. It is called "Faecal Immunochemical Test (FIT)" screening. This is done every 2 years. @@html:<span class="ja">英国ではスクリーニングを行っています。これは「Faecal Immunochemical Test（FIT）」スクリーニングと呼ばれています。これは2年ごとに行われます。</span>@@
 
 There are some referral guidelines that you need to know @@html:<span class="ja">知っておくべき紹介のガイドラインがいくつかある</span>@@:
 1. Patient over 40 years old and has weight loss plus tummy pain. @@html:<span class="ja">患者は40歳以上で、体重減少とおなかの痛みがある。</span>@@
