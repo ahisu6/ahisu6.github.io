@@ -14,6 +14,64 @@
 
 #+TOC: headlines 2
 
+* Multiple sclerosis
+:PROPERTIES:
+:CUSTOM_ID: orgc78efac
+:END:
+
+Posted: 2023-07-22 | Updated: 2023-07-22
+
+Multiple sclerosis is when the immune system accidently attacks the protective coating (myelin sheath) of nerve fibers in the brain. @@html:<span class="ja">多発性硬化症は、免疫系が脳の神経線維の保護膜（ミエリン鞘）を誤って攻撃することで発症する。</span>@@
+
+It is more common in Caucasian women. @@html:<span class="ja">白人女性に多い。</span>@@
+
+There are different type of multiple sclerosis. Look at this [[https://drive.google.com/uc?export=view&id=1EdiMh9yVmeZoSPWsYih-XdwrkWv6ga42][picture]] @@html:<span class="ja">多発性硬化症にはさまざまなタイプがある</span>@@:
+01. Relapsing-remitting: this is the most common. The symptoms come and go. The patient will get acute attacks of multiple sclerosis, and then will have no symptoms. This will keep repeating. @@html:<span class="ja">再発寛解型：これが最も一般的だ。症状は出たり消えたりする。患者は多発性硬化症の急性発作を起こし、その後症状がなくなる。これが繰り返される。</span>@@
+02. Secondary progressive disease: this comes after the "Relapsing-remitting" type. Basically, the patient will now develop permanent neurological symptoms. So, the patient will usually start with the "Relapsing-remitting" type, and will then become "Secondary progressive". @@html:<span class="ja">二次進行型：これは「再発寛解型」の後に起こる。基本的に、患者は永続的な神経症状を呈するようになる。つまり、患者は通常「再発寛解型」で始まり、その後「二次進行型」になる。</span>@@
+03. Primary progressive disease: this is constant deterioration from the beginning of the disease. The patient will keep getting worse, and worse, and worse, and worse! @@html:<span class="ja">原発性進行性疾患：これは病気の初期から絶え間ない悪化である。患者はどんどん悪化していく！</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org0034d4f
+:END:
+
+- The symptoms are usually general. @@html:<span class="ja">通常、症状は一般的である。</span>@@
+- Tired. @@html:<span class="ja">いつも疲れている。</span>@@
+- Optic neuritis: this is the inflammation of the optic nerve. The patient will be unable to see colours properly. The patient cannot see the colour red. Optic neuritis causes a lot of pain. @@html:<span class="ja">これは視神経の炎症である。患者は色を正しく見ることができなくなる。患者は赤い色を見ることができない。視神経炎は多くの痛みを引き起こします。</span>@@
+- Uhthoff's phenomenon: this is an interesting one. Basically, the patient will have worse symptoms when they have a high body temperature. @@html:<span class="ja">これは興味深い。基本的に、患者は体温が高いと症状が悪化する。</span>@@
+- Pins and needles.
+- Numb.
+- Leg weakness.
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org737d56e
+:END:
+
+- You need to find the lesions in the brain. @@html:<span class="ja">脳の病変を見つける必要がある。</span>@@
+- To do that, you need to do MRI scan of the brain and spinal cord. @@html:<span class="ja">そのためには、脳と脊髄のMRIスキャンが必要です。</span>@@
+- When you do MRI scan, you will find something called high signal T2 lesions. Look at this [[https://drive.google.com/uc?export=view&id=1Jj3qXf5O8MyMXKVumcfSo6wqfb6sUMqn][picture]]. @@html:<span class="ja">MRI検査をすると、高信号T2病変と呼ばれるものが見つかります。</span>@@
+- On the MRI, the patient might also have something called Dawson fingers. Look at this [[https://drive.google.com/uc?export=view&id=1aVIaOgylg1tsDxFEhbGtLl6rMW3nB37T][picture]]. They look like fingers... @@html:<span class="ja">MRI上では、ドーソンフィンガーと呼ばれるものも認められる。これは指のように見えますね？</span>@@
+- If you do a lumbar puncture, you will see things called "oligoclonal bands". These are weird proteins (immunoglobulins). @@html:<span class="ja">腰椎穿刺をすると、「オリゴクローナル・バンド」と呼ばれるものが見えます。これは奇妙なタンパク質（免疫グロブリン）です。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: orgcca981e
+:END:
+
+- If the patient is having an acute attack, then you should give them high dose of steroid for 5 days. This is used for acute management. @@html:<span class="ja">もし患者が急性発作を起こしているのであれば、ステロイドを5日間大量に投与する必要がある。これは急性期の治療に使われます。</span>@@
+- To reduce the number of future attacks, you can use a drug called interferon-beta. This is used for long-term management. @@html:<span class="ja">将来の発作の回数を減らすために、インターフェロン-βという薬を使うことができます。これは長期的な管理に用いられます。</span>@@
+- @@html:If the patient feels tired, then you can give them amantadine. One day, there was <mark>a man</mark> who always felt tired... so, we gave him <markmark>aman</markmark>tadine. <span class="ja">患者が疲れを感じているなら、アマンタジンを投与すればいい。</span>@@
+- If the patient has spasm, then give them baclofen or gabapentin. @@html:<span class="ja">筋痙攣があれば、バクロフェンかガバペンチンを投与する。</span>@@
+
+Here is a table:
+| Type of treatment | Drug                           |
+|-------------------+--------------------------------|
+| Acute attack      | Steroid                        |
+| Long-term         | Interferon-beta                |
+| Tired             | Amantadine                     |
+| Spasm             | Baclofen or gabapentin         |
+
 * Parkinson disease
 :PROPERTIES:
 :CUSTOM_ID: org87512dc
