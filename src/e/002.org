@@ -106,13 +106,15 @@ In the table below, I have summarised all of the diabetes drugs. I will try to m
 <col class="org-left">
 <col class="org-left">
 </colgroup>
-<tbody>
+<thead>
 <tr>
 <th class="org-left" scope="col">Drug group</th>
 <th class="org-left" scope="col">Examples</th>
 <th class="org-left" scope="col">Side effects</th>
 <th class="org-left" scope="col">Special notes</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td class="org-left">Metformin</td>
 <td class="org-left">Metformin</td>
