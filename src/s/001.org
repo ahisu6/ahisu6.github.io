@@ -92,8 +92,9 @@ Look at this table:
 | Loop | This is used to protect the rest of bowel. @@html:<span class="ja">これは腸の残りの部分を保護するために使用される。</span>@@                       |
 | End  | This is used when you remove a large section of the bowel. @@html:<span class="ja">これは、腸の大部分を永久的に切除する場合に使用される。</span>@@ |
 
-- The surgery depends on the site of the cancer. There are different types of surgeries. Look at this [[https://drive.google.com/uc?export=view&id=1fBSVmHJpXQZdW0wKlNOWqY0ASC16wbpv][picture]]. @@html:<span class="ja">手術はがんの部位によって異なります。手術にはさまざまな種類があります。</span>@@
-- In an emergency situation, we do something called Hartmann's procedure. In this procedure, they remove the /sigmoid colon/ and they create an /end-colostomy/ (this is because we removed the rectum forever). @@html:<span class="ja">緊急時には、ハルトマン手術というものを行います。この手術ではS状結腸を切除し、終末結腸瘻を造設します（これは直腸を永遠に切除したためです）。</span>@@
+The surgery depends on the site of the cancer. There are different types of surgeries. Look at this [[https://drive.google.com/uc?export=view&id=1fBSVmHJpXQZdW0wKlNOWqY0ASC16wbpv][picture]]. @@html:<span class="ja">手術はがんの部位によって異なります。手術にはさまざまな種類があります。</span>@@
+
+In an emergency situation, we do something called Hartmann's procedure. In this procedure, they remove the /sigmoid colon/ and they create an /end-colostomy/ (this is because we removed the rectum forever). @@html:<span class="ja">緊急時には、ハルトマン手術というものを行います。この手術ではS状結腸を切除し、終末結腸瘻を造設します（これは直腸を永遠に切除したためです）。</span>@@
 
 Look at this table and look at this [[https://drive.google.com/uc?export=view&id=17pC_LDsnAXRTid6pq4M8YF6hbti_n-NQ][picture]]:
 | Site of the cancer                           | Type of surgery                      |
