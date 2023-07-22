@@ -273,6 +273,7 @@ The adrenaline makes your blood pressure /really/ high. @@html:<span class="ja">
 :END:
 
 - You should do a blood test to see if the patient has catecholamine (like we said before, catecholamine is another word for adrenaline). @@html:<span class="ja">血液検査をして、患者にカテコールアミン（前にも言ったように、カテコールアミンとはアドレナリンの別名である）があるかどうかを確認する必要がある。</span>@@
+- We should check something called metanephrines. This is when your body breaks down catecholamine.
 
 ** Treatment
 :PROPERTIES:
