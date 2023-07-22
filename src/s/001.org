@@ -1,0 +1,105 @@
+#+TITLE: Surgery 001
+
+#+BEGIN_EXPORT html
+<div class="engt">Surgery</div>
+<div class="japt">外科学</div>
+<div class="engt">Page 001</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/s/001.org][Edit]]
+
+[[file:./index.org][Home]]
+
+[[file:./002.org][Next page >>]]
+
+-----
+
+#+TOC: headlines 2
+
+* Colorectal cancer
+:PROPERTIES:
+:CUSTOM_ID: orgb145d38
+:END:
+
+Posted: 2023-- | Updated: 2023--
+
+This is the cancer of the colon and the rectum. @@html:<span class="ja">これは結腸と直腸の癌である。</span>@@
+
+We do screening in the UK. It is called Faecal Immunochemical Test (FIT) screening. This is done every 2 years. @@html:<span class="ja">英国ではスクリーニングを行っています。これはFIT（Faecal Immunochemical Test）スクリーニングと呼ばれています。これは2年ごとに行われます。</span>@@
+
+There are some referral guidelines that you need to know @@html:<span class="ja">知っておくべき紹介のガイドラインがいくつかある</span>@@:
+1. Patient over 40 years old and has weight loss plus tummy pain. @@html:<span class="ja">患者は40歳以上で、体重減少とおなかの痛みがある。</span>@@
+2. Patient over 50 years old and has rectal bleeding. @@html:<span class="ja">50歳以上で直腸出血のある患者。</span>@@
+3. Patient over 60 years old and has iron deficiency anaemia OR change in bowel habit. @@html:<span class="ja">60歳以上で鉄欠乏性貧血があるか、または腸の習慣に変化がある患者。</span>@@
+
+There are three types of colorectal cancer @@html:<span class="ja">大腸がんには3つのタイプがある</span>@@:
+- Sporadic: this is the most common. This happens randomly in people. @@html:<span class="ja">散発性がん：これが最も一般的である。これは人にランダムに起こる。</span>@@
+- Hereditary non-polyposis colorectal carcinoma: this is also called Lynch syndrome. This is inherited from parents. It is autosomal dominant condition. This also increases risk of /endometrial/ cancer. @@html:<span class="ja">これはリンチ症候群とも呼ばれる。これは両親から遺伝する。常染色体優性遺伝である。これも子宮内膜がんのリスクを増加させる。</span>@@
+- Familial adenomatous polyposis: this one is rare. Basically, in here, the patient will get hundreds of polyps in the colorectal area. It is caused by a mutation in a gene called APC. @@html:<span class="ja">こちらはまれです。基本的には、大腸領域に数百のポリープができます。APCと呼ばれる遺伝子の突然変異が原因です。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org3e10903
+:END:
+
+- Rectal bleeding.
+- Tummy pain.
+- Weight loss.
+- Iron deficiency anaemia.
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org6db8351
+:END:
+
+- As we said before, there is FIT screening. @@html:<span class="ja">前にも言ったように、FIT検査がある。</span>@@
+- We do colonoscopy to take samples and view them under the microscope. @@html:<span class="ja">私たちは大腸内視鏡検査でサンプルを採取し、顕微鏡で観察します。</span>@@
+- When we diagnose the patient with colorectal cancer, we have to do CT scan of the chest, abdomen, and pelvis. This is because we need to check if the cancer has spread. @@html:<span class="ja">大腸癌と診断した場合、胸部、腹部、骨盤のCTスキャンを行わなければならない。これは、癌が広がっているかどうかをチェックする必要があるからです。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org332edc9
+:END:
+
+Before we look at the treatments, you need to understand the stomas. @@html:<span class="ja">治療法を見る前に、ストーマについて理解する必要がある。</span>@@
+
+A stoma is a small opening made on the abdomen. This allows poop to exit the body. It is made surgically and can be either temporary or permanent. @@html:<span class="ja">ストーマは腹部に作られた小さな開口部である。これによってウンチを体外に出すことができる。ストーマは外科的に造られ、一時的なものと永続的なものがある。</span>@@
+
+Stoma means "mouth" in Greek language. @@html:<span class="ja">ストーマとはギリシャ語で「口」を意味する。えーーーーーと...。</span>@@
+
+There are two types of stomas. Look at this [[https://drive.google.com/uc?export=view&id=1n8BFFRLKlRLPzaYDA92d0OAY5rn5NzRD][picture]] @@html:<span class="ja">ストーマには2種類ある</span>@@:
+1. Colostomy
+2. Ileostomy
+
+Let's first talk about colostomy @@html:<span class="ja">まず人工肛門について話そう</span>@@:
+- In colostomy, we use the large bowel. Look at the name: it has "colo". This means we use the colon. @@html:<span class="ja">人工肛門では大腸を使います。名前を見てください。「colo」がついています。これは大腸を使うという意味です。</span>@@
+- You can find this on the left side of the tummy. Look at this [[https://drive.google.com/uc?export=view&id=1n8BFFRLKlRLPzaYDA92d0OAY5rn5NzRD][picture]]. @@html:<span class="ja">おなかの左側にある。</span>@@
+- This acts like the anus. @@html:<span class="ja">これは肛門のような役割を果たす。</span>@@
+- The content of this is solid poop. @@html:<span class="ja">その内容はしっかりしたウンコだ。</span>@@
+- There is end-colostomy. This is when the rectum and the colon are removed. If you remove the rectum, then the patient will not be able to poop. So, we should give them an end-colostomy. @@html:<span class="ja">エンドコロストミーがある。直腸と結腸を切除する場合です。直腸を切除すると、患者はウンチができなくなります。ですから、終末結腸瘻を造設します。</span>@@
+- There is also loop-colostomy. Sometimes, you want to protect the rectum. For example, if you do a small surgery in the rectum, then you want to protect it from damage. So, you do something called loop-colostomy. Look at this [[https://drive.google.com/uc?export=view&id=1B7ETRjal8F2c9JFuwuE2iG5wOFhRIS26][picture]]. @@html:<span class="ja">ループコロストミーもある。直腸を保護したい場合もあります。例えば、直腸で小さな手術をする場合、直腸を損傷から守りたい。そこで、ループコロストミーと呼ばれる手術を行います。</span>@@
+
+Now, let's talk about ileostomy @@html:<span class="ja">では、イレオストミーについて話そう</span>@@:
+- In ileostomy, we use the small bowel. Look at the name: it has "ileo". This means we use the ilium (small bowel). @@html:<span class="ja">イレオストミーでは小腸を使う。名前を見てください。「ileo」がついています。これは腸骨（小腸）を使うという意味です。</span>@@
+- You can find this on the right side of the tummy. Look at this [[https://drive.google.com/uc?export=view&id=1n8BFFRLKlRLPzaYDA92d0OAY5rn5NzRD][picture]]. @@html:<span class="ja">おなかの右側にある。</span>@@
+- The content of the stoma is usually liquid. @@html:<span class="ja">ストーマの内容物は通常液体である。</span>@@
+- The content can irritate the skin. So, we do something called a "spout". The spout will protect the skin. Look at this [[https://drive.google.com/uc?export=view&id=1niCr2a-npBEL-TGTET4unio_GxPkxOW8][picture]]. @@html:<span class="ja">中身が皮膚を刺激することもある。そこで、「スパウト」と呼ばれるものを使用する。注ぎ口は皮膚を保護する。</span>@@
+- Again, there is end-ileostomy and loop-ileostomy. These have the same reasons as the colostomies. @@html:<span class="ja">ここでも、終末人工肛門とループ人工肛門がある。これらは人工肛門と同じ理由である。</span>@@
+
+Look at this table:
+| Type | Reason                                                                                                                                             |
+|------+----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Loop | This is used to protect the rest of bowel. @@html:<span class="ja">これは腸の残りの部分を保護するために使用される。</span>@@                       |
+| End  | This is used when you remove a large section of the bowel. @@html:<span class="ja">これは、腸の大部分を永久的に切除する場合に使用される。</span>@@ |
+
+- The surgery depends on the site of the cancer. There are different types of surgeries. Look at this [[https://drive.google.com/uc?export=view&id=1fBSVmHJpXQZdW0wKlNOWqY0ASC16wbpv][picture]]. @@html:<span class="ja">手術はがんの部位によって異なります。手術にはさまざまな種類があります。</span>@@
+- In an emergency situation, we do something called Hartmann's procedure. In this procedure, they remove the /sigmoid colon/ and they create an /end-colostomy/ (this is because we removed the rectum forever). @@html:<span class="ja">緊急時には、ハルトマン手術というものを行います。この手術ではS状結腸を切除し、終末結腸瘻を造設します（これは直腸を永遠に切除したためです）。</span>@@
+
+Look at this table and look at this [[https://drive.google.com/uc?export=view&id=17pC_LDsnAXRTid6pq4M8YF6hbti_n-NQ][picture]]:
+| Site of the cancer                           | Type of surgery                      |
+|----------------------------------------------+--------------------------------------|
+| Caecum, ascending, proximal transverse colon | Right hemicolectomy                  |
+| Distal transverse, descending colon          | Left hemicolectomy                   |
+| Sigmoid colon                                | High anterior resection              |
+| Rectum                                       | Anterior resection                   |
+| Anus                                         | Abdomino-perineal excision of rectum |
