@@ -98,6 +98,7 @@ Look at this table:
 Look at this table and look at this [[https://drive.google.com/uc?export=view&id=17pC_LDsnAXRTid6pq4M8YF6hbti_n-NQ][picture]]:
 | Site of the cancer                           | Type of surgery                      |
 |----------------------------------------------+--------------------------------------|
+| Emergency surgery                            | Hartmann's procedure                 |
 | Caecum, ascending, proximal transverse colon | Right hemicolectomy                  |
 | Distal transverse, descending colon          | Left hemicolectomy                   |
 | Sigmoid colon                                | High anterior resection              |
