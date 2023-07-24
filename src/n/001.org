@@ -14,6 +14,88 @@
 
 #+TOC: headlines 2
 
+* Schizophrenia
+:PROPERTIES:
+:CUSTOM_ID: orgdd7f1a5
+:END:
+
+Posted: 2023-07-24 | Updated: 2023-07-24
+
+This is a chronic disease. @@html:<span class="ja">これは慢性疾患だ。</span>@@
+
+There is some genetics that can increase the chance of getting schizophrenia. @@html:<span class="ja">統合失調症になる可能性を高める遺伝もある。</span>@@
+
+The symptoms are separated into positive symptoms and negative symptoms. @@html:<span class="ja">症状は陽性症状と陰性症状に分けられる。</span>@@
+
+Positive symptoms are changes in behaviour. For example, delusions and hallucinations. @@html:<span class="ja">陽性症状とは行動の変化である。例えば、妄想や幻覚などである。</span>@@
+
+Negative symptoms are things like feeling depressed and social isolation. Another interesting example of negative symptoms is that the patient will speak very little... this is called alogia. @@html:<span class="ja">陰性症状とは、気分が落ち込んだり、社会的に孤立したりすることです。陰性症状のもう一つの興味深い例は、患者がほとんど話さなくなることである。</span>@@
+
+If you know the trigger that started the schizophrenia, then the patient will have a better prognosis. @@html:<span class="ja">精神分裂病が始まったきっかけが分かれば、患者の予後は良くなる。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org1b24e0a
+:END:
+
+@@html:You need to remember the first-rank symptoms of acute schizophrenia (<mark>ABCD</mark>) <span class="ja">急性統合失調症の第一級症状（<mark>ABCD</mark>）を覚えておく必要がある</span>@@:
+- @@html:Auditory hallucinations@@
+- @@html:Broadcasting: so, the patient will say that other people can hear their thoughts. Or, sometimes the patient might think that people are taking the thoughts from the patient's brain. <span class="ja">患者は、他人が自分の考えを聞くことができると言う。あるいは、患者が、自分の脳から思考が取り出されていると考えることもある。</span>@@
+- @@html:Controlled feelings: the patient will say that their own actions are being controlled. <span class="ja">患者は自分の行動がコントロールされていると言うだろう。</span>@@
+- @@html:Delusional perception: for example, the patient might see a blue car, and then they might think that this is a sign from the universe that it will rain today. <span class="ja">例えば、患者は青い車を見て、これは今日雨が降るという宇宙からのサインだと思うかもしれない。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org9e887fa
+:END:
+
+- This is clinical diagnosis.
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org556c72e
+:END:
+
+- You need to give antipsychotics. So, you can give risperidone. Then, if risperidone did not work, you might want to try something like olanzapine. @@html:<span class="ja">抗精神病薬を投与する必要があります。リスペリドンを投与すればいい。リスペリドンが効かなかったら、オランザピンなどを試してみるとよいでしょう。</span>@@
+- Please note that risperidone and olanzapine are just an example. You can use any antipsychotic you want! @@html:<span class="ja">リスペリドンとオランザピンは単なる例であることに注意してください。どの抗精神病薬を使っても構いません！</span>@@
+- So, what do you do if 2 antipsychotics did not treat the patient? Give clozapine! @@html:<span class="ja">では、2種類の抗精神病薬で治療できなかった場合はどうするのか？クロザピンを投与する！</span>@@
+- If you have tried using 2 antipsychotics, but they have not worked, then you should give clozapine! Remember this! Very important!! @@html:<span class="ja">抗精神病薬を2種類使ってみたが効果がなかった場合は、クロザピンという薬を投与する必要がある。この情報を覚えておかなければならない！とても重要なことだ！！</span>@@
+
+* Medications in Psychiatry
+:PROPERTIES:
+:CUSTOM_ID: orgdbe155d
+:END:
+
+Posted: 2023-07-24 | Updated: 2023-07-24
+
+This will give you an overview of the drugs used in Psychiatry.
+
+** Antipsychotics in Psychiatry
+:PROPERTIES:
+:CUSTOM_ID: org0753ba3
+:END:
+
+Antipsychotics block the dopamine receptors. @@html:<span class="ja">抗精神病薬はドーパミン受容体をブロックする。</span>@@
+
+First, you need to know that there are 2 types @@html:<span class="ja">まず、2つのタイプがあることを知っておく必要がある</span>@@:
+1. @@html:First generation antipsychotics: there is one main one that you need to know, and it is called "haloperidol". These drugs are usually called "typical". <span class="ja">「ハロペリドール」と呼ばれる薬だ。これらの薬は通常「典型的な」と呼ばれる。</span>@@
+2. @@html:Second generation antipsychotics: aripiprazole, any drug that ends with -apine (cloz<mark>apine</mark>, olanz<mark>apine</mark>), any drug that ends with -idone (risper<mark>idone</mark>). These drugs are usually called "atypical". <span class="ja">アリピプラゾール、-apineで終わる薬（クロザピン、オランザピン）、-idoneで終わる薬（リスペリドン）。これらの薬は通常「非定型」と呼ばれる。</span>@@
+
+Let's first talk about the first generation typical antipsychotics (for example, haloperidol) @@html:<span class="ja">まず第一世代の定型抗精神病薬（例えばハロペリドール）について説明しよう</span>@@:
+- These have very bad side effects. There are more on PassMedicine, so please have a look there. @@html:<span class="ja">これらは非常に悪い副作用があります。PassMedicineにもっとたくさん掲載されていますので、そちらをご覧ください。</span>@@
+- First of all, they cause increased stroke! @@html:<span class="ja">まず、脳卒中が増える！</span>@@
+- Also, these drugs cause the patient's nipple to produce milk. This is called galactorrhoea. @@html:<span class="ja">また、これらの薬剤は患者の乳首に乳汁を分泌させる。これを乳汁分泌症といいます。</span>@@
+- Another important side effect is weight gain! @@html:<span class="ja">もう一つの重要な副作用は体重増加である！</span>@@
+- @@html:The side effects are called "extrapyramidal side effects". This means that the patient will get involuntary movements or muscle problems. You can remember these by using the word <mark>ADAPT</mark> <span class="ja">この副作用は「錐体外路性副作用」と呼ばれる。これは、患者が不随意運動や筋肉の問題を起こすことを意味する。これらはADAPTという単語で覚えられます。</span>@@:
+  - @@html:<mark>A</mark>cute <mark>d</mark>ystonia@@: this a muscle spasm. In here, the muscle will be contracted for a long time. You need to treat this with a drug called /procyclidine/. @@html:<span class="ja">これは筋肉の痙攣である。この場合、筋肉は長時間収縮します。プロサイクリジンという薬で治療する必要があります。</span>@@
+  - @@html:<mark>A</mark>kathisia@@: in here, the patient will feel restless. The patient wants to keep moving. @@html:<span class="ja">ここにいると、患者は落ち着かなくなる。患者は動き続けたいのだ。</span>@@
+  - @@html:<mark>P</mark>arkinsonism@@: this is a word that we use to describe a group of symptoms that are similar to Parkinson's disease. @@html:<span class="ja">これは、パーキンソン病に似た症状群を表す言葉である。</span>@@
+  - @@html:<mark>T</mark>ardive dyskinesia@@: this is movement issue that happen after long-term use of the drugs. Watch this [[https://www.youtube.com/watch?v=FUr8ltXh1Pc][video]]. @@html:<span class="ja">これは、薬の長期使用後に起こる筋肉の動きの問題である。</span>@@
+
+Now, let's talk about the second generation antipsychotics (for example, clozapine and olanzapine) @@html:<span class="ja">では、第二世代の抗精神病薬（例えば、クロザピンやオランザピン）について説明しよう</span>@@:
+- These have less side effects. But, they still have a high risk of stroke. @@html:<span class="ja">これらは副作用が少ない。しかし、それでも脳卒中のリスクは高い。</span>@@
+- One of the drugs, clozapine, has a side effect called agranulocytosis. This is when the patient has a very low number of white cells. @@html:<span class="ja">そのひとつであるクロザピンには、無顆粒球症という副作用がある。これは患者の白血球の数が非常に少なくなることである。</span>@@
+
 * Multiple sclerosis
 :PROPERTIES:
 :CUSTOM_ID: orgc78efac
