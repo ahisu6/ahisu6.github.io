@@ -39,10 +39,10 @@ If you know the trigger that started the schizophrenia, then the patient will ha
 :END:
 
 @@html:You need to remember the first-rank symptoms of acute schizophrenia (<mark>ABCD</mark>) <span class="ja">急性統合失調症の第一級症状（<mark>ABCD</mark>）を覚えておく必要がある</span>@@:
-- @@html:Auditory hallucinations@@
-- @@html:Broadcasting: so, the patient will say that other people can hear their thoughts. Or, sometimes the patient might think that people are taking the thoughts from the patient's brain. <span class="ja">患者は、他人が自分の考えを聞くことができると言う。あるいは、患者が、自分の脳から思考が取り出されていると考えることもある。</span>@@
-- @@html:Controlled feelings: the patient will say that their own actions are being controlled. <span class="ja">患者は自分の行動がコントロールされていると言うだろう。</span>@@
-- @@html:Delusional perception: for example, the patient might see a blue car, and then they might think that this is a sign from the universe that it will rain today. <span class="ja">例えば、患者は青い車を見て、これは今日雨が降るという宇宙からのサインだと思うかもしれない。</span>@@
+- @@html:<mark>A</mark>uditory hallucinations@@
+- @@html:<mark>B</mark>roadcasting: so, the patient will say that other people can hear their thoughts. Or, sometimes the patient might think that people are taking the thoughts from the patient's brain. <span class="ja">患者は、他人が自分の考えを聞くことができると言う。あるいは、患者が、自分の脳から思考が取り出されていると考えることもある。</span>@@
+- @@html:<mark>C</mark>ontrolled feelings: the patient will say that their own actions are being controlled. <span class="ja">患者は自分の行動がコントロールされていると言うだろう。</span>@@
+- @@html:<mark>D</mark>elusional perception: for example, the patient might see a blue car, and then they might think that this is a sign from the universe that it will rain today. <span class="ja">例えば、患者は青い車を見て、これは今日雨が降るという宇宙からのサインだと思うかもしれない。</span>@@
 
 ** Investigations
 :PROPERTIES:
