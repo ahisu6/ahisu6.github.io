@@ -16,6 +16,73 @@
 
 #+TOC: headlines 2
 
+* Acute pancreatitis
+:PROPERTIES:
+:CUSTOM_ID: org55d1751
+:END:
+
+Posted: 2023-07-25 | Updated: 2023-07-25
+
+This is the inflammation of the pancreas. @@html:<span class="ja">これは膵臓の炎症である。</span>@@
+
+Many things can cause this. @@html:<span class="ja">いろいろなことが原因になっている。</span>@@
+
+But, the ones you need to pay attention to are @@html:<span class="ja">しかし、注意しなければならないのは以下の通りである</span>@@:
+- Gallstones
+- Alcohol
+- ERCP
+
+In pancreatitis, if the patient has low calcium level, then this is reaaaaaaaaaaaally really really bad. Remember, low calcium is bad! @@html:<span class="ja">膵炎の場合、患者がカルシウム値が低ければ、これは本当に、本当に、本当に悪いことだ。カルシウムが低いことは悪いことなのだ！</span>@@
+
+Also, sometimes you might do ABG. If the patient has a really low level of oxygen (less than 8 kPa), then this is also really bad. @@html:<span class="ja">また、ABGを行うこともあります。患者の酸素濃度が本当に低い（8kPa以下）場合は、これも本当に悪い。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org0080c1d
+:END:
+
+- Epigastric pain that goes to the back.
+- Vomit.
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: orgc7ab5d3
+:END:
+
+- You need to do amylase test. @@html:<span class="ja">アミラーゼ検査が必要だ。</span>@@
+- @@html:If the patient has presented late, then you need to do lipase. So, if the patient has presented 24 hours after the pain started, then you need to do lipase. Remember, <mark>L</mark>ipase is for <mark>L</mark>ate presentation. <span class="ja">患者の来院が遅ければ、リパーゼを行う必要がある。痛みが始まってから24時間後に来院した患者さんには、リパーゼの血液検査が必要です。</span>@@
+- You can do ultrasound to see the cause of the pancreatitis. @@html:<span class="ja">超音波検査で膵炎の原因を調べることができます。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: orgc49ac0c
+:END:
+
+- Give the patient a lot of fluids. @@html:<span class="ja">患者に大量の水分を与える。</span>@@
+- Give the patient... more fluid. @@html:<span class="ja">患者に水分を多めに与える。</span>@@
+- And... now you should give the patient even more fluid. @@html:<span class="ja">今なら、患者にさらに水分を与えるべきだ。</span>@@
+- Also, give the patient some pain killers. @@html:<span class="ja">また、患者に鎮痛剤を与える。</span>@@
+
+** Complications
+:PROPERTIES:
+:CUSTOM_ID: orgfd520b0
+:END:
+
+- Pseudocyst. Look at this [[https://drive.google.com/uc?export=view&id=1TLqcd5l9EAA09ITeljkQZIxBCZw_tvVV][picture]]:
+  - In acute pancreatitis, fluid might start to form around the pancreas. @@html:<span class="ja">急性膵炎では、膵臓の周りに液体が形成され始めるかもしれない。</span>@@
+  - This fluid might develop into something called pseudocyst. @@html:<span class="ja">この液体は仮性嚢胞と呼ばれるものに発展するかもしれない。</span>@@
+  - The pseudocyst might happen 4 weeks after the acute pancreatitis. @@html:<span class="ja">仮性嚢胞は急性膵炎の4週間後に起こるかもしれない。</span>@@
+  - The pseudocyst will squish the stomach, and it will cause the patient to feel full. @@html:<span class="ja">仮性嚢胞は胃を押し潰し、患者に満腹感を与える。</span>@@
+  - The pseudocyst might squish the bile duct. This will make the patient get jaundice. @@html:<span class="ja">仮性嚢胞が胆管を押しつぶすかもしれない。こうなると患者は黄疸を起こす。</span>@@
+  - The pseudocyst will make the amylase increase. @@html:<span class="ja">仮性嚢胞はアミラーゼを増加させる。</span>@@
+  - Finally, the pseudocyst might stay there for about 12 weeks. @@html:<span class="ja">最終的には、仮性嚢胞は約12週間そこにとどまるかもしれない。</span>@@
+- Bleeding:
+  - The pancreas might start bleeding. @@html:<span class="ja">膵臓から出血が始まるかもしれない。</span>@@
+  - This will cause the patient to have bruises. @@html:<span class="ja">そのため、患者にあざができる。</span>@@
+  - There are two types of bruises that patients get in acute pancreatitis. @@html:<span class="ja">急性膵炎で生じる打撲には2種類ある。</span>@@
+  - The first type is called Grey Turner's. This is bruising around the side of the tummy. Look at this [[https://drive.google.com/uc?export=view&id=1iclu12GecyqVN8W6ERFFNEDKDX_HKsRe][picture]]. @@html:<span class="ja">最初のタイプはグレー・ターナーと呼ばれるものです。これはおなかの横あたりにあざができるものです。</span>@@
+  - The second type is called Cullen's. This happens in the centre of the tummy (around the belly button). Look at this [[https://drive.google.com/uc?export=view&id=1w66MnYuMuYc6ZcGOAB94QUAHu7OlABqi][picture]]. @@html:Remember, <mark>C</mark>ullen is <mark>C</mark>entral. <span class="ja">二つ目のタイプはカレン型と呼ばれるものです。これはおなかの中心（おへそのあたり）に起こります。</span>@@
+
 * Colorectal cancer
 :PROPERTIES:
 :CUSTOM_ID: orgb145d38
