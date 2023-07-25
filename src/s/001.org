@@ -16,6 +16,46 @@
 
 #+TOC: headlines 2
 
+* Small bowel obstruction
+:PROPERTIES:
+:CUSTOM_ID: org8d8b05d
+:END:
+
+Posted: 2023-07-25 | Updated: 2023-07-25
+
+This is when the small intestines become blocked. @@html:<span class="ja">これは小腸が詰まった状態である。</span>@@
+
+Usually, the most common reason for this is adhesions from a surgery. The adhesions will cause the small intestines to become blocked. @@html:<span class="ja">通常、最も一般的な原因は手術による癒着である。癒着によって小腸がふさがれてしまうのです。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: orgfcc6cf6
+:END:
+
+- A lot of nausea and vomiting. This is because food cannot go past the obstruction. So, the patient will vomit all of the food. @@html:<span class="ja">吐き気や嘔吐が多い。これは、食物が閉塞部を通過できないためである。そのため、患者は食べ物をすべて吐いてしまいます。</span>@@
+- Pain. Soooo much pain. @@html:<span class="ja">いたみ～</span>@@
+- Constipation. The patient will not be able to fart or poop. @@html:<span class="ja">便秘。患者はおならやウンチができなくなる。</span>@@
+- All the gas inside the intestine will cause the tummy to be distended. @@html:<span class="ja">腸内のガスが腹部を膨張させる。</span>@@
+- The gas inside the intestines will start to play music... so, when you listen to the tummy, you will hear tinkling sounds. @@html:<span class="ja">腸内のガスが音楽を奏で始める...だから、おなかの音を聞くと、チリンチリンと音がする。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org8c3ea16
+:END:
+
+- First-line is x-ray. This will show the small bowel that looks like a spring. Look at this [[https://drive.google.com/uc?export=view&id=1bRZ25BiXQYYkf7gMLZXauq15He4G_Lnr][picture]]. It looks like a spring, right? Look at this [[https://drive.google.com/uc?export=view&id=1gWC0MG4raTlcXpJ729PPRRsttUpFnR-l][picture]] of a spring. @@html:<span class="ja">第一選択はレントゲンだ。バネのような小腸が映し出される。バネのように見えるでしょ？</span>@@
+- On the x-ray, the small bowel will be in the centre of the tummy. @@html:<span class="ja">レントゲンでは、小腸はおなかの中心にあります。</span>@@
+- CT will be the definitive investigation because it is very good. @@html:<span class="ja">CTは非常に優れているので、決定的な調査になるだろう。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: orgf7b6727
+:END:
+
+- Stop giving the patient good. So, make the patient nil-by-mouth. This is because if you give the patient food, they will keep vomiting. So, the solution is to stop feeding the patient. @@html:<span class="ja">患者に良いものを与えるのをやめる。だから、患者に口から何も与えないようにする。患者に食べ物を与えると、嘔吐を繰り返すからだ。だから、解決策は患者に食べ物を与えるのをやめることだ。</span>@@
+- Give the patient a lot of fluids. This is because the patient was vomiting a lot. @@html:<span class="ja">患者に大量の水分を与える。これは、患者が大量に嘔吐したためである。</span>@@
+- Next, put a nasogastric tube into the patient. This will reduce the pressure in the intestines. @@html:<span class="ja">次に経鼻胃管を患者に入れる。これで腸内の圧力が下がる。</span>@@
+
 * Acute pancreatitis
 :PROPERTIES:
 :CUSTOM_ID: org55d1751
