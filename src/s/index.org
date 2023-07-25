@@ -19,6 +19,7 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                | Date posted |
 |------+----------------------+-------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#org55d1751][Acute pancreatitis]] |  2023-07-25 |
 | [[file:./001.org][001]]  | [[file:./001.org::#orgb145d38][Colorectal cancer]] |  2023-07-23 |
 
 #+BEGIN_EXPORT html
