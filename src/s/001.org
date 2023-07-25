@@ -16,6 +16,154 @@
 
 #+TOC: headlines 2
 
+* Ascending cholangitis
+:PROPERTIES:
+:CUSTOM_ID: orga56abdb
+:END:
+
+Posted: 2023-07-25 | Updated: 2023-07-25
+
+This is the worst complication of gallstones. @@html:<span class="ja">これは胆石の最悪の合併症である。</span>@@
+
+This one is very, very, very bad. @@html:<span class="ja">これは非常に、非常に、非常に悪い。</span>@@
+
+This happens because there is bacteria in the biliary tree. Usually, this bacteria is e. coli. @@html:<span class="ja">これは胆道の中に細菌がいるために起こる。通常、この細菌は大腸菌です。</span>@@
+
+Now, you might be confused between "biliary colic", "acute cholecystitis", and "ascending cholangitis". Don't worry, I was also confused. So, I made this table for you @@html:<span class="ja">さて、皆さんは「胆石発作」、「胆嚢炎」、「胆管炎」を混同しているかもしれない。ご心配なく、私も混乱していました。そこで、こんな表を作ってみた</span>@@:
+| Disease                                                       | Pain       | Fever      | Jaundice   |
+|---------------------------------------------------------------+------------+------------+------------|
+| Biliary colic @@html:<span class="ja">胆石発作</span>@@       | はい！！！ | いいえ     | いいえ     |
+| Acute cholecystitis @@html:<span class="ja">胆嚢炎</span>@@   | はい！！！ | はい！！！ | いいえ     |
+| Ascending cholangitis @@html:<span class="ja">胆管炎</span>@@ | はい！！！ | はい！！！ | はい！！！ |
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: orga68171a
+:END:
+
+- Ascending cholangitis has unique symptoms. These symptoms are called Charcot's triad @@html:<span class="ja">上行性胆管炎には独特の症状があります。これらの症状はシャルコーの三徴と呼ばれる</span>@@:
+  - Fever.
+  - Jaundice.
+  - Pain in the right upper quadrant. @@html:<span class="ja">右上腹部の痛み。</span>@@
+- This disease can make the patient get sepsis. If the patient gets sepsis, they will have low blood pressure. @@html:<span class="ja">この病気は患者を敗血症にする可能性がある。敗血症になると、患者は低血圧になる。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: orgbd8fe69
+:END:
+
+- Again, the first-line investigation is ultrasound. @@html:<span class="ja">ここでも、第一選択の検査は超音波検査である。</span>@@
+- CRP will be very high. @@html:<span class="ja">CRPは非常に高いだろう。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org6d47210
+:END:
+
+- You need to give the patient IV antibiotics now! @@html:<span class="ja">すぐに抗生物質を点滴する必要があります！</span>@@
+- Did you give the patient IV antibiotics? @@html:<span class="ja">抗生物質を点滴しましたか？</span>@@
+- Are you sure? @@html:<span class="ja">それは確かですか？</span>@@
+- Hmmm... @@html:<span class="ja">うーん...。</span>@@
+- Ok. Ok. @@html:<span class="ja">おけ。おけ。</span>@@
+- Now, you need to do ERCP. In here, ERCP will help to reduce the block. @@html:<span class="ja">では、ERCPを行う必要があります。ここで、ERCPはブロックを減らすのに役立ちます。</span>@@
+
+** Complications
+:PROPERTIES:
+:CUSTOM_ID: org5c31ebe
+:END:
+
+- Sepsis!
+
+* Acute cholecystitis
+:PROPERTIES:
+:CUSTOM_ID: orgafb3b23
+:END:
+
+Posted: 2023-07-25 | Updated: 2023-07-25
+
+This is the inflammation of the gallbladder. @@html:<span class="ja">これは胆嚢の炎症である。</span>@@
+
+This usually happens because of the gallstones inside the gallbladder. @@html:<span class="ja">これは通常、胆嚢内の胆石が原因で起こる。</span>@@
+
+So, this is actually a complication of gallstones. @@html:<span class="ja">つまり、これは胆石の合併症なのだ。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org9417b16
+:END:
+
+- Pain in the right upper quadrant. @@html:<span class="ja">右上腹部の痛み。</span>@@
+- Fever. If you remember, the normal biliary colic did /not/ have any fever. @@html:<span class="ja">発熱。思い起こせば、通常の胆道疝痛では発熱はなかった。</span>@@
+- Murphy's sign: this is when you the patient gets pain and stops breathing if you touch the right upper quadrant. @@html:<span class="ja">これは、右上腹部を触ると患者が痛みを感じ、呼吸が止まることをいう。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org042d957
+:END:
+
+- First-line investigation is ultrasound. @@html:<span class="ja">第一選択の検査は超音波検査である。</span>@@
+- You need to look at the LFTs. In acute cholecystitis, these are usually normal. @@html:<span class="ja">LFTを見る必要があります。急性胆嚢炎では、通常、正常範囲内です。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: orgb58485c
+:END:
+
+- You need to give the patient some IV antibiotics. @@html:<span class="ja">抗生物質を点滴する必要があります。</span>@@
+- Then, you have to wait 1 week. @@html:<span class="ja">それから1週間待たなければならない。</span>@@
+- After you waited for 1 week, you need to remove the gallbladder. You should do laparoscopic cholecystectomy. @@html:<span class="ja">1週間待ったら、胆嚢を摘出する必要がある。腹腔鏡下胆嚢摘出術を行うべきである。</span>@@
+
+* Biliary colic
+:PROPERTIES:
+:CUSTOM_ID: orgacd9b05
+:END:
+
+Posted: 2023-07-25 | Updated: 2023-07-25
+
+This is when there are gallstones in the gallbladder. @@html:<span class="ja">胆嚢内に胆石がある場合です。</span>@@
+
+Normally, when we eat food, the gallbladder will squeeze bile. Bile will help to digest the fats. @@html:<span class="ja">通常、食べ物を食べると、胆嚢は胆汁を搾り出す。胆汁は脂肪の消化を助ける。</span>@@
+
+So, if we have a stone in the gallbladder, there will be pain whenever the gallbladder tries to squeeze bile. @@html:<span class="ja">だから、胆嚢に結石があると、胆嚢が胆汁を搾り出そうとするたびに痛みが生じる。</span>@@
+
+There are risk factors for gallstones. You can remember them because they all start with the letter F @@html:<span class="ja">胆石には危険因子があります。それらはすべてFで始まるので、覚えておくとよいでしょう</span>@@:
+1. @@html:<mark>F</mark>at: if the person is obese, there is a high risk of developing stones. <span class="ja">肥満の場合、結石のリスクが高い。</span>@@
+2. @@html:<mark>F</mark>emale.@@
+3. @@html:<mark>F</mark>ertile: if the woman is pregnant, there is a high chance that she will get stones. <span class="ja">妊娠している場合は、結石になる可能性が高い。</span>@@
+4. @@html:<mark>F</mark>orty: if the patient is around the age of 40 years, then there is a high risk of stones. <span class="ja">患者が40歳前後であれば、結石のリスクが高い。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org291c427
+:END:
+
+- Colicky pain: this is a type of pain that comes and goes. When the gallbladder squeezes, there will be pain. @@html:<span class="ja">疝痛：このタイプの痛みは、来たり来なかったりする。胆嚢が圧迫されると痛みが生じます。</span>@@
+- Pain is worse after food. This is because the gallbladder is super active after food. So, the gallbladder will keep squeezing. @@html:<span class="ja">食後に痛みが悪化する。これは食後に胆嚢が超活発になるからです。そのため、胆嚢は圧迫され続ける。</span>@@
+- There is /no/ fever. @@html:<span class="ja">熱はない。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: orgcfbea1a
+:END:
+
+- You need to do ultrasound. This will allow us to see the stones. @@html:<span class="ja">超音波検査が必要です。これで結石を見ることができます。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org765a097
+:END:
+
+- You need to elective laparoscopic cholecystectomy. This will remove the gallbladder. @@html:<span class="ja">腹腔鏡下胆嚢摘出術を選択する必要があります。胆嚢を摘出します。</span>@@
+
+** Complications
+:PROPERTIES:
+:CUSTOM_ID: org1dac7eb
+:END:
+
+- Acute cholecystitis: this one has pain and fever.
+- Ascending cholangitis: this one has pain, fever, and jaundice. This is very, very, very bad. @@html:<span class="ja">この病気には痛み、発熱、黄疸がある。これは非常に、非常に、非常に悪い。</span>@@
+- Pancreatitis.
+
 * Small bowel obstruction
 :PROPERTIES:
 :CUSTOM_ID: org8d8b05d
