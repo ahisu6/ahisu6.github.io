@@ -34,7 +34,7 @@ This usually happens in the first 4 weeks after birth. @@html:<span class="ja">�
 - 4 = よ...
 - 夜 = よる
 - 夜 means dinner
-- @@html:When the <mark>四</mark> week old baby with pyloric stenosis eats <mark>夜</mark>, they will keep vomiting... <span class="ja">幽門狭窄のある生後4週間の赤ちゃんが「夜」を食べると、嘔吐を繰り返します。</span>@@
+- @@html:When the <mark>四</mark> week old baby with pyloric stenosis eats <mark>夜</mark>, they will keep vomiting... <span class="ja">幽門狭窄のある生後<mark>四</mark>週間の赤ちゃんが<mark>夜</mark>を食べると、嘔吐を繰り返します。</span>@@
 
 ** Signs and symptoms
 :PROPERTIES:
