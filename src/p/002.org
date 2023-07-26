@@ -41,7 +41,7 @@ This usually happens in the first 4 weeks after birth. @@html:<span class="ja">�
 :CUSTOM_ID: org30f0c38
 :END:
 
-- Dehydration: this is because the baby has vomited a lot. @@html:<span class="ja">脱水：赤ちゃんが大量に嘔吐したため。</span>@@
+- Dehydration: this is because the baby has vomited a lot. Do you remember how to treat dehydration in babies? @@html:<span class="ja">脱水：赤ちゃんが大量に嘔吐したため。赤ちゃんの脱水症状の対処法を覚えていますか？</span>@@
 - Projectile vomiting: this means that the vomit will be very, very, very, strong. @@html:<span class="ja">投射性嘔吐：これは、非常に、非常に、非常に強い嘔吐を意味する。</span>@@
 - When the baby vomits, they will lose potassium and chloride. This will make their blood very alkaline because they have lost a lot of hydrochloric acid. This causes something called hypochloraemic (low chloride) hypokalaemic (low potassium) metabolic alkalosis. @@html:<span class="ja">赤ちゃんが嘔吐すると、カリウムと塩化物が失われる。塩酸が大量に失われたため、血液はアルカリ性に傾く。これが低塩素血症（低塩化物）低カリウム血症（低カリウム）と呼ばれる代謝性アルカローシスを引き起こす。</span>@@
 
