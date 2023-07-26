@@ -16,6 +16,73 @@
 
 #+TOC: headlines 2
 
+
+* Nephrotic syndrome
+:PROPERTIES:
+:CUSTOM_ID: orgfbd6bca
+:END:
+
+Posted: 2023-07-26 | Updated: 2023-07-26
+
+The blood has proteins. These proteins create a pressure in the blood. Proteins are like magnets... they stick to water and they keep it inside your blood. @@html:<span class="ja">血液にはタンパク質がある。このタンパク質が血液に圧力をかけている。タンパク質は磁石のようなもので、水とくっつき、血液の中にとどめておく。</span>@@
+
+In the kidney, there is something called a nephron. @@html:<span class="ja">腎臓にはネフロンというものがある。</span>@@
+
+The nephron is a small part in the kidney that removes of waste and fluids from the blood. @@html:<span class="ja">ネフロンは腎臓にある小さな部分で、血液中の老廃物や水分を除去する。</span>@@
+
+Each nephron has something called glomerulus. The glomerulus network of very tiny blood vessels called capillaries. Here is a [[https://drive.google.com/uc?export=view&id=1axhN6SQncXJzELj-yIfNhSW19z__En9j][picture]] of the glomerulus. @@html:<span class="ja">各ネフロンには糸球体と呼ばれるものがある。糸球体には毛細血管と呼ばれる非常に細い血管が網目状に張り巡らされている。</span>@@
+
+Each capillary has something called podocyte. Podocytes are special cells that wrap themselves around the capillaries. They look like fingers... here is a [[https://drive.google.com/uc?export=view&id=16smexkJrj0W6wt7euSowS6X3uzdOWb_d][picture]] of the podocytes. @@html:<span class="ja">それぞれの毛細血管にはポドサイトと呼ばれるものがある。ポドサイトは毛細血管を包み込む特殊な細胞である。指のような形をしている。</span>@@
+
+Podocytes are a protective barrier. Podocytes stop stopping important things like proteins and blood cells from going into the urine. @@html:<span class="ja">ポドサイトは保護バリアである。ポドサイトは、タンパク質や血液細胞のような重要なものが尿に入るのを阻止する。</span>@@
+
+Sometimes, these podocytes can be damaged. @@html:<span class="ja">ポドサイトが損傷することもある。</span>@@
+
+When the podocyte is damaged, proteins will go from the capillary into the urine. The protein that usually goes out of the blood is called albumin. @@html:<span class="ja">ポドサイトがダメージを受けると、タンパク質が毛細血管から尿中に出ていく。通常、血液中に出ていくタンパク質はアルブミンと呼ばれる。</span>@@
+
+This makes the person have a low level of protein in the blood. @@html:<span class="ja">そのため、血液中のタンパク質濃度が低くなる。</span>@@
+
+So, if the person has a low level of protein in the blood, the water will leave the capillaries. So, you will get water and oedema in the feet and tummy. This is because there is no magnet to hold the water. @@html:<span class="ja">そのため、血液中のタンパク質レベルが低いと、水分が毛細血管から出て行ってしまう。だから、足やおなかに水がたまり、浮腫ができる。これは水を保持する磁石がないためである。</span>@@
+
+Sometimes, you might also lose important proteins such as antithrombin. The antithrombin protein stops your blood from clotting. So, if you lose antithrombin, then your blood will be more sticky and you will get blood clots. @@html:<span class="ja">時には、アンチトロンビンなどの重要なタンパク質が失われることもあります。アンチトロンビンタンパク質は血液が凝固するのを阻止します。ですから、アンチトロンビンを失うと、血液の粘着性が増し、血栓ができやすくなります。</span>@@
+
+There are different types of nephrotic syndrome @@html:<span class="ja">ネフローゼ症候群にはさまざまなタイプがある</span>@@:
+1. @@html:Minimal change disease: this is common in children. <mark>Mini</mark>mal change disease has the word "<mark>mini</mark>". "Mini" means "small", and children are very small. Just think about a mini baby... <span class="ja">これは子供にはよくあることだ。</span>@@
+2. Membranous nephropathy: this happens in older people. @@html:<span class="ja">これは高齢者に起こることだ。</span>@@
+3. Focal segmental glomerulosclerosis: this is usually caused by HIV. @@html:<span class="ja">これは通常HIVが原因である。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: orgf81ee6b
+:END:
+
+- Proteinuria: like we said before, when you lose the podocytes, your capillaries will start leaking. The capillaries will leak a lot of protein. @@html:<span class="ja">蛋白尿：前にも言ったように、ポドサイトを失うと、毛細血管が漏れ始める。毛細血管からは大量のタンパク質が漏れる。</span>@@
+- Hypoalbuminaemia: because you body will remove a lot of albumin, there will be a low level of albumin inside your blood. @@html:<span class="ja">低アルブミン血症：体内のアルブミンが大量に除去されるため、血液中のアルブミン濃度は低くなります。</span>@@
+- Oedema: because you lost all of the protein, you will not have magnets anymore. So, your capillaries will leak water everywhere in your body. @@html:<span class="ja">浮腫：タンパク質をすべて失ったので、磁石がなくなる。そのため、毛細血管から体中のいたるところに水が漏れてしまう。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org785b942
+:END:
+
+- You need to do urine dip stick. @@html:<span class="ja">尿検査が必要だ。</span>@@
+- If you want to get a definitive diagnosis, then you need to do renal biopsy. @@html:<span class="ja">確定診断を下したければ、腎生検を行う必要がある。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org9960ee0
+:END:
+
+- In minimal change disease, you need to give the patient prednisolone. This is the one that they will ask you about. @@html:<span class="ja">ミニマムチェンジ病では、患者にプレドニゾロンを投与する必要がある。これは通常、試験で問われることだ。</span>@@
+- Usually, the treatment is to just use steroids. @@html:<span class="ja">通常は、ステロイドを使うだけの治療となる。</span>@@
+
+** Complications
+:PROPERTIES:
+:CUSTOM_ID: org0c99298
+:END:
+
+- Blood clots: this is because the patient will lose important proteins like antithrombin. @@html:<span class="ja">血栓：アンチトロンビンのような重要なタンパク質が失われるため。</span>@@
+
 * Ascending cholangitis
 :PROPERTIES:
 :CUSTOM_ID: orga56abdb
