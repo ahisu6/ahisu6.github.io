@@ -31,7 +31,7 @@ The word "stenosis" means "narrow." @@html:<span class="ja">
 When these muscles are thick, the food will not be able to leave the stomach. So, the baby will vomit all of the food. @@html:<span class="ja">この筋肉が厚いと、食べ物が胃から出られなくなる。そのため、赤ちゃんは食べ物をすべて吐いてしまう。</span>@@
 
 This usually happens in the first 4 weeks after birth. @@html:<span class="ja">これは通常、生後4週間で起こる。</span>@@
-- 4 = よ...
+- 4 = よ
 - 夜 = よる
 - 夜 means dinner.
 - @@html:When the <mark>四</mark> week old baby with pyloric stenosis eats <mark>夜</mark>, they will keep vomiting... <span class="ja">幽門狭窄のある生後<mark>四</mark>週間の赤ちゃんが<mark>夜</mark>を食べると、嘔吐を繰り返します。</span>@@
