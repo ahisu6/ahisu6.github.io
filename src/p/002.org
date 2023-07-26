@@ -16,6 +16,50 @@
 
 #+TOC: headlines 2
 
+* Pyloric stenosis
+:PROPERTIES:
+:CUSTOM_ID: org453ded4
+:END:
+
+Posted: 2023-07-26 | Updated: 2023-07-26
+
+This is when the muscles of the pylorus become very thick. Look at this [[https://drive.google.com/open?id=1Iw48FFPBmXr3Mw0rXZIn4wl0Sq7SmvSP&usp=drive_copy][picture]]. @@html:<span class="ja">これは幽門の筋肉が非常に厚くなった状態です。</span>@@
+
+The word "stenosis" means "narrow." @@html:<span class="ja">
+「狭窄」とは「狭い」という意味だ。</span>@@
+
+When these muscles are thick, the food will not be able to leave the stomach. So, the baby will vomit all of the food. @@html:<span class="ja">この筋肉が厚いと、食べ物が胃から出られなくなる。そのため、赤ちゃんは食べ物をすべて吐いてしまう。</span>@@
+
+This usually happens in the first 4 weeks after birth. @@html:<span class="ja">これは通常、生後4週間で起こる。</span>@@
+- 4 = よ...
+- 夜 = よる
+- 夜 means dinner
+- When the 四 week old baby with pyloric stenosis eats 夜, they will keep vomiting... @@html:<span class="ja">幽門狭窄のある生後4週間の赤ちゃんが「夜」を食べると、嘔吐を繰り返します。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org30f0c38
+:END:
+
+- Dehydration: this is because the baby has vomited a lot. @@html:<span class="ja">脱水：赤ちゃんが大量に嘔吐したため。</span>@@
+- Projectile vomiting: this means that the vomit will be very, very, very, strong. @@html:<span class="ja">投射性嘔吐：これは、非常に、非常に、非常に強い嘔吐を意味する。</span>@@
+- When the baby vomits, they will lose potassium and chloride. This will make their blood very alkaline because they have lost a lot of hydrochloric acid. This causes something called hypochloraemic (low chloride) hypokalaemic (low potassium) metabolic alkalosis. @@html:<span class="ja">赤ちゃんが嘔吐すると、カリウムと塩化物が失われる。塩酸が大量に失われたため、血液はアルカリ性に傾く。これが低塩素血症（低塩化物）低カリウム血症（低カリウム）と呼ばれる代謝性アルカローシスを引き起こす。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: orgad8cab9
+:END:
+
+- You need to do ultrasound scan of the tummy. This will show you that the muscles in the pylorus are very thick. @@html:<span class="ja">お腹の超音波検査が必要です。幽門の筋肉が非常に厚いことがわかります。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: orgad3b934
+:END:
+
+- Before you do surgery, you need to fix the low chloride level and the low potassium level. @@html:<span class="ja">手術をする前に、低塩素値と低カリウム値を治す必要があります。</span>@@
+- Now, after you fixed the chloride and potassium levels, you need to do surgery. This surgery will open the thick muscles in the pylorus. The surgery is called "pyloromyotomy". @@html:<span class="ja">さて、塩化物とカリウムの値を固定した後は、手術が必要です。この手術は幽門の太い筋肉を切開します。この手術は「幽門筋切開術」と呼ばれます。</span>@@
+
 * Hirschsprung disease
 :PROPERTIES:
 :CUSTOM_ID: orge9933c6
