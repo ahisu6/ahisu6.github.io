@@ -147,6 +147,8 @@ To treat toxic megacolon, you need to give the patient nasogastric tube to reduc
 12. In ulcerative colitis, what should be the next step if the high-dose oral aminosalicylate tablets do not work for inducing remission?
 13. How to maintain remission after /severe/ attack of ulcerative colitis?
 14. What would be seen in a biopsy for ulcerative colitis?
+15. How many times per day does a /severe/ ulcerative colitis poop?
+16. Give some examples of the blood test findings in /severe/ ulcerative colitis.
 
 @@html:<div onclick="reveal()">Click this sentence to see the answers! <span class="ja">この文章をクリックすると、答えが表示されます！</span></div><div style="display: none;">@@
 1. Faecal calprotectin is an investigation used when the diagnosis is uncertain.
@@ -163,9 +165,10 @@ To treat toxic megacolon, you need to give the patient nasogastric tube to reduc
 12. If the high-dose oral aminosalicylate tablets do not work, then the patient should be given oral corticosteroid plus oral aminosalicylate.
 13. Give oral azathioprine or oral mercaptopurine.
 14. A superficial inflammation and fewer goblet cells. Crypt abscesses.
+15. The patient will poop more than 6 times per day.
+16. High CRP, anaemia, and low protein.
 @@html:</div>@@
 
 #+BEGIN_EXPORT html
 <script src="https://ahisu6.github.io/assets/js/revealAnswer.js"></script>
 #+END_EXPORT
-
