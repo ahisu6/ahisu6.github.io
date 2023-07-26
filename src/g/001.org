@@ -27,7 +27,7 @@ Ulcerative colitis is a type of inflammatory bowel disease. It mainly affects th
 
 @@html:Look at the word "ulcerative <mark>col</mark>itis". It has "<mark>col</mark>". In here, the "<mark>col</mark>" is referring to the <mark>col</mark>on... <mark>col</mark>on means the large bowel. So, remember this: ulcerative <mark>col</mark>itis affect the <mark>col</mark>on.@@
 
-@@html:This is a superficial inflammation of the colon. Again, let's look at the word "<mark>ulcer</mark>ative colitis". The "<mark>ulcer</mark>" is the same as the as the mouth ulcer... it is superficial!@@
+@@html:This is a superficial inflammation of the colon. Again, let's look at the word "<mark>ulcer</mark>ative colitis". The "<mark>ulcer</mark>" is the same as the mouth ulcer... it is superficial!@@
 
 Sometimes, the patient might get a flare. This is an acute attack of ulcerative colitis. You need to remember this table @@html:<span class="ja">時には、再燃することもあります。これは潰瘍性大腸炎の急性発作です。この表を覚えておく必要がある</span>@@:
 | Symptom         | Mild attack                | Moderate attack               | Severe attack                                   |
