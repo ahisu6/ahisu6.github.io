@@ -1,0 +1,28 @@
+#+TITLE: Gastroenterology
+
+#+BEGIN_EXPORT html
+<div class="engt">Gastroenterology</div>
+<div class="japt">消化器学</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/g/index.org][Edit]]
+
+[[file:../index.org][Home]]
+
+-----
+
+* List of topics
+:PROPERTIES:
+:CUSTOM_ID: gtopics
+:END:
+
+#+ATTR_HTML: :class sortable
+| Page | Title                | Date posted |
+|------+----------------------+-------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#org603c024][Ulcerative colitis]] |  2023-07-26 |
+
+
+#+BEGIN_EXPORT html
+<script src="https://ahisu6.github.io/assets/js/sortTable.js"></script>
+#+END_EXPORT
+
