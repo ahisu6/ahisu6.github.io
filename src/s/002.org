@@ -16,7 +16,6 @@
 
 #+TOC: headlines 2
 
-
 * Acute mesenteric ischaemia
 :PROPERTIES:
 :CUSTOM_ID: org04dab65
