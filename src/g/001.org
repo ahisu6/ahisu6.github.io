@@ -147,7 +147,7 @@ To treat toxic megacolon, you need to give the patient nasogastric tube to reduc
 12. In ulcerative colitis, what should be the next step if the high-dose oral aminosalicylate tablets do not work for inducing remission?
 13. How to maintain remission after /severe/ attack of ulcerative colitis?
 14. What would be seen in a biopsy for ulcerative colitis?
-15. How many times per day does a /severe/ ulcerative colitis poop?
+15. How many times per day does a /severe/ ulcerative colitis patient poop?
 16. Give some examples of the blood test findings in /severe/ ulcerative colitis.
 
 @@html:<div onclick="reveal()">Click this sentence to see the answers! <span class="ja">この文章をクリックすると、答えが表示されます！</span></div><div style="display: none;">@@
