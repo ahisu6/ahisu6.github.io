@@ -19,6 +19,7 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                | Date posted |
 |------+----------------------+-------------|
+| [[file:./002.org][002]]  | [[file:./002.org::#org453ded4][Pyloric stenosis]] |  2023-07-26 |
 | [[file:./002.org][002]]  | [[file:./002.org::#orge9933c6][Hirschsprung disease]] |  2023-06-10 |
 | [[file:./002.org][002]]  | [[file:./002.org::#org14b0e78][Atrial septal defect]] |  2023-05-29 |
 | [[file:./002.org][002]]  | [[file:./002.org::#org679a2ce][Ventricular septal defect]] |  2023-05-29 |
