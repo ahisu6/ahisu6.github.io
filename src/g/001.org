@@ -1,0 +1,171 @@
+#+TITLE: Gastroenterology 001
+
+#+BEGIN_EXPORT html
+<div class="engt">Gastroenterology</div>
+<div class="japt">消化器学</div>
+<div class="engt">Page 001</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/g/001.org][Edit]]
+
+[[file:./index.org][Home]]
+
+[[file:./002.org][Next page >>]]
+
+-----
+
+#+TOC: headlines 2
+
+* Ulcerative colitis
+:PROPERTIES:
+:CUSTOM_ID: org603c024
+:END:
+
+Posted: 2023-07-26 | Updated: 2023-07-26
+
+Ulcerative colitis is a type of inflammatory bowel disease. It mainly affects the rectum. The rectum is part of the large bowel. @@html:<span class="ja">潰瘍性大腸炎は炎症性腸疾患の一種です。主に直腸が侵されます。直腸は大腸の一部です。</span>@@
+
+@@html:Look at the word "ulcerative <mark>col</mark>itis". It has "<mark>col</mark>". In here, the "<mark>col</mark>" is referring to the <mark>col</mark>on... <mark>col</mark>on means the large bowel. So, remember this: ulcerative <mark>col</mark>itis affect the <mark>col</mark>on.@@
+
+@@html:This is a superficial inflammation of the colon. Again, let's look at the word "<mark>ulcer</mark>ative colitis". The "<mark>ulcer</mark>" is the same as the as the mouth ulcer... it is superficial!@@
+
+Sometimes, the patient might get a flare. This is an acute attack of ulcerative colitis. You need to remember this table @@html:<span class="ja">時には、再燃することもあります。これは潰瘍性大腸炎の急性発作です。この表を覚えておく必要がある</span>@@:
+| Symptom         | Mild attack                | Moderate attack               | Severe attack                                   |
+|-----------------+----------------------------+-------------------------------+-------------------------------------------------|
+| Number of poops | Less than 4 poops per day. | 4 to 6 poops per day          | More than 6 poops per day.                      |
+| Blood in poop   | No                         | No                            | Yes! There is blood in the poop!                |
+| Is there fever? | No                         | Yes, a little bit.            | A lot of fever.                                 |
+| Blood tests     | Normal                     | The CRP is a little bit high. | Sooooo bad! High CRP, anaemia, and low protein. |
+
+Here is how to remember that the patient poops more than 6 times in a severe attack @@html:<span class="ja">重症発作で患者が6回以上ウンチをした場合の覚え方を以下に示す</span>@@:
+- 6 = ろ
+- 炉 = ろ
+- 炉 means fire.
+- @@html:When the patient poops <mark>六</mark> times a day, the anus will become like a <mark>炉</mark>... There is so much inflammation and fire. There will be a lot of blood. <span class="ja">患者が1日<mark>六</mark>回ウンチをすると、肛門が<mark>炉</mark>のようになる。炎症と火照りがひどい。血もたくさん出ます。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: orgefb0c6b
+:END:
+
+- Diarrhoea.
+- Blood in the diarrhoea: this is because the rectum is very inflamed. So, it will bleed a lot. @@html:<span class="ja">下痢に血が混じる：これは直腸が非常に炎症を起こしているため。そのため、大量に出血する。</span>@@
+- Tenesmus: this means that the patient feels that they want to do a poop. @@html:<span class="ja">テネスムス：これは、患者がウンチをしたいと感じることを意味する。</span>@@
+- Pain in the left lower quadrant: the left lower quadrant is the location of the rectum! @@html:<span class="ja">左下腹部の痛み：左下腹部には直腸がある！</span>@@
+
+There are other symptoms of ulcerative colitis. These symptoms affect other parts of the body:
+- Inflammation of the eyes. @@html:<span class="ja">目の炎症。</span>@@
+- Joint pain. @@html:<span class="ja">関節痛。</span>@@
+- Clubbing.
+- Primary sclerosing cholangitis: this is when the bile ducts in the liver become inflamed. @@html:<span class="ja">原発性硬化性胆管炎：肝臓の胆管が炎症を起こす病気。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org9aa1755
+:END:
+
+- You can do something called faecal calprotectin. This is sometimes used if you are not sure of the diagnosis. @@html:<span class="ja">糞便カルプロテクチンという検査があります。これは診断がはっきりしない場合に使われることがあります。</span>@@
+- Another investigation is barium enema. In this investigation, they will put barium through your anus. @@html:<span class="ja">もう一つの検査はバリウム浣腸である。この検査では、肛門からバリウムを入れます。</span>@@
+- If you want the definitive diagnosis, then you should do colonoscopy and take a biopsy. @@html:<span class="ja">確定診断が必要なら、大腸内視鏡検査と生検を行うべきです。</span>@@
+- Be careful, if the patient is having an acute attack of ulcerative colitis, then you should avoid doing colonoscopy. This is because you might damage the colon. @@html:<span class="ja">患者が潰瘍性大腸炎の急性発作を起こしている場合は、大腸内視鏡検査を避けるべきです。大腸を傷つける可能性があるからです。</span>@@
+- In the biopsy, you will find a few things @@html:<span class="ja">生検ではいくつかのことがわかります</span>@@:
+  - First, you will notice that the inflammation is superficial. This is because it is just an ulcer! @@html:<span class="ja">まず、炎症が表面的であることに気づくだろう。これは単なる潰瘍だからである！</span>@@
+  - Second, you will find that the number of goblet cells is low. Goblet cells make mucus... eww. @@html:<span class="ja">次に、杯細胞の数が少ないことがわかるだろう。杯細胞は粘液を作る。</span>@@
+  - The ulcers can sometimes be really bad, and they will form something called crypt abscesses. @@html:<span class="ja">潰瘍は時に本当にひどくなり、陰窩膿瘍と呼ばれるものを形成する。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: orga23f78f
+:END:
+
+You need to understand something important. @@html:<span class="ja">重要なことを理解する必要がある。</span>@@
+
+In inflammatory bowel disease, the treatment is divided into 2 types @@html:<span class="ja">炎症性腸疾患では、治療は2つのタイプに分けられる</span>@@:
+1. Inducing remission: this means you need to stop the symptoms of the disease. @@html:<span class="ja">寛解の導入：これは病気の症状を止める必要があることを意味する。</span>@@
+2. Maintaining remission: this means that you need to prevent the symptoms from coming back. @@html:<span class="ja">寛解の維持：症状が再発しないようにすること。</span>@@
+
+First, we start with inducing remission. The patient will come to the hospital, and they will have symptoms. So, we need to stop these symptoms @@html:<span class="ja">まず、寛解を誘導することから始めます。患者さんは病院にやってきて、症状が出ます。ですから、その症状を止める必要があります</span>@@:
+- To start, first we need to give the patient topical aminosalicylate. They will put this cream in the rectum. @@html:<span class="ja">まず始めに、患者にアミノサリチル酸塩を局所投与する必要がある。このクリームを直腸に塗る。</span>@@
+- If this did not work after 4 weeks, then you need to give the patient high-dose oral aminosalicylate. These are tablets that the patient will take. @@html:<span class="ja">4週間たっても効果がなければ、アミノサリチル酸塩を大量に経口投与する必要がある。これは患者が服用する錠剤である。</span>@@
+- If the oral aminosalicylate did not work, then you should give the patient oral corticosteroid plus oral aminosalicylate. Yay, steroids! Are you surprised? @@html:<span class="ja">経口アミノサリチル酸塩が効かなかった場合は、経口コルチコステロイドと経口アミノサリチル酸塩を投与する必要がある。やった、ステロイドだ！驚きましたか？</span>@@
+
+Next, after we stopped the symptoms, we need to give the patient drugs that will prevent the symptoms from coming back @@html:<span class="ja">次に、症状を止めた後、症状が再発しないように薬を投与する必要がある</span>@@:
+- This depends on where the inflammation is located. @@html:<span class="ja">これは炎症の場所によって異なる。</span>@@
+- If the inflammation is mainly in the rectum, then you can just give topical aminosalicylate. This is the cream! @@html:<span class="ja">炎症が主に直腸にある場合は、アミノサリチル酸塩を外用すればよい。これはクリームです！</span>@@
+- If the inflammation is affecting a lot more than the rectum (so, if the inflammation is everywhere in the colon), then you should give oral aminosalicylate. This is because the cream will not be able to reach the deeper part of the intestines. @@html:<span class="ja">炎症が直腸以外にも及んでいる場合（つまり、炎症が大腸のいたるところに及んでいる場合）には、アミノサリチル酸塩を経口投与する必要がある。クリームが腸の深い部分まで届かないからです。</span>@@
+
+Here is a table that summarises everything @@html:<span class="ja">ここにすべてをまとめた表がある</span>@@:
+
+| Treatment step in normal ulcerative colitis | Drugs                                                                                                                                                                                                           |
+|---------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Inducing remission                          | @@html:- Topical aminosalicylate.<br>- If topical aminosalicylate does not work after 4 weeks, then give high-dose oral aminosalicylate.<br>- Oral corticosteroid plus oral aminosalicylate is the last line.@@ |
+| Maintaining remission                       | @@html:- If the inflammation is in the rectum: topical aminosalicylate.<br>- If the inflammation is everywhere in the colon: oral aminosalicylate.@@                                                            |
+
+But... @@html:<span class="ja">しかし...。</span>@@
+
+Wait a minute... @@html:<span class="ja">ちょっと待ってくれ...。</span>@@
+
+The severe attack of ulcerative colitis has a separate treatment... @@html:<span class="ja">潰瘍性大腸炎の激しい発作には別の治療法がある...。</span>@@
+
+Don't worry. It is actually more simple! @@html:<span class="ja">ご心配なく。実際はもっと簡単です！</span>@@
+
+To induce remission in a severe ulcerative colitis attack, you need to do these things @@html:<span class="ja">重度の潰瘍性大腸炎の発作を寛解に導くには、これらのことを行う必要がある</span>@@:
+1. Send the patient to the hospital. @@html:<span class="ja">患者を病院に送る。</span>@@
+2. Give IV steroid. @@html:<span class="ja">ステロイドを点滴する。</span>@@
+3. If the patient did not improve after 72 hours, then you should add IV ciclosporin. @@html:<span class="ja">72時間たっても改善しない場合は、シクロスポリンを静注する。</span>@@
+
+To maintain remission after severe ulcerative colitis attack, you need to do these things @@html:<span class="ja">重度の潰瘍性大腸炎発作後に寛解を維持するためには、以下のことを行う必要がある</span>@@:
+- Give oral azathioprine or oral mercaptopurine. These are very strong drugs. @@html:<span class="ja">アザチオプリンまたはメルカプトプリンを経口投与する。これらは非常に強い薬である。</span>@@
+
+** Complications
+:PROPERTIES:
+:CUSTOM_ID: org775a112
+:END:
+
+One of the complications of ulcerative colitis is something called toxic megacolon. @@html:<span class="ja">潰瘍性大腸炎の合併症の一つに中毒性巨大結腸症というものがある。</span>@@
+
+Toxic megacolon is a dangerous condition that can happen when the colon becomes super, super, super inflamed and dilated. You need to do urgent x-ray. This is a [[https://drive.google.com/uc?export=view&id=13kkKfP0vSsxk37moKVJBei_i49kLWTUW][picture]] of an x-ray that has toxic megacolon. @@html:<span class="ja">中毒性巨大結腸は、結腸が超、超、超、超炎症し、拡張したときに起こりうる危険な状態です。緊急のレントゲン検査が必要です。</span>@@
+
+To treat toxic megacolon, you need to give the patient nasogastric tube to reduce the pressure in the intestines. @@html:<span class="ja">中毒性巨大結腸症の治療には、経鼻胃管で腸内の圧力を下げる必要がある。</span>@@
+
+** Questions
+:PROPERTIES:
+:CUSTOM_ID: orgf352913
+:END:
+
+1. In ulcerative colitis, when is faecal calprotectin used?
+2. What drug should be given if the ulcerative colitis inflammation is affecting more than the rectum?
+3. In ulcerative colitis, what is the first step in inducing remission for a patient experiencing symptoms?
+4. In ulcerative colitis, what is a barium enema and how is it performed?
+5. What should be the next step if the topical aminosalicylate cream does not work for inducing remission in ulcerative colitis after 4 weeks?
+6. What is the first-line drug we use in a patient with /severe/ ulcerative colitis?
+7. What is the next step after stopping the symptoms of ulcerative colitis?
+8. What investigation should be done for a definitive diagnosis of ulcerative colitis?
+9. What drug should be given if the ulcerative colitis inflammation is mainly in the rectum?
+10. If a patient with /severe/ ulcerative colitis does not improve after 72 hours, what should you do?
+11. When should colonoscopy be avoided in a patient with ulcerative colitis?
+12. In ulcerative colitis, what should be the next step if the high-dose oral aminosalicylate tablets do not work for inducing remission?
+13. How to maintain remission after /severe/ attack of ulcerative colitis?
+14. What would be seen in a biopsy for ulcerative colitis?
+
+@@html:<div onclick="reveal()">Click this sentence to see the answers! <span class="ja">この文章をクリックすると、答えが表示されます！</span></div><div style="display: none;">@@
+1. Faecal calprotectin is an investigation used when the diagnosis is uncertain.
+2. If the inflammation is affecting more than the rectum, then oral aminosalicylate should be given. This is because the cream will not be able to reach the deeper part of the intestines.
+3. The first step in inducing remission is to give the patient topical aminosalicylate cream to use in the rectum.
+4. A barium enema is an investigation where barium is introduced through the anus.
+5. If the topical aminosalicylate cream does not work after 4 weeks, the patient should be given high-dose oral aminosalicylate tablets.
+6. IV steroid.
+7. After stopping the symptoms of an inflamed condition, the next step is to give the patient drugs that will prevent the symptoms from coming back.
+8. Colonoscopy and biopsy.
+9. If the inflammation is mainly in the rectum, then topical aminosalicylate should be given. This comes in the form of a cream.
+10. If the patient did not improve after 72 hours, then you should add IV ciclosporin.
+11. Colonoscopy should be avoided during an acute attack of ulcerative colitis, as it may cause damage to the colon.
+12. If the high-dose oral aminosalicylate tablets do not work, then the patient should be given oral corticosteroid plus oral aminosalicylate.
+13. Give oral azathioprine or oral mercaptopurine.
+14. A superficial inflammation and fewer goblet cells. Crypt abscesses.
+@@html:</div>@@
+
+#+BEGIN_EXPORT html
+<script src="https://ahisu6.github.io/assets/js/revealAnswer.js"></script>
+#+END_EXPORT
+
