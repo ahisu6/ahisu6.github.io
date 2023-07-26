@@ -1,0 +1,69 @@
+#+TITLE: Surgery 002
+
+#+BEGIN_EXPORT html
+<div class="engt">Surgery</div>
+<div class="japt">外科学</div>
+<div class="engt">Page 002</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/s/002.org][Edit]]
+
+[[file:./index.org][Home]]
+
+[[file:./002.org][Next page >>]]
+
+-----
+
+#+TOC: headlines 2
+
+
+* Acute mesenteric ischaemia
+:PROPERTIES:
+:CUSTOM_ID: org04dab65
+:END:
+
+Posted: 2023-07-26 | Updated: 2023-07-26
+
+Your intestines have a lot of arteries. These arteries give your intestines a lot of blood and oxygen. @@html:<span class="ja">腸にはたくさんの動脈がある。これらの動脈は腸に多くの血液と酸素を供給しています。</span>@@
+
+The intestines are wrapped in something called mesentery. Look at this [[https://drive.google.com/uc?export=view&id=13yA8QIxCtbDdeC6HWo8qwwhHcNnehbaE][picture]]. @@html:<span class="ja">腸は腸間膜というものに包まれている。</span>@@
+
+The mesentery takes the arteries from the aorta to the intestines. @@html:<span class="ja">腸間膜は大動脈から腸まで動脈を取り込んでいる。</span>@@
+
+Sometimes, a blood clot travels and blocks an artery that is in the mesentery. This is called acute mesenteric ischaemia. @@html:<span class="ja">血栓が腸間膜の動脈を塞いでしまうことがある。これを急性腸間膜虚血という。</span>@@
+
+So, usually, people who have atrial fibrillation will get acute mesenteric ischaemia. This is becausse atrial fibrillation increases the chance of a blood clot. @@html:<span class="ja">心房細動のある人は急性腸間膜虚血になることが多い。心房細動があると血栓ができやすくなるからである。</span>@@
+
+Acute mesenteric ischaemia means:
+- Acute: this word means that it the disease happens suddenly and very quickly. @@html:<span class="ja">この言葉は、病気が突然、非常に早く起こることを意味する。</span>@@
+- Mesenteric: this is a word that we use to describe the mesentery. @@html:<span class="ja">これは腸間膜を表す言葉だ。</span>@@
+- Ischaemia: this word means that there is not enough blood. @@html:<span class="ja">この言葉は血液が足りないことを意味する。</span>@@
+
+Acute mesenteric ischaemia is similar to a heart attack... it is an instestine attack! @@html:<span class="ja">急性腸間膜虚血は心臓発作に似ている... 腸の発作である！</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org240853c
+:END:
+
+- Sudden tummy pain. @@html:<span class="ja">いたみ...。</span>@@
+- Very, very, very, very painful. @@html:<span class="ja">とてもいたみ～。</span>@@
+- It is reaaaaaaaaaaaaaaaaaaaaaally painful. @@html:<span class="ja">本当にいたみです。</span>@@
+- A looooooooooooooooooooooot of pain. @@html:<span class="ja">いたみ、いたみ、いたみ、いたみ、いたみ、いたみ。</span>@@
+- Sooooooooooooooooo much paaaaaaaaaaain. @@html:<span class="ja">あ～、いたみ～～～～。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org1588d31
+:END:
+
+- You need to do urgent CT scan of the abdomen. @@html:<span class="ja">緊急の腹部CTスキャンが必要です。</span>@@
+- Quick! Go and do a CT scan! @@html:<span class="ja">急げ CTスキャンを撮ってきてください！</span>@@
+- There will be a very high level of lactate. This is because the intestine is not getting oxygen. The intestine is dying!!! @@html:<span class="ja">乳酸値が非常に高くなる。これは腸に酸素が供給されていないからだ。腸が死んでいるのだ！！！</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: orge2f3805
+:END:
+
+- Surgery. You need to do urgent laparotomy. @@html:<span class="ja">手術。緊急開腹手術が必要です。</span>@@
