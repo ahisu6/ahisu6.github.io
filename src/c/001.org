@@ -1,0 +1,76 @@
+#+TITLE: Cardiology 001
+
+#+BEGIN_EXPORT html
+<div class="engt">Cardiology</div>
+<div class="japt">臨床薬理学</div>
+<div class="engt">Page 001</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/cp/001.org][Edit]]
+
+[[file:./index.org][Home]]
+
+[[file:./002.org][Next page >>]]
+
+-----
+
+#+TOC: headlines 2
+
+* Supraventricular tachycardia
+:PROPERTIES:
+:CUSTOM_ID: orgf0aee00
+:END:
+
+Posted: 2023-07-29 | Updated: 2023-07-29
+
+Supraventricular tachycardia means that the top part of the heart is beating very fast. @@html:<span class="ja">上室性頻拍とは、心臓の上部の拍動が非常に速いことを意味する。</span>@@
+
+Usually, supraventricular tachycardia is not dangerous. @@html:<span class="ja">通常、上室性頻拍は危険ではない。</span>@@
+
+But... sometimes, supraventricular tachycardia can be very bad. So, the patient might collapse and lose consciousness. @@html:<span class="ja">しかし... 時には上室性頻拍が非常に悪化することもあります。そのため、患者は倒れて意識を失うかもしれません。</span>@@
+
+Supraventricular tachycardia happens because there are extra fibres that are conducting electricity in the heart. This extra electricity makes the heart beat faster. @@html:<span class="ja">上室性頻拍は、心臓に電気を通す線維が余分にあるために起こる。この余分な電気が心臓の拍動を速くします。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: orgd792002
+:END:
+
+- Palpitations: ドキドキドキドキドキドキドキドキドキドキドキドキ...。
+- Chest pain.
+- Breathing difficulty.
+- Dizzy.
+- Collapse.
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org340ad6a
+:END:
+
+- ECG, of course!
+- See if the patient is stable.
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: orgf6e0bbe
+:END:
+
+First, you need to check if the patient is stable. @@html:<span class="ja">まず、患者が安定しているかどうかを確認する必要がある。</span>@@
+
+If the patient is stable, then you need to do the following @@html:<span class="ja">患者が安定している場合は、次のことを行う必要がある</span>@@:
+1. Vagal manoeuvres: these are things you do to stimulate the vagus nerve. the vagus nerve will reduce the heart rate. There are two examples @@html:<span class="ja">迷走神経操作：迷走神経を刺激するために行うもので、迷走神経が心拍数を低下させる。次の2つの例がある。</span>@@
+  - Carotid sinus massage: in here, you will give the patient a massage on the neck. See this [[https://drive.google.com/uc?export=view&id=1bgLA4k5Gz9ApDbCAODWW9kf5HbK5elxS][picture]]. @@html:<span class="ja">頸動脈洞マッサージ：ここでは、患者に首のマッサージを行う。</span>@@
+  - Valsalva manoeuvre: in here, you will ask the patient to blow air into an empty syringe. See this [[https://drive.google.com/uc?export=view&id=16V4HVQMTOcVg6atzE4LhJftcSIjwKMwj][picture]]. @@html:<span class="ja">バルサルバ法：空の注射器に空気を吹き込んでもらう。</span>@@
+2. If vagal manoeuvres did not work, then you should give adenosine. @@html:<span class="ja">迷走神経操作が効かない場合は、アデノシンを投与する。</span>@@
+  - Start with 6 mg of adenosine. @@html:<span class="ja">アデノシン6mgから開始する。</span>@@
+  - If that did not work, then give 12 mg of adenosine. @@html:<span class="ja">それでもだめなら、アデノシンを12mg投与する。</span>@@
+  - Finally, if that did not work, then give 18 mg of adenosine! @@html:<span class="ja">それでもだめなら、アデノシンを18mg投与する！</span>@@
+3. Now... let's say that the adenosine did not work. What should you do? Give the patient DC cardioversion. This is an electric shock to the heart! @@html:<span class="ja">さて... アデノシンが効かなかったとしよう。どうしますか？患者に直流除細動を行います。これは心臓に電気ショックを与えます！</span>@@
+
+If the patient is unstable (for example, if the patient loses consciousness), then you need to skip all of the steps above, and do DC cardioversion straight away. @@html:<span class="ja">患者が不安定な場合（例えば、意識を失った場合）には、上記のステップをすべて飛ばして、すぐにDC除細動を行う必要があります。</span>@@
+
+So... let's say a patient comes to the A&E with supraventricular tachycardia. Then, few seconds later, the patient collapsed. The first line treatment in this case is... DC cardioversion!!!! @@html:<span class="ja">つまり...ある患者が上室性頻拍でA&Eに来たとする。それから数秒後、患者は倒れた。この場合の第一選択治療は... 直流除細動です！！！！</span>@@
+
+So... we can give the patient some drugs that prevent supraventricular from coming again @@html:<span class="ja">ですから... 患者に上室性の再発を防ぐ薬を投与することができます</span>@@
+- Beta-blockers: these will slow the heart rate down. @@html:<span class="ja">これらは心拍数を遅くする。</span>@@
+- Radio-frequency ablation: this will burn the extra fibres in the heart. @@html:<span class="ja">これは心臓の余分な繊維を燃やすことになる。</span>@@
