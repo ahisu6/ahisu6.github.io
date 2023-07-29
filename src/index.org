@@ -50,7 +50,7 @@ Click the chapter which you want to study! @@html:<span class="ja">勉強した�
 - [[file:./cp/index.org][Clinical Pharmacology - 臨床薬理学 (cp)]]
 - [[file:./og/index.org][Obstetrics and Gynaecology - 産婦人科学 (og)]]
 - [[file:./p/index.org][Paediatrics - 小児科学 (p)]]
-- Cardiology - 循環器学 (c)
+- [[file:./c/index.org][Cardiology - 循環器学 (c)]]
 - [[file:./r/index.org][Respiratory - 呼吸器学 (r)]]
 - [[file:./s/index.org][Surgery - 外科学 (s)]]
 - [[file:./n/index.org][Neurology - 神経学 (n)]]
