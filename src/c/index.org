@@ -1,0 +1,26 @@
+#+TITLE: Cardiology
+
+#+BEGIN_EXPORT html
+<div class="engt">Cardiology</div>
+<div class="japt">循環器学</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/c/index.org][Edit]]
+
+[[file:../index.org][Home]]
+
+-----
+
+* List of topics
+:PROPERTIES:
+:CUSTOM_ID: ctopics
+:END:
+
+#+ATTR_HTML: :class sortable
+| Page | Title                | Date posted |
+|------+----------------------+-------------|
+| [[file:./001.org][001]]  | [[file:./002.org::#orgf0aee00][Supraventricular tachycardia]] |  2023-07-29 |
+
+#+BEGIN_EXPORT html
+<script src="https://ahisu6.github.io/assets/js/sortTable.js"></script>
+#+END_EXPORT
