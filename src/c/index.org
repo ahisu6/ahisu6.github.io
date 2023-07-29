@@ -19,7 +19,7 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                | Date posted |
 |------+----------------------+-------------|
-| [[file:./001.org][001]]  | [[file:./002.org::#orgf0aee00][Supraventricular tachycardia]] |  2023-07-29 |
+| [[file:./001.org][001]]  | [[file:./001.org::#orgf0aee00][Supraventricular tachycardia]] |  2023-07-29 |
 
 #+BEGIN_EXPORT html
 <script src="https://ahisu6.github.io/assets/js/sortTable.js"></script>
