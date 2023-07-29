@@ -49,14 +49,14 @@ In ventriclar tachycardia, the QRS complex looks very, very, very, very, weird. 
 :CUSTOM_ID: org5676e96
 :END:
 
+See this [[https://drive.google.com/uc?export=view&id=1AybyhTpQQz4iWlqLvPCxyi8YYbJK3QGd][picture]] of a chart that explains the treatment in a nice way.
+
 Sometimes, the ventriclar tachycardia can cause a lot of serious problems. If these problems happen, then you need to give an electric shock (DC cardioversion). @@html:<span class="ja">時には、心室頻拍が多くの深刻な問題を引き起こすことがあります。このような場合は、電気ショック（直流除細動）を行う必要があります。</span>@@
 
 Here are examples of some of these serious issues @@html:<span class="ja">これらの深刻な問題の例をいくつか挙げてみよう</span>@@:
 1. Systolic blood pressure less than 90 mmHg: this is because the ventricles are very fast and therefore not efficient. @@html:<span class="ja">収縮期血圧が90mmHg未満：これは心室が非常に速く、効率が悪いためである。</span>@@
 2. Losing conciousness: this is because there is not enough blood going to the brain. @@html:<span class="ja">意識を失う：これは脳に行く血液が足りないからだ。</span>@@
 3. Heart failure: because the ventricles are beating very fast, the heart will be tired and it will fail. @@html:<span class="ja">心不全：心室は非常に速く拍動しているため、心臓は疲れてしまい、機能しなくなる。</span>@@
-
-I made a chart for you that explains this treatment. See this [[https://drive.google.com/uc?export=view&id=1AybyhTpQQz4iWlqLvPCxyi8YYbJK3QGd][picture]].
 
 If the patient has serious issues, then you need to give electric shock (DC cardioversion). @@html:<span class="ja">患者に深刻な問題がある場合は、電気ショック（直流除細動）を与える必要がある。</span>@@
 
@@ -102,6 +102,8 @@ Supraventricular tachycardia happens because there are extra fibres that are con
 :PROPERTIES:
 :CUSTOM_ID: orgf6e0bbe
 :END:
+
+See this [[https://drive.google.com/uc?export=view&id=1jvczzGpKX-PqTGs0SNaWEdHoi3bHGITp][picture]] of a chart that explains the treatment in a nice way.
 
 First, you need to check if the patient is stable. @@html:<span class="ja">まず、患者が安定しているかどうかを確認する必要がある。</span>@@
 
