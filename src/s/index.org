@@ -19,6 +19,7 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                | Date posted |
 |------+----------------------+-------------|
+| [[file:./002.org][002]]  | [[file:./002.org::#org9afa15b][Gastric cancer]] |  2023-07-29 |
 | [[file:./002.org][002]]  | [[file:./002.org::#org04dab65][Acute mesenteric ischaemia]] |  2023-07-26 |
 | [[file:./001.org][001]]  | [[file:./001.org::#orgfbd6bca][Nephrotic syndrome]] |  2023-07-26 |
 | [[file:./001.org][001]]  | [[file:./001.org::#orga56abdb][Ascending cholangitis]] |  2023-07-25 |
