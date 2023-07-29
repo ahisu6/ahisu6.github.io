@@ -71,6 +71,8 @@ You said you are confused about the difference between ventriclar and supraventr
 
 Posted: 2023-07-29 | Updated: 2023-07-29
 
+The word "supra" means above. So, this is tachycardia above the ventricles. @@html:<span class="ja">「supra」とは「上」という意味です。つまり、これは心室の上の頻脈である。</span>@@
+
 Supraventricular tachycardia means that the top part of the heart is beating very fast. @@html:<span class="ja">上室性頻拍とは、心臓の上部の拍動が非常に速いことを意味する。</span>@@
 
 Usually, supraventricular tachycardia is not dangerous. @@html:<span class="ja">通常、上室性頻拍は危険ではない。</span>@@
