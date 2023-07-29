@@ -16,6 +16,55 @@
 
 #+TOC: headlines 2
 
+* Gastric cancer
+:PROPERTIES:
+:CUSTOM_ID: org9afa15b
+:END:
+
+Posted: 2023-07-29 | Updated: 2023-07-29
+
+This is the cancer of the stomach. @@html:<span class="ja">これは胃の癌である。</span>@@
+
+The main risk factor for this gastric cancer is h. pylori infection. @@html:<span class="ja">この胃がんの主な危険因子はピロリ菌感染である。</span>@@
+
+So, if you get a lot of stomach ulcers that have h. pylori, then your chance of gastric cancer increases. This is because of the inflammation. @@html:<span class="ja">つまり、ピロリ菌がいる胃潰瘍がたくさんできると、胃がんになる可能性が高くなるのです。これは炎症のためです。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: orgd303460
+:END:
+
+- Epigastric pain.
+- weight loss.
+- Nausea and vomiting.
+- Lymph node in the left supraclavicular fossa becomes big (this is called Virchow's node). @@html:<span class="ja">左鎖骨上窩のリンパ節が大きくなる（これをVirchow結節という。）</span>@@
+- Lymph node next to the belly button becomes big (this is called Sister Mary Joseph's node). @@html:<span class="ja">おへその横のリンパ節が大きくなる（これはシスター・マリア・ヨーゼフ結節と呼ばれる）。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org2f1d024
+:END:
+
+- First, you need to do oesophago-gastro-duodenoscopy (OGD) with biopsy. This is a tube that goes in the mouth and to the stomach. @@html:<span class="ja">まず、生検を伴う食道-胃-十二指腸内視鏡検査（OGD）を行う必要があります。これは口から胃に管を通すものです。</span>@@
+  - When you do histology, you will see something called signet ring cells. @@html:<span class="ja">組織検査をすると、シグネットリング細胞と呼ばれるものが見られる。</span>@@
+- After you diagnose gastric cancer, we have to do CT scan of the chest, abdomen, and pelvis. This is because we need to check if the cancer has spread. @@html:<span class="ja">胃がんと診断されたら、胸部、腹部、骨盤のCTスキャンをしなければなりません。がんが広がっているかどうかを調べる必要があるからです。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org597b49f
+:END:
+
+- You need to do surgery to remove the cancer. @@html:<span class="ja">癌を取り除く手術が必要です。</span>@@
+- Then, you need to give chemotherapy. @@html:<span class="ja">それから化学療法を行う必要がある。</span>@@
+
+** Complications
+:PROPERTIES:
+:CUSTOM_ID: org866bf52
+:END:
+
+- Sometimes, the cancer can make the stomach perforate. This will make the stomach have a hole. This causes a lot of pain! @@html:<span class="ja">がんが胃に穴を開けることもある。胃に穴が開くのです。これは大きな痛みを引き起こします！</span>@@
+- Sometimes, the gastric cancer can spread to the ovaries in women. This is called Krukenberg tumour. This is why we have to do the CT scan! @@html:<span class="ja">女性の場合、胃がんが卵巣に転移することがあります。これはクルーケンベルグ腫瘍と呼ばれます。だからCTスキャンをしなければならないのです！</span>@@
+
 * Acute mesenteric ischaemia
 :PROPERTIES:
 :CUSTOM_ID: org04dab65
