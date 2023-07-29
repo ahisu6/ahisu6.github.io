@@ -27,6 +27,10 @@ This is a tachycardia in the ventricles (lower part of the heart). @@html:<span 
 
 In ventriclar tachycardia, the QRS complex looks very, very, very, very, weird. Look at this [[https://drive.google.com/uc?export=view&id=161RIsOdJa5dKYkdgFqLd6G9xQVD4e1Qi][picture]]. @@html:<span class="ja">心室性頻拍では、QRS複合体は非常に、非常に、非常に、非常に、非常に、奇妙に見える。</span>@@
 
+This is a very serious disease. @@html:<span class="ja">これは非常に危険な病気だ。</span>@@
+
+You need to act very fast. @@html:<span class="ja">早急に対処する必要がある。</span>@@
+
 ** Signs and symptoms
 :PROPERTIES:
 :CUSTOM_ID: org446a8bc
