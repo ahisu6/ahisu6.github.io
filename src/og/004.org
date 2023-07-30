@@ -16,6 +16,53 @@
 
 #+TOC: headlines 2
 
+* Shoulder dystocia (O)
+:PROPERTIES:
+:CUSTOM_ID: org3c54cbd
+:END:
+
+Posted: 2023-07-30 | Updated: 2023-07-30
+
+This is when the baby's shoulder is stuck behind the pubic symphysis of the mother. @@html:<span class="ja">これは、赤ちゃんの肩が母親の恥骨結合の後ろにはまり込んでいる状態である。</span>@@
+
+This happens after the baby's comes out of the vagina. See this [[https://drive.google.com/uc?export=view&id=1M0g3VwDmGzOioqrlwSEg66hP-W_EnOdq][picture]]. @@html:<span class="ja">これは赤ちゃんが膣から出てきた後に起こる。</span>@@
+
+Shoulder dystocia happens if the baby is too big. So, a ぷにぷに baby might get shoulder dystocia during delivery. @@html:<span class="ja">肩甲難産は、赤ちゃんが大きすぎる場合に起こります。ですから、ぷにぷにの赤ちゃんは分娩中に肩甲難産になるかもしれません。</span>@@
+
+This can cause the brachial plexus of the baby to become damaged. See this [[https://youtu.be/v9pXVQGb0XQ][video]] to show you how the damage happens. @@html:<span class="ja">そのため、赤ちゃんの腕神経叢が損傷する可能性がある。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org71a8915
+:END:
+
+- You will see that the baby's head is visible, but the baby is struggling to get the shoulder out. @@html:<span class="ja">赤ちゃんの頭は見えているが、赤ちゃんは肩を出そうともがいているのがわかるだろう。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: orgbbba232
+:END:
+
+- You can see this with your eyes. You don't need an investigation. @@html:<span class="ja">目で見ればわかる。調査は必要ない。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: orgc48b37f
+:END:
+
+- Call the consultatn! Quick!!!
+- Now, you need to do something called McRoberts' manoeuvre. @@html:<span class="ja">さて、マクローバートの作戦と呼ばれるものを実行する必要がある。</span>@@
+- McRoberts' manoeuvre is when the mother puts her thighs on her abdomen. See this [[https://youtu.be/eq9n1WJPhF4][video]]. @@html:<span class="ja">マックロバーツの操作とは、母親が太ももを腹部に向けて動かすことである。</span>@@
+- McRoberts' manoeuvre will move the pubic symphysis. This will create more space for the baby. @@html:<span class="ja">マックロバーツの操作で恥骨結合を動かす。そうすることで、赤ちゃんのためのスペースが生まれます。</span>@@
+
+** Complications
+:PROPERTIES:
+:CUSTOM_ID: org53b7971
+:END:
+
+- Postpartum haemorrhage in mother: this is bleeding after the delivery. @@html:<span class="ja">産後出血：出産後の出血。</span>@@
+- Brachial plexus injury in baby: this is damage to the baby's brachial plexus. See this [[https://youtu.be/v9pXVQGb0XQ][video]] to show you how the damage happens. @@html:<span class="ja">赤ちゃんの腕神経叢損傷：赤ちゃんの腕神経叢の損傷。</span>@@
+
 * Ovarian tumours (G)
 :PROPERTIES:
 :CUSTOM_ID: org3450aaa
