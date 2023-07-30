@@ -16,6 +16,78 @@
 
 #+TOC: headlines 2
 
+* Crohn's disease
+:PROPERTIES:
+:CUSTOM_ID: org241c7c3
+:END:
+
+Posted: 2023-07-30 | Updated: 2023-07-30
+
+This is another type of inflammatory bowel disease. @@html:<span class="ja">これも炎症性腸疾患の一種である。</span>@@
+
+Crohn's disease mainly affects the last part of the ileum (it is called "terminal ileum"). But, it can affect the mouth and the anus too! @@html:<span class="ja">クローン病は主に回腸の最後の部分（「終末回腸」と呼ばれる）を侵す。しかし、口や肛門にも影響を及ぼすことがあります！</span>@@
+
+In Crohn's disease, the inflammation is more severe than ulcerative colitis. @@html:<span class="ja">クローン病では潰瘍性大腸炎よりも炎症がひどい。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: orgaed5215
+:END:
+
+- Weight loss: this is because the small intestines are inflamed and cannot absorb nutrients. @@html:<span class="ja">これは小腸が炎症を起こし、栄養を吸収できないからである。</span>@@
+- Fatigue.
+- Diarrhoea.
+- Pain in the right lower quadrant: the right lower quadrant is the location of the ileum! @@html:<span class="ja">右下腹部の痛み：右下腹部には回腸がある！</span>@@
+
+There are other symptoms of Crohn's disease. These symptoms affect other parts of the body @@html:<span class="ja">クローン病の症状は他にもあります。これらの症状は体の他の部分にも影響します</span>@@:
+- Inflammation of the eyes. @@html:<span class="ja">目の炎症。</span>@@
+- Joint pain. @@html:<span class="ja">関節痛。</span>@@
+- Painful rash on the legs (erythema nodosum). @@html:<span class="ja">足に痛みを伴う発疹（結節性紅斑）。</span>@@
+- Mouth ulcers.
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org370eb3b
+:END:
+
+- You can do something called faecal calprotectin. This is sometimes used if you are not sure of the diagnosis. @@html:<span class="ja">糞便カルプロテクチンという検査があります。これは診断がはっきりしない場合に使われることがあります。</span>@@
+- Do blood tests: you will see that the patient has low vitamin B12 and vitamin D. This is because the small intestines are inflamed and cannot absorb nutrients. @@html:<span class="ja">ビタミンB12とビタミンDが低いことがわかるだろう。これは小腸が炎症を起こし、栄養を吸収できないためである。</span>@@
+- If the patient has a fistula, then you need to do MRI scan. @@html:<span class="ja">瘻孔がある場合は、MRI検査が必要です。</span>@@
+- Anaemia: this is because the small intestines are inflamed and cannot absorb nutrients. @@html:<span class="ja">これは小腸が炎症を起こし、栄養を吸収できないからである。</span>@@
+- If you want the definitive diagnosis, then you should do ileocolonoscopy (this is a camera that can see the colon and the ileum) and take a biopsy. @@html:<span class="ja">確定診断を望むのであれば、回腸内視鏡検査（これは大腸と回腸を見ることができるカメラです）を行い、生検を行うべきです。</span>@@
+- During the ileocolonoscopy, you will see that the inflammation is not continuous. This is called "skip lesions". See this [[https://drive.google.com/uc?export=view&id=1qzYNUYT1TGOIMdeN3qjvgKsrjbqwsjBT][picture]]. @@html:<span class="ja">回腸鏡検査では、炎症が連続していないことがわかります。これを「病変をスキップする」といいます。</span>@@
+- Another thing that you will see in ileocolonoscopy is something called "Cobblestone sign". See this [[https://drive.google.com/uc?export=view&id=1-s9MVFDOdnvi1CISvHx2t_hxCrzS33tm][picture]]. Cobblestone is a type of rock (look at this [[https://drive.google.com/uc?export=view&id=1PjwQA4hS7Zw0kLkdFeFJpQjt_J8kzcsB][picture]] of Cobblestone). @@html:<span class="ja">回腸内視鏡検査で見られるもう一つのものは、「石畳徴候」と呼ばれるものです。石畳は岩石の一種。</span>@@
+- Finally, in the ileocolonoscopy, you might see a fistula. @@html:<span class="ja">最後に、回腸鏡検査で瘻孔が見えるかもしれない。</span>@@
+- In the histology, you will see these things @@html:<span class="ja">組織検査では、次のようなことが見られる</span>@@:
+  1. Deep inflammation: the inflammation will break the mucosa and it will reach the deeper part of the tissue. @@html:<span class="ja">深部炎症：炎症は粘膜を破り、組織の深部まで達する。</span>@@
+  2. Deep fissuring ulcers.
+  3. Granulomas: this is a small group of white blood cells that come together like a band to play music. @@html:<span class="ja">肉芽腫：これは白血球の小さな集団で、音楽を奏でるバンドのように集まっている。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org4ccbbd3
+:END:
+
+I have made this chart for you. Please have a look @@html:<span class="ja">この表を作成しました。どうぞご覧ください</span>@@:
+- [[https://drive.google.com/uc?export=view&id=1dV1YEQVnL6SR66zntmQKr0AeA0K6L2oK][Japanese chart]].
+- [[https://drive.google.com/uc?export=view&id=15E1DM5UTGGXR1dYkfX0G_ZDTZ-UykiDd][English chart]].
+
+First, you need to tell the patient to stop smoking. @@html:<span class="ja">まず、患者に禁煙するように言う必要がある。</span>@@
+
+Again, this is similar to ulcerative colitis approach: first, we start with inducing remission. The patient will come to the hospital, and they will have symptoms. So, we need to stop these symptoms. @@html:<span class="ja">まず、寛解を誘導することから始めます。患者さんは病院にやってきて、症状が出ます。ですから、その症状を止める必要があります</span>@@:
+- First, we need to give glucocorticoids. @@html:<span class="ja">まず、グルココルチコイドを投与する必要がある。</span>@@
+- If glucocorticoids do not work, then we need to give aminosalicylate. @@html:<span class="ja">グルココルチコイドが効かない場合は、アミノサリチル酸塩を投与する必要がある。</span>@@
+- If aminosalicylate did not work, then we need to give azathioprine or methotrexate. Any of those two. @@html:<span class="ja">もしアミノサリチル酸塩が効かなかったら、アザチオプリンかメトトレキセートを投与する必要がある。この2つのうちどれでもいい。</span>@@
+- If the patient has fistula, then we need to give infliximab. @@html:<span class="ja">瘻孔があれば、インフリキシマブを投与する必要がある。</span>@@
+- If the patient has anal disease like abscess or infection or anal fistula, then we need to give metronidazole. @@html:<span class="ja">膿瘍や感染症、痔瘻などの肛門疾患がある場合は、メトロニダゾールを投与する必要がある。</span>@@
+
+Next, after we stopped the symptoms, we need to give the patient drugs that will prevent the symptoms from coming back @@html:<span class="ja">次に、症状を止めた後、症状が再発しないように薬を投与する必要がある</span>@@:
+- Azathioprine or mercaptopurine.
+
+Over a long period of time, the patient will need to have surgery @@html:<span class="ja">長期間にわたって、患者は手術を行う必要がある</span>@@
+- If the patient has a complex fistula, then you will need to do a draining seton. This is a wire that will help the anus drain the pus. See this [[https://drive.google.com/uc?export=view&id=1VZYI5IV6vxwdtnLMHEqUkHlrziQQDLEX][picture]]. @@html:<span class="ja">複雑な瘻孔の場合は、排膿セトンを行う必要がある。これは肛門から膿を排出するためのワイヤーです。</span>@@
+- If the patient gets an abscess, then you need to open the abscess and drain it. Then, give antibiotics. @@html:<span class="ja">患者が膿瘍になった場合は、膿瘍を開いて排膿する必要がある。それから抗生物質を投与する。</span>@@
+
 * Ulcerative colitis
 :PROPERTIES:
 :CUSTOM_ID: org603c024
