@@ -49,6 +49,7 @@ Sounds good? Cool.
 #+ATTR_HTML: :class sortable
 | Page | Title          | Date posted |
 |------+----------------+-------------|
+| [[file:./004.org][004]]  | [[file:./004.org::#org3c54cbd][Shoulder dystocia]] |  2023-07-30 |
 | [[file:./003.org][003]]  | [[file:./003.org::#org33cd9ca][Termination of pregnancy]] |  2023-02-26 |
 | [[file:./003.org][003]]  | [[file:./003.org::#orgaf40a01][Gestational diabetes]] |  2023-02-26 |
 | [[file:./003.org][003]]  | [[file:./003.org::#org9f8fd5a][Hyponatraemia in pregnancy]] |  2023-02-21 |
