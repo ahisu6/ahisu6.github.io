@@ -19,6 +19,7 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                | Date posted |
 |------+----------------------+-------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#org241c7c3][Crohn's disease]] |  2023-07-30 |
 | [[file:./001.org][001]]  | [[file:./001.org::#org603c024][Ulcerative colitis]] |  2023-07-26 |
 
 
