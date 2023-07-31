@@ -1,0 +1,57 @@
+#+TITLE: Neurology 002
+
+#+BEGIN_EXPORT html
+<div class="engt">Neurology</div>
+<div class="japt">神経学</div>
+<div class="engt">Page 002</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/n/002.org][Edit]]
+
+[[file:./index.org][Home]]
+
+[[file:./001.org][<< Previous page]] - [[file:./003.org][Next page >>]]
+
+-----
+
+#+TOC: headlines 2
+
+* Encephalitis
+:PROPERTIES:
+:CUSTOM_ID: org99809f1
+:END:
+
+Posted: 2023-07-31 | Updated: 2023-07-31
+
+Encephalitis is inflammation of the brain. @@html:<span class="ja">脳炎は脳の炎症である。</span>@@
+
+Encephalitis can happen because of many reasons. The most common reason is viral or bacterial infections. @@html:<span class="ja">脳炎はさまざまな原因で起こる。最も一般的な理由は、ウイルスや細菌の感染です。</span>@@
+
+The herpes simplex virus is the most common cause of encephalitis. Herpes simplex virus mainly affect the temporal lobe of the brain. See this [[https://drive.google.com/uc?export=view&id=1-jvvL_HfEO6jYZGxOBK6Jao6vd_ZXdCJ][picture]] of temporal lobe encephalitis (I got it from this [[https://radiopaedia.org/cases/10644/][website]]). @@html:<span class="ja">単純ヘルペスウイルスは脳炎の最も一般的な原因である。単純ヘルペスウイルスは主に脳の側頭葉を侵す。</span>@@
+
+When the brain becomes inflamed, many problems can happen. For example, confusion and seizures. @@html:<span class="ja">脳が炎症を起こすと、さまざまな問題が起こる。例えば、錯乱や発作などだ。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org698963b
+:END:
+
+- Fever.
+- Confusion.
+- Seizures.
+- The patient might start behaving in a strange way and their personality might change. @@html:<span class="ja">患者は奇妙な行動をとるようになり、性格が変わるかもしれない。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: orgdf7dabe
+:END:
+
+- You need to check the cerebrospinal fluid (CSF). And, you need to do PCR to see if there are any viruses. @@html:<span class="ja">脳脊髄液（CSF）をチェックする必要があります。そして、ウイルスがあるかどうかを確認するためにPCRを行う必要がある。</span>@@
+- Do MRI to see the place of inflammation. If the patient has herpes simplex encephalitis, then you will notice that the temporal lobes are inflamed. See this [[https://drive.google.com/uc?export=view&id=1-jvvL_HfEO6jYZGxOBK6Jao6vd_ZXdCJ][picture]] of temporal lobe encephalitis (I got it from this [[https://radiopaedia.org/cases/10644/][website]]). @@html:<span class="ja">MRIで炎症の場所を見る。患者が単純ヘルペス脳炎であれば、側頭葉が炎症を起こしていることがわかります。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org0383cf2
+:END:
+
+- If the patient has herpes simplex encephalitis, then you need to give them... IV aciclovir! @@html:<span class="ja">もし患者が単純ヘルペス脳炎に罹患しているのであれば... アシクロビルの静脈内投与！</span>@@
