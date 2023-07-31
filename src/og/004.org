@@ -16,6 +16,56 @@
 
 #+TOC: headlines 2
 
+* Amenorrhoea (G)
+:PROPERTIES:
+:CUSTOM_ID: org3330f7b
+:END:
+
+Posted: 2023-07-31 | Updated: 2023-07-31
+
+Amenorrhoea is when a woman does not have her menstrual period. @@html:<span class="ja">無月経とは、女性に月経がない状態をいう。</span>@@
+
+There are 2 types of amenorrhoea @@html:<span class="ja">無月経には2つのタイプがある</span>@@:
+1. Primary: this happens when a girl reaches 15 years old without getting her period. @@html:<span class="ja">これは、少女が15歳になっても月経がない場合に起こる。</span>@@
+2. Secondary: this is when a woman who has previously had a normal period stops having periods for more than 3 months. @@html:<span class="ja">これは、それまで正常な生理があった女性が、3ヶ月以上生理が来なくなることである。</span>@@
+
+There are many causes for each type. Please see PassMedicine for the full list @@html:<span class="ja">それぞれのタイプには多くの原因があります。全リストはPassMedicineをご覧ください</span>@@:
+| Primary                              | Secondary                   |
+|--------------------------------------+-----------------------------|
+| Turner's syndrome                    | A lot of exercise           |
+| Hymen that does not have a hole      | Polycystic ovarian syndrome |
+| Congenital issues with the genitalia | Pregnancy                   |
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org572a9ba
+:END:
+
+- Well, the woman will not have a period... @@html:<span class="ja">まあ、その女性には生理はないだろうが...。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: orgfa51c13
+:END:
+
+- Do pregnancy test. This is because if the woman is pregnant, she will not have a period. @@html:<span class="ja">妊娠検査をしてください。妊娠していれば生理が来ないからだ。</span>@@
+- Do blood tests. @@html:<span class="ja">血液検査をする。</span>@@
+- Check the levels of gonadotrophins like follicle-stimulating hormone (FSH) and luteinising hormone (LH). @@html:<span class="ja">卵胞刺激ホルモン（FSH）や黄体形成ホルモン（LH）などのゴナドトロフィンのレベルをチェックする。</span>@@
+  - If the levels are high, then it means that the woman has Turner's syndrome. @@html:<span class="ja">もしこの値が高ければ、その女性はターナー症候群であることを意味する。</span>@@
+  - If the levels are low, then it means that the woman has a problem with the ovaries. @@html:<span class="ja">レベルが低い場合は、卵巣に問題があることを意味します。</span>@@
+- Check level of androgens. This will be high in polycystic ovarian syndrome (PCOS). @@html:<span class="ja">アンドロゲンのレベルをチェックする。多嚢胞性卵巣症候群(PCOS)では高値になります。</span>@@
+- Check the level of oestradiol (this is a type of oestrogen that the woman has). @@html:<span class="ja">エストラジオール（これは女性が持っているエストロゲンの一種）の濃度を調べます。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org2b7800b
+:END:
+
+| Primary                                                             | Secondary                  |
+|---------------------------------------------------------------------+----------------------------|
+| Treat the original problem                                          | Treat the original problem |
+| Give hormone replacement therapy if the woman has Turner's syndrome | Do pregnancy test          |
+
 * Placenta praevia (O)
 :PROPERTIES:
 :CUSTOM_ID: org02a3988
