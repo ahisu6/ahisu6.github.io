@@ -32,6 +32,7 @@ Sounds good? Cool.
 #+ATTR_HTML: :class sortable
 | Page | Title                       | Date posted |
 |------+-----------------------------+-------------|
+| [[file:./004.org][004]]  | [[file:./004.org::#org8306020][Infertility]] |  2023-07-31 |
 | [[file:./004.org][004]]  | [[file:./004.org::#org3330f7b][Amenorrhoea]] |  2023-07-31 |
 | [[file:./004.org][004]]  | [[file:./004.org::#orgd94e0f1][Endometriosis]] |  2023-07-31 |
 | [[file:./004.org][004]]  | [[file:./004.org::#org3450aaa][Ovarian tumours]] |  2023-03-04 |
