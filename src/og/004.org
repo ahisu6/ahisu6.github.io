@@ -64,7 +64,7 @@ So, in endometriosis, you might find endometrial tissue in other places. For exa
 Please see this [[https://drive.google.com/uc?export=view&id=1N6xyCHsd2u0q2AeFj-0C_fA6uzzL05CG][picture]] of the treatment chart.
 
 - First-line treatment is to give some painkillers to the patient. For example, paracetamol and NSAIDs. @@html:<span class="ja">第一選択治療は、患者に鎮痛剤を投与することである。例えば、パラセタモールやNSAIDsなどである。</span>@@
-- If painkillers do not work, then you need to give [[file:../../h/002.org#org7d34bc2][combined oral contraceptive pill]] or [[file:../../h/002.org#org2f0fc2e][progestogen pill]]. @@html:<span class="ja">鎮痛剤が効かない場合は、経口避妊薬配合ピルか黄体ホルモンピルを投与する必要があります。</span>@@
+- If painkillers do not work, then you need to give [[file:../../h/002.org::#org7d34bc2][combined oral contraceptive pill]] or [[file:../../h/002.org::#org2f0fc2e][progestogen pill]]. @@html:<span class="ja">鎮痛剤が効かない場合は、経口避妊薬配合ピルか黄体ホルモンピルを投与する必要があります。</span>@@
 - If hormonal treatment does not work, then you need to send the patient to the hospital. In the hospital, the patient will receive drugs called "GnRH analogues". @@html:<span class="ja">ホルモン治療が効かない場合は、患者を病院に送る必要がある。病院では「GnRHアナログ製剤」と呼ばれる薬を投与します。</span>@@
   - These will reduce the level of oestrogen. @@html:<span class="ja">これらはエストロゲンのレベルを下げる。</span>@@
 - If the woman wants to have a baby, then she should do laparoscopic surgery to remove the endometrial tissue. Watch this [[https://drive.google.com/uc?export=view&id=1JOVOdQFGr7z3AaysSqyNyn-3WesV24Jz][video]] (I got it from [[https://vimeo.com/149998622][here]])! @@html:<span class="ja">出産を望むのであれば、腹腔鏡手術で子宮内膜組織を取り除く必要がある。</span>@@
