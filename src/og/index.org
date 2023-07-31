@@ -32,6 +32,7 @@ Sounds good? Cool.
 #+ATTR_HTML: :class sortable
 | Page | Title                       | Date posted |
 |------+-----------------------------+-------------|
+| [[file:./004.org][004]]  | [[file:./004.org::#org11d2520][Endometriosis]] |  2023-07-31 |
 | [[file:./004.org][004]]  | [[file:./004.org::#org3450aaa][Ovarian tumours]] |  2023-03-04 |
 | [[file:./003.org][003]]  | [[file:./003.org::#org9e4c165][Ectopic pregnancy]] |  2023-02-21 |
 | [[file:./002.org][002]]  | [[file:./002.org::#orga41f974][Sexually transmitted infections]] |  2023-02-12 |
