@@ -16,6 +16,63 @@
 
 #+TOC: headlines 2
 
+* Placenta praevia (O)
+:PROPERTIES:
+:CUSTOM_ID: org02a3988
+:END:
+
+Posted: 2023-07-31 | Updated: 2023-07-31
+
+Normally, the placenta sits at the top of the uterus. See this [[https://drive.google.com/uc?export=view&id=1M0g3VwDmGzOioqrlwSEg66hP-W_EnOdq][picture]]. As you can see, the placenta is at the top and the baby is at the bottom. @@html:<span class="ja">通常、胎盤は子宮の一番上にあります。添付の写真でおわかりのように、胎盤が上で赤ちゃんが下です。</span>@@
+
+This is when the placenta covers the cervical opening. The cervical opening is called "cervical os". @@html:<span class="ja">胎盤が子宮口を覆っている状態です。頸管口は「頸管口」と呼ばれます。</span>@@
+
+This usually happens at around 15-20 weeks of pregnancy. @@html:<span class="ja">これは通常、妊娠15～20週頃に起こる。</span>@@
+
+There are 4 types of placenta praevia. Please see these pictures and learn them @@html:<span class="ja">前置胎盤には4つのタイプがあります。これらの写真を見て、学んでください</span>@@:
+- [[https://drive.google.com/uc?export=view&id=1DX6WxCdZ9STryfqZxz9dKPhRocTwrUy-][Japanese version]].
+- [[https://drive.google.com/uc?export=view&id=1xqjpUj-hmEsVvJlM09g2C5av6G9A1FEb][English version]].
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: orgd5a11c1
+:END:
+
+- The most important sign is the fact that placenta praevia does not cause any pain. So, remember, there is no pain in placenta praevia. @@html:<span class="ja">最も重要な徴候は、前置胎盤が痛みを引き起こさないという事実です。ですから、前置胎盤には痛みがないことを覚えておいてください。</span>@@
+- The uterus is not tender. @@html:<span class="ja">子宮に圧痛はありません。</span>@@
+- Painless bleeding. @@html:<span class="ja">全く痛みを伴わない出血。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org23fa51c
+:END:
+
+- You need to do transvaginal ultrasound. @@html:<span class="ja">経膣超音波検査が必要です。</span>@@
+- You should /not/ do digital vaginal examination. This is because it might make the bleeding worse. @@html:<span class="ja">膣デジタル検査はしない方がよい。出血を悪化させるかもしれないからです。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: orga5f4eb0
+:END:
+
+This is a little bit confusing, so, I drew this chart for you @@html:<span class="ja">ちょっとわかりにくいので、こんなグラフを描いてみた</span>@@:
+- [[https://drive.google.com/uc?export=view&id=1b44cvJbloadgQdEjJVgbxW3Ggdmafin-][Japanese version]].
+- [[https://drive.google.com/uc?export=view&id=1ekQI_bTU15uviFdmGIotEQ3bHEWETgqQ][English version]].
+
+Ok, so, do you remember how the woman usually has a scan at 20 weeks of pregnancy? Do you remember the name of it? It was called the "Anomaly scan". You can read more about it on [[file:./001.org::#org74d047b][here]]. @@html:<span class="ja">さて、では通常妊娠20週目に女性がどのようにスキャンを受けるか覚えていますか？その名前を覚えていますか？それは「異常スキャン」と呼ばれていました。</span>@@
+
+Well, during that scan, they will see that the placenta is touching/covering the cervix. @@html:<span class="ja">その検査では、胎盤が子宮頸管に触れているか、子宮頸管を覆っているかがわかります。</span>@@
+
+When the doctors see this issue, they will tell the patient to come back again for another scan at 32 weeks. @@html:<span class="ja">この問題を見た医師は、患者に32週目にもう一度検査に来るように言う。</span>@@
+
+If the placenta is still touching/covering the cervix, then the doctors will do a scan every 2 weeks. @@html:<span class="ja">胎盤がまだ子宮頸管に触れたり覆ったりしている場合、医師は2週間ごとにスキャンを行う。</span>@@
+
+Finally, they will do the last scan at 36 weeks. This scan will be used to see if the doctors should do a c-section. @@html:<span class="ja">最後に、36週目に最後のスキャンを行う。この検査で、医師が帝王切開を行うべきかどうかを判断する。</span>@@
+
+If the woman has type 3 or type 4, then they will do a c-section at 38 weeks. @@html:<span class="ja">3型または4型であれば、38週で帝王切開となる。</span>@@
+
+If the woman gets bleeding and they still have not decided, then they will do emergency c-section. @@html:<span class="ja">出血があり、まだ決断できない場合は、緊急帝王切開になる。</span>@@
+
 * Endometriosis (G)
 :PROPERTIES:
 :CUSTOM_ID: orgd94e0f1
