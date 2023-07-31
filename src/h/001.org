@@ -37,7 +37,7 @@ For example, some patients might say that they do not want these things in the f
 - I do NOT want ventilation.
 - I do NOT want NG tube.
 - I do NOT want catheter.
-- I do NOT want pain killers.
+- I do NOT want painkillers.
 - I do NOT want blood transfusion.
 
 As you can see, this is related to the stuff that the patient refuses. @@html:<span class="ja">お分かりのように、これは患者が拒否するものに関係しています。</span>@@
