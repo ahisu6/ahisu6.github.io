@@ -16,6 +16,48 @@
 
 #+TOC: headlines 2
 
+* Infertility (G)
+:PROPERTIES:
+:CUSTOM_ID: org8306020
+:END:
+
+Posted: 2023-07-31 | Updated: 2023-07-31
+
+Infertility is when the man or the woman cannot make babies. @@html:<span class="ja">不妊症とは、男性または女性が赤ちゃんを作ることができない状態のことである。</span>@@
+
+There are many causes:
+- Male sperm issue: this is when the sperm is too slow. Sometimes, the number of sperm is low. @@html:<span class="ja">男性の精子の問題：精子の速度が遅すぎる場合です。精子の数が少ないこともある。</span>@@
+- If the woman has reached menopause, then she cannot have a baby because she is not releasing eggs. @@html:<span class="ja">閉経を迎えた女性は、卵子が放出されないため赤ちゃんを授かることができない。</span>@@
+- Sometimes there is no explanation for why the man and the woman are not able to make a baby. @@html:<span class="ja">男女の間に赤ちゃんができない理由の説明がつかないこともある。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org02d5c91
+:END:
+
+- Well... the man and the woman are not able to make a baby. @@html:<span class="ja">まあ... 男と女は子供を作ることができない。</span>@@
+- You might notice that the woman has a high BMI. The high BMI can affect the ovulation. @@html:<span class="ja">その女性のBMIが高いことに気づくかもしれません。BMIが高いと排卵に影響することがあります。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: org5396ae5
+:END:
+
+- You only need to start doing investigations if the man and the woman have been trying to make a baby for 12 months. @@html:<span class="ja">調査を開始する必要があるのは、その男女が12ヶ月間子作りに励んでいる場合のみである。</span>@@
+- For example, if a man and woman have been trying to make a baby for 4 months, but they have not been successful, then they need to wait 8 more months before you can do investigations. @@html:<span class="ja">例えば、ある男女が4ヶ月間子作りを試みたが、うまくいかなかった場合、子作りができるまであと8ヶ月待つ必要がある。</span>@@
+- One type of investigations is called "semen analysis". In here, they will look at the sperm under the microscope to check the quality. @@html:<span class="ja">調査の一種に「精液分析」というものがある。ここでは精子を顕微鏡で見て、質をチェックする。</span>@@
+- Another type of of investigations is to check the serum progesterone 7 days before the start of the next period. So, if the woman has a 35-day cycle, then you need to check the progesterone at day 28 (this is because 35-7=28). This will check the levels of the hormones and will see if the woman is releasing an egg. @@html:<span class="ja">もう一つの検査法は、次の生理が始まる7日前に血清プロゲステロンをチェックすることです。つまり、35日周期の女性であれば、28日目にプロゲステロンをチェックする必要があります（これは35-7=28だからです）。これによってホルモンのレベルがチェックされ、女性が卵子を放出しているかどうかがわかります。</span>@@
+- If the woman is less than 36 years old, but she is not able to have a baby, then she should be referred to a specialist straight away after 12 months. @@html:<span class="ja">不妊症の女性が36歳未満であれば、12ヵ月後にすぐに専門医に紹介すべきである。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org5da46e8
+:END:
+
+- Give lifestyle advice. So, lose weight and take folic acid. @@html:<span class="ja">生活習慣のアドバイスをする。だから、体重を減らし、葉酸を摂りなさい。</span>@@
+- Tell the man and the woman to have more sex. @@html:<span class="ja">男と女にもっとセックスするように言ってくれ。</span>@@
+- If the woman has polycystic ovarian syndrome (PCOS), then you should give her a drug called clomifene. This will increase her fertility. @@html:<span class="ja">その女性が多嚢胞性卵巣症候群（PCOS）であれば、クロミフェンという薬を投与する必要があります。これで妊娠力が高まります。</span>@@
+
 * Amenorrhoea (G)
 :PROPERTIES:
 :CUSTOM_ID: org3330f7b
