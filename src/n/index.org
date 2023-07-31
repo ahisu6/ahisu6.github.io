@@ -19,6 +19,7 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                | Date posted |
 |------+----------------------+-------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#org99809f1][Encephalitis]] |  2023-07-31 |
 | [[file:./001.org][001]]  | [[file:./001.org::#orgdd7f1a5][Schizophrenia]] |  2023-07-24 |
 | [[file:./001.org][001]]  | [[file:./001.org::#orgdbe155d][Medications in Psychiatry]] |  2023-07-24 |
 | [[file:./001.org][001]]  | [[file:./001.org::#orgc78efac][Multiple sclerosis]] |  2023-07-22 |
