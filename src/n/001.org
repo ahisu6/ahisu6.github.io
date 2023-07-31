@@ -10,6 +10,8 @@
 
 [[file:./index.org][Home]]
 
+[[file:./002.org][Next page >>]]
+
 -----
 
 #+TOC: headlines 2
