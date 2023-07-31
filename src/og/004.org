@@ -18,7 +18,7 @@
 
 * Endometriosis (G)
 :PROPERTIES:
-:CUSTOM_ID: org11d2520
+:CUSTOM_ID: orgd94e0f1
 :END:
 
 Posted: 2023-07-31 | Updated: 2023-07-31
@@ -39,7 +39,7 @@ So, in endometriosis, you might find endometrial tissue in other places. For exa
 
 ** Signs and symptoms
 :PROPERTIES:
-:CUSTOM_ID: org6b6bd13
+:CUSTOM_ID: org1de0b2c
 :END:
 
 - The woman will have pelvic pain for a long time. This is because the endometrial tissue is causing pain in the ligaments and in the colon. @@html:<span class="ja">女性は骨盤痛が長く続く。これは、子宮内膜組織が靭帯や結腸に痛みを引き起こしているためです。</span>@@
@@ -50,7 +50,7 @@ So, in endometriosis, you might find endometrial tissue in other places. For exa
 
 ** Investigations
 :PROPERTIES:
-:CUSTOM_ID: org9115879
+:CUSTOM_ID: orgf1b0e32
 :END:
 
 - The best way to investigate endometriosis is by doing laparoscopy. This is the gold standard. You will make a small hole in the tummy, and then you will use a small camera to see the endometrial tissue. Watch this [[https://drive.google.com/uc?export=view&id=1JOVOdQFGr7z3AaysSqyNyn-3WesV24Jz][video]] (I got it from [[https://vimeo.com/149998622][here]])! @@html:<span class="ja">子宮内膜症を調べる最善の方法は腹腔鏡検査です。これはゴールドスタンダードである。おなかに小さな穴を開け、小さなカメラで子宮内膜組織を観察します。</span>@@
@@ -58,7 +58,7 @@ So, in endometriosis, you might find endometrial tissue in other places. For exa
 
 ** Treatment
 :PROPERTIES:
-:CUSTOM_ID: org35b1b3c
+:CUSTOM_ID: orga9f142f
 :END:
 
 Please see this [[https://drive.google.com/uc?export=view&id=1N6xyCHsd2u0q2AeFj-0C_fA6uzzL05CG][picture]] of the treatment chart.
@@ -71,7 +71,7 @@ Please see this [[https://drive.google.com/uc?export=view&id=1N6xyCHsd2u0q2AeFj-
 
 * Shoulder dystocia (O)
 :PROPERTIES:
-:CUSTOM_ID: org3c54cbd
+:CUSTOM_ID: org89380a1
 :END:
 
 Posted: 2023-07-30 | Updated: 2023-07-30
@@ -86,21 +86,21 @@ This can cause the brachial plexus of the baby to become damaged. See this [[htt
 
 ** Signs and symptoms
 :PROPERTIES:
-:CUSTOM_ID: org71a8915
+:CUSTOM_ID: org7997743
 :END:
 
 - You will see that the baby's head is visible, but the baby is struggling to get the shoulder out. @@html:<span class="ja">赤ちゃんの頭は見えているが、赤ちゃんは肩を出そうともがいているのがわかるだろう。</span>@@
 
 ** Investigations
 :PROPERTIES:
-:CUSTOM_ID: orgbbba232
+:CUSTOM_ID: org85a64ce
 :END:
 
 - You can see this with your eyes. You don't need an investigation. @@html:<span class="ja">目で見ればわかる。調査は必要ない。</span>@@
 
 ** Treatment
 :PROPERTIES:
-:CUSTOM_ID: orgc48b37f
+:CUSTOM_ID: orgc93d0b6
 :END:
 
 - Call the consultant! Quick!!!
@@ -110,7 +110,7 @@ This can cause the brachial plexus of the baby to become damaged. See this [[htt
 
 ** Complications
 :PROPERTIES:
-:CUSTOM_ID: org53b7971
+:CUSTOM_ID: org018bb27
 :END:
 
 - Postpartum haemorrhage in mother: this is bleeding after the delivery. @@html:<span class="ja">産後出血：出産後の出血。</span>@@
