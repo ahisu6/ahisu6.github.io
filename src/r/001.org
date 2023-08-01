@@ -2,7 +2,7 @@
 
 #+BEGIN_EXPORT html
 <div class="engt">Respiratory</div>
-<div class="japt">呼吸器学</div>
+<div class="japt">腫瘍学</div>
 <div class="engt">Page 001</div>
 #+END_EXPORT
 
@@ -15,55 +15,3 @@
 -----
 
 #+TOC: headlines 2
-
-* Pulmonary embolism
-:PROPERTIES:
-:CUSTOM_ID: orgbcdf257
-:END:
-
-Posted: 2023-06-28 | Updated: 2023-06-28
-
-Pulmonary embolism (PE) is when a blood clot gets stuck in the lung blood vessels. @@html:<span class="ja">肺塞栓症（PE）とは、肺の血管に血栓が詰まる病気です。</span>@@
-
-This will block blood flow and oxygen to the lungs. @@html:<span class="ja">これは肺への血流と酸素を遮断する。</span>@@
-
-There are two types:
-1. Massive PE: this is /very/ bad. This happens because of a large clot. The patient is /not/ haemodynamically stable. @@html:<span class="ja">これは非常にまずい。これは大きな血栓のために起こる。患者は血行動態が安定していない。</span>@@
-2. Small PE: this happens because of a small clot. @@html:<span class="ja">これは小さな血栓のために起こる。</span>@@
-
-PE can be provoked or not provoked:
-- Provoked: this happens because there was an issue which caused the blood clot (such as surgery, trauma, and immobility). @@html:<span class="ja">これは、血栓の原因となる問題（手術、外傷、不動など）があったために起こる。</span>@@
-- Not provoked: this happens because there no clear reason. @@html:<span class="ja">このようなことが起こるのは、明確な理由がないからだ。</span>@@
-
-** Signs and symptoms
-:PROPERTIES:
-:CUSTOM_ID: org86ed6e0
-:END:
-
-- Massive PE:
-  - Collapse
-  - Low blood pressure (less than 90/60 mmHg)
-  - Raised JVP
-  - Severe cyanosis
-- Small PE:
-  - Pleuritic chest pain: this is chest pain when the patient breathes in. @@html:<span class="ja">これは、息を吸ったときの胸の痛みである。</span>@@
-  - Haemoptysis: coughing blood.
-  - Tachycardia
-
-** Investigations
-:PROPERTIES:
-:CUSTOM_ID: org97d137d
-:END:
-
-I made this chart for you:
-1. [[https://drive.google.com/uc?export=view&id=1rxry0LO2PNFXKvnd1CjZFs9dfnxMBirh][Japanese version]].
-2. [[https://drive.google.com/uc?export=view&id=1hP-aQApoVzJ_TtN3lVpoBQnKGf-Iatzi][English version]].
-
-** Treatment
-:PROPERTIES:
-:CUSTOM_ID: orge053027
-:END:
-
-- Here is a [[https://drive.google.com/uc?export=view&id=1prY0rm9mb9MEUlcDSkKiaAAk5w344K0z][picture]] of chart I made for you.
-- If it was provoked PE, then give the treatment for 3 months. @@html:<span class="ja">もしPEが誘発されたのであれば、3ヵ月間治療を行う。</span>@@
-- If it was /not/ provoked PE, then give the treatment for 6 months. @@html:<span class="ja">PEが誘発されなかった場合は、6ヵ月間治療を行う。</span>@@
