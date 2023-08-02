@@ -50,7 +50,7 @@ Morphine is an opioid. There are other types of opioids @@html:<span class="ja">
 - Buprenorphine: this is the same as fentanyl. @@html:<span class="ja">これはフェンタニルと同じだ。</span>@@
 
 We have two types of morphine:
-1. Modified-release morphine: this is a slow morphine that is slowly released into the body throughout the day. This is given 2 times a day. @@html:<span class="ja">徐放性モルヒネ：これは、1日を通してゆっくりと体内に放出される緩徐モルヒネである。これを1日2回投与する。</span>@@
+1. Modified-release morphine: this is a slow morphine that is slowly released into the body throughout the day. This is given 2 times a day (so, you have to give it every 12 hours). @@html:<span class="ja">徐放性モルヒネ：これは、1日を通してゆっくりと体内に放出される緩徐モルヒネである。これを1日2回投与する。だから、12時間ごとに投与しなければならない。</span>@@
 2. Morphine for breakthrough pain: this is quick morphine. It is used when the patient suddenly gets pain. This has a separate dose. @@html:<span class="ja">画期的な痛みにはモルヒネ：これは即効性のあるモルヒネだ。患者が突然痛くなったときに使う。これは別に投与量がある。</span>@@
 
 You need to understand how to calculate the breakthrough morphine dose. To do this, you need to divide the modified-release morphine dose by 6. @@html:<span class="ja">モルヒネの画期的用量の計算方法を理解する必要がある。そのためには、モルヒネ徐放量を6で割る必要がある。</span>@@
