@@ -15,3 +15,122 @@
 -----
 
 #+TOC: headlines 2
+
+* Anticipatory medications in palliative care
+:PROPERTIES:
+:CUSTOM_ID: org517d93b
+:END:
+
+Posted: 2023-08-02 | Updated: 2023-08-02
+
+In this topic I will talk about how to treat the main symptoms in palliative care. @@html:<span class="ja">このトピックでは、緩和ケアにおける主な症状の治療法についてお話しします。</span>@@
+
+First, you need to know that there are several symptoms which the patient experiences @@html:<span class="ja">まず、患者が経験するいくつかの症状があることを知っておく必要がある</span>@@:
+1. Pain.
+2. Nausea and vomiting.
+3. Breathlessness.
+4. Constipation.
+5. Bowel obstruction.
+6. Secretions.
+
+Luckily, we have medications that can help with these symptoms. @@html:<span class="ja">幸いなことに、こうした症状を改善する薬がある。</span>@@
+
+** Pain
+:PROPERTIES:
+:CUSTOM_ID: orgac4b2ea
+:END:
+
+Okay, let's talk about how to manage pain in palliative care. @@html:<span class="ja">では、緩和ケアにおける痛みの管理方法についてお話ししましょう。</span>@@
+
+In palliative care, we start with oral morphine. @@html:<span class="ja">緩和ケアでは、まずモルヒネを経口投与します。</span>@@
+
+Morphine is an opioid. There are other types of opioids @@html:<span class="ja">モルヒネはオピオイドの一種である。オピオイドには他にも種類がある</span>@@:
+- Oxycodone: this is used if there is mild kidney issues. So, always check the eGFR. @@html:<span class="ja">これは、腎臓に軽度の問題がある場合に使用されます。ですから、常にeGFRをチェックしてください。</span>@@
+- Fentanyl: this is used if there is severe kidney issues. Again, always make sure that you check the eGFR. @@html:<span class="ja">これは重度の腎障害がある場合に使用される。繰り返しますが、必ずeGFRを確認してください。</span>@@
+- Buprenorphine: this is the same as fentanyl. @@html:<span class="ja">これはフェンタニルと同じだ。</span>@@
+
+We have two types of morphine:
+1. Modified-release morphine: this is a slow morphine that is slowly released into the body throughout the day. This is given 2 times a day. @@html:<span class="ja">徐放性モルヒネ：これは、1日を通してゆっくりと体内に放出される緩徐モルヒネである。これを1日2回投与する。</span>@@
+2. Morphine for breakthrough pain: this is quick morphine. It is used when the patient suddenly gets pain. This has a separate dose. @@html:<span class="ja">画期的な痛みにはモルヒネ：これは即効性のあるモルヒネだ。患者が突然痛くなったときに使う。これは別に投与量がある。</span>@@
+
+You need to understand how to calculate the breakthrough morphine dose. To do this, you need to divide the modified-release morphine dose by 6. @@html:<span class="ja">モルヒネの画期的用量の計算方法を理解する必要がある。そのためには、モルヒネ徐放量を6で割る必要がある。</span>@@
+
+So, let's say that the patient is taking 30 mg of modified-release morphine. So, to calculate the breakthrough morphine dose you need to do this @@html:<span class="ja">そこで、患者がモルヒネ徐放性製剤を30mg服用しているとしよう。そこで、限界突破モルヒネ量を計算するには、次のようにする必要がある</span>@@:
+- 30 mg ÷ 6 = 5 mg
+- So, the dose of breakthrough morphine is 5 mg.
+
+Opioids have side effects:
+- Constipation: you need to give laxatives (drugs that make the patient poop more) to patients who are taking strong opioid. So, if you give morphine, make sure you also give a laxative. @@html:<span class="ja">便秘：強いオピオイドを服用している患者には、下剤（患者により多くのウンチをさせる薬）を投与する必要がある。だから、モルヒネを投与する場合は、必ず下剤も投与すること。</span>@@
+- Nausea and dizziness: this is because the opioid might make the stomach very slow. This will usually go away. But, if it is annoying for the the patient, then you can give anti-emetics. @@html:<span class="ja">吐き気とめまい：これはオピオイドの作用で胃の動きが非常に鈍くなるためです。これは通常治まる。しかし、患者を悩ませるようであれば、制吐剤を投与することもできる。</span>@@
+
+If the patient is having neuropathic pain (pain in the nerves), then give one of these drugs (you can use any of these drugs) @@html:<span class="ja">患者が神経障害性疼痛（神経の痛み）を訴えている場合は、以下の薬剤のいずれかを投与する（どの薬剤を使用してもよい）</span>@@:
+- Amitriptyline.
+- Gabapentin/pregabalin.
+- Duloxetine.
+
+** Secretions
+:PROPERTIES:
+:CUSTOM_ID: org915811f
+:END:
+
+This is when the patient starts having noisy and bubbly breathing. This happens because water and mucus get stuck in the patient's throat. @@html:<span class="ja">これは、患者がうるさく泡のような呼吸をし始めるときです。これは、水や粘液が患者の喉に詰まるために起こります。</span>@@
+
+This does not cause pain to the patient, but the family members will be worried. @@html:<span class="ja">患者に苦痛を与えることはないが、家族は心配するだろう。</span>@@
+
+To treat the secretions, you need to give:
+- @@html:Hyoscine <mark>hydro</mark>bromide or hyoscine butylbromide: in secretions, there is a lot of water in the patient's throat. Water is also called "hydro". So, remember, to remove the <mark>hydro</mark> in the throat, you need to use hyoscine <mark>hydro</mark>bromide. <span class="ja">ヒヨスチン臭化水素酸塩またはヒヨスチン臭化ブチル：分泌物中では、患者ののどに多くの水がある。</span>@@
+- You can also use glycopyrronium bromide. It is the same. Well, there is a difference, but you do not need to know about it for the exams. The difference is that glycopyrronium bromide does not crystallise in the subcutaneous pump, but hyoscine hydrobromide does crystallise. Again, you do /not/ need to know this for the exam! @@html:<span class="ja">グリコピロニウム臭化物も使えます。同じです。まあ、違いはありますが、試験には必要ありません。その違いとは、グリコピロニウム臭化物は皮下ポンプ内で結晶化しないが、ヒオスチン臭化水素酸塩は結晶化するということである。繰り返しますが、試験でこのことを知る必要はありません！</span>@@
+
+* Agitation and confusion
+:PROPERTIES:
+:CUSTOM_ID: org6e879f5
+:END:
+
+So, if the patient become confused or has agitation, then you need to give them haloperidol. @@html:<span class="ja">だから、患者が混乱したり興奮したりしたら、ハロペリドールを投与する必要がある。</span>@@
+
+@@html:Remember this, when the patient is confused, they start to think that they have a <mark>halo</mark> around their head. So, you have to give the patient <mark>halo</mark>peridol.@@
+
+A halo is 後光
+
+If the patient is going to die soon, then you have to give them midazolam instead. @@html:<span class="ja">患者がすぐに死にそうなら、代わりにミダゾラムを投与しなければならない。</span>@@
+
+* Nausea and vomiting
+:PROPERTIES:
+:CUSTOM_ID: orga22b74d
+:END:
+
+There are many reasons for nausea and vomiting @@html:<span class="ja">吐き気や嘔吐にはさまざまな理由がある</span>@@:
+1. Reduced movement of the stomach: like we said before, opioid slow the stomach. This will cause nausea and vomiting. @@html:<span class="ja">胃の動きが鈍くなる：先に述べたように、オピオイドは胃の動きを鈍くする。これが吐き気や嘔吐の原因になる。</span>@@
+2. Chemical issues: high calcium level (hypercalcaemia) and chemotherapy are chemicals. Chemicals make you vomit. @@html:<span class="ja">化学物質の問題：高いカルシウム値（高カルシウム血症）と化学療法は化学物質である。化学物質は嘔吐させる。</span>@@
+3. Constipation.
+4. Increased intracranial pressure: high pressure in the head will make you vomit. @@html:<span class="ja">頭蓋内圧の上昇：頭の中の圧力が高いと嘔吐する。</span>@@
+5. Ear issues: the ear is responsible for the balance of the human body. So, if you have an issue in your ear, you will become dizzy. When you are dizzy, you will start to vomit. @@html:<span class="ja">耳の問題：耳は人体のバランスを司る。そのため、耳に問題があるとめまいがする。めまいがすると、嘔吐するようになる。</span>@@
+6. Anxiety.
+
+Each of these have a separate treatment. I made this table for you. @@html:<span class="ja">それぞれに別の治療法がある。私はあなたのためにこの表を作った。</span>@@
+
+| Reason for nausea               | Treatment                                                                                                   |
+|---------------------------------+-------------------------------------------------------------------------------------------------------------|
+| Reduced movement of the stomach | Metoclopramide or domperidone                                                                               |
+| Chemical issues                 | @@html:- Haloperidol<br>- If the nausea is because of the chemotherapy, then you need to use ondansetron.@@ |
+| Constipation                    | @@html:- Treat the cause of the constipation,<br>- Give cyclizine or levomepromazine.@@                     |
+| Increased intracranial pressure | @@html:- First-line is cyclizine.<br>- Dexamethasone (this will reduce the intracranial pressure).@@        |
+| Ear issues                      | Cyclizine                                                                                                   |
+| Anxiety                         | You can use benzodiazepine (for example, lorazepam)                                                         |
+
+* Breathlessness
+:PROPERTIES:
+:CUSTOM_ID: orgaf43c07
+:END:
+
+The treatment of breathlessness is easy. @@html:<span class="ja">息切れの治療は簡単だ。</span>@@
+
+You just need to give morphine! @@html:<span class="ja">モルヒネを投与すればいい！</span>@@
+
+Yes! @@html:<span class="ja">はい！</span>@@
+
+Morphine for breathlessness! @@html:<span class="ja">息苦しさにはモルヒネ！</span>@@
+
+すごいですね？！
+
+If the patient has cancer in the throat, then you can also give steroids to make the cancer less swollen. This will allow the patient to breath. @@html:<span class="ja">患者が喉に癌を患っている場合は、癌の腫れを抑えるためにステロイドを投与することもできる。これで患者は呼吸ができるようになる。</span>@@
