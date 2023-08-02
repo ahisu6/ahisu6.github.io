@@ -45,7 +45,7 @@ Okay, let's talk about how to manage pain in palliative care. @@html:<span class
 In palliative care, we start with oral morphine. @@html:<span class="ja">緩和ケアでは、まずモルヒネを経口投与します。</span>@@
 
 Morphine is an opioid. There are other types of opioids @@html:<span class="ja">モルヒネはオピオイドの一種である。オピオイドには他にも種類がある</span>@@:
-- Oxycodone: this is used if there is mild kidney issues. So, always check the eGFR. @@html:<span class="ja">これは、腎臓に軽度の問題がある場合に使用されます。ですから、常にeGFRをチェックしてください。</span>@@
+- Oxycodone: this is used if there is mild kidney issues. So, always check the eGFR. This opioid is very, very strong. This is 2 times stronger than morphine. So, you should half the dose. @@html:<span class="ja">これは、腎臓に軽度の問題がある場合に使用されます。ですから、常にeGFRをチェックしてください。このオピオイドは非常に強い。モルヒネの2倍強い。だから、量を半分にしたほうがいい。</span>@@
 - Fentanyl: this is used if there is severe kidney issues. Again, always make sure that you check the eGFR. @@html:<span class="ja">これは重度の腎障害がある場合に使用される。繰り返しますが、必ずeGFRを確認してください。</span>@@
 - Buprenorphine: this is the same as fentanyl. @@html:<span class="ja">これはフェンタニルと同じだ。</span>@@
 
@@ -57,16 +57,51 @@ You need to understand how to calculate the breakthrough morphine dose. To do th
 
 So, let's say that the patient is taking 30 mg of modified-release morphine. So, to calculate the breakthrough morphine dose you need to do this @@html:<span class="ja">そこで、患者がモルヒネ徐放性製剤を30mg服用しているとしよう。そこで、限界突破モルヒネ量を計算するには、次のようにする必要がある</span>@@:
 - 30 mg ÷ 6 = 5 mg
-- So, the dose of breakthrough morphine is 5 mg.
+- So, the dose of breakthrough morphine is 5 mg. @@html:<span class="ja">だから、ブレークスルー・モルヒネの用量は5mgである。</span>@@
+
+Another thing that you need to know is how to calculate the subcutaneous dose of morphine. Subcutaneous means that it is under the skin. The subcutaneous dose of morphine is half of the oral dose. So, let's say that a patient is taking 120 mg of oral morphine per day. To calculate the subcutaneous dose of morphine, you need to do this @@html:<span class="ja">もう一つ知っておかなければならないのは、モルヒネの皮下投与量の計算方法である。皮下とは皮膚の下という意味です。モルヒネの皮下投与量は経口投与量の半分です。つまり、ある患者が1日120mgのモルヒネを経口投与しているとします。モルヒネの皮下投与量を計算するには、次のようにする必要がある</span>@@:
+- 120 mg ÷ 2 = 60 mg
+- So, the dose of subcutaneous morphine is 60 mg. @@html:<span class="ja">そのため、モルヒネの皮下投与量は60mgとなる。</span>@@
 
 Opioids have side effects:
-- Constipation: you need to give laxatives (drugs that make the patient poop more) to patients who are taking strong opioid. So, if you give morphine, make sure you also give a laxative. @@html:<span class="ja">便秘：強いオピオイドを服用している患者には、下剤（患者により多くのウンチをさせる薬）を投与する必要がある。だから、モルヒネを投与する場合は、必ず下剤も投与すること。</span>@@
+- Constipation: you need to give laxatives (drugs that make the patient poop more) to patients who are taking strong opioid. So, if you give morphine, make sure you also give a laxative. Usually, they use something called Senna. Senna makes you poop a lot. @@html:<span class="ja">便秘：強いオピオイドを服用している患者には、下剤（患者により多くのウンチをさせる薬）を投与する必要がある。だから、モルヒネを投与する場合は、必ず下剤も投与すること。普通はセンナというものを使う。センナはウンチをたくさんさせる。</span>@@
 - Nausea and dizziness: this is because the opioid might make the stomach very slow. This will usually go away. But, if it is annoying for the the patient, then you can give anti-emetics. @@html:<span class="ja">吐き気とめまい：これはオピオイドの作用で胃の動きが非常に鈍くなるためです。これは通常治まる。しかし、患者を悩ませるようであれば、制吐剤を投与することもできる。</span>@@
 
 If the patient is having neuropathic pain (pain in the nerves), then give one of these drugs (you can use any of these drugs) @@html:<span class="ja">患者が神経障害性疼痛（神経の痛み）を訴えている場合は、以下の薬剤のいずれかを投与する（どの薬剤を使用してもよい）</span>@@:
 - Amitriptyline.
 - Gabapentin/pregabalin.
 - Duloxetine.
+
+Let me give you some questions.
+
+Let's say we have a patient that is taking release morphine 30 mg two times a day, and the patient is taking breakthrough morphine 6 times per day. The patient is saying that they are still getting a lot of pain. What should we do? @@html:<span class="ja">例えば、放出モルヒネ30mgを1日2回服用している患者がいて、その患者がブレークスルーモルヒネを1日6回服用しているとしよう。患者はまだ痛みが強いと言っている。どうすればいいでしょうか？</span>@@
+- First, we need to calculate the current dose of modified-release morphine which the patient is taking. @@html:<span class="ja">まず、患者が現在服用している徐放性モルヒネの量を計算する必要がある。</span>@@
+- @@html:Like we said, she is taking 30 mg two times per day. This means that she is taking a total of <mark>60 mg</mark>. <span class="ja">さっき言ったように、彼女は1日2回30mgを服用している。つまり、合計60mgを服用していることになる。</span>@@
+- Next, we need to calculate the dose of breakthrough dose. So, we have to do 60 mg ÷ 6 = 10 mg. @@html:<span class="ja">次に、ブレークスルー投与量を計算する必要がある。つまり、60mg÷6＝10mgとしなければならない。</span>@@
+- @@html:Now, we need to calculate how much breakthrough morphine is the patient taking per day. To do this, we need to multiply the breakthrough dose (10 mg) by the number of times that the patient is taking the drug (7 times). So, 10 mg × 6 times per day = <span style="background-color: #ff00ff;">60 mg</span>. <span class="ja">ここで、患者が1日にどれだけのブレークスルーモルヒネを服用しているかを計算する必要があります。そのためには、限界突破モルヒネ量（10mg）に患者の服用回数（7回）をかける必要がある。つまり、10mg×1日6回＝60mgとなる。</span>@@
+- So, we know that the patient is still getting a lot of pain. This means that we need to /increase/ the dose of morphine. @@html:<span class="ja">ということは、患者はまだかなりの痛みを感じていることがわかります。ということは、モルヒネの量を増やす必要があるということです。</span>@@
+- But, we need to know what is the new dose! @@html:<span class="ja">しかし、新しい投与量を知る必要がある！</span>@@
+- How do we work out the new dose of /modified-release/ morphine? @@html:<span class="ja">モルヒネの新しい投与量はどうやって計算するのですか？</span>@@
+- It is easy! @@html:<span class="ja">簡単なことです！</span>@@
+- @@html:First, let's calculate how much morphine she is taking every day. To do this, we need to add the breakthrough amount (<span style="background-color: #ff00ff;">60 mg</span>) to the modified-release amount (<mark>60 mg</mark>). So, <span style="background-color: #ff00ff;">60 mg</span> + 60 mg = 120 mg. <span class="ja">まず、彼女が毎日飲んでいるモルヒネの量を計算してみよう。そのためには、徐放量（<mark>60mg</mark>）に、ブレークスルー量（<span style="background-color: #ff00ff;">60 mg</span>）を加える必要がある。つまり、<span style="background-color: #ff00ff;">60mg</span>＋60mg＝120mg。</span>@@
+- So, the new dose of /modified-release/ morphine is 120 mg. This means that the patient needs to take 60 mg modified-release morphine two times a day. @@html:<span class="ja">つまり、モルヒネの新用量は120mgである。つまり、患者はモルヒネ60mgを1日2回服用する必要がある。</span>@@
+- Now, let's calculate the new breakthrough dose: 120 mg ÷ 6 = 20 mg. This is the new breakthrough dose. @@html:<span class="ja">では、新しい画期的用量を計算してみよう：120mg÷6＝20mg。これが新しい画期的用量である。</span>@@
+
+I have summarise the steps for you @@html:<span class="ja">その手順をまとめてみた</span>@@:
+1. Calculate the current dose of modified-release morphine which the patient is taking. @@html:<span class="ja">患者が現在服用している徐放性モルヒネの用量を計算する。</span>@@
+2. Calculate the dose of breakthrough dose (divide modified-release dose by 6). @@html:<span class="ja">ブレークスルー用量を計算する（修正放出用量を6で割る）。</span>@@
+3. Calculate how much breakthrough is the patient taking per day. So, multiply the breakthrough dose by the number of times that the patient is taking the drug. @@html:<span class="ja">患者が1日にどのくらいのブレークスルー量を服用しているかを計算する。つまり、限界突破量に患者の服用回数をかける。</span>@@
+4. Add the total daily breakthrough dose to the total modified-release dose. @@html:<span class="ja">1日の画期的用量の合計を、修正放出用量の合計に加える。</span>@@
+5. Like we said before, modified-release morphine is taken 2 times per day. So, we need to divide the total dose by 2. @@html:<span class="ja">前にも述べたように、モルヒネ徐放薬は1日2回服用する。ですから、総投与量を2で割る必要があります。</span>@@
+6. Calculate the new breakthrough dose (you need to divide your new answer by 6). @@html:<span class="ja">新しい画期的用量を計算する（新しい答えを6で割る必要がある）。</span>@@
+
+Here is another example for you. Patient is taking 30 mg modified-release morphine /twice/ a day. The patient is taking breakthrough dose /3 times/ per day, but he still has a lot of pain. What should you do?
+1. @@html:Calculate modified-release dose: 30 mg × 2 = <mark>60 mg</mark> modified-release per day. <span class="ja">患者が現在服用している徐放性モルヒネの用量を計算する：30mg×2=<mark>60mg</mark></span>@@
+2. Calculate the dose of breakthrough dose (divide modified-release dose by 6): 60 mg ÷ 6 = 10 mg. @@html:<span class="ja">ブレークスルー用量を計算する（修正放出用量を6で割る）：60mg÷6=10mg。</span>@@
+3. @@html:Calculate how much breakthrough is the patient taking per day. So, multiply the breakthrough dose by the number of times that the patient is taking the drug: 10 mg × 3 times per day = <span style="background-color: #ff00ff;">30 mg</span>. <span class="ja">患者が1日にどのくらいのブレークスルー量を服用しているかを計算する。つまり、限界突破量に患者の服用回数をかける：10mg×1日3回＝<span style="background-color: #ff00ff;">30mg</span>。</span>@@
+4. @@html:Add the total daily breakthrough dose to the total modified-release dose: <span style="background-color: #ff00ff;">30 mg</span> + <mark>60 mg</mark> = 90 mg. <span class="ja">1日の画期的用量の合計を、修正放出用量の合計に加える：<span style="background-color: #ff00ff;">30mg</span>+<mark>60mg</mark>=90mg。@@
+5. Like we said before, modified-release morphine is taken 2 times per day. So, we need to divide the total dose by 2: 90 mg ÷ 2 = 45 mg every 12 hours. @@html:<span class="ja">前にも述べたように、モルヒネ徐放薬は1日2回服用する。ですから、総投与量を2で割る必要があります：90mg÷2＝45mgを12時間ごとに投与する。</span>@@
+6. Calculate the new breakthrough dose (you need to divide your new answer by 6): 90 mg ÷ 6 = 15 mg is the new breakthrough dose. @@html:<span class="ja">新しい画期的用量を計算する（新しい答えを6で割る必要がある）：90mg÷6＝15mgが新しい画期的用量である。</span>@@
 
 ** Secretions
 :PROPERTIES:
@@ -114,7 +149,7 @@ Each of these have a separate treatment. I made this table for you. @@html:<span
 | Reduced movement of the stomach | Metoclopramide or domperidone                                                                               |
 | Chemical issues                 | @@html:- Haloperidol<br>- If the nausea is because of the chemotherapy, then you need to use ondansetron.@@ |
 | Constipation                    | @@html:- Treat the cause of the constipation,<br>- Give cyclizine or levomepromazine.@@                     |
-| Increased intracranial pressure | @@html:- First-line is cyclizine.<br>- Dexamethasone (this will reduce the intracranial pressure).@@        |
+| @@html:Increased intra<mark>c</mark>ranial pressure@@ | @@html:- First-line is <mark>c</mark>yclizine.<br>- Dexamethasone (this will reduce the intracranial pressure).@@        |
 | Ear issues                      | Cyclizine                                                                                                   |
 | Anxiety                         | You can use benzodiazepine (for example, lorazepam)                                                         |
 
