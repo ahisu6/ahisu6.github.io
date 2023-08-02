@@ -116,9 +116,9 @@ To treat the secretions, you need to give:
 - @@html:Hyoscine <mark>hydro</mark>bromide or hyoscine butylbromide: in secretions, there is a lot of water in the patient's throat. Water is also called "hydro". So, remember, to remove the <mark>hydro</mark> in the throat, you need to use hyoscine <mark>hydro</mark>bromide. <span class="ja">ヒヨスチン臭化水素酸塩またはヒヨスチン臭化ブチル：分泌物中では、患者ののどに多くの水がある。</span>@@
 - You can also use glycopyrronium bromide. It is the same. Well, there is a difference, but you do not need to know about it for the exams. The difference is that glycopyrronium bromide does not crystallise in the subcutaneous pump, but hyoscine hydrobromide does crystallise. Again, you do /not/ need to know this for the exam! @@html:<span class="ja">グリコピロニウム臭化物も使えます。同じです。まあ、違いはありますが、試験には必要ありません。その違いとは、グリコピロニウム臭化物は皮下ポンプ内で結晶化しないが、ヒオスチン臭化水素酸塩は結晶化するということである。繰り返しますが、試験でこのことを知る必要はありません！</span>@@
 
-* Agitation and confusion
+** Agitation and confusion
 :PROPERTIES:
-:CUSTOM_ID: org6e879f5
+:CUSTOM_ID: orgc430a28
 :END:
 
 So, if the patient become confused or has agitation, then you need to give them haloperidol. @@html:<span class="ja">だから、患者が混乱したり興奮したりしたら、ハロペリドールを投与する必要がある。</span>@@
@@ -129,9 +129,9 @@ A halo is 後光
 
 If the patient is going to die soon, then you have to give them midazolam instead. @@html:<span class="ja">患者がすぐに死にそうなら、代わりにミダゾラムを投与しなければならない。</span>@@
 
-* Nausea and vomiting
+** Nausea and vomiting of org517d93b
 :PROPERTIES:
-:CUSTOM_ID: orga22b74d
+:CUSTOM_ID: org24cbb8f
 :END:
 
 There are many reasons for nausea and vomiting @@html:<span class="ja">吐き気や嘔吐にはさまざまな理由がある</span>@@:
@@ -153,7 +153,7 @@ Each of these have a separate treatment. I made this table for you. @@html:<span
 | Ear issues                      | Cyclizine                                                                                                   |
 | Anxiety                         | You can use benzodiazepine (for example, lorazepam)                                                         |
 
-* Breathlessness
+* Breathlessness of org517d93b
 :PROPERTIES:
 :CUSTOM_ID: orgaf43c07
 :END:
