@@ -129,7 +129,7 @@ A halo is 後光
 
 If the patient is going to die soon, then you have to give them midazolam instead. @@html:<span class="ja">患者がすぐに死にそうなら、代わりにミダゾラムを投与しなければならない。</span>@@
 
-** Nausea and vomiting of org517d93b
+** Nausea and vomiting
 :PROPERTIES:
 :CUSTOM_ID: org24cbb8f
 :END:
@@ -153,9 +153,9 @@ Each of these have a separate treatment. I made this table for you. @@html:<span
 | Ear issues                      | Cyclizine                                                                                                   |
 | Anxiety                         | You can use benzodiazepine (for example, lorazepam)                                                         |
 
-* Breathlessness of org517d93b
+** Breathlessness
 :PROPERTIES:
-:CUSTOM_ID: orgaf43c07
+:CUSTOM_ID: org062d869
 :END:
 
 The treatment of breathlessness is easy. @@html:<span class="ja">息切れの治療は簡単だ。</span>@@
