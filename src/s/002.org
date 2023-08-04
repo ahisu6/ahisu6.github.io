@@ -16,6 +16,57 @@
 
 #+TOC: headlines 2
 
+* Haemorrhoids
+:PROPERTIES:
+:CUSTOM_ID: org5b58f57
+:END:
+
+Posted: 2023-08-04 | Updated: 2023-08-04
+
+This is when veins in the rectum and anus become large and swollen. @@html:<span class="ja">直腸や肛門の静脈が大きく腫れることです。</span>@@
+
+Haemorrhoids have specific locations. See this [[https://drive.google.com/uc?export=view&id=1OsqHEUj3ElTNwoSG6cNy-LLO69gSPlzm][picture]] @@html:<span class="ja">痔には特定の場所がある</span>@@:
+- It is just like the clock. @@html:<span class="ja">時計と同じだ。</span>@@
+- The locations are at 3, 7, and 11 o'clock. @@html:<span class="ja">場所は3時、7時、11時。</span>@@
+
+There are two types of haemorrhoids. See this [[https://drive.google.com/uc?export=view&id=1j7wWYl3npVQYK3HsbDTY48_1zPOZXn7R][picture]] @@html:<span class="ja">痔には2つのタイプがある</span>@@:
+1. Internal: these are not painful. @@html:<span class="ja">内部：これらは痛くない。</span>@@
+2. External: these are very painful when you touch them. @@html:<span class="ja">外側：触るととても痛い。</span>@@
+
+There are some risk factors for haemorrhoids @@html:<span class="ja">痔にはいくつかの危険因子がある</span>@@:
+- Constipation: haemorrhoids usually happen because the person has constipation. @@html:<span class="ja">便秘：痔は通常、便秘が原因で起こる。</span>@@
+- Low fibre: if you do not eat a lot of fibre, then you will get constipation. And, like we said before, constipation causes haemorrhoids. @@html:<span class="ja">食物繊維が少ない：食物繊維をたくさん摂らないと、便秘になる。そして前にも述べたように、便秘は痔の原因になる。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org7dec21b
+:END:
+
+- Itch. @@html:<span class="ja">痒い。</span>@@
+- Painless rectal bleeding: so, there is blood but there is no pain. @@html:<span class="ja">無痛性直腸出血：血液はあるが痛みはない。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: orgf581591
+:END:
+
+- You can see this with your eyes. @@html:<span class="ja">あなたはこのことを自分の目で確かめている。</span>@@
+- You can do faecal calprotectin to check if the diagnosis is something else. @@html:<span class="ja">糞便カルプロテクチン検査で、他の病気かどうかを調べることができます。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: orgd3bf44b
+:END:
+
+- First-line is conservative management: so, tell the patient to drink a lot of water and eat a lot of fibre. @@html:<span class="ja">第一選択は保存的管理で、水をたくさん飲み、繊維質をたくさん食べるように患者に言う。</span>@@
+- If there is some discomfort, then you can give the patient anaesthetic and steroid cream. @@html:<span class="ja">不快感がある場合は、麻酔薬とステロイドクリームを投与します。</span>@@
+- If the haemorrhoids are still causing issues, then you can do something called "rubber band ligation". See this [[https://drive.google.com/uc?export=view&id=1j-6QL1v4EI7D9_uSYl0wXwQdhP79INP2][picture]] @@html:<span class="ja">痔核がまだ問題を引き起こしている場合は、「輪ゴム結紮術」という方法がある</span>@@:
+  - This is when you put a rubber band around the hemorrhoid. @@html:<span class="ja">これは痔核に輪ゴムをかける方法である。</span>@@
+  - The rubber band will reduce the blood supply to the hemorrhoid. @@html:<span class="ja">輪ゴムは痔核への血液供給を減らす。</span>@@
+  - This will make the haemorrhoid smaller. @@html:<span class="ja">これで痔核は小さくなる。</span>@@
+  - After some time, the haemorrhoid will fall off. @@html:<span class="ja">しばらくすると、痔核は脱落する。</span>@@
+- Sometimes, the patient might get a blood clot in the haemorrhoid. This will cause a lot of pain. To treat this, you need to send the patient to surgery to remove the haemorrhoid. @@html:<span class="ja">痔核に血栓ができることもあります。そうなると、かなりの痛みが生じます。これを治療するためには、患者さんを手術に送り、痔核を取り除く必要があります。</span>@@
+
 * Gastric cancer
 :PROPERTIES:
 :CUSTOM_ID: org9afa15b
