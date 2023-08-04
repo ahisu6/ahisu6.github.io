@@ -1,4 +1,4 @@
-#+TITLE: Error...
+#+TITLE: Error!
 
 #+BEGIN_EXPORT html
 <div class="engt">What?! There is no page!</div>
