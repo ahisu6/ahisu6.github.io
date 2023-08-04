@@ -28,20 +28,9 @@
              :sitemap-filename "./src/sitemap.org"
              :section-numbers nil
              :time-stamp-file t
-             :timestamp t)
-
-             :time-stamp-file nil ; disable time-stamping on publishing
-             :preparation-function '(lambda () (org-publish-cache-clear))
-             :completion-function
-               (lambda ()
-                 (let* ((project (projectile-project-name))
-                        (mapping (cdr (assoc project projectile-project-compilation-alist))))
-                   (shell-command-to-string (format "%s/scripts/only-changes.sh %s %s %s"
-                                                     (getenv "HOME")
-                                                     mapping
-                                                     (projectile-project-root)
-                                                     (projectile-compilation-dir))))))
-       ))
+             :timestamp t)))
 
 ;; Generate the site output
-(org-publish-all t)
+;; (org-publish-all t)
+
+(org-publish-project "ahisu6" t)
