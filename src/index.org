@@ -32,7 +32,7 @@
 
 * え？
 :PROPERTIES:
-:CUSTOM_ID: eh
+:CUSTOM_ID: ehh
 :END:
 
 This website is a gift for my /best/ friend! @@html:<span class="ja">このウェブサイトは、私の大親友への贈り物です！</span>@@
