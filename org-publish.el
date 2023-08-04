@@ -32,7 +32,15 @@
 
              :time-stamp-file nil ; disable time-stamping on publishing
              :preparation-function '(lambda () (org-publish-cache-clear))
-       
+             :completion-function
+               (lambda ()
+                 (let* ((project (projectile-project-name))
+                        (mapping (cdr (assoc project projectile-project-compilation-alist))))
+                   (shell-command-to-string (format "%s/scripts/only-changes.sh %s %s %s"
+                                                     (getenv "HOME")
+                                                     mapping
+                                                     (projectile-project-root)
+                                                     (projectile-compilation-dir))))))
        ))
 
 ;; Generate the site output
