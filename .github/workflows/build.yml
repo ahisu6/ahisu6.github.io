@@ -25,7 +25,7 @@ jobs:
       - name: Publish modified files only
         run: |
           git diff --name-only HEAD~1
-          git diff --name-only HEAD~1 | xargs emacs -Q --script org-publish.el
+          git diff --name-only ${{ github.sha }}^1 ${{ github.sha }} | xargs emacs -Q --script org-publish.el
 
 #      - name: Build the site
 #        run: emacs -Q --script org-publish.el
