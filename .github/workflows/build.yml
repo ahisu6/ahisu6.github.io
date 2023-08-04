@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          fetch-depth: 2    # fetch 2 commits
+          fetch-depth: 5    # fetch 2 commits
 
       - name: Word count
         run: |
