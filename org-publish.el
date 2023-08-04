@@ -28,6 +28,4 @@
              :timestamp nil)))
 
 ;; Generate the site output
-;; (org-publish-all t)
-
-(org-publish-project "ahisu6" t)
+(org-publish-all t)
