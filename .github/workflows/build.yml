@@ -19,7 +19,7 @@ jobs:
           git init
           mkdir src2
           find ./src/ -type f -exec wc -w {} \; | awk '{total += $1} END{print total}'
-          git diff --name-only ${{ github.event.before }} ${{ github.event.after }}
+          git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | xargs -I{} cp {} ./src2/
 #          git diff --name-only ${{ github.sha }}^1 ${{ github.sha }}^2 | xargs -I{} cp {} ./src2/
 
       - name: Install Emacs
