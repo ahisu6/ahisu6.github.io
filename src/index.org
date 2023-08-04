@@ -65,7 +65,7 @@ Click the chapter which you want to study! @@html:<span class="ja">勉強した�
 :CUSTOM_ID: org1b89221
 :END:
 
-Disclaimer. @@html:<span class="ja">免責事項。</span>@@
+Disclaimer! @@html:<span class="ja">免責事項！</span>@@
 
 Please note that the translation may not be correct. However, I will try my absolute best to make sure that the translation is as accurate as possible. @@html:<span class="ja">翻訳が正確でない可能性があることをご了承ください。しかし、可能な限り正確な翻訳をするよう、絶対的な努力をします。</span>@@
 
