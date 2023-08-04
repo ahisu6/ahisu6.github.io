@@ -15,7 +15,7 @@ jobs:
       - name: Word count
         run: |
           find ./src/ -type f -exec wc -w {} \; | awk '{total += $1} END{print total}'
-          git diff --name-only HEAD~1
+          git diff --name-only HEAD^ HEAD
 
       - name: Install Emacs
         run: sudo add-apt-repository ppa:kelleyk/emacs && sudo apt-get update && sudo apt install emacs28-nox
