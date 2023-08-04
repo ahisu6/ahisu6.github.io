@@ -2,9 +2,9 @@
 
 (require 'ox-publish)
 
-;; (setq org-publish-use-timestamps-flag t)
-;; (setq org-publish-cache t)
-;; (setq org-publish-timestamp-directory "/home/runner/work/ahisu6.github.io/ahisu6.github.io/public/timestamps/")
+(setq org-publish-use-timestamps-flag t)
+(setq org-publish-cache t)
+(setq org-publish-timestamp-directory "/home/runner/work/ahisu6.github.io/ahisu6.github.io/public/timestamps/")
 
 (setq org-html-validation-link nil
       org-export-with-title nil
@@ -24,8 +24,16 @@
              :publishing-directory "./public"
              :with-author nil
              :with-toc nil
+             :auto-sitemap t
+             :sitemap-filename "./src/sitemap.org"
              :section-numbers nil
-             :time-stamp-file nil)))
+             :time-stamp-file t
+             :timestamp t)
+
+             :time-stamp-file nil ; disable time-stamping on publishing
+             :preparation-function '(lambda () (org-publish-cache-clear))
+       
+       ))
 
 ;; Generate the site output
 (org-publish-all t)
