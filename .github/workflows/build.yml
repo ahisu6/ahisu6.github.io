@@ -24,9 +24,7 @@ jobs:
         run: sudo add-apt-repository ppa:kelleyk/emacs && sudo apt-get update && sudo apt install emacs28-nox
 
       - name: Publish modified files only
-        run: |
-          git diff --name-only HEAD~1
-          git diff --name-only ${{ github.sha }}^1 ${{ github.sha }} | xargs emacs -Q --script org-publish.el
+        run: emacs -Q --script org-publish.el
 
 #      - name: Build the site
 #        run: emacs -Q --script org-publish.el
