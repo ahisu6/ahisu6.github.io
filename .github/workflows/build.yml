@@ -16,8 +16,10 @@ jobs:
 
       - name: Word count
         run: |
+          mkdir src2
           find ./src/ -type f -exec wc -w {} \; | awk '{total += $1} END{print total}'
-          git diff --name-only ${{ github.sha }}^1 ${{ github.sha }}
+          git diff --name-only ${{ github.sha }}^1 ${{ github.sha }} | xargs -I {} cp --parents {} .src2/
+          
 
       - name: Install Emacs
         run: sudo add-apt-repository ppa:kelleyk/emacs && sudo apt-get update && sudo apt install emacs28-nox
