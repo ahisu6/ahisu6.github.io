@@ -15,9 +15,11 @@ jobs:
           fetch-depth: 0 # fetch 0 commits
 
       - name: Word count
+        run: find ./src/ -type f -exec wc -w {} \; | awk '{total += $1} END{print total}'
+          
+      - name: src2 creation and copying
         run: |
           mkdir src2
-          find ./src/ -type f -exec wc -w {} \; | awk '{total += $1} END{print total}'
           git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | xargs -I{} cp {} ./src2/
 
       - name: Install Emacs
@@ -25,14 +27,6 @@ jobs:
 
       - name: Publish modified files only
         run: emacs -Q --script org-publish.el
-
-#      - name: Build the site
-#        run: emacs -Q --script org-publish.el
-
-#     - name: Copy ~assets~ folders to the ~public~ folder
-#       run: |
-#         mkdir ./public/assets
-#         cp -R ./src/assets/ ./public/assets
 
       - name: Publish generated content to GitHub Pages branch
         uses: JamesIves/github-pages-deploy-action@v4
