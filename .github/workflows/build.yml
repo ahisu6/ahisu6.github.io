@@ -31,7 +31,9 @@ jobs:
 #        run: emacs -Q --script org-publish.el
 
       - name: Copy ~assets~ folders to the ~public~ folder
-        run: cp -R ./src/assets/ ./public
+        run: |
+          mkdir ./public/assets
+          cp -R ./src/assets/ ./public/assets
 
       - name: Publish generated content to GitHub Pages branch
         uses: JamesIves/github-pages-deploy-action@v4
