@@ -16,6 +16,7 @@ jobs:
 
       - name: Word count
         run: |
+          git init
           mkdir src2
           find ./src/ -type f -exec wc -w {} \; | awk '{total += $1} END{print total}'
           git diff --name-only ${{ github.sha }}^2 ${{ github.sha }} | xargs -I{} cp {} ./src2/
