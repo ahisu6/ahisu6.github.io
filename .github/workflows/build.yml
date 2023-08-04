@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          fetch-depth: 0 # fetch 2 commits
+          fetch-depth: 0 # fetch 0 commits
 
       - name: Word count
         run: |
@@ -37,5 +37,6 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
+          clean: false
           commit-message: Update ${{ github.sha }}
           folder: public
