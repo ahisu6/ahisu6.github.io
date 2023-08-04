@@ -24,8 +24,6 @@
              :publishing-directory "./public"
              :with-author nil
              :with-toc nil
-             :auto-sitemap t
-             :sitemap-filename "./src/sitemap.org"
              :section-numbers nil
              :time-stamp-file t
              :timestamp t)))
