@@ -25,9 +25,9 @@ jobs:
 
       - name: Copy ~assets~ folders to the ~public~ folder
         run: |
-          ls -la
-
-#          cp -R ./src/assets/ ./public
+          ls -la ./public
+          cp -R ./src/assets/ ./public
+          ls -la ./public
 
       - name: Publish generated content to GitHub Pages branch
         uses: JamesIves/github-pages-deploy-action@v4
