@@ -2,7 +2,7 @@
 
 (require 'ox-publish)
 
-(setq org-publish-use-timestamps-flag t)
+;; (setq org-publish-use-timestamps-flag t)
 ;; (setq org-publish-cache t)
 ;; (setq org-publish-timestamp-directory "/home/runner/work/ahisu6.github.io/ahisu6.github.io/public/timestamps/")
 
