@@ -25,7 +25,7 @@
              :with-author nil
              :with-toc nil
              :section-numbers nil
-             :timestamp nil)))
+             :time-stamp-file nil)))
 
 ;; Generate the site output
 (org-publish-all t)
