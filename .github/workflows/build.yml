@@ -32,7 +32,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
-          clean: false # Do not overwrite the old files
+          clean: false # Do not overwrite/delete the old files. This is because, from now on, we will only publish the changed files.
           commit-message: Update ${{ github.sha }}
           folder: public
 
