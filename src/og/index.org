@@ -18,9 +18,8 @@
 
 @@html:<span class="ja">おはようともだち！</span>@@
 
-Anything that has /(G)/ means that it is a Gynaecology topic. @@html:<span class="ja">(G)が付いているものは、ジャイネコロジーに関するトピックであることを意味します。</span>@@
-
-And anything that has /(O)/ means that it is an Obstetrics topic. @@html:<span class="ja">また、(O)が付いているものは産科の話題であることを意味します。</span>@@
+- Anything that has /(G)/ means that it is a Gynaecology topic. @@html:<span class="ja">(G)が付いているものは、ジャイネコロジーに関するトピックであることを意味します。</span>@@
+- And anything that has /(O)/ means that it is an Obstetrics topic. @@html:<span class="ja">また、(O)が付いているものは産科の話題であることを意味します。</span>@@
 
 Sounds good? Cool.
 
