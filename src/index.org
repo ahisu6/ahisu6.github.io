@@ -18,7 +18,7 @@
 
 <!-- * Sorting tables -->
 <!-- :PROPERTIES: -->
-<!-- :CUSTOM_ID: orgdcbac4b -->
+<!-- :CUSTOM_ID: sorting -->
 <!-- :END: -->
 
 <!-- In each chapter, you will find a table of topics. @@html:<span class="ja">各章には、トピックの表が掲載されています。</span>@@ -->
