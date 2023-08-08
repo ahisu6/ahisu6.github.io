@@ -34,7 +34,7 @@ I drew some charts for you. Please have a look at them and let me know if you do
 :CUSTOM_ID: org07609a3
 :END:
 
-- Usually, there are no symptoms. @@html:<span class="ja">通常、症状はない。</span>@@
+- Usually, there are no symptoms! @@html:<span class="ja">通常、症状はない！</span>@@
 - Thirsty.
 - Weight loss.
 - Urinating a lot.
