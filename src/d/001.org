@@ -23,7 +23,7 @@
 
 Posted: 2023-02-01 | Updated: 2023-02-01
 
-This affects the hair follicle, hair shaft, and sebaceous gland. @@html:<span class="ja">これは、毛包、毛幹、皮脂腺に影響を及ぼします。</span>@@
+This affects the hair follicle, hair shaft, and oil gland. @@html:<span class="ja">これは、毛包、毛幹、皮脂腺に影響を及ぼします。</span>@@
 
 ** Signs and symptoms
 :PROPERTIES:
