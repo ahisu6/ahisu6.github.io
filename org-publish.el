@@ -19,7 +19,7 @@
       (list
        (list "ahisu6"
              :recursive t
-             :base-directory "./src2"
+             :base-directory "./copy/src"
              :publishing-function 'org-html-publish-to-html
              :publishing-directory "./public"
              :with-author nil
