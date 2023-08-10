@@ -11,6 +11,8 @@
 
 -----
 
+The word @@html:<span class="ja">モールス</span>@@ looks like @@html:<span class="ja">スモール</span>@@...
+
 #+BEGIN_EXPORT html
 <script>
 function convertAndDisplay() {
