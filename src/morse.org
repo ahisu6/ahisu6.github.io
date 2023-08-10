@@ -1,0 +1,90 @@
+#+TITLE: Morse code
+
+#+BEGIN_EXPORT html
+<div class="engt">Morse code</div>
+<div class="japt">モールス符号</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/morse.org][Edit]]
+
+[[file:../index.org][Home]]
+
+-----
+
+#+BEGIN_EXPORT html
+<script>
+function convertAndDisplay() {
+  const input = document.getElementById("input").value;
+  const morseCode = convertToMorseCode(input);
+  const convertedMessage = convertToText(morseCode);
+  const convertedMorse = convertToText(input);
+
+  document.getElementById("outputMorseCode").innerText = `${morseCode}`;
+  document.getElementById("outputTranslated").innerText = `${convertedMorse}`;
+}
+
+
+// Define the Morse code dictionary
+const morseCodeDictionary = {   'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.', 'F': '..-.', 'G': '--.',   'H': '....', 'I': '..', 'J': '.---', 'K': '-.-', 'L': '.-..', 'M': '--', 'N': '-.',   'O': '---', 'P': '.--.', 'Q': '--.-', 'R': '.-.', 'S': '...', 'T': '-', 'U': '..-',   'V': '...-', 'W': '.--', 'X': '-..-', 'Y': '-.--', 'Z': '--..',   '0': '-----', '1': '.----', '2': '..---', '3': '...--', '4': '....-', '5': '.....',   '6': '-....', '7': '--...', '8': '---..', '9': '----.',   '.': '.-.-.-', ',': '--..--', '?': '..--..', "'": '.----.', '!': '-.-.--', '/': '-..-.',   '(': '-.--.', ')': '-.--.-', '&': '.-...', ':': '---...', ';': '-.-.-.', '=': '-...-',   '+': '.-.-.', '-': '-....-', '_': '..--.-', '"': '.-..-.', '$': '...-..-', '@': '.--.-.',   ' ': '/' };
+
+// Function to convert a message to Morse code
+function convertToMorseCode(message) {
+  const uppercaseMessage = message.toUpperCase();
+  let morseCodeMessage = '';
+
+  for (let i = 0; i < uppercaseMessage.length; i++) {
+    const char = uppercaseMessage.charAt(i);
+    if (morseCodeDictionary[char]) {
+      morseCodeMessage += morseCodeDictionary[char] + ' ';
+    } else {
+      morseCodeMessage += char + ' ';
+    }
+  }
+
+  return morseCodeMessage.trim();
+}
+
+// Function to convert Morse code back to text
+function convertToText(morseCode) {
+  const morseCodeWords = morseCode.split('/');
+  let text = '';
+
+  for (let i = 0; i < morseCodeWords.length; i++) {
+    const morseCodeChars = morseCodeWords[i].split(' ');
+    for (let j = 0; j < morseCodeChars.length; j++) {
+      const char = Object.keys(morseCodeDictionary).find(key => morseCodeDictionary[key] === morseCodeChars[j]);
+      if (char) {
+        text += char;
+      } else {
+        text += morseCodeChars[j];
+      }
+    }
+    text += ' ';
+  }
+
+  return text.trim();
+}
+
+function copy(id) { // This function will take an argument called "id". This will be the ID of the tag that we want to copy.
+  var copy = document.getElementById(id).innerText;
+  navigator.clipboard.writeText(copy);
+}
+
+</script>
+
+
+<textarea id="input"></textarea>
+
+<button onclick="convertAndDisplay()">Translate it!</button>
+
+<div>Morse code: </div>
+<div id="outputMorseCode"></div>
+<button onclick="copy('outputMorseCode')">Copy</button>
+<br>
+<br>
+<br>
+<div>Text: </div>
+<div id="outputTranslated"></div>
+<button onclick="copy('outputTranslated')">Copy</button>
+
+#+END_EXPORT
