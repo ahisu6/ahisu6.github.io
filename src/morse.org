@@ -74,9 +74,10 @@ function copy(id) { // This function will take an argument called "id". This wil
 
 
 <textarea id="input" style="background-color: #5b5b46; color: #e9e9e2; padding: 1em;"></textarea>
-
 <button onclick="convertAndDisplay()">翻訳するにはこのボタンをクリックしてください！</button>
-
+<br>
+<br>
+<br>
 <div>モールス信号の結果である：</div>
 <div id="outputMorseCode" style="background-color: #16171d; color: #8ffa89; padding: 1em;"></div>
 <button onclick="copy('outputMorseCode')">結果をコピーする！</button>
