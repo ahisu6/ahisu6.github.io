@@ -73,7 +73,7 @@ function copy(id) { // This function will take an argument called "id". This wil
 </script>
 
 
-<textarea id="input"></textarea>
+<textarea id="input" style="background-color: #5b5b46; color: #e9e9e2; padding: 1em;"></textarea>
 
 <button onclick="convertAndDisplay()">翻訳するにはこのボタンをクリックしてください！</button>
 
