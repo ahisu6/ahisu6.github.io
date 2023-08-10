@@ -5,7 +5,7 @@
 <div class="japt">モールス符号</div>
 #+END_EXPORT
 
-[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/learn/morse.org][Edit]]
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/morse.org][Edit]]
 
 [[file:../index.org][Home]]
 
