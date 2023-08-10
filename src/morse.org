@@ -77,14 +77,14 @@ function copy(id) { // This function will take an argument called "id". This wil
 
 <button onclick="convertAndDisplay()">Translate it!</button>
 
-<div>Morse code: </div>
-<div id="outputMorseCode"></div>
-<button onclick="copy('outputMorseCode')">Copy</button>
+<div>モールス信号の結果である：</div>
+<div id="outputMorseCode" style="background-color: #16171d; color: #8ffa89; padding: 1em;"></div>
+<button onclick="copy('outputMorseCode')">結果をコピーする！</button>
 <br>
 <br>
 <br>
-<div>Text: </div>
-<div id="outputTranslated"></div>
-<button onclick="copy('outputTranslated')">Copy</button>
+<div>本文の結果である：</div>
+<div id="outputTranslated" style="background-color: #16171d; color: #89b7fa; padding: 1em;"></div>
+<button onclick="copy('outputTranslated')">結果をコピーする！</button>
 
 #+END_EXPORT
