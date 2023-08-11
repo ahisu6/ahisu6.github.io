@@ -36,7 +36,7 @@ The word @@html:<span class="ja">モールス</span>@@ looks like @@html:<span c
 
 I found this [[https://www.telegraphy.eu/pagina/artikels/The%20Morse%20Code%20for%20Japanese%20Characters%201%20MAY%202022.pdf][cool article online]] which has listed all of the Hiragana and Katakana Morse codes! @@html:<span class="ja">ひらがなとカタカナのモールス符号をすべて列挙したクールな記事をネットで見つけた！</span>@@
 
-Then, I used this [[Wikipedia page][https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%AB%E3%82%B9%E7%AC%A6%E5%8F%B7#%E5%92%8C%E6%96%87%E3%83%A2%E3%83%BC%E3%83%AB%E3%82%B9%E7%AC%A6%E5%8F%B7]] to convert it!
+Then, I used this [[https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%AB%E3%82%B9%E7%AC%A6%E5%8F%B7#%E5%92%8C%E6%96%87%E3%83%A2%E3%83%BC%E3%83%AB%E3%82%B9%E7%AC%A6%E5%8F%B7][Wikipedia page]] to convert it!
 
 In Japanese, this is called 「和文モールス符号」.
 
