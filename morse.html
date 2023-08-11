@@ -28,65 +28,7 @@
 The word <span class="ja">モールス</span> looks like <span class="ja">スモール</span>&#x2026; ひひひ。
 </p>
 
-<script>
-function convertAndDisplay() {
-  const input = document.getElementById("input").value;
-  const morseCode = convertToMorseCode(input);
-  const convertedMessage = convertToText(morseCode);
-  const convertedMorse = convertToText(input);
-
-  document.getElementById("outputMorseCode").innerText = `${morseCode}`;
-  document.getElementById("outputTranslated").innerText = `${convertedMorse}`;
-}
-
-
-// Define the Morse code dictionary
-const morseCodeDictionary = {   'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.', 'F': '..-.', 'G': '--.',   'H': '....', 'I': '..', 'J': '.---', 'K': '-.-', 'L': '.-..', 'M': '--', 'N': '-.',   'O': '---', 'P': '.--.', 'Q': '--.-', 'R': '.-.', 'S': '...', 'T': '-', 'U': '..-',   'V': '...-', 'W': '.--', 'X': '-..-', 'Y': '-.--', 'Z': '--..',   '0': '-----', '1': '.----', '2': '..---', '3': '...--', '4': '....-', '5': '.....',   '6': '-....', '7': '--...', '8': '---..', '9': '----.',   '.': '.-.-.-', ',': '--..--', '?': '..--..', "'": '.----.', '!': '-.-.--', '/': '-..-.',   '(': '-.--.', ')': '-.--.-', '&': '.-...', ':': '---...', ';': '-.-.-.', '=': '-...-',   '+': '.-.-.', '-': '-....-', '_': '..--.-', '"': '.-..-.', '$': '...-..-', '@': '.--.-.',   ' ': '/' };
-
-// Function to convert a message to Morse code
-function convertToMorseCode(message) {
-  const uppercaseMessage = message.toUpperCase();
-  let morseCodeMessage = '';
-
-  for (let i = 0; i < uppercaseMessage.length; i++) {
-    const char = uppercaseMessage.charAt(i);
-    if (morseCodeDictionary[char]) {
-      morseCodeMessage += morseCodeDictionary[char] + ' ';
-    } else {
-      morseCodeMessage += char + ' ';
-    }
-  }
-
-  return morseCodeMessage.trim();
-}
-
-// Function to convert Morse code back to text
-function convertToText(morseCode) {
-  const morseCodeWords = morseCode.split('/');
-  let text = '';
-
-  for (let i = 0; i < morseCodeWords.length; i++) {
-    const morseCodeChars = morseCodeWords[i].split(' ');
-    for (let j = 0; j < morseCodeChars.length; j++) {
-      const char = Object.keys(morseCodeDictionary).find(key => morseCodeDictionary[key] === morseCodeChars[j]);
-      if (char) {
-        text += char;
-      } else {
-        text += morseCodeChars[j];
-      }
-    }
-    text += ' ';
-  }
-
-  return text.trim();
-}
-
-function copy(id) { // This function will take an argument called "id". This will be the ID of the tag that we want to copy.
-  var copy = document.getElementById(id).innerText;
-  navigator.clipboard.writeText(copy);
-}
-
-</script>
+<script>function convertAndDisplay(){let e=document.getElementById("input").value,t=convertToMorseCode(e);convertToText(t);let o=convertToText(e);document.getElementById("outputMorseCode").innerText=`${t}`,document.getElementById("outputTranslated").innerText=`${o}`}const morseCodeDictionary={い:".-",ろ:".-.-",は:"-...",に:"-.-.",ほ:"-..",へ:".",と:"..-..",ち:"..-.",り:"--.",ぬ:"....",る:"-.--.",を:".---",わ:"-.-",か:".-..",よ:"--",ょ:"--",た:"-.",れ:"---",そ:"---.",つ:".--.",ね:"--.-",な:".-.",ら:"...",む:"-",う:"..-",ゐ:".-..-",の:"..--",お:".-...",く:"...-",や:".--",ゃ:".--",ま:"-..-",け:"-.--",ふ:"--..",こ:"----",え:"-.---",て:".-.--",あ:"--.--",さ:"-.-.-",き:"-.-..",ゆ:"-..--",ゅ:"-..--",め:"-...-",み:"..-.-",し:"--.-.",ひ:"--..-",も:"-..-.",せ:".---.",す:"---.-",ん:".-.-.",イ:".-",ロ:".-.-",ハ:"-...",ニ:"-.-.",ホ:"-..",ヘ:".",ト:"..-..",チ:"..-.",リ:"--.",ヌ:"....",ル:"-.--.",ヲ:".---",ワ:"-.-",カ:".-..",ヨ:"--",ョ:"--",タ:"-.",レ:"---",ソ:"---.",ツ:".--.",ネ:"--.-",ナ:".-.",ラ:"...",ム:"-",ウ:"..-",ヰ:".-..-",ノ:"..--",オ:".-...",ク:"...-",ヤ:".--",ャ:".--",マ:"-..-",ケ:"-.--",フ:"--..",コ:"----",エ:"-.---",テ:".-.--",ア:"--.--",サ:"-.-.-",キ:"-.-..",ユ:"-..--",ュ:"-..--",メ:"-...-",ミ:"..-.-",シ:"--.-.",ヒ:".--..",モ:"--..-",セ:"-..-.",ス:".---.",ン:"---.-",ん:".-.-.",が:".-.. ..",ぎ:"-.-.. ..",ぐ:"...- ..",げ:"-.-- ..",ご:"---- ..",ざ:"-.-.- ..",じ:"--.-. ..",ず:"---.- ..",ぜ:".---. ..",ぞ:"---. ..",だ:"-. ..",ぢ:"..-. ..",づ:".--. ..",で:".-.-- ..",ど:"..-.. ..",ば:"-... ..",び:"--..- ..",ぶ:"--.. ..",べ:". ..",ぼ:"-.. ..",ぱ:"-... ..--.",ぴ:"--..- ..--.",ぷ:"--.. ..--.",ぺ:". ..--.",ぽ:"-.. ..--.",゛:"..",゜:"..--.",A:".-",B:"-...",C:"-.-.",D:"-..",E:".",F:"..-.",G:"--.",H:"....",I:"..",J:".---",K:"-.-",L:".-..",M:"--",N:"-.",O:"---",P:".--.",Q:"--.-",R:".-.",S:"...",T:"-",U:"..-",V:"...-",W:".--",X:"-..-",Y:"-.--",Z:"--..",0:"-----",1:".----",2:"..---",3:"...--",4:"....-",5:".....",6:"-....",7:"--...",8:"---..",9:"----.",".":".-.-.-",",":"--..--","?":"..--..","'":".----.","!":"-.-.--","/":"-..-.","(":"-.--.",")":"-.--.-","&":".-...",":":"---...",";":"-.-.-.","=":"-...-","+":".-.-.","-":"-....-",_:"..--.-",'"':".-..-.",$:"...-..-","@":".--.-."," ":"/"};function convertToMorseCode(e){let t=e.toUpperCase(),o="";for(let n=0;n<t.length;n++){let r=t.charAt(n);morseCodeDictionary[r]?o+=morseCodeDictionary[r]+" ":o+=r+" "}return o.trim()}function convertToText(e){let t=e.split("/"),o="";for(let n=0;n<t.length;n++){let r=t[n].split(" ");for(let i=0;i<r.length;i++){let l=Object.keys(morseCodeDictionary).find(e=>morseCodeDictionary[e]===r[i]);l?o+=l:o+=r[i]}o+=" "}return o.trim()}function copy(e){var t=document.getElementById(e).innerText;navigator.clipboard.writeText(t)}</script>
 
 
 <textarea id="input" style="background-color: #5b5b46; color: #e9e9e2; padding: 1em;"></textarea>
@@ -103,6 +45,245 @@ function copy(id) { // This function will take an argument called "id". This wil
 <div>本文の結果である：</div>
 <div id="outputTranslated" style="background-color: #16171d; color: #89b7fa; padding: 1em;"></div>
 <button onclick="copy('outputTranslated')">結果をコピーする！</button>
+
+<p>
+I found this <a href="https://www.telegraphy.eu/pagina/artikels/The%20Morse%20Code%20for%20Japanese%20Characters%201%20MAY%202022.pdf">cool article online</a> which has listed all of the Hiragana and Katakana Morse codes! <span class="ja">ひらがなとカタカナのモールス符号をすべて列挙したクールな記事をネットで見つけた！</span>
+</p>
+
+<p>
+Then, I used this <a href="https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%AB%E3%82%B9%E7%AC%A6%E5%8F%B7#%E5%92%8C%E6%96%87%E3%83%A2%E3%83%BC%E3%83%AB%E3%82%B9%E7%AC%A6%E5%8F%B7">Wikipedia page</a> to convert it!
+</p>
+
+<p>
+In Japanese, this is called 「和文モールス符号」.
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Kana</th>
+<th scope="col" class="org-left">Morse</th>
+<th scope="col" class="org-left">Latin</th>
+<th scope="col" class="org-left">Kana</th>
+<th scope="col" class="org-left">Morse</th>
+<th scope="col" class="org-left">Latin</th>
+<th scope="col" class="org-left">Kana</th>
+<th scope="col" class="org-left">Morse</th>
+<th scope="col" class="org-left">Latin</th>
+<th scope="col" class="org-left">Kana</th>
+<th scope="col" class="org-left">Morse</th>
+<th scope="col" class="org-left">Latin</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">い</td>
+<td class="org-left">.-</td>
+<td class="org-left">A</td>
+<td class="org-left">わ</td>
+<td class="org-left">-.-</td>
+<td class="org-left">K</td>
+<td class="org-left">ゐ</td>
+<td class="org-left">.-..-</td>
+<td class="org-left">Ł</td>
+<td class="org-left">さ</td>
+<td class="org-left">-.-.-</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">ろ</td>
+<td class="org-left">.-.-</td>
+<td class="org-left">Ä</td>
+<td class="org-left">か</td>
+<td class="org-left">.-..</td>
+<td class="org-left">L</td>
+<td class="org-left">の</td>
+<td class="org-left">..--</td>
+<td class="org-left">Ü</td>
+<td class="org-left">き</td>
+<td class="org-left">-.-..</td>
+<td class="org-left">Ç</td>
+</tr>
+
+<tr>
+<td class="org-left">は</td>
+<td class="org-left">-&#x2026;</td>
+<td class="org-left">B</td>
+<td class="org-left">よ</td>
+<td class="org-left">--</td>
+<td class="org-left">M</td>
+<td class="org-left">お</td>
+<td class="org-left">.-&#x2026;</td>
+<td class="org-left">&amp;</td>
+<td class="org-left">ゆ</td>
+<td class="org-left">-..--</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">に</td>
+<td class="org-left">-.-.</td>
+<td class="org-left">C</td>
+<td class="org-left">た</td>
+<td class="org-left">-.</td>
+<td class="org-left">N</td>
+<td class="org-left">く</td>
+<td class="org-left">&#x2026;-</td>
+<td class="org-left">V</td>
+<td class="org-left">め</td>
+<td class="org-left">-&#x2026;-</td>
+<td class="org-left">=</td>
+</tr>
+
+<tr>
+<td class="org-left">ほ</td>
+<td class="org-left">-..</td>
+<td class="org-left">D</td>
+<td class="org-left">れ</td>
+<td class="org-left">---</td>
+<td class="org-left">O</td>
+<td class="org-left">や</td>
+<td class="org-left">.--</td>
+<td class="org-left">W</td>
+<td class="org-left">み</td>
+<td class="org-left">..-.-</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">へ</td>
+<td class="org-left">.</td>
+<td class="org-left">E</td>
+<td class="org-left">そ</td>
+<td class="org-left">&#x2014;.</td>
+<td class="org-left">Ö</td>
+<td class="org-left">ま</td>
+<td class="org-left">-..-</td>
+<td class="org-left">X</td>
+<td class="org-left">し</td>
+<td class="org-left">&#x2013;.-.</td>
+<td class="org-left">Ĝ</td>
+</tr>
+
+<tr>
+<td class="org-left">と</td>
+<td class="org-left">..-..</td>
+<td class="org-left">É</td>
+<td class="org-left">つ</td>
+<td class="org-left">.&#x2013;.</td>
+<td class="org-left">P</td>
+<td class="org-left">け</td>
+<td class="org-left">-.--</td>
+<td class="org-left">Y</td>
+<td class="org-left">ゑ</td>
+<td class="org-left">.&#x2013;..</td>
+<td class="org-left">Þ</td>
+</tr>
+
+<tr>
+<td class="org-left">ち</td>
+<td class="org-left">..-.</td>
+<td class="org-left">F</td>
+<td class="org-left">ね</td>
+<td class="org-left">&#x2013;.-</td>
+<td class="org-left">Q</td>
+<td class="org-left">ふ</td>
+<td class="org-left">&#x2013;..</td>
+<td class="org-left">Z</td>
+<td class="org-left">ひ</td>
+<td class="org-left">&#x2013;..-</td>
+<td class="org-left">Ż</td>
+</tr>
+
+<tr>
+<td class="org-left">り</td>
+<td class="org-left">&#x2013;.</td>
+<td class="org-left">G</td>
+<td class="org-left">な</td>
+<td class="org-left">.-.</td>
+<td class="org-left">R</td>
+<td class="org-left">こ</td>
+<td class="org-left">----</td>
+<td class="org-left">Š</td>
+<td class="org-left">も</td>
+<td class="org-left">-..-.</td>
+<td class="org-left">/</td>
+</tr>
+
+<tr>
+<td class="org-left">ぬ</td>
+<td class="org-left">&#x2026;.</td>
+<td class="org-left">H</td>
+<td class="org-left">ら</td>
+<td class="org-left">&#x2026;</td>
+<td class="org-left">S</td>
+<td class="org-left">え</td>
+<td class="org-left">-.---</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">せ</td>
+<td class="org-left">.&#x2014;.</td>
+<td class="org-left">Ĵ</td>
+</tr>
+
+<tr>
+<td class="org-left">る</td>
+<td class="org-left">-.&#x2013;.</td>
+<td class="org-left">(</td>
+<td class="org-left">む</td>
+<td class="org-left">-</td>
+<td class="org-left">T</td>
+<td class="org-left">て</td>
+<td class="org-left">.-.--</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">す</td>
+<td class="org-left">&#x2014;.-</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">を</td>
+<td class="org-left">.---</td>
+<td class="org-left">J</td>
+<td class="org-left">う</td>
+<td class="org-left">..-</td>
+<td class="org-left">U</td>
+<td class="org-left">あ</td>
+<td class="org-left">&#x2013;.--</td>
+<td class="org-left">Ñ</td>
+<td class="org-left">ん</td>
+<td class="org-left">.-.-.</td>
+<td class="org-left">+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </body>
 </html>
