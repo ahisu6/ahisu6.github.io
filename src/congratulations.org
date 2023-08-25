@@ -10,6 +10,11 @@
 [[file:../index.org][Home]]
 
 -----
+親友へ
+
+
+
+おはよう～！
 
 Well done my friend, you did it! @@html:<span class="ja">よくやった私の友人、あなたはそれをしました!</span>@@
 
