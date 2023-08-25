@@ -151,7 +151,7 @@ body {
 }
 </style>
 
-<button class="btn cta" onclick="startConfetti()">おめでとう、我が友よ！</button>
+<button id="button" class="btn cta">おめでとう、我が友よ！</button>
 <canvas id="confetti"></canvas>
 
 <script>
