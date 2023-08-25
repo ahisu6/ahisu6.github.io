@@ -28,6 +28,9 @@ I am proud to be your friend. @@html:<span class="ja">私はあなたの友人�
 
 Well done! @@html:<span class="ja">よくやったよ！</span>@@
 
+大大。
+
+
 
 
 友人より
