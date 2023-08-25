@@ -11,13 +11,32 @@
 
 -----
 
+親友へ
+
+
+
+おはよう～！
+
+Well done my friend, you did it! @@html:<span class="ja">よくやった私の友人、あなたはそれをしました!</span>@@
+
+I am extremely proud of what you have achieved. @@html:<span class="ja">私はあなたが成し遂げたことを非常に誇りに思っている。</span>@@
+
+It has been a tremendously difficult year, but you did amazing. @@html:<span class="ja">とてつもなく困難な1年だったが、あなたはよくやった。</span>@@
+
+I feel very proud. @@html:<span class="ja">私はとても誇りに感じている。</span>@@
+
+I am proud to be your friend. @@html:<span class="ja">私はあなたの友人であることを誇りに思っている。</span>@@
+
+Well done! @@html:<span class="ja">よくやったよ！</span>@@
+
+大大。
+
+
+
+
+友人より
 #+BEGIN_EXPORT html
 <style>
-body {
-  background-color: #141518;
-  color: #e9e9cf;
-}
-
 .container {
   display: flex;
   align-content: center;
@@ -32,7 +51,7 @@ body {
   letter-spacing: 0.075em;
   padding: .8em 1em;
   margin: auto 2em;
-  position: fixed;
+  position: relative;
   align-self: center;
   text-transform: uppercase;
   border: 3px #00bcdd solid;
@@ -505,28 +524,3 @@ body {
 <!-- } -->
 
 #+END_EXPORT
-
-親友へ
-
-
-
-おはよう～！
-
-Well done my friend, you did it! @@html:<span class="ja">よくやった私の友人、あなたはそれをしました!</span>@@
-
-I am extremely proud of what you have achieved. @@html:<span class="ja">私はあなたが成し遂げたことを非常に誇りに思っている。</span>@@
-
-It has been a tremendously difficult year, but you did amazing. @@html:<span class="ja">とてつもなく困難な1年だったが、あなたはよくやった。</span>@@
-
-I feel very proud. @@html:<span class="ja">私はとても誇りに感じている。</span>@@
-
-I am proud to be your friend. @@html:<span class="ja">私はあなたの友人であることを誇りに思っている。</span>@@
-
-Well done! @@html:<span class="ja">よくやったよ！</span>@@
-
-大大。
-
-
-
-
-友人より
