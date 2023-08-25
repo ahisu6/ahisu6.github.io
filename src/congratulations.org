@@ -23,6 +23,10 @@ I am proud to be your friend. @@html:<span class="ja">私はあなたの友人�
 
 Well done! @@html:<span class="ja">よくやったよ！</span>@@
 
+
+
+友人より
+
 #+BEGIN_EXPORT html
 <style>
 body {
