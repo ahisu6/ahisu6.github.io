@@ -13,6 +13,16 @@
 
 Well done my friend, you did it! @@html:<span class="ja">よくやった私の友人、あなたはそれをしました!</span>@@
 
+I am extremely proud of what you have achieved. @@html:<span class="ja">私はあなたが成し遂げたことを非常に誇りに思っている。</span>@@
+
+It has been a tremendously difficult year, but you did amazing. @@html:<span class="ja">とてつもなく困難な1年だったが、あなたはよくやった。</span>@@
+
+I feel very proud. @@html:<span class="ja">私はとても誇りに感じている。</span>@@
+
+I am proud to be your friend. @@html:<span class="ja">私はあなたの友人であることを誇りに思っている。</span>@@
+
+Well done! @@html:<span class="ja">よくやったよ！</span>@@
+
 #+BEGIN_EXPORT html
 <style>
 body {
