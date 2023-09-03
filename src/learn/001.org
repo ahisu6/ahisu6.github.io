@@ -14,9 +14,9 @@
 
 #+TOC: headlines 2
 
-* Anki
+* 暗記
 :PROPERTIES:
-:CUSTOM_ID: org6e74e04
+:CUSTOM_ID: org58f2c22
 :END:
 
 Posted: 2023-09-03 | Updated: 2023-09-03
