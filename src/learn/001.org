@@ -25,7 +25,7 @@ Hello!!!
 
 It has been a long time!
 
-Congratulations on passing!
+[[file:../congratulations.org][Congratulations on passing!]]
 
 Good job!!!!
 
