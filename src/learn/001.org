@@ -65,7 +65,7 @@ Look at the 3rd rule. I will now show you some examples @@html:<span class="ja">
 
 Do you see? Good cards are usually short and they have only one fact. @@html:<span class="ja">わかりますか？良いカードはたいてい短く、事実はひとつしかない。</span>@@
 
-Now, let's say you read paragraph this on Ahisu6 (it's from this [[https://ahisu6.github.io/n/002.html#org99809f1][link]]):
+Now, let's say you read paragraph this on Ahisu6 (it's from this [[file:../n/002.org::#org99809f1][link]]):
 - The herpes simplex virus is the most common cause of encephalitis. Herpes simplex virus mainly affect the temporal lobe of the brain. @@html:<span class="ja">単純ヘルペスウイルスは脳炎の最も一般的な原因である。単純ヘルペスウイルスは主に脳の側頭葉を侵す。</span>@@
 
 So, let's make some questions from this sentence @@html:<span class="ja">では、この文章からいくつかの質問を作ってみよう</span>@@:
