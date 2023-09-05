@@ -87,4 +87,5 @@ Please note that the translation may not be correct. However, I will try my abso
 
 The content of this site is not intended as medical advice or as a diagnostic tool. If you have a medical problem, you should seek medical advice. @@html:<span class="ja">本サイトのコンテンツは、医学的なアドバイスや診断のためのものではありません。医療上の問題がある場合は、医師の診断を受ける必要があります。</span>@@
 
-Unless otherwise noted, original content on this site is licensed under [[https://raw.githubusercontent.com/ahisu6/ahisu6.github.io/main/LICENSE][GNU GENERAL PUBLIC LICENSE]].
+Unless otherwise noted, original content on this site is licensed under [[https://raw.githubusercontent.com/ahisu6/ahisu6.github.io/main/LICENSE][GNU GENERAL PUBLIC LICENSE]]. @@html:<span class="ja">特に断りのない限り、このサイトのオリジナルコンテンツは<a href="https://raw.githubusercontent.com/ahisu6/ahisu6.github.io/main/LICENSE">GNU GENERAL PUBLIC LICENSE</a>の下でライセンスされています。</span>@@
+
