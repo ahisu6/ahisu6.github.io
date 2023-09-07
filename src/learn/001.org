@@ -14,6 +14,27 @@
 
 #+TOC: headlines 2
 
+* Foundation Programme
+:PROPERTIES:
+:CUSTOM_ID: org57c99b0
+:END:
+
+Posted: 2023-09-07 | Updated: 2023-09-07
+
+I got all of this information from this [[https://foundationprogramme.nhs.uk/programmes/2-year-foundation-programme/ukfp/][website]].
+
+"UK Foundation Programme Office (UKFPO) manages the application process, publishes guidance on training and promotes the consistent delivery of the programme across the UK." @@html:<span class="ja">「UK Foundation Programme Office（UKFPO）は、申請手続きを管理し、研修に関するガイダンスを発行し、英国全土で一貫したプログラムの実施を推進している。」</span>@@
+
+In the UK, there are things called "foundation schools". These are places for junior doctors to practice and learn. @@html:<span class="ja">英国には「ファウンデーション・スクール」と呼ばれるものがある。これは、若手医師が練習し、学ぶための場所です。</span>@@
+
+There are many foundation schools in the UK. You can find their locations [[https://foundationprogramme.nhs.uk/programmes/2-year-foundation-programme/ukfp/][here]] (on page 4). @@html:<span class="ja">英国には多くのファウンデーション・スクールがある。</span>@@
+
+To apply to foundation schools, we have to use a website called [[https://www.oriel.nhs.uk][Oriel]]. You will receive an email on 2023/09/12 that explains this. When you receive this email, you have to create an account before 2023/09/20. @@html:<span class="ja">ファウンデーション・スクールに申し込むには、Orielというウェブサイトを利用しなければなりません。2023/09/12にこのことを説明したEメールが届きます。このメールを受け取ったら、2023/09/20までにアカウントを作成してください。</span>@@
+
+After you create an account, you have until 2023/10/04 to make a decision. To make a decision, you will have to rank 18 foundation schools. Put the foundation schools which you like at the top of the list, and then put the ones that you hate at the bottom. @@html:<span class="ja">アカウント作成後、2023年10月4日までに決断を下す必要がある。決断を下すには、18のファウンデーション・スクールをランク付けする必要があります。好きなファンデーション・スクールをリストの一番上に、嫌いなファンデーション・スクールを一番下に置いてください。</span>@@
+
+If you change your mind about the rank order, you will have until 2024/02/14 to change. So, it's okay! You have a lot of time to decide on the order. @@html:<span class="ja">もし順位について気が変わった場合は、2024/02/14まで変更可能です。だから大丈夫だ！順位を決める時間はたくさんある。</span>@@
+
 * 暗記
 :PROPERTIES:
 :CUSTOM_ID: org58f2c22
