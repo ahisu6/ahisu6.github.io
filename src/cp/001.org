@@ -14,7 +14,7 @@
 
 -----
 
-#+TOC: headlines 2
+#+TOC: headlines 1
 
 * Epilepsy drugs
 :PROPERTIES:
