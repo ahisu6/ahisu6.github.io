@@ -16,6 +16,35 @@
 
 #+TOC: headlines 2
 
+* Adults advanced life support
+:PROPERTIES:
+:CUSTOM_ID: orga7eff00
+:END:
+
+Posted: 2023-09-19 | Updated: 2023-09-19
+
+Ok, so here are the steps in case someone needs CPR. @@html:<span class="ja">では、CPRが必要な人がいた場合の手順を説明しよう。</span>@@
+
+1. Call for help!!! @@html:<span class="ja">助けを呼ぶ！！！</span>@@
+2. First, we have to start with chest compressions. We need to give 30 chest compressions, and then give 2 bag ventilations. @@html:<span class="ja">まずは胸骨圧迫から。胸骨圧迫を30回行い、次にバッグベンチレーションを2回行う。</span>@@
+3. Get the defibrillator. @@html:<span class="ja">除細動器を持ってきてください。</span>@@
+   - If the patient has ventricular fibrillation or ventricular tachycardia, then you 1 defibrillator shock. After that, you need to do CPR for 2 minutes. @@html:<span class="ja">心室細動や心室頻拍があれば、除細動器ショックを1回行う。その後、2分間の心肺蘇生が必要です。</span>@@
+   - If you saw the patient when they collapsed, then you need to give 3 defibrillator shocks. @@html:<span class="ja">患者が倒れたのを見たなら、除細動器によるショックを3回与える必要がある。</span>@@
+4. Next, we need to put a cannula in the patient. @@html:<span class="ja">次に、患者にカニューレを入れる必要がある。</span>@@
+   - If you can't put a cannula, then you have to put the drugs in the bone (intraosseous). @@html:<span class="ja">カニューレを入れられない場合は、骨の中に薬剤を入れなければならない（骨内注射）。</span>@@
+5. If the patient does not have a pulse, then you should give 1 mg of adrenaline now. @@html:<span class="ja">脈がない場合は、アドレナリンを1mg投与する。</span>@@
+6. If the patient has ventricular fibrillation or ventricular tachycardia, then you should give adrenaline after you have started chest compressions for the 4th time. So... @@html:<span class="ja">心室細動や心室頻拍がある場合は、4回目の胸骨圧迫を開始した後にアドレナリンを投与します。それで...</span>@@
+   1. Compression
+   2. 1st shock
+   3. Compression
+   4. 2nd shock
+   5. Compression
+   6. 3rd shock
+   7. Compression plus adrenaline!
+7. Keep giving adrenaline doses every 3 minutes. @@html:<span class="ja">アドレナリンを3分ごとに投与し続ける。</span>@@
+8. If that still does not help, then you should givee 300 mg of amiodarone. @@html:<span class="ja">それでもだめなら、アミオダロンを300mg投与する。</span>@@
+9. If you gave 5 shocks, then you should give another dose of amiodarone (150 mg). @@html:<span class="ja">もし5回のショックを行ったなら、アミオダロン（150mg）をもう1回投与すべきである。</span>@@
+
 * Ventricular tachycardia
 :PROPERTIES:
 :CUSTOM_ID: org8736e77
