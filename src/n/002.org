@@ -16,6 +16,21 @@
 
 #+TOC: headlines 2
 
+* Psychosis vs. Schizophrenia
+:PROPERTIES:
+:CUSTOM_ID: orgdf0793e
+:END:
+
+Posted: 2023-09-29 | Updated: 2023-09-29
+
+You asked me about the difference between psychosis and Schizophrenia. @@html:<span class="ja">精神病と統合失調症の違いについて尋ねられましたね。</span>@@
+
+Psychosis is the distorted perception of reality which which includes things like delusions, speech issues, thought issues, and hallucinations. @@html:<span class="ja">精神病とは、妄想、発話の問題、思考の問題、幻覚などを含む現実の歪んだ認識のことである。</span>@@
+
+People who have a mental illness might get psychosis. Some drugs cause psychosis. @@html:<span class="ja">精神疾患を持つ人は精神病になるかもしれない。精神病を引き起こす薬もあります。</span>@@
+
+Schizophrenia is a disease. Schizophrenia has many symptoms. One of the symptoms in Schizophrenia is psychosis. Please read this explanation of Schizophrenia [[file:./001.org::#orgdd7f1a5][here]]! @@html:<span class="ja">統合失調症は病気である。統合失調症には多くの症状がある。統合失調症の症状のひとつに精神病がある。</span>@@
+
 * Encephalitis
 :PROPERTIES:
 :CUSTOM_ID: org99809f1
