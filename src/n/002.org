@@ -16,6 +16,83 @@
 
 #+TOC: headlines 2
 
+* Attention Deficit Hyperactivity Disorder
+:PROPERTIES:
+:CUSTOM_ID: org88d56f8
+:END:
+
+Posted: 2023-09-30 | Updated: 2023-09-30
+
+Attention Deficit Hyperactivity Disorder (ADHD) is a disease that causes the person to have reduced attention and increased activity. @@html:<span class="ja">注意欠陥多動性障害（ADHD）は、注意力が低下し、活動性が亢進する病気である。</span>@@
+
+It is more common in boys. @@html:<span class="ja">男子に多い。</span>@@
+
+The symptoms for ADHD have to happen in 2 different places. So, the patient must have the same symptoms at the park and at home. @@html:<span class="ja">ADHDの症状は、2つの異なる場所で起こらなければならない。だから、患者は公園でも家でも同じ症状でなければならない。</span>@@
+
+** Signs and symptoms
+:PROPERTIES:
+:CUSTOM_ID: org55da0d7
+:END:
+
+There are 3 main symptoms for ADHD @@html:<span class="ja">ADHDには3つの主な症状がある</span>@@:
+1. Inattention: this means that the patient cannot pay a lot of attention. @@html:<span class="ja">不注意：これは、患者が多くの注意を払うことができないことを意味する。</span>@@
+2. Hyperactivity: high level of energy. The patient will be very active. For example, the patient will play a lot and talk a lot. @@html:<span class="ja">多動：エネルギーが旺盛。患者は非常に活動的である。例えば、よく遊び、よく話す。</span>@@
+3. Impulsivity: the patient will interrupt other people. @@html:<span class="ja">衝動性：他人の邪魔をする。</span>@@
+
+** Investigations
+:PROPERTIES:
+:CUSTOM_ID: orgb7b97d2
+:END:
+
+- This is a clinical diagnosis. So, no tests are needed. @@html:<span class="ja">これは臨床診断である。だから検査は必要ない。</span>@@
+
+** Treatment
+:PROPERTIES:
+:CUSTOM_ID: org2821b11
+:END:
+
+- First, you need to observe the child for at least 10 weeks. @@html:<span class="ja">まず、少なくとも10週間は子どもを観察する必要がある。</span>@@
+- If the patient still has the symptoms for more than 10 weeks, then you need to refer to the hospital or to Child and Adolescent Mental Health Service (CAMHS). The child will be seen by a specialist. @@html:<span class="ja">それでも10週間以上症状が続く場合は、病院か児童青年精神保健サービス（CAMHS）に紹介する必要があります。専門医が診察します。</span>@@
+- Drugs are last resort. If you want to use drugs, then the patient has to be more than 5 years old. @@html:<span class="ja">薬は最後の手段だ。もし薬を使いたいなら、患者は5歳以上でなければならない。</span>@@
+- The first-line drug is methylphenidate. @@html:<span class="ja">第一選択薬はメチルフェニデートである。</span>@@
+  - @@html:Look at the word 「メ<mark>チル</mark>フェニデート」...@@
+  - @@html:<mark>チル</mark> means "chill/cold".@@
+  - @@html:ADHD children play a lot, and they become very hot. So, we have to give them メ<mark>チル</mark>フェニデート to make them colder. <span class="ja">ADHDの子どもたちはよく遊び、とても暑くなります。だから、メ<mark>チル</mark>フェニデートを与えて寒がりにさせなければならない。</span>@@
+  - When you give methylphenidate, you have to monitor the height, weight, and the blood pressure of the child every 6 months. @@html:<span class="ja">メチルフェニデートを投与する場合は、6ヵ月ごとに子どもの身長、体重、血圧をモニターしなければならない。</span>@@
+- If methylphenidate did not work, then you need to switch to lisdexamfetamine. @@html:<span class="ja">メチルフェニデートが効かなかったのなら、リスデキサムフェタミンに切り替える必要がある。</span>@@
+
+** Complications
+:PROPERTIES:
+:CUSTOM_ID: orgc196c6d
+:END:
+
+- The ADHD drugs are very toxic to the heart. So, we have to do ECG. @@html:<span class="ja">ADHDの薬は心臓にとても毒性がある。だから心電図をとらなければならない。</span>@@
+
+** Questions
+:PROPERTIES:
+:CUSTOM_ID: org9be37ba
+:END:
+
+1. ADHD is more common is boys or girls?
+2. What is a requirement for the symptoms of ADHD?
+3. What are the 3 main symptoms for ADHD?
+4. What does "impulsivity" mean in ADHD?
+5. What is the first-line treatment for ADHD?
+6. What is the first-line drug treatment for ADHD?
+7. What should you monitor when you give the drug to ADHD patient?
+8. How often should the child be monitored when taking ADHD drugs?
+
+@@html:<div onclick="reveal()">Click this sentence to see the answers! <span class="ja">この文章をクリックすると、答えが表示されます！</span></div><div style="display: none;">@@
+1. Boys.
+2. The symptoms for ADHD have to occur in 2 different places.
+3. The 3 main symptoms for ADHD are: inattention, hyperactivity, impulsivity.
+4. The patient will interrupt other people.
+5. 10 weeks of observation.
+6. Methylphenidate.
+7. You should monitor: height, weight, and the blood pressure.
+8. Every 6 months.
+@@html:</div>@@
+
 * Psychosis vs. Schizophrenia
 :PROPERTIES:
 :CUSTOM_ID: orgdf0793e
@@ -74,3 +151,7 @@ When the brain becomes inflamed, many problems can happen. For example, confusio
 :END:
 
 - If the patient has herpes simplex encephalitis, then you need to give them... IV aciclovir! @@html:<span class="ja">もし患者が単純ヘルペス脳炎に罹患しているのであれば... アシクロビルの静脈内投与！</span>@@
+
+#+BEGIN_EXPORT html
+<script src="https://ahisu6.github.io/assets/js/revealAnswer.js"></script>
+#+END_EXPORT
