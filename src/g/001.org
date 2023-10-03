@@ -88,6 +88,31 @@ Over a long period of time, the patient will need to have surgery @@html:<span c
 - If the patient has a complex fistula, then you will need to do a draining seton. This is a wire that will help the anus drain the pus. See this [[https://drive.google.com/uc?export=view&id=1VZYI5IV6vxwdtnLMHEqUkHlrziQQDLEX][picture]]. @@html:<span class="ja">複雑な瘻孔の場合は、排膿セトンを行う必要がある。これは肛門から膿を排出するためのワイヤーです。</span>@@
 - If the patient gets an abscess, then you need to open the abscess and drain it. Then, give antibiotics. @@html:<span class="ja">患者が膿瘍になった場合は、膿瘍を開いて排膿する必要がある。それから抗生物質を投与する。</span>@@
 
+** Questions
+:PROPERTIES:
+:CUSTOM_ID: org67f5dc5
+:END:
+
+1. What is the first-line treatment for Crohn's disease?
+2. What is the second-line treatment for Crohn's disease?
+3. What is the third-line treatment for Crohn's disease?
+4. What is the treatment for Crohn's disease patients with fistula?
+5. What is the treatment for Crohn's disease patients with anal disease?
+6. What drugs are used to maintain remission in Crohn's disease?
+7. What is the recommended treatment for a complex fistula in Crohn's disease?
+8. What should be done if the patient gets an abscess in Crohn's disease?
+
+@@html:<div onclick="reveal()">Click this sentence to see the answers! <span class="ja">この文章をクリックすると、答えが表示されます！</span></div><div style="display: none;">@@
+1. Glucocorticoids
+2. Aminosalicylate
+3. Azathioprine or methotrexate
+4. Infliximab
+5. Metronidazole
+6. Azathioprine or mercaptopurine
+7. Draining seton
+8. Open and drain the abscess, then give antibiotics
+@@html:</div>@@
+
 * Ulcerative colitis
 :PROPERTIES:
 :CUSTOM_ID: org603c024
