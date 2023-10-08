@@ -1,0 +1,62 @@
+#+TITLE: History 003
+
+#+BEGIN_EXPORT html
+<div class="engt">History</div>
+<div class="japt">病歴聴取</div>
+<div class="engt">Page 003</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/h/003.org][Edit]]
+
+[[file:./index.org][Home]]
+
+[[file:./002.org][<< Previous page]] - [[file:./004.org][Next page >>]]
+
+-----
+
+#+TOC: headlines 2
+
+* Tired all the time
+:PROPERTIES:
+:CUSTOM_ID: org71232d0
+:END:
+
+Posted: 2023-10-08 | Updated: 2023-10-08
+
+Many things can cause tiredness and fatigue:
+- Cancer
+- Thyroid issues
+- Diabetes
+- Infection
+- Sleep issues
+- And many more!
+
+Anyway, here is what you should ask:
+1. Good morning, my name is Dr. XYZ. Can I get your name and date of birth please? @@html:<span class="ja">おはようございます、私はドクターXYZと申します。あなたのお名前と生年月日をお聞かせください。</span>@@
+2. Thank you for coming today. @@html:<span class="ja">本日はご来場いただきありがとうございました。</span>@@
+3. How can I help you?
+4. Right, so you have been experiencing some tiredness. Can you tell me a little bit more about that?
+5. /Give the patient some time to explain./ @@html:<span class="ja"><i>患者さんに説明する時間を与えてください。</i></span>@@
+6. I will just do a quick summary of what you have told me so far.
+7. /Do a quick summary./ @@html:<span class="ja"><i>簡単なまとめをしてください。</i></span>@@
+8. So, how long have you been feeling tired for?
+9. When did it start?
+10. Has it become better or worse?
+11. Is there a particular time of day where you feel most tired?
+12. Does anything make it worse?
+13. Do you have any ideas, concerns, and expectations?
+14. Is it okay if I ask you few more questions?
+15. How is your appetite?
+16. How is your mood?
+17. How is your sleep?
+18. Have you had any recent infections?
+19. Have you noticed weight changes?
+20. Do you feel cold when others think it's warm? (you are checking for hypothyroidism).
+21. How are your waterworks? (waterworks means urinary).
+22. How are your bowel habits?
+23. Any bleeding from anywhere?
+24. Any pain?
+25. Do you feel weak?
+26. How is your concentration?
+27. /Do a quick summary./ @@html:<span class="ja"><i>簡単なまとめをしてください。</i></span>@@
+28. Then, do the rest of the history (past medical, past surgical, etc.)
