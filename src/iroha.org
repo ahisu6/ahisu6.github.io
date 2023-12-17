@@ -52,12 +52,13 @@ Thank you for the highly entertaining puzzle which you sent me (and thank you fo
 
 I reused the code from the [[file:./morse.org][Morse code creator]], and then I used this [[https://en.wikipedia.org/wiki/Japanese_cryptology_from_the_1500s_to_Meiji][Wikipedia page]] to create the dictionary of this program.
 
-| - | 1   | 2  | 3  | 4  | 5   | 6  | 7   |
-|---+-----+----+----+----+-----+----+-----|
-| 1 | i   | ro | ha | ni | ho  | he | to  |
-| 2 | chi | ri | nu | ru | wo  | wa | ka  |
-| 3 | yo  | ta | re | so | tsu | ne | na  |
-| 4 | ra  | mu | u  | wi | no  | o  | ku  |
-| 5 | ya  | ma | ke | fu | ko  | e  | te  |
-| 6 | a   | sa | ki | yu | me  | mi | shi |
-| 7 | we  | hi | mo | se | su  | n  |     |
+| - | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
+|---+----+----+----+----+----+----+----|
+| 1 | い | ろ | は | に | ほ | へ | と |
+| 2 | ち | り | ぬ | る | を | わ | か |
+| 3 | よ | た | れ | そ | つ | ね | な |
+| 4 | ら | む | う | ゐ | の | お | く |
+| 5 | や | ま | け | ふ | こ | え | て |
+| 6 | あ | さ | き | ゆ | め | み | し |
+| 7 | ゑ | ひ | も | せ | す | ん |    |
+
