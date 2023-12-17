@@ -48,7 +48,7 @@ function convertAndDisplay(){let e=document.getElementById("input").value,t=conv
 :CUSTOM_ID: org43d0f84
 :END:
 
-Thank you for the highly entertaining puzzle which you sent me (and thank you for the hints).
+Thank you for the highly entertaining puzzle which you sent me in December 2023 (and thank you for the hints).
 
 I reused the code from the [[file:./morse.org][Morse code creator]], and then I used this [[https://en.wikipedia.org/wiki/Japanese_cryptology_from_the_1500s_to_Meiji][Wikipedia page]] to create the dictionary of this program.
 
