@@ -1,0 +1,63 @@
+#+TITLE: Iroha code
+
+#+BEGIN_EXPORT html
+<div class="engt">Iroha code</div>
+<div class="japt">いろは符号</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/iroha.org][Edit]]
+
+[[file:../index.org][Home]]
+
+-----
+
+
+#+BEGIN_EXPORT html
+
+
+<script>
+function convertAndDisplay(){let e=document.getElementById("input").value,t=convertToIrohaCode(e);convertToText(t);let _=convertToText(e);document.getElementById("outputIrohaCode").innerText=`${t}`,document.getElementById("outputTranslated").innerText=`${_}`}const IrohaCodeDictionary={い:"11",ろ:"12",は:"13",に:"14",ほ:"15",へ:"16",と:"17",ち:"21",り:"22",ぬ:"23",る:"24",を:"25",わ:"26",か:"27",よ:"31",ょ:"31",た:"32",れ:"33",そ:"34",つ:"35",ね:"36",な:"37",ら:"41",む:"42",う:"43",ゐ:"44",の:"45",お:"46",く:"47",や:"51",ゃ:"51",ま:"52",け:"53",ふ:"54",こ:"55",え:"56",て:"57",あ:"61",さ:"62",き:"63",ゆ:"64",ゅ:"64",め:"65",み:"66",し:"67",ひ:"72",も:"73",せ:"74",す:"75",ん:"76",イ:"11",ロ:"12",ハ:"13",ニ:"14",ホ:"15",ヘ:"16",ト:"17",チ:"21",リ:"22",ヌ:"23",ル:"24",ヲ:"25",ワ:"26",カ:"27",ヨ:"31",ョ:"31",タ:"32",レ:"33",ソ:"34",ツ:"35",ネ:"36",ナ:"37",ラ:"41",ム:"42",ウ:"43",ヰ:"44",ノ:"45",オ:"46",ク:"47",ヤ:"51",ャ:"51",マ:"52",ケ:"53",フ:"54",コ:"55",エ:"56",テ:"57",ア:"61",サ:"62",キ:"63",ユ:"64",ュ:"64",メ:"65",ミ:"66",シ:"67",ヒ:"72",モ:"73",セ:"74",ス:"75",ン:"76",が:"27",ぎ:"63",ぐ:"47",げ:"53",ご:"55",ざ:"62",じ:"67",ず:"75",ぜ:"74",ぞ:"34",だ:"13",ぢ:"21",づ:"35",で:"57",ど:"17",ば:"13",び:"72",ぶ:"54",べ:"41",ぼ:"15",ぱ:"13",ぴ:"72",ぷ:"54",ぺ:"16",ぽ:"15",ガ:"27",ギ:"63",グ:"47",ゲ:"53",ゴ:"55",ザ:"62",ジ:"67",ズ:"75",ゼ:"74",ゾ:"34",ダ:"13",ヂ:"21",ヅ:"35",デ:"57",ド:"17",バ:"13",ビ:"72",ブ:"54",ベ:"41",ボ:"15",パ:"13",ピ:"72",プ:"54",ペ:"16",ポ:"15"};function convertToIrohaCode(e){let t=e.toUpperCase(),_="";for(let o=0;o<t.length;o++){let n=t.charAt(o);IrohaCodeDictionary[n]?_+=IrohaCodeDictionary[n]+" ":_+=n+" "}return _}function convertToText(e){let t=e.split("/"),_="";for(let o=0;o<t.length;o++){let n=t[o].split(" ");for(let r=0;r<n.length;r++){let i=Object.keys(IrohaCodeDictionary).find(e=>IrohaCodeDictionary[e]===n[r]);i?_+=i:_+=n[r]}_+=" "}return _}function copy(e){var t=document.getElementById(e).innerText;navigator.clipboard.writeText(t)}
+</script>
+
+<textarea id="input" style="background-color: #5b5b46; color: #e9e9e2; padding: 1em;"></textarea>
+<div>
+<button onclick="convertAndDisplay()">翻訳するにはこのボタンをクリックしてください！</button>
+</div>
+<br>
+<br>
+<br>
+<div>いろは信号の結果である：</div>
+<div id="outputIrohaCode" style="background-color: #16171d; color: #8ffa89; padding: 1em;"></div>
+<button onclick="copy('outputIrohaCode')">結果をコピーする！</button>
+<br>
+<br>
+<br>
+<div>本文の結果である：</div>
+<div id="outputTranslated" style="background-color: #16171d; color: #89b7fa; padding: 1em;"></div>
+<button onclick="copy('outputTranslated')">結果をコピーする！</button>
+<br>
+<br>
+<br>
+
+
+#+END_EXPORT
+
+
+* Background
+:PROPERTIES:
+:CUSTOM_ID: org43d0f84
+:END:
+
+Thank you for the highly entertaining puzzle which you sent me (and thank you for the hints).
+
+I reused the code from the [[file:./morse.org][Morse code creator]], and then I used this [[https://en.wikipedia.org/wiki/Japanese_cryptology_from_the_1500s_to_Meiji][Wikipedia page]] to create the dictionary of this program.
+
+| - | 1   | 2  | 3  | 4  | 5   | 6  | 7   |
+|---+-----+----+----+----+-----+----+-----|
+| 1 | i   | ro | ha | ni | ho  | he | to  |
+| 2 | chi | ri | nu | ru | wo  | wa | ka  |
+| 3 | yo  | ta | re | so | tsu | ne | na  |
+| 4 | ra  | mu | u  | wi | no  | o  | ku  |
+| 5 | ya  | ma | ke | fu | ko  | e  | te  |
+| 6 | a   | sa | ki | yu | me  | mi | shi |
+| 7 | we  | hi | mo | se | su  | n  |     |
