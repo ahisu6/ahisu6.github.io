@@ -34,6 +34,7 @@ Pink colour means that it is a link. For example, [[https://www.youtube.com/embe
 :END:
 
 Click the chapter which you want to study! @@html:<span class="ja">勉強したい章をクリックしてください！</span>@@
+- [[file:./iroha.org][Iroha code - いろは符号]]
 - [[file:./morse.org][Morse code - モールス符号]]
 - [[file:./learn/index.org][Learn - 学ぶ]]
 - [[file:./h/index.org][History - 病歴聴取 (h)]]
