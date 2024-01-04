@@ -19,6 +19,7 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                | Date posted |
 |------+----------------------+-------------|
+| [[file:./002.org][002]]  | [[file:./002.org::#orgf0451d9][Motor neurone lesions]] |  2024-01-04 |
 | [[file:./002.org][002]]  | [[file:./002.org::#org88d56f8][Attention Deficit Hyperactivity Disorder]] |  2023-09-30 |
 | [[file:./002.org][002]]  | [[file:./002.org::#orgdf0793e][Psychosis vs. Schizophrenia]] |  2023-09-29 |
 | [[file:./002.org][002]]  | [[file:./002.org::#org99809f1][Encephalitis]] |  2023-07-31 |
