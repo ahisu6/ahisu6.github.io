@@ -10,13 +10,6 @@
 
 -----
 
-* Winner!
-:PROPERTIES:
-:CUSTOM_ID: winner
-:END:
-
-[[file:./congratulations.org][You have always been a winner!]]
-
 * え？
 :PROPERTIES:
 :CUSTOM_ID: ehh
@@ -62,6 +55,13 @@ Click the chapter which you want to study! @@html:<span class="ja">勉強した�
 <a style="text-decoration: none;" href="https://drive.google.com/uc?export=view&amp;id=18Wk2AzGZsZXmVQ8IWdbY7-vkiYR5ae5o">花。<br>この絵は、花であるあなたを描いています。</a>
 </div>
 <div class="japt">私の目には、あなたはいつもこの花を思い出させてくれるでしょう。素敵な友人でいてくれてありがとう。</div>
+<!-- * Winner! -->
+<!-- :PROPERTIES: -->
+<!-- :CUSTOM_ID: winner -->
+<!-- :END: -->
+
+<!-- [[file:./congratulations.org][You have always been a winner!]] -->
+
 
 <!-- * Sorting tables -->
 <!-- :PROPERTIES: -->
