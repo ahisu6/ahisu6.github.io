@@ -16,9 +16,9 @@
 
 #+TOC: headlines 2
 
-* Neurological history
+* Neurology
 :PROPERTIES:
-:CUSTOM_ID: orge641bd8
+:CUSTOM_ID: orgeeaa9d8
 :END:
 
 Posted: 2024-03-06 | Updated: 2024-03-06
