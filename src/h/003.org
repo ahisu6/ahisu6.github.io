@@ -16,6 +16,58 @@
 
 #+TOC: headlines 2
 
+* Explaining things
+:PROPERTIES:
+:CUSTOM_ID: org245ca4e
+:END:
+
+Posted: 2024-03-31 | Updated: 2024-03-31
+
+When someone asks you to explain something, you need to have a template in your head which you can follow.
+
+So, here is a SPIKES template for you. This scenario talks about hypothyroidism and levothyroxine, but you can use this for every explanation:
+1. Introduce yourself, gain consent, and tell them that this chat is confidential.
+2. Take a brief history to get an idea of the patient and see what has been happening. You can ask few open questions about the symptoms that the patient has been experiencing: /Mr. Musashi, this is the first time I meet you. So, could you please tell me a little bit more about what has been happening?/
+3. Let the patient explain the symptoms.
+4. Ask about PMH/PSH, DH, FH, and SH.
+5. Now, you should do ICE. /Mr. Musashi, do you have any idea what might be causing this? Any concerns? Any expectations?/
+6. Setting: /Thank you for sharing this with me. Before we start, would you like to have anyone with you?/
+7. Setting: /Is this a good place for us to talk?/
+8. Perception: /Before we start, I would like to ask you few more questions. What do you know so far about underactive thyroid?/
+9. Let the patient tell you about what they know.
+10. Perception: /Thank you for this. And, what do you know about levothyroxine?/
+11. Let the patient tell you about what they know.
+12. Knowledge: explain underactive thyroid. /From what you have told me today, it sounds similar to something called "underactive thyroid". The thyroid is a part of your body which make hormones that help your body with energy management. In your case, your thyroid is not making a lot of these hormones. So, this is why you are feeling tired./
+13. /Is that clear so far? Do you have any questions for me? Could you repeat back to me what I have said just to make sure that I explained it clearly for you?/
+14. Give the patient some time to explain.
+15. Knowledge: explain levothyroxine. /However, there is treatment for this. There is a drug called "levothyroxine". Levothyroxine is used to raise the amount of thyroid hormones in your body. With the help of this drug, we can get your thyroid hormone levels back to normal and help reduce your symptoms./
+16. Knowledge: /Levothyroxine should be taken every morning before breakfast. This is because coffee and food can decrease the absorption. Unfortunately, your thyroid will no longer make enough thyroid hormones. So, you will need to keep taking this drug for the remainder of your life./
+17. Knowledge: /We will need to check your thyroid levels again after 6 weeks to make sure that the dose of the drug is suitable for you. Then, we will check your levels after a few months./
+18. /Is that clear so far? Do you have any questions for me? Could you repeat back to me what I have said just to make sure that I explained it clearly for you?/
+19. Give the patient some time to explain.
+20. Knowledge: /Now, when the drug dose is right for you, there are very few side effects. If the dose is too high, you would get overactive thyroid symptoms like tremor and weight loss. If the dose is too low, your current symptoms will not improve. To ensure that we determine the proper dose for you as soon as possible, we will be monitoring your thyroid levels more often in the beginning./
+21. /Is that clear so far? Do you have any questions for me? Could you repeat back to me what I have said just to make sure that I explained it clearly for you?/
+22. Give the patient some time to explain.
+23. Exploration: /What are your current thoughts about what I told you today? Any questions?/
+24. Give the patient some time to talk.
+25. /Would you like to talk to anyone else?/
+26. /Here is a leaflet which tells you more details. If your symptoms do not improve, or if they worsen, please get in touch again. Thank you./
+27. /Thank you for your time./
+
+
+So, as you can see, there is a structure:
+1. Brief history: symptoms, recent investigations, PMH/PSH, DH, FH, and SH. @@html:<span class="ja">簡単な病歴をつける：症状、最近の検査、PMH/PSH、DH、FH、SH。</span>@@
+2. ICE.
+3. Setting: ask if they want anyone to be present. Ask if they are ok to talk now. @@html:<span class="ja">誰かに同席してほしいかどうか尋ねる。今すぐ話したいかどうか尋ねる。</span>@@
+4. Perception: what does the patient know about the _disease_? AND What does the patient know about the _treatment of the disease_?  @@html:<span class="ja">患者は<em>病気</em>について何を知っているか？そして、患者はその<em>病気の治療法</em>について何を知っているか？</span>@@
+5. Knowledge of disease: explain the normal human function of the organ (for example, the normal function of the thyroid). Explain the broken function (for example, underactive thyroid). Explain the investigations that the patient had. @@html:<span class="ja">病気に関する知識：臓器の正常な機能を説明する（例えば、甲状腺の正常な機能）。壊れた機能を説明する（例えば、甲状腺機能低下）。患者が受けた検査を説明する。</span>@@
+6. Check if they understand. @@html:<span class="ja">彼らが理解しているかどうかを確認する。</span>@@
+7. Knowledge of treatment: explain the treatment. Explain how to take the treatment. Explain side effects. Explain if there is any monitoring (for example, blood tests, monitoring symptoms etc.). Explain if there are any serious side effects that the patient should pay attention to. @@html:<span class="ja">病気の治療に関する知識：治療について説明する。治療の受け方を説明する。副作用について説明する。モニタリング（例えば、血液検査、症状のモニタリングなど）の有無を説明する。患者が注意すべき重大な副作用があるかどうか説明する。</span>@@
+8. Check if they understand. @@html:<span class="ja">彼らが理解しているかどうかを確認する。</span>@@
+9. Exploration: /What are your current thoughts about what I told you today? Any questions?/ @@html:<span class="ja"><i>今日お話ししたことについて、今のお考えは？何か質問はありますか？</i></span>@@
+10. Give the patient some time to talk. @@html:<span class="ja">患者に話す時間を与える。</span>@@
+11. Strategy: explain next steps, give leaflet, and do safety netting. @@html:<span class="ja">次のステップを説明し、リーフレットを渡し、病気についてのセーフティネットを行う。</span>@@
+
 * Neurology
 :PROPERTIES:
 :CUSTOM_ID: orgeeaa9d8
