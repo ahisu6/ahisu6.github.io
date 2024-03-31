@@ -25,7 +25,7 @@ Posted: 2024-03-31 | Updated: 2024-03-31
 
 When someone asks you to explain something, you need to have a template in your head which you can follow.
 
-So, here is a SPIKES template for you. This scenario talks about hypothyroidism and levothyroxine, but you can use this for every explanation:
+So, here is a SPIKES template for you. This scenario talks about hypothyroidism and levothyroxine, but you can use this for every explanation @@html:<span class="ja">そこで、ここにSPIKESのテンプレートを用意しました。このシナリオは甲状腺機能低下症とレボチロキシンについて話していますが、どの説明にも使えます</span>@@:
 1. Introduce yourself, gain consent, and tell them that this chat is confidential.
 2. Take a brief history to get an idea of the patient and see what has been happening. You can ask few open questions about the symptoms that the patient has been experiencing: /Mr. Musashi, this is the first time I meet you. So, could you please tell me a little bit more about what has been happening?/
 3. Let the patient explain the symptoms.
