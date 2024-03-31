@@ -54,8 +54,7 @@ So, here is a SPIKES template for you. This scenario talks about hypothyroidism 
 26. /Here is a leaflet which tells you more details. If your symptoms do not improve, or if they worsen, please get in touch again. Thank you./
 27. /Thank you for your time./
 
-
-So, as you can see, there is a structure:
+So, as you can see, there is a structure @@html:<span class="ja">だから、見ての通り、構造がある</span>@@:
 1. Brief history: symptoms, recent investigations, PMH/PSH, DH, FH, and SH. @@html:<span class="ja">簡単な病歴をつける：症状、最近の検査、PMH/PSH、DH、FH、SH。</span>@@
 2. ICE.
 3. Setting: ask if they want anyone to be present. Ask if they are ok to talk now. @@html:<span class="ja">誰かに同席してほしいかどうか尋ねる。今すぐ話したいかどうか尋ねる。</span>@@
