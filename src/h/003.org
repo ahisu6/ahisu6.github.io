@@ -25,7 +25,20 @@ Posted: 2024-03-31 | Updated: 2024-03-31
 
 When someone asks you to explain something, you need to have a template in your head which you can follow.
 
-So, here is a SPIKES template for you. This scenario talks about hypothyroidism and levothyroxine, but you can use this for every explanation @@html:<span class="ja">そこで、ここにSPIKESのテンプレートを用意しました。このシナリオは甲状腺機能低下症とレボチロキシンについて話していますが、どの説明にも使えます</span>@@:
+As you can see, there is a structure @@html:<span class="ja">見ての通り、構造がある</span>@@:
+1. Brief history: symptoms, recent investigations, PMH/PSH, DH, FH, and SH. @@html:<span class="ja">簡単な病歴をつける：症状、最近の検査、PMH/PSH、DH、FH、SH。</span>@@
+2. ICE.
+3. Setting: ask if they want anyone to be present. Ask if they are ok to talk now. @@html:<span class="ja">誰かに同席してほしいかどうか尋ねる。今すぐ話したいかどうか尋ねる。</span>@@
+4. Perception: what does the patient know about the _disease_? AND What does the patient know about the _treatment of the disease_?  @@html:<span class="ja">患者は<em>病気</em>について何を知っているか？そして、患者はその<em>病気の治療法</em>について何を知っているか？</span>@@
+5. Knowledge of disease: explain the normal human function of the organ (for example, the normal function of the thyroid). Explain the broken function (for example, underactive thyroid). Explain the investigations that the patient had. @@html:<span class="ja">病気に関する知識：臓器の正常な機能を説明する（例えば、甲状腺の正常な機能）。壊れた機能を説明する（例えば、甲状腺機能低下）。患者が受けた検査を説明する。</span>@@
+6. Check if they understand. @@html:<span class="ja">彼らが理解しているかどうかを確認する。</span>@@
+7. Knowledge of treatment: explain the treatment. Explain how to take the treatment. Explain side effects. Explain if there is any monitoring (for example, blood tests, monitoring symptoms etc.). Explain if there are any serious side effects that the patient should pay attention to. @@html:<span class="ja">病気の治療に関する知識：治療について説明する。治療の受け方を説明する。副作用について説明する。モニタリング（例えば、血液検査、症状のモニタリングなど）の有無を説明する。患者が注意すべき重大な副作用があるかどうか説明する。</span>@@
+8. Check if they understand. @@html:<span class="ja">彼らが理解しているかどうかを確認する。</span>@@
+9. Exploration: /What are your current thoughts about what I told you today? Any questions?/ @@html:<span class="ja"><i>今日お話ししたことについて、今のお考えは？何か質問はありますか？</i></span>@@
+10. Give the patient some time to talk. @@html:<span class="ja">患者に話す時間を与える。</span>@@
+11. Strategy: explain next steps, give leaflet, and do safety netting. @@html:<span class="ja">次のステップを説明し、リーフレットを渡し、病気についてのセーフティネットを行う。</span>@@
+
+Here is a SPIKES template for you. This scenario talks about hypothyroidism and levothyroxine, but you can use this for every explanation @@html:<span class="ja">ここにSPIKESのテンプレートを用意しました。このシナリオは甲状腺機能低下症とレボチロキシンについて話していますが、どの説明にも使えます</span>@@:
 1. Introduce yourself, gain consent, and tell them that this chat is confidential.
 2. Take a brief history to get an idea of the patient and see what has been happening. You can ask few open questions about the symptoms that the patient has been experiencing: /Mr. Musashi, this is the first time I meet you. So, could you please tell me a little bit more about what has been happening?/
 3. Let the patient explain the symptoms.
@@ -53,19 +66,6 @@ So, here is a SPIKES template for you. This scenario talks about hypothyroidism 
 25. /Would you like to talk to anyone else?/
 26. /Here is a leaflet which tells you more details. If your symptoms do not improve, or if they worsen, please get in touch again. Thank you./
 27. /Thank you for your time./
-
-So, as you can see, there is a structure @@html:<span class="ja">だから、見ての通り、構造がある</span>@@:
-1. Brief history: symptoms, recent investigations, PMH/PSH, DH, FH, and SH. @@html:<span class="ja">簡単な病歴をつける：症状、最近の検査、PMH/PSH、DH、FH、SH。</span>@@
-2. ICE.
-3. Setting: ask if they want anyone to be present. Ask if they are ok to talk now. @@html:<span class="ja">誰かに同席してほしいかどうか尋ねる。今すぐ話したいかどうか尋ねる。</span>@@
-4. Perception: what does the patient know about the _disease_? AND What does the patient know about the _treatment of the disease_?  @@html:<span class="ja">患者は<em>病気</em>について何を知っているか？そして、患者はその<em>病気の治療法</em>について何を知っているか？</span>@@
-5. Knowledge of disease: explain the normal human function of the organ (for example, the normal function of the thyroid). Explain the broken function (for example, underactive thyroid). Explain the investigations that the patient had. @@html:<span class="ja">病気に関する知識：臓器の正常な機能を説明する（例えば、甲状腺の正常な機能）。壊れた機能を説明する（例えば、甲状腺機能低下）。患者が受けた検査を説明する。</span>@@
-6. Check if they understand. @@html:<span class="ja">彼らが理解しているかどうかを確認する。</span>@@
-7. Knowledge of treatment: explain the treatment. Explain how to take the treatment. Explain side effects. Explain if there is any monitoring (for example, blood tests, monitoring symptoms etc.). Explain if there are any serious side effects that the patient should pay attention to. @@html:<span class="ja">病気の治療に関する知識：治療について説明する。治療の受け方を説明する。副作用について説明する。モニタリング（例えば、血液検査、症状のモニタリングなど）の有無を説明する。患者が注意すべき重大な副作用があるかどうか説明する。</span>@@
-8. Check if they understand. @@html:<span class="ja">彼らが理解しているかどうかを確認する。</span>@@
-9. Exploration: /What are your current thoughts about what I told you today? Any questions?/ @@html:<span class="ja"><i>今日お話ししたことについて、今のお考えは？何か質問はありますか？</i></span>@@
-10. Give the patient some time to talk. @@html:<span class="ja">患者に話す時間を与える。</span>@@
-11. Strategy: explain next steps, give leaflet, and do safety netting. @@html:<span class="ja">次のステップを説明し、リーフレットを渡し、病気についてのセーフティネットを行う。</span>@@
 
 * Neurology
 :PROPERTIES:
