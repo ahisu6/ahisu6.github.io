@@ -28,8 +28,8 @@ When someone asks you to explain something, you need to have a template in your 
 As you can see, there is a structure @@html:<span class="ja">見ての通り、構造がある</span>@@:
 1. Brief history: symptoms, recent investigations, PMH/PSH, DH, FH, and SH. @@html:<span class="ja">簡単な病歴をつける：症状、最近の検査、PMH/PSH、DH、FH、SH。</span>@@
 2. ICE.
-3. Setting: ask if they want anyone to be present. Ask if they are ok to talk now. @@html:<span class="ja">誰かに同席してほしいかどうか尋ねる。今すぐ話したいかどうか尋ねる。</span>@@
-4. Perception: @@html:what does the patient know about the <mark><u>disease</u></mark>? AND What does the patient know about the <mark><u>treatment of the disease</u></mark>? <span class="ja">患者は<mark><u>病気</u></mark>について何を知っているか？そして、患者はその<mark><u>病気の治療法</u></mark>について何を知っているか？</span>@@
+3. Setting: ask if they want anyone to be present. Ask if they are ok to talk now. @@html:<span class="ja">舞台：誰かに同席してほしいかどうか尋ねる。今すぐ話したいかどうか尋ねる。</span>@@
+4. Perception: @@html:what does the patient know about the <mark><u>disease</u></mark>? AND What does the patient know about the <mark><u>treatment of the disease</u></mark>? <span class="ja">知覚：患者は<mark><u>病気</u></mark>について何を知っているか？そして、患者はその<mark><u>病気の治療法</u></mark>について何を知っているか？</span>@@
 5. Knowledge of disease: explain the normal human function of the organ (for example, the normal function of the thyroid). Explain the broken function (for example, underactive thyroid). Explain the investigations that the patient had. @@html:<span class="ja">病気に関する知識：臓器の正常な機能を説明する（例えば、甲状腺の正常な機能）。壊れた機能を説明する（例えば、甲状腺機能低下）。患者が受けた検査を説明する。</span>@@
 6. Check if they understand. @@html:<span class="ja">彼らが理解しているかどうかを確認する。</span>@@
 7. Knowledge of treatment: explain the treatment. Explain how to take the treatment. Explain side effects. Explain if there is any monitoring (for example, blood tests, monitoring symptoms etc.). Explain if there are any serious side effects that the patient should pay attention to. @@html:<span class="ja">病気の治療に関する知識：治療について説明する。治療の受け方を説明する。副作用について説明する。モニタリング（例えば、血液検査、症状のモニタリングなど）の有無を説明する。患者が注意すべき重大な副作用があるかどうか説明する。</span>@@
