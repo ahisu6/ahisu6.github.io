@@ -78,7 +78,7 @@ So... here is the order:
 5. Right, so you would like to talk about contraception. We can do that. Just to let you know, everything we talk about today will be completely confidential. Unless I think that there is a risk to yourself or others. Does that sound fine? @@html:<span class="ja">避妊について話したいということですね。そうしましょう。言っておきますが、今日お話しすることはすべて極秘事項です。あなた自身や他の人に危険が及ぶと私が思わない限り。よろしいですね？</span>@@
 6. Before we start, I would like to ask you few questions. Is that ok? @@html:<span class="ja">始める前に、いくつか質問をさせてください。よろしいですか？</span>@@
 7. Are you currently sexually active? If they say "yes", do brief sexual history. @@html:<span class="ja">現在、性的に活発ですか？「はい」と答えられたら、簡単な性生活歴を調べる。</span>@@
-8. Why you want contraception? @@html:<span class="ja">なぜ避妊を望むのか？</span>@@
+8. Why do you want contraception? @@html:<span class="ja">なぜ避妊を望むのか？</span>@@
 9. Are you using any type of contraception at the moment? @@html:<span class="ja">現在、何らかの避妊をしていますか？</span>@@
 10. @@html:Did you talk to your parents about this? If the patient says "no", then you can ask: <mark>May ask why? Is everything okay at home? Are your parents supportive?</mark>. If the patient is embarrased or worried, then you can say: <mark>I strongly advise you that you speak to your parents about this topic. We can arrange a consultation together. It is for your own safety and wellbeing.</mark> <span class="ja"><mark>ご両親にはこのことを話したのですか？</mark>もし、患者が「いいえ」と言ったら、あなたは尋ねることができる：<mark>なぜですか？家庭は大丈夫ですか？ご両親は協力的ですか？</mark>患者が恥ずかしがったり、心配したりしている場合は、次のように言うことができる：<mark>この話題についてご両親に相談されることを強くお勧めします。私たちは一緒に相談を手配することができます。あなた自身の安全と健康のためです。</mark></span>@@
 11. Does your boyfriend know that you are here? @@html:<span class="ja">ボーイフレンドは、あなたがここにいることを知っていますか？</span>@@
