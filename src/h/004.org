@@ -47,6 +47,7 @@ Here is how to approach PTSD history:
     3. Who was involved?
     4. What did the patient feel at the time?
     5. What happened after?
+    6. How was the patient /before/ the event?
 12. How have you been coping since the event? /Ask about:/
     1. Mood
     2. Nightmares
