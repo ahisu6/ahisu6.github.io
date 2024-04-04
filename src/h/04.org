@@ -1,0 +1,68 @@
+#+TITLE: History 004
+
+#+BEGIN_EXPORT html
+<div class="engt">History</div>
+<div class="japt">病歴聴取</div>
+<div class="engt">Page 004</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/h/004.org][Edit]]
+
+[[file:./index.org][Home]]
+
+[[file:./003.org][<< Previous page]] - [[file:./005.org][Next page >>]]
+
+-----
+
+#+TOC: headlines 2
+
+* Psychiatric history
+:PROPERTIES:
+:CUSTOM_ID: org13f6652
+:END:
+
+Posted: 2024-04-04 | Updated: 2024-04-04
+
+Psychiatric history can sometimes be long. Here are some unique cases and some tips on how to approach them. @@html:<span class="ja">精神科の病歴は時に長くなることがある。ここでは、いくつかのユニークなケースと、それに対するアプローチのヒントを紹介します。</span>@@
+
+** PTSD
+:PROPERTIES:
+:CUSTOM_ID: org279617a
+:END:
+
+Here is how to approach PTSD history:
+1. Good morning, my name is Dr. XYZ. Can I get your name and date of birth please? @@html:<span class="ja">おはようございます、私はドクターXYZと申します。あなたのお名前と生年月日をお聞かせください。</span>@@
+2. Thank you for coming today. @@html:<span class="ja">本日はご来場いただきありがとうございました。</span>@@
+3. How can I help you?
+4. /Give the patient some time to explain./ @@html:<span class="ja"><i>患者さんに説明する時間を与えてください。</i></span>@@
+5. I am really sorry to hear that you have been going through this. Just to let you know, everything we talk about today will be completely confidential. Unless I think that there is a risk to yourself or others. Does that sound fine? @@html:<span class="ja">あなたがこのような経験をされたと聞いて、本当に残念に思います。言っておきますが、今日お話しすることはすべて完全に秘密です。あなた自身や他の人に危険が及ぶと私が考えない限りは。よろしいですね？</span>@@
+6. Could you tell me a little bit more about the anxiety you have been experiencing? @@html:<span class="ja">あなたが経験してきた不安について、もう少し詳しく教えてください。</span>@@
+7. /Give the patient some time to explain./ @@html:<span class="ja"><i>患者さんに説明する時間を与えてください。</i></span>@@
+8. /If the patient has not told you the cause of the anxiety or PTSD, then you should ask about it, here is how you can do it:/ Our mental health is sometimes impacted by stressful events. Are there any similar items that you believe could be relevant to you? @@html:<span class="ja"><i>患者が不安やPTSDの原因を話してくれない場合は、その原因について尋ねる必要があります：</i> 私たちのメンタルヘルスは、ストレスフルな出来事によって影響を受けることがあります。あなたに関連すると思われる似たような項目はありますか？</span>@@
+9. /Give the patient some time to explain./ @@html:<span class="ja"><i>患者さんに説明する時間を与えてください。</i></span>@@
+10. Once again, I am really sorry to hear that you have been going through this. It must be quite difficult for you. @@html:<span class="ja">あらためて、このような経験をされたことをお聞きし、本当にお気の毒に思います。とても辛いことでしょう。</span>@@
+11. If the patient tells about the cause of the PTSD, then you should ask about the following (it is similar to a falls history, before, during, and after) @@html:<span class="ja">もし患者がPTSDの原因について話したら、次のことを尋ねるべきである（それは転倒歴に似ており、転倒前、転倒中、転倒後）</span>@@:
+    1. What happened?
+    2. When did it happen?
+    3. Who was involved?
+    4. What did the patient feel at the time?
+    5. What happened after?
+12. How have you been coping since the event? /Ask about:/
+    1. Mood
+    2. Nightmares
+    3. Flashbacks
+    4. Experiencing the symptoms again
+    5. Triggers
+    6. Avoiding specific situations
+13. /Do risk assessment. Make sure you ask about the risk to others./ @@html:<span class="ja"><i>リスクアセスメントを行う。他の人へのリスクについて必ず尋ねること。</i></span>@@
+14. Do ICE.
+15. /Do quick psychiatric review. If the patient answers "Yes" to any of these, then make sure you use DOP:/ @@html:<span class="ja"><i>簡単な精神医学的レビューを行う。患者がこれらのいずれかに「はい」と答えた場合、DOPを用いてその症状をさらに詳しく調べる</i></span>@@:
+    1. If you don't mind, let me ask you a few more questions. Some of them may not be relevant to you. But it is to help you and me. @@html:<span class="ja">もしよろしければ、もう少し質問をさせてください。そのうちのいくつかは、あなたには関係ないかもしれません。でも、それはあなたと私を助けるためです。</span>@@
+    2. Stress can sometimes cause people to see or hear things that other people don't. Has something similar ever happened to you? @@html:<span class="ja">ストレスが原因で、他の人には見えないものが見えたり聞こえたりすることがある。あなたにも似たようなことがありましたか？</span>@@
+    3. Have you had any sudden panic attacks?
+    4. Have you had any palpitations?
+    5. Have you had any sweating?
+    6. Have you had any dry mouth?
+    7. Have you had any nausea and vomiting?
+    8. Have you had any palpitations?
+16. Then, do the rest of the history (past medical, past surgical, etc.)
