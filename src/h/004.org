@@ -16,6 +16,51 @@
 
 #+TOC: headlines 2
 
+* Safeguarding
+:PROPERTIES:
+:CUSTOM_ID: org2fe6c29
+:END:
+
+Posted: 2024-04-05 | Updated: 2024-04-05
+
+There are different types of safeguarding issues. Here are 2 common ones.
+
+** Domestic abuse
+:PROPERTIES:
+:CUSTOM_ID: org5bd1491
+:END:
+
+Here is a [[https://drive.google.com/uc?export=view&id=1uofrRaUYKT1PfwJcAT0F9k9W_cvEdD9n][picture]]:
+- Do DOP.
+- @@html:Imagine a <mark>1. house (how is everything at home?)</mark> that looks like a <mark>2. baby that has a bottle in his mouth (are there any children involved?)</mark>.@@
+- @@html:Inside the house, there is a <mark>3. work office (how is everything at work?)</mark> which has a large <mark>4. Dad library of books (are there any friends or family that are supporting you?)</mark>.@@
+- @@html:Under the office desk, there is a <mark>5. broken bottle of alcohol (are there any drugs/alcohol involved?)</mark> which was used to commit a <mark>6. violent crime (is there any physical violence?)</mark> against someone.@@
+- @@html:The alcohol bottle was <mark>7. Vodka called "Burger" (what type of violence? Do DOP!)</mark>, this is the best brand in the country. It looked odd, and it has a <mark>8. weird colourful pattern (remember to do DOP if the patient mentions violence!)</mark>. Maybe you should not drink that@@
+- @@html:Instead of drinking alcohol, you should go out in the <mark>9. peaceful garden to cope with your stresses (how is the patient coping?)</mark>, and to <mark>10. cool down using the large ice-cube (do ICE!) in the centre</mark>.@@
+- @@html:<i>This next part is about advice to give to patient.</i> After you sit in the garden, go <mark>11. and 12. pack your bag with your phone (have an emergency bag with a phone that has credit and charge)</mark>, <mark>13. a picture (if it is safe, try to take pictures/videos)</mark> of the crime scene. Then, <mark>14. hand this evidence to the police (seek support from the police and other services)</mark>.@@
+
+** Non-accidental injury
+:PROPERTIES:
+:CUSTOM_ID: org851894f
+:END:
+
+The non-accidental injury history is very similar to the falls history:
+- Before: what happened? How did it happen? Where did happen?
+- During: Did anyone witness it?
+- After: what happened after? Why did you wait 10 hours to come? How does the bruise look like? Has this happened before? How is the baby doing now?
+- Do ICE.
+- Now, ask the parent: when you heard about the injury, how did you feel?
+- Then, you should do the rest of the history: systems review (behaviour, eating, bowels, urine), PMH, PSH, etc.
+- For social history, ask about: who lives with the baby? Who looks after the child? Any new partner? Any other siblings?
+
+For recommendation, you should do:
+- X-ray
+- Examination
+- Involve social services and workers
+- Inform safeguarding team and supervisor
+- Skeletal survey
+- Coagulation profile
+
 * Psychiatric history
 :PROPERTIES:
 :CUSTOM_ID: org13f6652
