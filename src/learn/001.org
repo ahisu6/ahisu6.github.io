@@ -14,6 +14,28 @@
 
 #+TOC: headlines 2
 
+* Improve your history-taking
+:PROPERTIES:
+:CUSTOM_ID: orgefe5ea2
+:END:
+
+Posted: 2024-04-07 | Updated: 2024-04-07
+
+Sometimes, you want to practise your history-taking skills. But, unfortunately, you do not have someone to practice with. @@html:<span class="ja">時には、病歴聴取スキルを練習したいと思うこともあるだろう。しかし、残念ながら練習相手がいない。</span>@@
+
+What should you do? @@html:<span class="ja">どうするべきか？</span>@@
+
+Well, here is a tip for you @@html:<span class="ja">さて、ここでヒントをあげよう</span>@@:
+1. Pick a clinical presentation to learn. @@html:<span class="ja">臨床症状を選んで学ぶ。</span>@@
+2. Set yourself a 2-minute timer. @@html:<span class="ja">2分間のタイマーをセットする。</span>@@
+3. Then, try to write down on a piece of paper as many questions as you can. For example, let's say you want to ask questions about fatigue. @@html:<span class="ja">そして、できるだけ多くの質問を紙に書き出してみよう。例えば、疲労について質問したいとしよう。</span>@@
+4. So, now you need to remember the story or the questions for the fatigue. @@html:<span class="ja">だから今、あなたは疲労のためのストーリーや質問を覚えておく必要がある。</span>@@
+5. Write it all down before the 2-minute timer runs out. @@html:<span class="ja">2分間のタイマーが切れる前に、すべてを書き留める。</span>@@
+6. After the timer runs out, set a 5-minute timer. @@html:<span class="ja">タイマーが切れたら、5分間のタイマーをセットする。</span>@@
+7. Now, you need to go through the list of questions, and try to think of what to ask of the patient answered "yes" to any of them. @@html:<span class="ja">さて、質問リストに目を通し、どれかに「はい」と答えた患者に何を尋ねるべきか考えてみる必要がある。</span>@@
+8. After the second timer runs out, compare your answers with the textbook. @@html:<span class="ja">2回目のタイマーが終わったら、教科書と自分の答えを比較する。</span>@@
+9. Repeat this process every 2 days. @@html:<span class="ja">この作業を2日ごとに繰り返す。</span>@@
+
 * Foundation Programme
 :PROPERTIES:
 :CUSTOM_ID: org57c99b0
