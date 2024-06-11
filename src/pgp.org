@@ -9,7 +9,7 @@
 [[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/pgp.org][Edit]]
 
 
-[[file:../index.org][Home]]
+[[file:./index.org][Home]]
 
 -----
 
