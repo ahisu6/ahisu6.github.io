@@ -275,7 +275,7 @@ document.getElementById('fingerprint-result').innerHTML = `何かが間違って
 
 <p>
 <input type="checkbox" id="sign-message">
-<span for="sign-message">あなたのＰＲＩＶＡＴＥキーでメッセージに署名しますか？</span>
+<label for="sign-message">あなたのＰＲＩＶＡＴＥキーでメッセージに署名しますか？</label>
 </p>
 
 <div id="hide-sign">
