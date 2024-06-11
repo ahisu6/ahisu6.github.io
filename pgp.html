@@ -31,6 +31,24 @@
 <script src="https://ahisu6.github.io/assets/js/openpgp.min.js"></script>
 
 <script>
+
+
+function saveKey(elementId) {
+const textToSave = document.getElementById(elementId).innerText;
+const blob = new Blob([textToSave], { type: 'text/plain' });
+const link = document.createElement('a');
+link.href = URL.createObjectURL(blob);
+link.download = `${elementId}.txt`;
+document.body.appendChild(link);
+link.click();
+document.body.removeChild(link);
+}
+
+function copy(e) {
+const t = document.getElementById(e).innerText;
+navigator.clipboard.writeText(t);
+}
+
 document.addEventListener('DOMContentLoaded', () => {
 const generateKeysButton = document.getElementById('generate-keys');
 const encryptMessageButton = document.getElementById('encrypt-message');
@@ -128,22 +146,6 @@ dhYRSU+6uqSj9H9rnL96WHnVcfAQiEIXe2T9OzOm2ApTcrrCQSygJMwd7zdV1l1d
 
 publicKeyTextArea.value = myPublicPGP;
 publicKeyVerifyArea.value = myPublicPGP;
-
-function saveKey(elementId) {
-const textToSave = document.getElementById(elementId).innerText;
-const blob = new Blob([textToSave], { type: 'text/plain' });
-const link = document.createElement('a');
-link.href = URL.createObjectURL(blob);
-link.download = `${elementId}.txt`;
-document.body.appendChild(link);
-link.click();
-document.body.removeChild(link);
-}
-
-function copy(e) {
-const t = document.getElementById(e).innerText;
-navigator.clipboard.writeText(t);
-}
 
 function toggleVisibility(checkboxId, elementId) {
 const checkbox = document.getElementById(checkboxId);
