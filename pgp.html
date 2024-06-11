@@ -180,12 +180,8 @@ passphrase
 
 const { privateKey, publicKey } = await openpgp.generateKey(options);
 
-document.getElementById('generated-public-key').textContent = `ＰＵＢＬＩＣキー（これを私に送ってください）：\n${publicKey}`;
-document.getElementById('generated-private-key').textContent = `ＰＲＩＶＡＴＥトキー（この鍵は誰にも送らないで
-ください。この鍵は秘密です。これを極めて安全か
-つ厳重に保管すること！もし誰かがこの鍵を盗めば
-、私たちの秘密のメッセージをすべて読むことがで
-きる！）：\n${privateKey}`;
+document.getElementById('generated-public-key').textContent = `${publicKey}`;
+document.getElementById('generated-private-key').textContent = `${privateKey}`;
 } catch (error) {
 document.getElementById('generated-public-key').innerHTML = `何かが間違っていた。修正しますので、エラーを送ってください。<br>${error.message}`;
 }
@@ -368,6 +364,15 @@ document.getElementById('fingerprint-result').innerHTML = `何かが間違って
 
 <button style="flex: 1; background-color: #e60000; color: white; font-size: 20px; margin: 50px; padding: 5px;" onclick="saveKey('generated-private-key')">あなたのＰＲＩＶＡＴＥキーをテキストファイルとしてコンピュータに保存します。</button><br>
 <button style="flex: 1; background-color: #4d6600; color: white; font-size: 20px; margin: 50px; padding: 5px;" onclick="saveKey('generated-public-key')">あなたのＰＵＢＬＩＣキーをテキストファイルとしてコンピュータに保存します。</button><br>
+
+<div style="display: flex;">
+<pre style="flex: 1; margin: 10px; padding: 10px;">ＰＵＢＬＩＣキー（これを私に送ってください）：</pre>
+<pre style="flex: 1; margin: 10px; padding: 10px;">ＰＲＩＶＡＴＥトキー（この鍵は誰にも送らないで
+ください。この鍵は秘密です。これを極めて安全か
+つ厳重に保管すること！もし誰かがこの鍵を盗めば
+、私たちの秘密のメッセージをすべて読むことがで
+きる！）：</pre>
+</div>
 
 <div style="display: flex;">
 <pre style="flex: 1; margin: 10px; padding: 10px;" id="generated-public-key"></pre>
