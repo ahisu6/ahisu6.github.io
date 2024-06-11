@@ -180,7 +180,7 @@ passphrase
 
 const { privateKey, publicKey } = await openpgp.generateKey(options);
 
-document.getElementById('generated-public-key').textContent = `ＰＵＢＬＩＣキー（これを私に送ってください。）：\n${publicKey}`;
+document.getElementById('generated-public-key').textContent = `ＰＵＢＬＩＣキー（これを私に送ってください）：\n${publicKey}`;
 document.getElementById('generated-private-key').textContent = `ＰＲＩＶＡＴＥトキー（この鍵は誰にも送らないで
 ください。この鍵は秘密です。これを極めて安全か
 つ厳重に保管すること！もし誰かがこの鍵を盗めば
