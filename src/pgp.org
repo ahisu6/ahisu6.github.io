@@ -170,9 +170,11 @@ passphrase
 const { privateKey, publicKey } = await openpgp.generateKey(options);
 
 document.getElementById('generated-public-key').textContent = `ＰＵＢＬＩＣキー（これを私に送ってください。）：\n${publicKey}`;
-document.getElementById('generated-private-key').textContent = `ＰＲＩＶＡＴＥトキー（これを極めて安全かつ厳重
-に保管すること！もし誰かがこの鍵を盗めば、私たちの秘密のメッセージをすべ
-て読むことができる！）:\n${privateKey}`;
+document.getElementById('generated-private-key').textContent = `ＰＲＩＶＡＴＥトキー（この鍵は誰にも送らないで
+ください。この鍵は秘密です。これを極めて安全か
+つ厳重に保管すること！もし誰かがこの鍵を盗めば
+、私たちの秘密のメッセージをすべて読むことがで
+きる！）：\n${privateKey}`;
 } catch (error) {
 document.getElementById('generated-public-key').innerHTML = `何かが間違っていた。修正しますので、エラーを送ってください。<br>${error.message}`;
 }
