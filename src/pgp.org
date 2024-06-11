@@ -289,7 +289,7 @@ document.getElementById('fingerprint-result').innerHTML = `何かが間違って
 
 <label for="message-to-encrypt">メッセージ：</label>
 <textarea id="message-to-encrypt" rows="5" placeholder="暗号化したいメッセージを書く。"></textarea>
-<button id="encrypt-message">クリックして暗号化する。</button>
+<button id="encrypt-message">クリックして暗号化する</button>
 <button class="copy" onclick="copy('encrypted-message')">結果をコピーする！</button>
 <pre id="encrypted-message"></pre>
 </section>
@@ -318,7 +318,7 @@ document.getElementById('fingerprint-result').innerHTML = `何かが間違って
 <label for="public-key-verify">私のＰＵＢＬＩＣキー（これを修正する必要はない。私がすでに記入しておいたから！）：</label>
 <textarea class="optional" id="public-key-verify" rows="5" placeholder="私のＰＵＢＬＩＣキーを入力してください。"></textarea>
 </div>
-<button id="decrypt-message">クリックして復号化する。</button>
+<button id="decrypt-message">クリックして復号化する</button>
 <button class="copy" onclick="copy('decrypted-message')">結果をコピーする！</button>
 <pre id="decrypted-message"></pre>
 <pre id="signature-status"></pre>
@@ -351,9 +351,9 @@ document.getElementById('fingerprint-result').innerHTML = `何かが間違って
 <input type="text" id="name" placeholder="お名前をご記入ください（本名である必要はありません）。">
 <label for="passphrase">パスワード（このパスワードを忘れると、私のメッセージを読むことができなくなります！）：</label>
 <input type="password" id="passphrase" placeholder="パスフレーズを入力する。忘れないようにしてください！">
-<button id="generate-keys">キーを生成する。</button><br>
-<button style="flex: 1; margin: 10px; padding: 10px;" class="copy" onclick="copy('generated-public-key')">ＰＵＢＬＩＣキーをコピーする。</button>
-<button style="flex: 1; margin: 10px; padding: 10px; position: absolute; left:55%;" class="copy" onclick="copy('generated-private-key')">ＰＲＩＶＡＴＥキーをコピーする。</button><br>
+<button id="generate-keys">キーを生成する</button><br>
+<button style="flex: 1; margin: 10px; padding: 10px;" class="copy" onclick="copy('generated-public-key')">ＰＵＢＬＩＣキーをコピーする</button>
+<button style="flex: 1; margin: 10px; padding: 10px; position: absolute; left:55%;" class="copy" onclick="copy('generated-private-key')">ＰＲＩＶＡＴＥキーをコピーする</button><br>
 
 <button style="flex: 1; background-color: #e60000; color: white; font-size: 20px; margin: 50px; padding: 5px;" onclick="saveKey('generated-private-key')">あなたのＰＲＩＶＡＴＥキーをテキストファイルとしてコンピュータに保存します。</button><br>
 <button style="flex: 1; background-color: #4d6600; color: white; font-size: 20px; margin: 50px; padding: 5px;" onclick="saveKey('generated-public-key')">あなたのＰＵＢＬＩＣキーをテキストファイルとしてコンピュータに保存します。</button><br>
