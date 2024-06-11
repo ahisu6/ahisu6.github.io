@@ -299,7 +299,7 @@ document.getElementById('fingerprint-result').innerHTML = `何かが間違って
 
 <p><hr></p>
 <section id="decryption">
-<h2>メッセージの解読と検証。</h2>
+<h2>メッセージの解読と検証</h2>
 <label for="private-key">あなたのＰＲＩＶＡＴＥキー：</label>
 <textarea id="private-key" rows="5" placeholder="あなたのＰＲＩＶＡＴＥキーを入力します。"></textarea>
 <label for="decrypt-passphrase">パスワード：</label>
