@@ -44,7 +44,6 @@ Click the chapter which you want to study! @@html:<span class="ja">勉強した�
 - [[file:./rh/index.org][Rheumatology - リウマチ学 (rh)]]
 - [[file:./o/index.org][Oncology - 腫瘍学 (o)]]
 
-
 * 花
 :PROPERTIES:
 :CUSTOM_ID: flower
