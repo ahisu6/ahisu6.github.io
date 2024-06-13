@@ -330,8 +330,8 @@ document.getElementById('fingerprint-result').innerHTML = `何かが間違って
 
 <section id="encryption">
 <h2>メッセージの暗号化と署名</h2>
-<!-- <label for="public-key">私のＰＵＢＬＩＣキー（これを修正する必要はない。私がすでに記入しておいたから！）：</label> -->
-<!-- <textarea id="public-key" rows="5" placeholder="私のＰＵＢＬＩＣキーをここに入れてください。"></textarea> -->
+<label for="public-key">私のＰＵＢＬＩＣキー（これを修正する必要はない。私がすでに記入しておいたから！）：</label>
+<textarea id="public-key" rows="5" placeholder="私のＰＵＢＬＩＣキーをここに入れてください。"></textarea>
 
 <p>
 <input type="checkbox" id="sign-message">
@@ -373,8 +373,8 @@ document.getElementById('fingerprint-result').innerHTML = `何かが間違って
 </p>
 
 <div id="hide-verify">
-<!-- <label for="public-key-verify">私のＰＵＢＬＩＣキー（これを修正する必要はない。私がすでに記入しておいたから！）：</label> -->
-<!-- <textarea class="optional" id="public-key-verify" rows="5" placeholder="私のＰＵＢＬＩＣキーを入力してください。"></textarea> -->
+<label for="public-key-verify">私のＰＵＢＬＩＣキー（これを修正する必要はない。私がすでに記入しておいたから！）：</label>
+<textarea class="optional" id="public-key-verify" rows="5" placeholder="私のＰＵＢＬＩＣキーを入力してください。"></textarea>
 </div>
 <button id="decrypt-message">クリックして復号化する</button>
 <button class="copy" onclick="copy('decrypted-message')">結果をコピーする！</button>
