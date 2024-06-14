@@ -1,0 +1,403 @@
+#+TITLE: File encryption
+#+HTML_HEAD: <style type="text/css"> body {background: #0D0D0D;color: #ffffff;margin: 0;padding: 0;} .container {width: 50%;margin: auto;overflow: hidden;} h2 { background-color: #f3f3e3; color: #152515; text-align: center;} .engt { color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 1.5em; text-align: center;} .japt { color: #89b7fa; background-color: transparent; font-weight: bolder; font-size: 2em; text-align: center;} section {margin: 10px 0;padding: 10px;border-radius: 3px;} #encryption {background: #800080;} #decryption {background: #006633;} label {display: block;margin-top: 7px;} .optional {background: darkgrey;} input:not(#verifyCheckbox):not(#signCheckbox), textarea {width: 100%;padding: 5px;margin-top: 3px;margin-bottom: 10px;border-radius: 3px;box-sizing: border-box;}label {display: inline;} button {display: inline-block;padding: 13px 20px;font-size: 20px;text-align: center;color: #305869;background-color: #cbdee7;border-radius: 15px;}button.copy {font-size: 15px;padding: 7px 15px;border-radius: 25px; margin: 0 2px;}button:hover {background-color: #ffff1a}pre {background: #16171d;padding: 5px;border-radius: 3px;overflow: auto;font-size: 14px;color: #8ffa89;}@media (max-width: 500px) { }</style>
+
+#+BEGIN_EXPORT html
+<div class="engt">File encryption</div>
+<div class="japt">ファイルの暗号化</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/pgp.org][Edit]]
+
+
+[[file:../index.org][Home]]
+[[file:./text.org][<< Text]]
+
+-----
+
+#+BEGIN_EXPORT html
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>File Encryption with OpenPGP.js</title>
+
+
+<script src="https://ahisu6.github.io/assets/js/openpgp.min.js"></script>
+<script>
+
+function copy(id1, id2 = null) {
+const text1 = document.getElementById(id1).innerText;
+const text2 = id2 ? document.getElementById(id2).innerText : '';
+const combinedText = text1 + (text2 ? "\n\n" + text2 : '');
+navigator.clipboard.writeText(combinedText);
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+
+
+const myPublicPGP = `-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=+zm1
+-----END PGP PUBLIC KEY BLOCK-----`;
+
+
+
+
+
+
+const yourPublicPGP = `-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+bJ/tlPyQJtSnoRH9iyQ=
+=+IqY
+-----END PGP PUBLIC KEY BLOCK-----`;
+
+
+
+const errorDisplay = document.getElementById('errorDisplay');
+const copyButton = document.querySelector('.copy');
+
+function updateButtonVisibility() {
+    if (errorDisplay.textContent.trim() !== "") {
+        copyButton.style.display = 'inline-block';
+    } else {
+        copyButton.style.display = 'none';
+    }
+}
+
+// Call the function initially to set the correct visibility when the page loads
+updateButtonVisibility();
+
+// Optionally, if the content of the pre element can change dynamically, observe those changes
+const observer = new MutationObserver(updateButtonVisibility);
+observer.observe(errorDisplay, { childList: true, subtree: true, characterData: true });
+
+
+
+
+
+    const toggleDisplay = (element, condition) => {
+        element.style.display = condition ? 'block' : 'none';
+    };
+
+    const toggleSignOptions = () => toggleDisplay(document.getElementById('signOptions'), document.getElementById('signCheckbox').checked);
+    const checkVerifyOptions = () => {
+        const verifyCheckbox = document.getElementById('verifyCheckbox');
+        toggleDisplay(document.getElementById('verifyOptions'), verifyCheckbox.checked);
+        toggleDisplay(document.getElementById('verifyPublicKey'), verifyCheckbox.checked);
+    };
+
+    const readFileAsUint8Array = file => new Promise((resolve, reject) => {
+        const reader = new FileReader();
+        reader.onload = () => resolve(new Uint8Array(reader.result));
+        reader.onerror = reject;
+        reader.readAsArrayBuffer(file);
+    });
+
+    const getKey = async (armoredKey, type = 'public') => {
+        return type === 'public' ? openpgp.readKey({ armoredKey }) : openpgp.readPrivateKey({ armoredKey });
+    };
+
+    const getDecryptedKey = async (armoredKey, passphrase) => {
+        return openpgp.decryptKey({
+            privateKey: await getKey(armoredKey, 'private'),
+            passphrase
+        });
+    };
+
+    const createDownloadLink = (blob, fileName) => {
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = fileName;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+    };
+
+    const displayError = (message) => {
+        const errorElement = document.getElementById('errorDisplay');
+        errorElement.textContent = `you've encountered an error: ${message}`;
+    };
+
+    const encryptFile = async () => {
+        try {
+            const fileInput = document.getElementById('fileInput');
+            if (!fileInput.files.length) return alert('Please select a file first.');
+
+            const file = fileInput.files[0];
+            const fileUint8Array = await readFileAsUint8Array(file);
+            const publicKeys = await Promise.all([myPublicPGP, yourPublicPGP].map(key => getKey(key)));
+
+            let privateKey = null;
+            if (document.getElementById('signCheckbox').checked) {
+                privateKey = await getDecryptedKey(document.getElementById('privateKey').value, document.getElementById('passphrase').value);
+            }
+
+            const encrypted = await openpgp.encrypt({
+                message: await openpgp.createMessage({ binary: fileUint8Array }),
+                encryptionKeys: publicKeys,
+                signingKeys: privateKey ? [privateKey] : undefined
+            });
+
+            createDownloadLink(new Blob([encrypted], { type: 'application/pgp-encrypted' }), `${file.name}.asc`);
+        } catch (error) {
+            displayError(error.message);
+        }
+    };
+
+    const decryptFile = async () => {
+        try {
+            const ascFileInput = document.getElementById('ascFileInput');
+            if (!ascFileInput.files.length) return alert('Please select a .asc file first.');
+
+            const fileText = await ascFileInput.files[0].text();
+            const privateKey = await getDecryptedKey(document.getElementById('decryptPrivateKey').value, document.getElementById('decryptPassphrase').value);
+            const message = await openpgp.readMessage({ armoredMessage: fileText });
+
+            let publicKey = null;
+            if (document.getElementById('verifyCheckbox').checked) {
+                publicKey = await getKey(document.getElementById('verifyPublicKey').value);
+            }
+
+            const { data: decrypted, signatures } = await openpgp.decrypt({
+                message,
+                decryptionKeys: privateKey,
+                verificationKeys: publicKey ? [publicKey] : undefined,
+                format: 'binary'
+            });
+
+            if (publicKey) {
+                const verified = await signatures[0].verified;
+                document.getElementById('signature-status').textContent = verified ? 'Signature is valid.' : 'Signature could not be verified.';
+            }
+
+            const mimeType = getMimeType(decrypted);
+            const extension = prompt(`Suggested file extension is .${getExtensionFromMimeType(mimeType)}. Enter a different extension if you prefer:`, getExtensionFromMimeType(mimeType)) || getExtensionFromMimeType(mimeType);
+            const fileName = prompt('Enter a name for the decrypted file:', `decrypted.${extension}`) || `decrypted.${extension}`;
+
+            createDownloadLink(new Blob([decrypted], { type: mimeType }), fileName);
+        } catch (error) {
+            displayError(error.message);
+        }
+    };
+
+    const getMimeType = data => {
+        const mimeHeaders = {
+            'ffd8ff': 'image/jpeg',
+            '89504e47': 'image/png',
+            '25504446': 'application/pdf',
+            '504b0304': 'application/zip',
+            '00000018': 'video/mp4',
+            '00000020': 'video/mp4',
+            '494433': 'audio/mpeg',
+            'fff1': 'audio/aac',
+            'fff9': 'audio/aac',
+            '52494646': 'audio/wav'
+        };
+
+        const hex = Array.from(new Uint8Array(data.slice(0, 4))).map(b => b.toString(16).padStart(2, '0')).join('');
+        return mimeHeaders[hex] || 'application/octet-stream';
+    };
+
+    const getExtensionFromMimeType = mimeType => ({
+        'text/plain': 'txt',
+        'application/pdf': 'pdf',
+        'image/jpeg': 'jpg',
+        'image/png': 'png',
+        'application/zip': 'zip',
+        'video/mp4': 'mp4',
+        'audio/mpeg': 'mp3',
+        'audio/aac': 'aac',
+        'audio/wav': 'wav',
+        'audio/mp4': 'm4a'
+    }[mimeType] || 'bin');
+
+    document.getElementById('encryptButton').addEventListener('click', encryptFile);
+    document.getElementById('decryptButton').addEventListener('click', decryptFile);
+    document.getElementById('signCheckbox').addEventListener('change', toggleSignOptions);
+    document.getElementById('verifyCheckbox').addEventListener('change', checkVerifyOptions);
+
+    checkVerifyOptions();
+    toggleSignOptions();
+
+});
+
+
+
+
+
+</script>
+</head>
+<body>
+<div class="container">
+
+<pre id="errorDisplay"></pre>
+<button class="copy" style="display: none;" onclick="copy('errorDisplay')">Copy error</button>
+
+<section id="encryption">
+<h1>Encrypt a File with OpenPGP.js</h1>
+<input type="file" id="fileInput" />
+<br>
+<input type="checkbox" id="signCheckbox">
+<label for="signCheckbox">Sign the encryption</label>
+<br>
+<div id="signOptions" style="display: none;">
+<textarea class="optional" id="privateKey" placeholder="Enter your private key"></textarea>
+<br>
+<input class="optional" type="password" id="passphrase" placeholder="Enter your passphrase">
+</div>
+<br>
+<button id="encryptButton">Encrypt File</button>
+</section>
+
+<section id="decryption">
+<h1>Decrypt a File with OpenPGP.js</h1>
+<input type="file" id="ascFileInput" />
+<br>
+<textarea id="decryptPrivateKey" placeholder="Enter your private key"></textarea>
+<br>
+<input type="password" id="decryptPassphrase" placeholder="Enter your passphrase">
+<br>
+<p>
+<input class="optional" type="checkbox" id="verifyCheckbox" checked>
+<label for="verifyCheckbox">Verify the signature</label>
+</p>
+<br>
+<div id="verifyOptions" style="display: none;">
+<textarea class="optional" id="verifyPublicKey" placeholder="Enter the public key for verification"></textarea>
+</div>
+<br>
+<button id="decryptButton">Decrypt File</button>
+<pre id="signature-status"></pre>
+</section>
+</div>
+</body>
+
+#+END_EXPORT
