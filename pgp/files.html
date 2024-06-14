@@ -319,36 +319,41 @@ observer.observe(errorDisplay, { childList: true, subtree: true, characterData: 
         }
     };
 
-    const getMimeType = data => {
-        const mimeHeaders = {
-            'ffd8ff': 'image/jpeg',
-            '89504e47': 'image/png',
-            '25504446': 'application/pdf',
-            '504b0304': 'application/zip',
-            '00000018': 'video/mp4',
-            '00000020': 'video/mp4',
-            '494433': 'audio/mpeg',
-            'fff1': 'audio/aac',
-            'fff9': 'audio/aac',
-            '52494646': 'audio/wav'
-        };
-
-        const hex = Array.from(new Uint8Array(data.slice(0, 4))).map(b => b.toString(16).padStart(2, '0')).join('');
-        return mimeHeaders[hex] || 'application/octet-stream';
+const getMimeType = data => {
+    const mimeHeaders = {
+        'ffd8ff': 'image/jpeg',
+        'ffd8ffe0': 'image/jpeg',
+        'ffd8ffe1': 'image/jpeg',
+        'ffd8ffe2': 'image/jpeg',
+        'ffd8ffe3': 'image/jpeg',
+        'ffd8ffe8': 'image/jpeg',
+        '89504e47': 'image/png',
+        '25504446': 'application/pdf',
+        '504b0304': 'application/zip',
+        '00000018': 'video/mp4',
+        '00000020': 'video/mp4',
+        '494433': 'audio/mpeg',
+        'fff1': 'audio/aac',
+        'fff9': 'audio/aac',
+        '52494646': 'audio/wav'
     };
 
-    const getExtensionFromMimeType = mimeType => ({
-        'text/plain': 'txt',
-        'application/pdf': 'pdf',
-        'image/jpeg': 'jpg',
-        'image/png': 'png',
-        'application/zip': 'zip',
-        'video/mp4': 'mp4',
-        'audio/mpeg': 'mp3',
-        'audio/aac': 'aac',
-        'audio/wav': 'wav',
-        'audio/mp4': 'm4a'
-    }[mimeType] || 'bin');
+    const hex = Array.from(new Uint8Array(data.slice(0, 4))).map(b => b.toString(16).padStart(2, '0')).join('');
+    return mimeHeaders[hex] || 'application/octet-stream';
+};
+
+const getExtensionFromMimeType = mimeType => ({
+    'text/plain': 'txt',
+    'application/pdf': 'pdf',
+    'image/jpeg': 'jpg',
+    'image/png': 'png',
+    'application/zip': 'zip',
+    'video/mp4': 'mp4',
+    'audio/mpeg': 'mp3',
+    'audio/aac': 'aac',
+    'audio/wav': 'wav',
+    'audio/mp4': 'm4a'
+}[mimeType] || 'bin');
 
     document.getElementById('encryptButton').addEventListener('click', encryptFile);
     document.getElementById('decryptButton').addEventListener('click', decryptFile);
