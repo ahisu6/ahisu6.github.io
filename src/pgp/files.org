@@ -118,7 +118,8 @@ CE29LcbiDiky+me0ye+K7gOppLVUkD8KxsvOXZYoKle5LqXB08LrbVUnGDIIieE=
 =+zm1
 -----END PGP PUBLIC KEY BLOCK-----`;
 
-
+const publicKeyVerifyArea = document.getElementById('verifyPublicKey');
+publicKeyVerifyArea.value = myPublicPGP;
 
 
 
