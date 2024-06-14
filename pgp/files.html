@@ -306,12 +306,12 @@ observer.observe(errorDisplay, { childList: true, subtree: true, characterData: 
 
             if (publicKey) {
                 const verified = await signatures[0].verified;
-                document.getElementById('signature-status').textContent = verified ? 'Signature is valid.' : 'Signature could not be verified.';
+                document.getElementById('signature-status').textContent = verified ? 'った！署名は有効です。これは本当に私です！' : '署名が無効です。これは私ではありません。注意してください、誰かが私になりすましているかもしれません！';
             }
 
             const mimeType = getMimeType(decrypted);
-            const extension = prompt(`Suggested file extension is .${getExtensionFromMimeType(mimeType)}. Enter a different extension if you prefer:`, getExtensionFromMimeType(mimeType)) || getExtensionFromMimeType(mimeType);
-            const fileName = prompt('Enter a name for the decrypted file:', `decrypted.${extension}`) || `decrypted.${extension}`;
+            const extension = prompt(`推奨されるファイル拡張子は「.${getExtensionFromMimeType(mimeType)}」。お望みなら、どんな拡張子でも書くことができる：`, getExtensionFromMimeType(mimeType)) || getExtensionFromMimeType(mimeType);
+            const fileName = prompt('復号化したファイルの名前を入力します：', `decrypted.${extension}`) || `decrypted.${extension}`;
 
             createDownloadLink(new Blob([decrypted], { type: mimeType }), fileName);
         } catch (error) {
