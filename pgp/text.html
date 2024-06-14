@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Pretty Good Privacy</title>
+<meta name="generator" content="Org mode" />
+<style type="text/css">body {background: #0D0D0D;color: #ffffff;margin: 0;padding: 0;}.container {width: 50%;margin: auto;overflow: hidden;}h2 { background-color: #f3f3e3; color: #152515; text-align: center;}.engt { color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 1.5em; text-align: center;}.japt { color: #89b7fa; background-color: transparent; font-weight: bolder; font-size: 2em; text-align: center;}section {margin: 10px 0;padding: 10px;border-radius: 3px;}#key-generation {background: #3b3380;}#encryption {background: #004080;}#decryption {background: #831628;}#fingerprint {background: #004d2a;}label {display: block;margin-top: 7px;}.optional {background: darkgrey;}input:not(#verify-signature):not(#sign-message), textarea {width: 100%;padding: 5px;margin-top: 3px;margin-bottom: 10px;border-radius: 3px;box-sizing: border-box;}label {display: inline;}button {display: inline-block;padding: 13px 20px;font-size: 20px;text-align: center;color: #305869;background-color: #cbdee7;border-radius: 15px;}button.copy {font-size: 15px;border-radius: 25px; margin: 0 10px;}button:hover {background-color: #ffff1a}pre {background: #16171d;padding: 5px;border-radius: 3px;overflow: auto;font-size: 14px;color: #8ffa89;}@media (max-width: 500px) { }</style>
+</head>
+<body>
+<div id="content">
+<div class="engt">Pretty Good Privacy</div>
+<div class="japt">プリティ・グッド・プライバシー</div>
+
+<p>
+<a href="https://github.com/ahisu6/ahisu6.github.io/edit/main/src/pgp.org">Edit</a>
+</p>
+
+
+<p>
+<a href="./index.html">Home</a>
+</p>
+
+<hr />
+
+
+<head>
+
+<script src="https://ahisu6.github.io/assets/js/openpgp.min.js"></script>
+
+<script>
+
+
+function saveKey(elementId) {
+const textToSave = document.getElementById(elementId).innerText;
+const blob = new Blob([textToSave], { type: 'text/plain' });
+const link = document.createElement('a');
+link.href = URL.createObjectURL(blob);
+link.download = `${elementId}.txt`;
+document.body.appendChild(link);
+link.click();
+document.body.removeChild(link);
+}
+
+function copy(id1, id2 = null) {
+const text1 = document.getElementById(id1).innerText;
+const text2 = id2 ? document.getElementById(id2).innerText : '';
+const combinedText = text1 + (text2 ? "\n\n" + text2 : '');
+navigator.clipboard.writeText(combinedText);
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+const generateKeysButton = document.getElementById('generate-keys');
+const encryptMessageButton = document.getElementById('encrypt-message');
+const decryptMessageButton = document.getElementById('decrypt-message');
+const findFingerprintButton = document.getElementById('find-fingerprint');
+const publicKeyTextArea = document.getElementById('public-key');
+const publicKeyVerifyArea = document.getElementById('public-key-verify');
+
+const myPublicPGP = `-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=+zm1
+-----END PGP PUBLIC KEY BLOCK-----`;
+
+
+
+
+
+
+const yourPublicPGP = `-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+bJ/tlPyQJtSnoRH9iyQ=
+=+IqY
+-----END PGP PUBLIC KEY BLOCK-----`;
+
+publicKeyTextArea.value = myPublicPGP;
+publicKeyVerifyArea.value = myPublicPGP;
+
+function toggleVisibility(checkboxId, elementId) {
+const checkbox = document.getElementById(checkboxId);
+const element = document.getElementById(elementId);
+
+element.style.display = 'none';
+
+checkbox.addEventListener('change', () => {
+element.style.display = checkbox.checked ? 'block' : 'none';
+});
+}
+toggleVisibility('sign-message', 'hide-sign');
+// toggleVisibility('verify-signature', 'hide-verify');
+
+generateKeysButton.addEventListener('click', async () => {
+try {
+let name = document.getElementById('name').value;
+const passphrase = document.getElementById('passphrase').value;
+
+// const currentDate = new Date();
+// currentDate.setDate(currentDate.getDate() + 365);
+// const formattedDate = currentDate.toISOString().split('T')[0];
+
+// name = `${name}, expires on ${formattedDate}`;
+
+const options = {
+userIDs: [{ name }],
+type: 'rsa',
+rsaBits: 4096,
+passphrase
+};
+
+const { privateKey, publicKey } = await openpgp.generateKey(options);
+
+document.getElementById('generated-public-key').textContent = `${publicKey}`;
+document.getElementById('generated-private-key').textContent = `${privateKey}`;
+} catch (error) {
+document.getElementById('generated-public-key').innerHTML = `何かが間違っていた。修正しますので、エラーを送ってください。<br>${error.message}`;
+}
+});
+
+encryptMessageButton.addEventListener('click', async () => {
+try {
+const publicKeyArmored1 = myPublicPGP;
+const publicKeyArmored2 = yourPublicPGP;
+const privateKeyArmored = document.getElementById('private-key-sign').value;
+const passphrase = document.getElementById('sign-passphrase').value;
+const message = document.getElementById('message-to-encrypt').value;
+const signMessage = document.getElementById('sign-message').checked;
+
+const publicKey1 = await openpgp.readKey({ armoredKey: publicKeyArmored1 });
+const publicKey2 = await openpgp.readKey({ armoredKey: publicKeyArmored2 });
+
+const options = {
+message: await openpgp.createMessage({ text: message }),
+encryptionKeys: [publicKey1, publicKey2]
+};
+
+if (signMessage) {
+const privateKey = await openpgp.decryptKey({
+privateKey: await openpgp.readPrivateKey({ armoredKey: privateKeyArmored }),
+passphrase
+});
+options.signingKeys = privateKey;
+}
+
+const encryptedMessage = await openpgp.encrypt(options);
+
+document.getElementById('encrypted-message').textContent = encryptedMessage;
+} catch (error) {
+document.getElementById('encrypted-message').innerHTML = `何かが間違っていた。修正しますので、エラーを送ってください。<br>${error.message}`;
+}
+});
+
+decryptMessageButton.addEventListener('click', async () => {
+try {
+const privateKeyArmored = document.getElementById('private-key').value;
+const passphrase = document.getElementById('decrypt-passphrase').value;
+const messageToDecrypt = document.getElementById('message-to-decrypt').value;
+const publicKeyArmored = document.getElementById('public-key-verify').value;
+const verifySignature = document.getElementById('verify-signature').checked;
+
+const privateKey = await openpgp.decryptKey({
+privateKey: await openpgp.readPrivateKey({ armoredKey: privateKeyArmored }),
+passphrase
+});
+
+const options = {
+message: await openpgp.readMessage({ armoredMessage: messageToDecrypt }),
+decryptionKeys: privateKey
+};
+
+if (verifySignature) {
+const publicKey = await openpgp.readKey({ armoredKey: publicKeyArmored });
+options.verificationKeys = publicKey;
+}
+
+const decryptedMessage = await openpgp.decrypt(options);
+
+if (verifySignature) {
+const { verified } = decryptedMessage.signatures[0];
+try {
+await verified;
+document.getElementById('signature-status').textContent = 'やった！署名は有効です。これは本当に私です！';
+} catch (e) {
+document.getElementById('signature-status').textContent = '署名が無効です。これは私ではありません。注意してください、誰かが私になりすましているかもしれません！';
+}
+}
+
+document.getElementById('decrypted-message').textContent = decryptedMessage.data;
+} catch (error) {
+document.getElementById('decrypted-message').innerHTML = `何かが間違っていた。修正しますので、エラーを送ってください。<br>${error.message}`;
+}
+});
+
+findFingerprintButton.addEventListener('click', async () => {
+const keyArmored = document.getElementById('key-to-fingerprint').value;
+
+try {
+const key = await openpgp.readKey({ armoredKey: keyArmored });
+const fingerprint = key.getFingerprint();
+document.getElementById('fingerprint-result').textContent = `Fingerprint: ${fingerprint}`;
+} catch (error) {
+document.getElementById('fingerprint-result').innerHTML = `何かが間違っていた。修正しますので、エラーを送ってください。<br>${error.message}`;
+}
+});
+});
+
+</script>
+</head>
+<body>
+<div class="container">
+
+
+<section id="encryption">
+<h2>メッセージの暗号化と署名</h2>
+<div style="display: none;">
+<label for="public-key">私のＰＵＢＬＩＣキー（これを修正する必要はない。私がすでに記入しておいたから！）：</label>
+<textarea id="public-key" rows="5" placeholder="私のＰＵＢＬＩＣキーをここに入れてください。"></textarea>
+</div>
+
+<p>
+<input type="checkbox" id="sign-message">
+<label for="sign-message">あなたのＰＲＩＶＡＴＥキーでメッセージに署名しますか？</label>
+</p>
+
+<div id="hide-sign">
+<label for="private-key-sign">あなたのＰＲＩＶＡＴＥキー：</label>
+<textarea class="optional" id="private-key-sign" rows="5" placeholder="あなたの特別な秘密署名をメッセージに入れたい場合（そうすれば、私はこのメッセージが本当にあなたからのものだとわかる）、ここにあなたのＰＲＩＶＡＴＥキーを入れる必要がある。"></textarea>
+<label for="sign-passphrase">パスワード：</label>
+<input class="optional" type="password" id="sign-passphrase" placeholder="前のフィールドにあなたのＰＲＩＶＡＴＥキーを入力した場合は、ここにパスワードを入力する必要があります。">
+</div>
+
+<label for="message-to-encrypt">メッセージ：</label>
+<textarea id="message-to-encrypt" rows="5" placeholder="暗号化したいメッセージを書く。"></textarea>
+<button id="encrypt-message">クリックして暗号化する</button>
+<button class="copy" onclick="copy('encrypted-message')">結果をコピーする！</button>
+<pre id="encrypted-message"></pre>
+</section>
+
+
+
+
+
+
+<p><hr></p>
+<section id="decryption">
+<h2>メッセージの解読と検証</h2>
+<label for="private-key">あなたのＰＲＩＶＡＴＥキー：</label>
+<textarea id="private-key" rows="5" placeholder="あなたのＰＲＩＶＡＴＥキーを入力します。"></textarea>
+<label for="decrypt-passphrase">パスワード：</label>
+<input type="password" id="decrypt-passphrase" placeholder="パスワードを入力してください。">
+<label for="message-to-decrypt">暗号化されたメッセージ：</label>
+<textarea id="message-to-decrypt" rows="5" placeholder="あなたに送られた暗号化されたメッセージを入力してください。"></textarea>
+
+<p>
+<input class="optional" type="checkbox" id="verify-signature" checked>
+<label for="verify-signature">メッセージを送ったのが本当に私であることを確認するために、メッセージの署名を確認したいですか？このボックスのチェックを外す理由はない。常にチェックを入れておいてください！</label>
+</p>
+
+<div style="display: none;">
+<div id="hide-verify">
+<label for="public-key-verify">私のＰＵＢＬＩＣキー（これを修正する必要はない。私がすでに記入しておいたから！）：</label>
+<textarea class="optional" id="public-key-verify" rows="5" placeholder="私のＰＵＢＬＩＣキーを入力してください。"></textarea>
+</div>
+</div>
+<button id="decrypt-message">クリックして復号化する</button>
+<button class="copy" onclick="copy('decrypted-message')">結果をコピーする！</button>
+<pre id="decrypted-message"></pre>
+<pre id="signature-status"></pre>
+</section>
+
+
+
+
+
+
+<p><hr></p>
+<section id="fingerprint">
+<h2>キーの指紋を見つける</h2>
+<label for="key-to-fingerprint">キーーーーーーーー：</label>
+<textarea id="key-to-fingerprint" rows="5" placeholder="署名を確認したいキーを入力してください。これは、お互いが正しい鍵を送ったかどうかを確認するために使われる。"></textarea>
+<button id="find-fingerprint">クリックして指紋を見つける</button>
+<button class="copy" onclick="copy('fingerprint-result')">結果をコピーする！</button>
+<pre id="fingerprint-result"></pre>
+</section>
+
+
+
+
+
+
+<p><hr></p>
+<section id="key-generation">
+<h2>キーを生成する</h2>
+<label for="name">お名前：</label>
+<input type="text" id="name" placeholder="お名前をご記入ください（本名である必要はありません）。">
+<label for="passphrase">パスワード（このパスワードを忘れると、私のメッセージを読むことができなくなります！）：</label>
+<input type="password" id="passphrase" placeholder="パスフレーズを入力する。忘れないようにしてください！">
+<button id="generate-keys">キーを生成する</button><br><br><br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<button class="copy" style="order: 1; background-color: #00A518; color: white;" onclick="copy('generated-public-key')">ＰＵＢＬＩＣキーをコピーする</button>
+<button class="copy" style="order: 2; background-color: #E85252; color: white;" onclick="copy('generated-private-key', 'generated-public-key')">両方のキーをコピーして、インポートできるようにする</button>
+<button class="copy" onclick="copy('generated-private-key')" style="order: 3; background-color: #AD1C1C; color: white; box-shadow: 0 0 30px #AD1C1C;">ＰＲＩＶＡＴＥキーをコピーする</button>
+</div>
+
+<!-- <button style="flex: 1; background-color: #4d6600; color: white; font-size: 20px; margin: 50px; padding: 5px;" onclick="saveKey('generated-public-key')">あなたのＰＵＢＬＩＣキーをテキストファイルとしてコンピュータに保存します。</button><br> -->
+<!-- <button style="flex: 1; background-color: #e60000; color: white; font-size: 20px; margin: 50px; padding: 5px;" onclick="saveKey('generated-private-key')">あなたのＰＲＩＶＡＴＥキーをテキストファイルとしてコンピュータに保存します。</button><br> -->
+
+<div style="display: flex;">
+<pre style="flex: 1; margin: 10px; padding: 10px;">ＰＵＢＬＩＣキー（これを私に送ってください）：</pre>
+<pre style="flex: 1; margin: 10px; padding: 10px;">ＰＲＩＶＡＴＥトキー（この鍵は誰にも送らないで
+ください。この鍵は秘密です。これを極めて安全か
+つ厳重に保管すること！もし誰かがこの鍵を盗めば
+、私たちの秘密のメッセージをすべて読むことがで
+きる！）：</pre>
+</div>
+
+<div style="display: flex;">
+<pre style="flex: 1; margin: 10px; padding: 10px;" id="generated-public-key"></pre>
+<pre style="flex: 1; margin: 10px; padding: 10px;" id="generated-private-key"></pre>
+</div>
+</section>
+
+</div>
+</body>
+</div>
+</body>
+</html>
