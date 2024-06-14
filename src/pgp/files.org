@@ -362,39 +362,39 @@ observer.observe(errorDisplay, { childList: true, subtree: true, characterData: 
 <button class="copy" style="display: none;" onclick="copy('errorDisplay')">Copy error</button>
 
 <section id="encryption">
-<h1>Encrypt a File with OpenPGP.js</h1>
+<h1>ファイルを暗号化する</h1>
 <input type="file" id="fileInput" />
 <br>
 <input type="checkbox" id="signCheckbox">
-<label for="signCheckbox">Sign the encryption</label>
+<label for="signCheckbox">あなたのＰＲＩＶＡＴＥキーでメッセージに署名しますか？</label>
 <br>
 <div id="signOptions" style="display: none;">
-<textarea class="optional" id="privateKey" placeholder="Enter your private key"></textarea>
+<textarea class="optional" id="privateKey" placeholder="あなたの特別な秘密署名をメッセージに入れたい場合（そうすれば、私はこのメッセージが本当にあなたからのものだとわかる）、ここにあなたのＰＲＩＶＡＴＥキーを入れる必要がある。"></textarea>
 <br>
-<input class="optional" type="password" id="passphrase" placeholder="Enter your passphrase">
+<input class="optional" type="password" id="passphrase" placeholder="前のフィールドにあなたのＰＲＩＶＡＴＥキーを入力した場合は、ここにパスワードを入力する必要があります。">
 </div>
 <br>
-<button id="encryptButton">Encrypt File</button>
+<button id="encryptButton">クリックして暗号化する</button>
 </section>
 
 <section id="decryption">
-<h1>Decrypt a File with OpenPGP.js</h1>
+<h1>ファイルの解読と検証</h1>
 <input type="file" id="ascFileInput" />
 <br>
-<textarea id="decryptPrivateKey" placeholder="Enter your private key"></textarea>
+<textarea id="decryptPrivateKey" placeholder="あなたのＰＲＩＶＡＴＥキーを入力します。"></textarea>
 <br>
-<input type="password" id="decryptPassphrase" placeholder="Enter your passphrase">
+<input type="password" id="decryptPassphrase" placeholder="パスワードを入力してください。">
 <br>
 <p>
 <input class="optional" type="checkbox" id="verifyCheckbox" checked>
-<label for="verifyCheckbox">Verify the signature</label>
+<label for="verifyCheckbox">署名を確認する</label>
 </p>
 <br>
 <div id="verifyOptions" style="display: none;">
-<textarea class="optional" id="verifyPublicKey" placeholder="Enter the public key for verification"></textarea>
+<textarea class="optional" id="verifyPublicKey" placeholder="確認のため、私のＰＵＢＬＩＣキーを入力してください。"></textarea>
 </div>
 <br>
-<button id="decryptButton">Decrypt File</button>
+<button id="decryptButton">クリックして復号化する</button>
 <pre id="signature-status"></pre>
 </section>
 </div>
