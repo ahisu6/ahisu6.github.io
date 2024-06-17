@@ -6,6 +6,7 @@
 #+END_EXPORT
 
 [[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/pgp/index.org][Edit]]
+
 [[file:../index.org][Home]]
 
 -----
