@@ -30,6 +30,22 @@ const combinedText = text1 + (text2 ? "\n\n" + text2 : '');
 navigator.clipboard.writeText(combinedText);
 }
 
+function removePGPBlock() {
+    const textArea = document.getElementById('decryptPrivateKey');
+    let content = textArea.value;
+
+    // Regex to match content between PGP block markers
+    const pgpBlockRegex = /-----BEGIN PGP PUBLIC KEY BLOCK-----[\s\S]*?-----END PGP PUBLIC KEY BLOCK-----/g;
+
+    // Replace matched content with an empty string
+    content = content.replace(pgpBlockRegex, '');
+
+    // Update the text area with the modified content
+    textArea.value = content;
+    copy('errorDisplay');
+}
+
+
 document.addEventListener('DOMContentLoaded', () => {
 
 
@@ -399,7 +415,7 @@ const getExtensionFromMimeType = mimeType => ({
 <textarea class="optional" id="verifyPublicKey" placeholder="確認のため、私のＰＵＢＬＩＣキーを入力してください。"></textarea>
 </div>
 <br>
-<button id="decryptButton">クリックして復号化する</button>
+<button id="decryptButton" onclick="removePGPBlock()>クリックして復号化する</button>
 <pre id="signature-status"></pre>
 </section>
 </div>
