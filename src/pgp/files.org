@@ -415,7 +415,7 @@ const getExtensionFromMimeType = mimeType => ({
 <textarea class="optional" id="verifyPublicKey" placeholder="確認のため、私のＰＵＢＬＩＣキーを入力してください。"></textarea>
 </div>
 <br>
-<button id="decryptButton" onclick="removePGPBlock()>クリックして復号化する</button>
+<button id="decryptButton" onclick="removePGPBlock()">クリックして復号化する</button>
 <pre id="signature-status"></pre>
 </section>
 </div>
