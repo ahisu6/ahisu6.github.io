@@ -1,0 +1,19 @@
+#+TITLE: Pretty Good Privacy
+
+#+BEGIN_EXPORT html
+<div class="engt">Pretty Good Privacy</div>
+<div class="japt">プリティ・グッド・プライバシー</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/pgp/index.org][Edit]]
+
+[[file:../index.org][Home]]
+
+-----
+
+この興味深いページへようこそ。私たちはしばらく前から暗号に興味を持っています。モールス信号の面白い会話から始まり、いろは暗号へと発展した。そして今、DKJFにたどり着きました。気になるところ．．．私たちは次にどこへ行くのだろう？
+
+
+[[file:./text.org][プレーンテキストを暗号化するにはこれをクリックする。]]
+
+[[file:./files.org][これをクリックしてファイルを暗号化する。]]
