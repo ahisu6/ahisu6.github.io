@@ -255,13 +255,13 @@ observer.observe(errorDisplay, { childList: true, subtree: true, characterData: 
 
     const displayError = (message) => {
         const errorElement = document.getElementById('errorDisplay');
-        errorElement.textContent = `you've encountered an error: ${message}`;
+        errorElement.textContent = `何かが間違っていた。修正しますので、エラーを送ってください。<br> ${message}`;
     };
 
     const encryptFile = async () => {
         try {
             const fileInput = document.getElementById('fileInput');
-            if (!fileInput.files.length) return alert('Please select a file first.');
+            if (!fileInput.files.length) return alert('まずファイルを選択してください。');
 
             const file = fileInput.files[0];
             const fileUint8Array = await readFileAsUint8Array(file);
@@ -287,7 +287,7 @@ observer.observe(errorDisplay, { childList: true, subtree: true, characterData: 
     const decryptFile = async () => {
         try {
             const ascFileInput = document.getElementById('ascFileInput');
-            if (!ascFileInput.files.length) return alert('Please select a .asc file first.');
+            if (!ascFileInput.files.length) return alert('まず「.asc」ファイルを選択してください。');
 
             const fileText = await ascFileInput.files[0].text();
             const privateKey = await getDecryptedKey(document.getElementById('decryptPrivateKey').value, document.getElementById('decryptPassphrase').value);
