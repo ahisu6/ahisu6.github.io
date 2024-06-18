@@ -372,7 +372,7 @@ document.getElementById('fingerprint-result').innerHTML = `何かが間違って
 
 <p>
 <input class="optional" type="checkbox" id="verify-signature" checked>
-<label for="verify-signature">メッセージを送ったのが本当に私であることを確認するために、メッセージの署名を確認したいですか？このボックスのチェックを外す理由はない。常にチェックを入れておいてください！</label>
+<label for="verify-signature">署名を確認する。メッセージを送ったのが本当に私であることを確認するために、メッセージの署名を確認したいですか？このボックスのチェックを外す理由はない。常にチェックを入れておいてください！</label>
 </p>
 
 <div style="display: none;">
