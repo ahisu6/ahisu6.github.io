@@ -383,8 +383,12 @@ const getExtensionFromMimeType = mimeType => ({
 <pre id="errorDisplay"></pre>
 <button class="copy" style="display: none;" onclick="copy('errorDisplay')">Copy error</button>
 
+
+
+
+
 <section id="encryption">
-<h2>ファイルを暗号化する</h2>
+<h2>ファイルの暗号化と署名</h2>
 <input type="file" id="fileInput" />
 <br>
 <input type="checkbox" id="signCheckbox">
@@ -419,7 +423,9 @@ const getExtensionFromMimeType = mimeType => ({
 </p>
 <br>
 <div id="verifyOptions" style="display: none;">
+<div style="display: none;">
 <textarea class="optional" id="verifyPublicKey" placeholder="確認のため、私のＰＵＢＬＩＣキーを入力してください。"></textarea>
+</div>
 </div>
 <br>
 <button id="decryptButton" onclick="removePGPBlock('decryptPrivateKey')">クリックして復号化する</button>
