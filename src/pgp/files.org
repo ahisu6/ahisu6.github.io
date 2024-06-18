@@ -409,7 +409,7 @@ const getExtensionFromMimeType = mimeType => ({
 <br>
 <p>
 <input class="optional" type="checkbox" id="verifyCheckbox" checked>
-<label for="verifyCheckbox">署名を確認する</label>
+<label for="verifyCheckbox">署名を確認する。メッセージを送ったのが本当に私であることを確認するために、メッセージの署名を確認したいですか？このボックスのチェックを外す理由はない。常にチェックを入れておいてください！</label>
 </p>
 <br>
 <div id="verifyOptions" style="display: none;">
