@@ -399,6 +399,12 @@ const getExtensionFromMimeType = mimeType => ({
 <button id="encryptButton" onclick="removePGPBlock('privateKey')">クリックして暗号化する</button>
 </section>
 
+
+
+
+
+
+<p><hr></p>
 <section id="decryption">
 <h2>ファイルの解読と検証</h2>
 <input type="file" id="ascFileInput" />
