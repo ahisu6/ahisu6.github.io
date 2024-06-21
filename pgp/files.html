@@ -323,9 +323,14 @@ verificationKeys: publicKey ? [publicKey] : undefined,
 format: 'binary'
 });
 
+
 if (publicKey) {
+try {
 const verified = await signatures[0].verified;
 document.getElementById('signature-status').textContent = verified ? 'やった！署名は有効です。これは本当に私です！' : '署名が無効です。これは私ではありません。注意してください、誰かが私になりすましているかもしれません！';
+} catch (e) {
+document.getElementById('signature-status').textContent = '署名が無効です。これは私ではありません。注意してください、誰かが私になりすましているかもしれません！';
+}
 }
 
 const mimeType = getMimeType(decrypted);
