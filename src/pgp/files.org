@@ -29,18 +29,18 @@ navigator.clipboard.writeText(combinedText);
 }
 
 function removePGPBlock(PrivateKeyField) {
-    const textArea = document.getElementById(PrivateKeyField);
-    let content = textArea.value;
+const textArea = document.getElementById(PrivateKeyField);
+let content = textArea.value;
 
-    // Regex to match content between PGP block markers
-    const pgpBlockRegex = /-----BEGIN PGP PUBLIC KEY BLOCK-----[\s\S]*?-----END PGP PUBLIC KEY BLOCK-----/g;
+// Regex to match content between PGP block markers
+const pgpBlockRegex = /-----BEGIN PGP PUBLIC KEY BLOCK-----[\s\S]*?-----END PGP PUBLIC KEY BLOCK-----/g;
 
-    // Replace matched content with an empty string
-    content = content.replace(pgpBlockRegex, '');
+// Replace matched content with an empty string
+content = content.replace(pgpBlockRegex, '');
 
-    // Update the text area with the modified content
-    textArea.value = content;
-    copy('errorDisplay');
+// Update the text area with the modified content
+textArea.value = content;
+copy('errorDisplay');
 }
 
 
@@ -198,11 +198,11 @@ const errorDisplay = document.getElementById('errorDisplay');
 const copyButton = document.querySelector('.copy');
 
 function updateButtonVisibility() {
-    if (errorDisplay.textContent.trim() !== "") {
-        copyButton.style.display = 'inline-block';
-    } else {
-        copyButton.style.display = 'none';
-    }
+if (errorDisplay.textContent.trim() !== "") {
+copyButton.style.display = 'inline-block';
+} else {
+copyButton.style.display = 'none';
+}
 }
 
 // Call the function initially to set the correct visibility when the page loads
@@ -216,192 +216,192 @@ observer.observe(errorDisplay, { childList: true, subtree: true, characterData: 
 
 
 
-    const toggleDisplay = (element, condition) => {
-        element.style.display = condition ? 'block' : 'none';
-    };
+const toggleDisplay = (element, condition) => {
+element.style.display = condition ? 'block' : 'none';
+};
 
-    const toggleSignOptions = () => toggleDisplay(document.getElementById('signOptions'), document.getElementById('signCheckbox').checked);
-    const checkVerifyOptions = () => {
-        const verifyCheckbox = document.getElementById('verifyCheckbox');
-        toggleDisplay(document.getElementById('verifyOptions'), verifyCheckbox.checked);
-        toggleDisplay(document.getElementById('verifyPublicKey'), verifyCheckbox.checked);
-    };
+const toggleSignOptions = () => toggleDisplay(document.getElementById('signOptions'), document.getElementById('signCheckbox').checked);
+const checkVerifyOptions = () => {
+const verifyCheckbox = document.getElementById('verifyCheckbox');
+toggleDisplay(document.getElementById('verifyOptions'), verifyCheckbox.checked);
+toggleDisplay(document.getElementById('verifyPublicKey'), verifyCheckbox.checked);
+};
 
-    const readFileAsUint8Array = file => new Promise((resolve, reject) => {
-        const reader = new FileReader();
-        reader.onload = () => resolve(new Uint8Array(reader.result));
-        reader.onerror = reject;
-        reader.readAsArrayBuffer(file);
-    });
+const readFileAsUint8Array = file => new Promise((resolve, reject) => {
+const reader = new FileReader();
+reader.onload = () => resolve(new Uint8Array(reader.result));
+reader.onerror = reject;
+reader.readAsArrayBuffer(file);
+});
 
-    const getKey = async (armoredKey, type = 'public') => {
-        return type === 'public' ? openpgp.readKey({ armoredKey }) : openpgp.readPrivateKey({ armoredKey });
-    };
+const getKey = async (armoredKey, type = 'public') => {
+return type === 'public' ? openpgp.readKey({ armoredKey }) : openpgp.readPrivateKey({ armoredKey });
+};
 
-    const getDecryptedKey = async (armoredKey, passphrase) => {
-        return openpgp.decryptKey({
-            privateKey: await getKey(armoredKey, 'private'),
-            passphrase
-        });
-    };
+const getDecryptedKey = async (armoredKey, passphrase) => {
+return openpgp.decryptKey({
+privateKey: await getKey(armoredKey, 'private'),
+passphrase
+});
+};
 
-    const createDownloadLink = (blob, fileName) => {
-        const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = fileName;
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-    };
+const createDownloadLink = (blob, fileName) => {
+const url = URL.createObjectURL(blob);
+const a = document.createElement('a');
+a.href = url;
+a.download = fileName;
+document.body.appendChild(a);
+a.click();
+document.body.removeChild(a);
+};
 
-    const displayError = (message) => {
-        const errorElement = document.getElementById('errorDisplay');
-        errorElement.textContent = `何かが間違っていた。修正しますので、エラーを送ってください。<br> ${message}`;
-    };
+const displayError = (message) => {
+const errorElement = document.getElementById('errorDisplay');
+errorElement.textContent = `何かが間違っていた。修正しますので、エラーを送ってください。<br> ${message}`;
+};
 
-    const encryptFile = async () => {
-        try {
-            const fileInput = document.getElementById('fileInput');
-            if (!fileInput.files.length) return alert('まずファイルを選択してください。');
+const encryptFile = async () => {
+try {
+const fileInput = document.getElementById('fileInput');
+if (!fileInput.files.length) return alert('まずファイルを選択してください。');
 
-            const file = fileInput.files[0];
-            const fileUint8Array = await readFileAsUint8Array(file);
-            const publicKeys = await Promise.all([myPublicPGP, yourPublicPGP].map(key => getKey(key)));
+const file = fileInput.files[0];
+const fileUint8Array = await readFileAsUint8Array(file);
+const publicKeys = await Promise.all([myPublicPGP, yourPublicPGP].map(key => getKey(key)));
 
-            let privateKey = null;
-            if (document.getElementById('signCheckbox').checked) {
-                privateKey = await getDecryptedKey(document.getElementById('privateKey').value, document.getElementById('passphrase').value);
-            }
+let privateKey = null;
+if (document.getElementById('signCheckbox').checked) {
+privateKey = await getDecryptedKey(document.getElementById('privateKey').value, document.getElementById('passphrase').value);
+}
 
-            const encrypted = await openpgp.encrypt({
-                message: await openpgp.createMessage({ binary: fileUint8Array }),
-                encryptionKeys: publicKeys,
-                signingKeys: privateKey ? [privateKey] : undefined
-            });
+const encrypted = await openpgp.encrypt({
+message: await openpgp.createMessage({ binary: fileUint8Array }),
+encryptionKeys: publicKeys,
+signingKeys: privateKey ? [privateKey] : undefined
+});
 
-            createDownloadLink(new Blob([encrypted], { type: 'application/pgp-encrypted' }), `${file.name}.asc`);
-        } catch (error) {
-            displayError(error.message);
-        }
-    };
+createDownloadLink(new Blob([encrypted], { type: 'application/pgp-encrypted' }), `${file.name}.asc`);
+} catch (error) {
+displayError(error.message);
+}
+};
 
-    const decryptFile = async () => {
-        try {
-            const ascFileInput = document.getElementById('ascFileInput');
-            if (!ascFileInput.files.length) return alert('まず「.asc」ファイルを選択してください。');
-    
-            const fileText = await ascFileInput.files[0].text();
-            const privateKey = await getDecryptedKey(
-                document.getElementById('decryptPrivateKey').value,
-                document.getElementById('decryptPassphrase').value
-            );
-            const message = await openpgp.readMessage({ armoredMessage: fileText });
-    
-            let publicKey = null;
-            if (document.getElementById('verifyCheckbox').checked) {
-                publicKey = await getKey(document.getElementById('verifyPublicKey').value);
-            }
-    
-            const { data: decrypted, signatures } = await openpgp.decrypt({
-                message,
-                decryptionKeys: privateKey,
-                verificationKeys: publicKey ? [publicKey] : undefined,
-                format: 'binary'
-            });
-    
-            if (publicKey) {
-                const verified = await signatures[0].verified;
-                document.getElementById('signature-status').textContent = verified ? 'やった！署名は有効です。これは本当に私です！' : '署名が無効です。これは私ではありません。注意してください、誰かが私になりすましているかもしれません！';
-            }
-    
-            const mimeType = getMimeType(decrypted);
-            const extension = prompt(`推奨されるファイル拡張子は「.${getExtensionFromMimeType(mimeType)}」。お望みなら、どんな拡張子でも書くことができる：`, getExtensionFromMimeType(mimeType)) || getExtensionFromMimeType(mimeType);
-            const fileName = prompt('復号化したファイルの名前を入力します：', `decrypted.${extension}`) || `decrypted.${extension}`;
-    
-            if (mimeType.startsWith('image/') || mimeType.startsWith('audio/') || mimeType.startsWith('video/') || extension === 'bin') {
-                const displayChoice = confirm('ファイルをダウンロードする代わりに表示したい場合は、「ＯＫ」を押してください。画像、音声、動画を期待している場合は、「ＯＫ」をクリックすることをお勧めします。そうでない場合は、「ＣＡＮＣＥＬ」をクリックしてください。');
-    
-                if (displayChoice) {
-                    const container = document.getElementById('fileContainer');
-                    container.innerHTML = ''; // Clear the container before appending new content
-    
-                    const blob = new Blob([decrypted], { type: mimeType });
-                    const url = URL.createObjectURL(blob);
-    
-                    if (mimeType.startsWith('image/')) {
-                        const img = document.createElement('img');
-                        img.src = url;
-                        container.appendChild(img);
-                    } else if (mimeType.startsWith('video/')) {
-                        const video = document.createElement('video');
-                        video.controls = true;
-                        video.src = url;
-                        container.appendChild(video);
-                    } else if (mimeType.startsWith('audio/')) {
-                        const audio = document.createElement('audio');
-                        audio.controls = true;
-                        audio.src = url;
-                        container.appendChild(audio);
-                    } else if (extension === 'bin') {
-                        const iframe = document.createElement('iframe');
-                        iframe.src = url;
-                        container.appendChild(iframe);
-                    }
-                } else {
-                    createDownloadLink(new Blob([decrypted], { type: mimeType }), fileName);
-                }
-            } else {
-                createDownloadLink(new Blob([decrypted], { type: mimeType }), fileName);
-            }
-        } catch (error) {
-            displayError(error.message);
-        }
-    };
+const decryptFile = async () => {
+try {
+const ascFileInput = document.getElementById('ascFileInput');
+if (!ascFileInput.files.length) return alert('まず「.asc」ファイルを選択してください。');
+
+const fileText = await ascFileInput.files[0].text();
+const privateKey = await getDecryptedKey(
+document.getElementById('decryptPrivateKey').value,
+document.getElementById('decryptPassphrase').value
+);
+const message = await openpgp.readMessage({ armoredMessage: fileText });
+
+let publicKey = null;
+if (document.getElementById('verifyCheckbox').checked) {
+publicKey = await getKey(document.getElementById('verifyPublicKey').value);
+}
+
+const { data: decrypted, signatures } = await openpgp.decrypt({
+message,
+decryptionKeys: privateKey,
+verificationKeys: publicKey ? [publicKey] : undefined,
+format: 'binary'
+});
+
+if (publicKey) {
+const verified = await signatures[0].verified;
+document.getElementById('signature-status').textContent = verified ? 'やった！署名は有効です。これは本当に私です！' : '署名が無効です。これは私ではありません。注意してください、誰かが私になりすましているかもしれません！';
+}
+
+const mimeType = getMimeType(decrypted);
+const extension = prompt(`推奨されるファイル拡張子は「.${getExtensionFromMimeType(mimeType)}」。お望みなら、どんな拡張子でも書くことができる：`, getExtensionFromMimeType(mimeType)) || getExtensionFromMimeType(mimeType);
+const fileName = prompt('復号化したファイルの名前を入力します：', `decrypted.${extension}`) || `decrypted.${extension}`;
+
+if (mimeType.startsWith('image/') || mimeType.startsWith('audio/') || mimeType.startsWith('video/') || extension === 'bin') {
+const displayChoice = confirm('ファイルをダウンロードする代わりに表示したい場合は、「ＯＫ」を押してください。画像、音声、動画を期待している場合は、「ＯＫ」をクリックすることをお勧めします。そうでない場合は、「ＣＡＮＣＥＬ」をクリックしてください。');
+
+if (displayChoice) {
+const container = document.getElementById('fileContainer');
+container.innerHTML = ''; // Clear the container before appending new content
+
+const blob = new Blob([decrypted], { type: mimeType });
+const url = URL.createObjectURL(blob);
+
+if (mimeType.startsWith('image/')) {
+const img = document.createElement('img');
+img.src = url;
+container.appendChild(img);
+} else if (mimeType.startsWith('video/')) {
+const video = document.createElement('video');
+video.controls = true;
+video.src = url;
+container.appendChild(video);
+} else if (mimeType.startsWith('audio/')) {
+const audio = document.createElement('audio');
+audio.controls = true;
+audio.src = url;
+container.appendChild(audio);
+} else if (extension === 'bin') {
+const iframe = document.createElement('iframe');
+iframe.src = url;
+container.appendChild(iframe);
+}
+} else {
+createDownloadLink(new Blob([decrypted], { type: mimeType }), fileName);
+}
+} else {
+createDownloadLink(new Blob([decrypted], { type: mimeType }), fileName);
+}
+} catch (error) {
+displayError(error.message);
+}
+};
 
 const getMimeType = data => {
-    const mimeHeaders = {
-        'ffd8ff': 'image/jpeg',
-        'ffd8ffe0': 'image/jpeg',
-        'ffd8ffe1': 'image/jpeg',
-        'ffd8ffe2': 'image/jpeg',
-        'ffd8ffe3': 'image/jpeg',
-        'ffd8ffe8': 'image/jpeg',
-        '89504e47': 'image/png',
-        '25504446': 'application/pdf',
-        '504b0304': 'application/zip',
-        '00000018': 'video/mp4',
-        '00000020': 'video/mp4',
-        '494433': 'audio/mpeg',
-        'fff1': 'audio/aac',
-        'fff9': 'audio/aac',
-        '52494646': 'audio/wav'
-    };
+const mimeHeaders = {
+'ffd8ff': 'image/jpeg',
+'ffd8ffe0': 'image/jpeg',
+'ffd8ffe1': 'image/jpeg',
+'ffd8ffe2': 'image/jpeg',
+'ffd8ffe3': 'image/jpeg',
+'ffd8ffe8': 'image/jpeg',
+'89504e47': 'image/png',
+'25504446': 'application/pdf',
+'504b0304': 'application/zip',
+'00000018': 'video/mp4',
+'00000020': 'video/mp4',
+'494433': 'audio/mpeg',
+'fff1': 'audio/aac',
+'fff9': 'audio/aac',
+'52494646': 'audio/wav'
+};
 
-    const hex = Array.from(new Uint8Array(data.slice(0, 4))).map(b => b.toString(16).padStart(2, '0')).join('');
-    return mimeHeaders[hex] || 'application/octet-stream';
+const hex = Array.from(new Uint8Array(data.slice(0, 4))).map(b => b.toString(16).padStart(2, '0')).join('');
+return mimeHeaders[hex] || 'application/octet-stream';
 };
 
 const getExtensionFromMimeType = mimeType => ({
-    'text/plain': 'txt',
-    'application/pdf': 'pdf',
-    'image/jpeg': 'jpg',
-    'image/png': 'png',
-    'application/zip': 'zip',
-    'video/mp4': 'mp4',
-    'audio/mpeg': 'mp3',
-    'audio/aac': 'aac',
-    'audio/wav': 'wav',
-    'audio/mp4': 'm4a'
+'text/plain': 'txt',
+'application/pdf': 'pdf',
+'image/jpeg': 'jpg',
+'image/png': 'png',
+'application/zip': 'zip',
+'video/mp4': 'mp4',
+'audio/mpeg': 'mp3',
+'audio/aac': 'aac',
+'audio/wav': 'wav',
+'audio/mp4': 'm4a'
 }[mimeType] || 'bin');
 
-    document.getElementById('encryptButton').addEventListener('click', encryptFile);
-    document.getElementById('decryptButton').addEventListener('click', decryptFile);
-    document.getElementById('signCheckbox').addEventListener('change', toggleSignOptions);
-    document.getElementById('verifyCheckbox').addEventListener('change', checkVerifyOptions);
+document.getElementById('encryptButton').addEventListener('click', encryptFile);
+document.getElementById('decryptButton').addEventListener('click', decryptFile);
+document.getElementById('signCheckbox').addEventListener('change', toggleSignOptions);
+document.getElementById('verifyCheckbox').addEventListener('change', checkVerifyOptions);
 
-    checkVerifyOptions();
-    toggleSignOptions();
+checkVerifyOptions();
+toggleSignOptions();
 
 });
 
