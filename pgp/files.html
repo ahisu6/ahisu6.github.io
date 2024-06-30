@@ -362,6 +362,19 @@ audio.controls = true;
 audio.src = url;
 container.appendChild(audio);
 } else if (extension === 'bin') {
+
+
+const reader = new FileReader();
+reader.onload = function (evt) {
+const pre = document.createElement('pre');
+pre.textContent = evt.target.result;
+pre.style.wordWrap = 'break-word';
+pre.style.whiteSpace = 'pre-wrap';
+container.appendChild(pre);
+};
+reader.readAsText(blob, 'UTF-8');
+
+
 const iframe = document.createElement('iframe');
 iframe.src = url;
 container.appendChild(iframe);
