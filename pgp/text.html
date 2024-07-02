@@ -290,6 +290,26 @@ const messageToDecrypt = document.getElementById('message-to-decrypt').value;
 const publicKeyArmored = document.getElementById('public-key-verify').value;
 const verifySignature = document.getElementById('verify-signature').checked;
 
+
+
+// Remove PGP Public key if found in textarea
+const textArea = document.getElementById('private-key');
+let content = textArea.value;
+
+// Regex to match content between PGP block markers
+const pgpBlockRegex = /-----BEGIN PGP PUBLIC KEY BLOCK-----[\s\S]*?-----END PGP PUBLIC KEY BLOCK-----/g;
+
+// Replace matched content with an empty string
+content = content.replace(pgpBlockRegex, '');
+
+// Update the text area with the modified content
+textArea.value = content;
+
+
+
+
+
+
 const privateKey = await openpgp.decryptKey({
 privateKey: await openpgp.readPrivateKey({ armoredKey: privateKeyArmored }),
 passphrase
