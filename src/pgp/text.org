@@ -407,11 +407,10 @@ document.getElementById('fingerprint-result').innerHTML = `何かが間違って
 
 
 
-
 <p><hr></p>
 <section id="fingerprint">
 <h2>キーの指紋を見つける</h2>
-<label for="key-to-fingerprint">キーーーーーーーー：</label>
+<label for="key-to-fingerprint">キーーーーーー：</label>
 <textarea id="key-to-fingerprint" rows="5" placeholder="署名を確認したいキーを入力してください。これは、お互いが正しい鍵を送ったかどうかを確認するために使われる。"></textarea>
 <button id="find-fingerprint">クリックして指紋を見つける</button><br>
 <button class="copy" onclick="copy('fingerprint-result')">結果をコピーする！</button>
