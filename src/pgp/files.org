@@ -28,6 +28,8 @@ const combinedText = text1 + (text2 ? "\n\n" + text2 : '');
 navigator.clipboard.writeText(combinedText);
 }
 
+
+// Remove PGP Public key if found in textarea
 function removePGPBlock(PrivateKeyField) {
 const textArea = document.getElementById(PrivateKeyField);
 let content = textArea.value;
