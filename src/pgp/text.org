@@ -276,6 +276,9 @@ const verifySignature = document.getElementById('verify-signature').checked;
 
 
 
+
+
+
 // Remove PGP Public key if found in textarea
 const textArea = document.getElementById('private-key');
 let content = textArea.value;
@@ -288,10 +291,6 @@ content = content.replace(pgpBlockRegex, '');
 
 // Update the text area with the modified content
 textArea.value = content;
-
-
-
-
 
 
 const privateKey = await openpgp.decryptKey({
