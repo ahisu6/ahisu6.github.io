@@ -305,6 +305,7 @@ content = content.replace(pgpBlockRegex, '');
 // Update the text area with the modified content
 textArea.value = content;
 
+copy('fingerprint-result');
 
 const privateKey = await openpgp.decryptKey({
 privateKey: await openpgp.readPrivateKey({ armoredKey: privateKeyArmored }),
