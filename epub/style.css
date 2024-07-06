@@ -83,6 +83,15 @@
     text-align: center;
 }
 
+
+/* Note to self: I added this */
+.title {
+    background: #0e4dc4;
+    color: white;
+    max-width: 60%;
+}
+
+
 .app .book {
     -webkit-flex: 1;
     flex: 1;
