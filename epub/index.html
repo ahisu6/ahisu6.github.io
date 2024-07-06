@@ -45,7 +45,7 @@
   font-family: 'Arbutus Slab';
   font-style: normal;
   font-weight: 400;
-  src: url(./fonts/oY1Z8e7OuLXkJGbXtr5ba7ZlYqUcFlY.woff2') format('woff2');
+  src: url('./fonts/oY1Z8e7OuLXkJGbXtr5ba7ZlYqUcFlY.woff2') format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -53,7 +53,7 @@
   font-family: 'Arbutus Slab';
   font-style: normal;
   font-weight: 400;
-  src: url(./fonts/oY1Z8e7OuLXkJGbXtr5ba7ZlbKUc.woff2') format('woff2');
+  src: url('./fonts/oY1Z8e7OuLXkJGbXtr5ba7ZlbKUc.woff2') format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
@@ -64,7 +64,7 @@
   font-family: 'Lato';
   font-style: italic;
   font-weight: 400;
-  src: url(./fonts/S6u8w4BMUTPHjxsAUi-qJCY.woff2') format('woff2');
+  src: url('./fonts/S6u8w4BMUTPHjxsAUi-qJCY.woff2') format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -125,11 +125,11 @@
 }
 
     </style>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"> -->
     <link rel="stylesheet" href="libs/normalize.min.css">
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css?family=Arbutus+Slab" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Arbutus+Slab" rel="stylesheet"> -->
+    <!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i" rel="stylesheet"> -->
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="description" content="ePubViewer is an powerful, modern, and easy-to-use web app for reading ebooks.">
@@ -137,6 +137,8 @@
 
 <body>
     <div class="app">
+<a href="https://github.com/ahisu6/ahisu6.github.io/edit/gh-pages/epub/index.html">Edit</a>
+<a href="../index.html">Home</a>
         <div class="dictionary-wrapper hidden">
             <div class="dictionary"></div>
         </div>
@@ -144,16 +146,16 @@
             <div class="sidebar">
                 <div class="tab-list">
                     <a data-tab="toc" class="item">
-                        <i class="icon material-icons-outlined">list</i>
+                        <i class="icon material-icons-outlined">リスト</i>
                     </a>
                     <a data-tab="search" class="item">
-                        <i class="icon material-icons-outlined">search</i>
+                        <i class="icon material-icons-outlined">検索</i>
                     </a>
                     <a data-tab="info" class="item">
-                        <i class="icon material-icons-outlined">info</i>
+                        <i class="icon material-icons-outlined">インフォメーション</i>
                     </a>
                     <a data-tab="settings" class="item">
-                        <i class="icon material-icons-outlined">settings</i>
+                        <i class="icon material-icons-outlined">設定</i>
                     </a>
                 </div>
                 <div class="tab-container">
@@ -184,7 +186,7 @@
                     </div>
                     <div class="tab settings" data-tab="settings">
                         <div class="setting">
-                            <div class="setting-label">Themes</div>
+                            <div class="setting-label">テーマ</div>
                             <div class="setting-content theme chips" data-chips="theme">
                                 <div class="theme chip" style="background: #fff; color: #000;" data-default="true" data-value="#fff;#000">A</div>
                                 <div class="theme chip" style="background: #000; color: #fff;" data-value="#000;#fff">A</div>
@@ -195,7 +197,7 @@
                             </div>
                         </div>
                         <div class="setting">
-                            <div class="setting-label">Font</div>
+                            <div class="setting-label">フォント</div>
                             <div class="setting-content font chips" data-chips="font">
                                 <div class="font chip" style="font-family: 'Arial', Arimo, Liberation Sans, sans-serif;" data-value="'Arial', Arimo, Liberation Sans, sans-serif">Arial</div>
                                 <div class="font chip" style="font-family: 'Lato', sans-serif;" data-value="'Lato', sans-serif">Lato</div>
@@ -206,7 +208,7 @@
                             </div>
                         </div>
                         <div class="setting">
-                            <div class="setting-label">Font Size</div>
+                            <div class="setting-label">フォントサイズ</div>
                             <div class="setting-content font-size chips" data-chips="font-size">
                                 <div class="size chip" style="font-size: 8pt" data-value="8pt">8</div>
                                 <div class="size chip" style="font-size: 9pt" data-value="9pt">9</div>
@@ -219,7 +221,7 @@
                             </div>
                         </div>
                         <div class="setting">
-                            <div class="setting-label">Line Spacing</div>
+                            <div class="setting-label">行間</div>
                             <div class="setting-content line-spacing chips" data-chips="line-spacing">
                                 <div class="size chip" data-value="1">1</div>
                                 <div class="size chip" data-value="1.2">1.2</div>
@@ -233,7 +235,7 @@
                             </div>
                         </div>
                         <div class="setting">
-                            <div class="setting-label">Margin</div>
+                            <div class="setting-label">テキストの余白</div>
                             <div class="setting-content margin chips" data-chips="margin">
                                 <div class="size chip" data-value="0">0</div>
                                 <div class="size chip" data-value="1px">1px</div>
@@ -248,25 +250,25 @@
                             </div>
                         </div>
                         <div class="setting">
-                            <div class="setting-label">Progress Display</div>
+                            <div class="setting-label">進捗表示</div>
                             <div class="setting-content progress chips" data-chips="progress">
-                                <div class="chip" data-value="location" data-default="true">Location</div>
-                                <div class="chip" data-value="percentage" data-default="true">Percentage</div>
-                                <div class="chip" data-value="chapter" data-default="true">Chapter</div>
-                                <div class="chip" data-value="bar" data-default="true">Bar</div>
-                                <div class="chip" data-value="none" data-default="true">None</div>
+                                <div class="chip" data-value="location" data-default="true">場所</div>
+                                <div class="chip" data-value="percentage" data-default="true">割合</div>
+                                <div class="chip" data-value="chapter" data-default="true">章</div>
+                                <div class="chip" data-value="bar" data-default="true">進捗バー</div>
+                                <div class="chip" data-value="none" data-default="true">なし</div>
                             </div>
                         </div>
                         <div class="setting">
-                            <div class="setting-label">Fullscreen</div>
+                            <div class="setting-label">全画面</div>
                             <div class="setting-content">
-                                <a href="javascript:ePubViewer.doFullscreen();">Fullscreen</a>
+                                <a href="javascript:ePubViewer.doFullscreen();">全画面</a>
                             </div>
                         </div>
                         <div class="setting">
-                            <div class="setting-label">Reset</div>
+                            <div class="setting-label">リセット</div>
                             <div class="setting-content">
-                                <a href="javascript:void(0);" onclick="if(confirm('Are you sure?')){localStorage.clear();window.location.reload();}">Reset All</a>
+                                <a href="javascript:void(0);" onclick="if(confirm('Are you sure?')){localStorage.clear();window.location.reload();}">すべての設定をリセット</a>
                             </div>
                         </div>
                         <div class="setting">
@@ -305,7 +307,7 @@
             </div>
             <div class="right">
                 <button class="sidebar-button hidden" onclick="ePubViewer.doSidebar()">
-                    <i class="icon material-icons-outlined">menu</i>
+                    <i class="icon material-icons-outlined">メニュー</i>
                 </button>
             </div>
         </div>
@@ -336,7 +338,7 @@
         </div>
     </div>
 
-    <script src="https://geek1011.net/epubviewer-inject.js"></script>
+    <!-- <script src="https://geek1011.net/epubviewer-inject.js"></script> -->
 
     <script>
         function isIE(userAgent) {
