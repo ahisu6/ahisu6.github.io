@@ -89,7 +89,7 @@
     vertical-align: middle; /* Note to self: I added this */
     border: 0.2px solid white; /* Note to self: I added this */
     outline-width: medium; /* Note to self: I added this */
-    z-index: 9999; /* Note to self: I added this */
+    /* z-index: 9999;  Note to self: I added this */
 }
 
 
