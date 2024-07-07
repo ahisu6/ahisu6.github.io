@@ -468,6 +468,7 @@ App.prototype.applyTheme = function () {
     }
 };
 
+App.prototype.loadFonts = function() {
     this.state.rendition.getContents().forEach(c => {
         [
             "book/epub/fonts.css"
