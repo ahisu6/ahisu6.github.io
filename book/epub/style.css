@@ -78,10 +78,9 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    text-align: center;
     min-width: 0px;
     flex: 1;
-    text-align: center;
+    text-align: center; /* Note to self: I added this */
     background: #00256C; /* Note to self: I added this */
     color: white; /* Note to self: I added this */
     max-width: 40%; /* Note to self: I added this */
