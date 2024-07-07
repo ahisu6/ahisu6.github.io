@@ -78,12 +78,19 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    text-align: center;
     min-width: 0px;
     flex: 1;
     text-align: center;
-    background: #0e4dc4; /* Note to self: I added this */
+    background: #00256C; /* Note to self: I added this */
     color: white; /* Note to self: I added this */
-    max-width: 60%; /* Note to self: I added this */
+    max-width: 40%; /* Note to self: I added this */
+    height: 30px; /* Note to self: I added this */
+    line-height: 30px; /* Note to self: I added this */
+    vertical-align: middle; /* Note to self: I added this */
+    border: 0.2px solid white; /* Note to self: I added this */
+    outline-width: medium; /* Note to self: I added this */
+    z-index: 9999; /* Note to self: I added this */
 }
 
 
@@ -669,3 +676,4 @@
 .app .hidden {
     display: none !important;
 }
+
