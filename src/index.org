@@ -30,7 +30,7 @@ Click the chapter which you want to study! @@html:<span class="ja">勉強した�
 - [[file:./iroha.org][Iroha code - いろは符号]]
 - [[file:./morse.org][Morse code - モールス符号]]
 - [[file:./pgp/index.org][Pretty Good Privacy - プリティ・グッド・プライバシー]]
-- [[file:./epub/index.html][Read a Book - 本を読もう]]
+- [[file:./book/index.html][Read a Book - 本を読もう]]
 - [[file:./learn/index.org][Learn - 学ぶ]]
 - [[file:./h/index.org][History - 病歴聴取 (h)]]
 - [[file:./cp/index.org][Clinical Pharmacology - 臨床薬理学 (cp)]]
