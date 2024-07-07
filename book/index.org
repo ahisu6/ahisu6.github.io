@@ -16,4 +16,4 @@
 :CUSTOM_ID: orged8d88f
 :END:
 
-[[file:./epub.html][本を読み始めるにはここをクリック。]]
+[[file:./epub/index.html][本を読み始めるにはここをクリック。]]
