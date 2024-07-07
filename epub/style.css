@@ -81,14 +81,9 @@
     min-width: 0px;
     flex: 1;
     text-align: center;
-}
-
-
-/* Note to self: I added this */
-.title {
-    background: #0e4dc4;
-    color: white;
-    max-width: 60%;
+    background: #0e4dc4; /* Note to self: I added this */
+    color: white; /* Note to self: I added this */
+    max-width: 60%; /* Note to self: I added this */
 }
 
 
