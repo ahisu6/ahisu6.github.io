@@ -28,6 +28,9 @@ jobs:
       - name: Publish modified files only
         run: emacs -Q --script org-publish.el
 
+      - name: Copy the book app
+        run: cp -R ./src/book ./public
+
       - name: Publish generated content to GitHub Pages branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
