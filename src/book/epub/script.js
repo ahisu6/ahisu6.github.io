@@ -470,7 +470,7 @@ App.prototype.applyTheme = function () {
 
     this.state.rendition.getContents().forEach(c => {
         [
-            "fonts.css"
+            "book/epub/fonts.css"
         ].forEach(url => {
             let el = c.document.body.appendChild(c.document.createElement("link"));
             el.setAttribute("rel", "stylesheet");
