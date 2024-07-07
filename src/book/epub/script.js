@@ -471,7 +471,7 @@ App.prototype.applyTheme = function () {
 App.prototype.loadFonts = function() {
     this.state.rendition.getContents().forEach(c => {
         [
-            "../book/epub/fonts.css"
+            "../../book/epub/fonts.css"
         ].forEach(url => {
             let el = c.document.body.appendChild(c.document.createElement("link"));
             el.setAttribute("rel", "stylesheet");
