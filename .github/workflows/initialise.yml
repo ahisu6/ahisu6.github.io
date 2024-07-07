@@ -25,6 +25,9 @@ jobs:
 #      - name: Copy ~assets~ folders to the ~public~ folder
 #        run: cp -R ./src/assets/ ./public
 
+      - name: Copy the book app
+        run: cp -R ./src/book ./public
+
       - name: Publish generated content to GitHub Pages branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
