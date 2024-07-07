@@ -5,7 +5,7 @@
 <div class="japt">本を読もう</div>
 #+END_EXPORT
 
-[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/epub/index.org][Edit]]
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/book/index.org][Edit]]
 
 [[file:../index.org][Home]]
 
@@ -16,4 +16,4 @@
 :CUSTOM_ID: orged8d88f
 :END:
 
-[[file:./book/epub.html][本を読み始めるにはここをクリック。]]
+[[file:./epub.html][本を読み始めるにはここをクリック。]]
