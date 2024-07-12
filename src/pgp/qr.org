@@ -1,0 +1,85 @@
+#+TITLE: QR Code
+
+#+BEGIN_EXPORT html
+<div class="engt">QR Code</div>
+<div class="japt">ＱＲコード</div>
+#+END_EXPORT
+
+[[https://github.com/ahisu6/ahisu6.github.io/edit/main/src/pgp/qr.org][Edit]]
+
+[[file:./index.org][Home]]
+
+-----
+
+#+BEGIN_EXPORT html
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ahisu6.github.io/assets/js/qrcode.js"></script>
+    <style>
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 50px;
+        }
+        .input-group {
+            margin: 10px 0;
+        }
+        textarea {
+            width: 300px;
+            height: 100px;
+        }
+        #qrcode {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="input-group">
+            <label for="textInput">Enter Text:</label><br>
+            <textarea id="textInput"></textarea><br>
+            <button onclick="convertToBase64AndQR()">Convert to Base64 & QR Code</button>
+        </div>
+        <div class="input-group">
+            <label for="base64Input">Paste Base64:</label><br>
+            <textarea id="base64Input"></textarea><br>
+            <button onclick="decodeBase64()">Decode Base64</button>
+        </div>
+        <div id="qrcode"></div>
+        <!-- <div id="base64Output"></div> -->
+        <div id="decodedText"></div>
+    </div>
+
+    <script>
+        function convertToBase64AndQR() {
+            const textInput = document.getElementById('textInput').value;
+            const base64 = btoa(unescape(encodeURIComponent(textInput)));
+            // document.getElementById('base64Output').innerText = `Base64: ${base64}`;
+
+            const qr = qrcode(40, 'M'); // Uses version 40 for maximum capacity. L = low error correction, M = medium error correction.
+            qr.addData(base64);
+            qr.make();
+
+            document.getElementById('qrcode').innerHTML = qr.createImgTag(5);
+        }
+
+        function decodeBase64() {
+            const base64Input = document.getElementById('base64Input').value;
+            try {
+                const decodedText = decodeURIComponent(escape(atob(base64Input)));
+                document.getElementById('decodedText').innerText = `Decoded Text:\n${decodedText}`;
+            } catch (error) {
+                document.getElementById('decodedText').innerText = 'Error: Invalid Base64 input';
+            }
+        }
+    </script>
+</body>
+
+
+
+
+
+
+#+END_EXPORT
