@@ -99,7 +99,7 @@ button { display: inline-block; padding: 1.3em 2em; font-size: inherit; text-ali
             const textInput = document.getElementById('textInput').value;
             const base64 = btoa(unescape(encodeURIComponent(textInput)));
             const bitCount = (base64.length * 8)+20; // Need to add 20 because that's what the QR JS is doing for some reason...
-            document.getElementById('bitCount').innerText = `Total Bits: ${bitCount}`;
+            document.getElementById('bitCount').innerText = `合計ビット数：${bitCount}`;
 
             const errorCorrection = document.getElementById('errorCorrection').value;
             const qr = qrcode(40, errorCorrection); // Uses version 40 for maximum capacity.
@@ -113,9 +113,9 @@ button { display: inline-block; padding: 1.3em 2em; font-size: inherit; text-ali
             const base64Input = document.getElementById('base64Input').value;
             try {
                 const decodedText = decodeURIComponent(escape(atob(base64Input)));
-                document.getElementById('decodedText').innerText = `Decoded Text:\n${decodedText}`;
+                document.getElementById('decodedText').innerText = `解読されたテキスト：\n${decodedText}`;
             } catch (error) {
-                document.getElementById('decodedText').innerText = 'Error: Invalid Base64 input';
+                document.getElementById('decodedText').innerText = 'エラー：無効なKO入力。';
             }
         }
 
@@ -138,9 +138,9 @@ button { display: inline-block; padding: 1.3em 2em; font-size: inherit; text-ali
                     const imageData = context.getImageData(0, 0, canvas.width, canvas.height);
                     const code = jsQR(imageData.data, canvas.width, canvas.height);
                     if (code) {
-                        document.getElementById('decodedText').innerText = `Decoded QR Code Text:\n${code.data}`;
+                        document.getElementById('decodedText').innerText = `ＱＲコードからデコードされたテキスト：\n${code.data}`;
                     } else {
-                        document.getElementById('decodedText').innerText = 'Error: No QR code found';
+                        document.getElementById('decodedText').innerText = 'エラー：ＱＲコードが見つかりません。';
                     }
                 };
                 img.src = event.target.result;
@@ -169,12 +169,12 @@ button { display: inline-block; padding: 1.3em 2em; font-size: inherit; text-ali
                     if (code) {
                         try {
                             const decodedText = decodeURIComponent(escape(atob(code.data)));
-                            document.getElementById('decodedText').innerText = `Decoded Base64 from QR Code:\n${decodedText}`;
+                            document.getElementById('decodedText').innerText = `ＱＲコードからデコードされたテキスト：\n${decodedText}`;
                         } catch (error) {
-                            document.getElementById('decodedText').innerText = 'Error: Invalid Base64 in QR code';
+                            document.getElementById('decodedText').innerText = 'エラー：ＱＲコードのＢａｓｅ６４が無効です。';
                         }
                     } else {
-                        document.getElementById('decodedText').innerText = 'Error: No QR code found';
+                        document.getElementById('decodedText').innerText = 'エラー：ＱＲコードが見つかりません。';
                     }
                 };
                 img.src = event.target.result;
