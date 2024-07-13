@@ -39,6 +39,10 @@
             word-wrap: break-word; /* IE 5.5-7 */
             overflow-wrap: break-word; /* CSS3 */
         }
+
+button { display: inline-block; padding: 1.3em 2em; font-size: inherit; text-align: center; color: whitesmoke; background-color: #2F3247; border: 0.4em solid #B9C1DA; } button.copy { background-color: #DD5FA7; color: whitesmoke; border: 0.4em solid #DAB4E1; font-size: 0.8em; border-radius: 2em; } button:hover { color: #2F3247 !important; border: 0.4em solid #B9C1DA !important; background-color: #B9C1DA !important; }
+
+
     </style>
 </head>
 <body>
@@ -67,7 +71,7 @@
             <button onclick="decodeBase64FromQRCode()">Decode Base64 from QR Code</button>
         </div>
         <div id="qrcode"></div>
-        <button onclick="copy('decodedText')">結果をコピーする！</button>
+        <button class="copy" onclick="copy('decodedText')">結果をコピーする！</button>
         <pre id="decodedText"></pre>
     </div>
 
