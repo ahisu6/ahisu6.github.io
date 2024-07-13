@@ -80,9 +80,17 @@
         </div>
         <div id="qrcode"></div>
         <pre id="decodedText"></pre>
+        <button onclick="copy('decodedText')">結果をコピーする！</button>
     </div>
 
     <script>
+        function copy(id1, id2 = null) {
+            const text1 = document.getElementById(id1).innerText;
+            const text2 = id2 ? document.getElementById(id2).innerText : '';
+            const combinedText = text1 + (text2 ? "\n\n" + text2 : '');
+            navigator.clipboard.writeText(combinedText);
+        }
+
         function convertToBase64AndQR() {
             const textInput = document.getElementById('textInput').value;
             const base64 = btoa(unescape(encodeURIComponent(textInput)));
