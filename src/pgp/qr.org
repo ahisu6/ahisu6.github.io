@@ -104,7 +104,7 @@ button { display: inline-block; padding: 1.3em 2em; font-size: inherit; text-ali
             <label for="qrInput">ＱＲコード画像をアップロードする：</label><br>
             <input type="file" id="qrInput" accept="image/*" onchange="decodeQRCode()"><br>
             <button onclick="decodeBase64FromQRCode()">ＱＲコードからＢａｓｅ６４を解読する</button><br>
-            <button class="copy" onclick="copy('decodedText')">結果をコピーする！</button>
+            <button class="copy" onclick="copy('decodedqr')">結果をコピーする！</button>
             <div>ＱＲコードからデコードされたテキスト：</div>
             <pre id="decodedqr"></pre>
         </div>
@@ -161,9 +161,9 @@ button { display: inline-block; padding: 1.3em 2em; font-size: inherit; text-ali
                     const imageData = context.getImageData(0, 0, canvas.width, canvas.height);
                     const code = jsQR(imageData.data, canvas.width, canvas.height);
                     if (code) {
-                        document.getElementById('decodedText').innerText = `${code.data}`;
+                        document.getElementById('decodedqr').innerText = `${code.data}`;
                     } else {
-                        document.getElementById('decodedText').innerText = 'エラー：ＱＲコードが見つかりません。';
+                        document.getElementById('decodedqr').innerText = 'エラー：ＱＲコードが見つかりません。';
                     }
                 };
                 img.src = event.target.result;
