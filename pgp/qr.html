@@ -107,6 +107,8 @@ button { display: inline-block; padding: 1.3em 2em; font-size: inherit; text-ali
             <textarea id="base64Input"></textarea><br>
             <button onclick="decodeBase64()">Ｂａｓｅ６４を解読する</button><br>
             <button class="copy" onclick="copy('decodedText')">結果をコピーする！</button>
+            <div>ＱＲコードからデコードされたテキスト：</div>
+            <pre id="decodedText"></pre>
         </div>
 <hr>
         <div id="decodeqr" class="input-group">
@@ -115,7 +117,7 @@ button { display: inline-block; padding: 1.3em 2em; font-size: inherit; text-ali
             <input type="file" id="qrInput" accept="image/*" onchange="decodeQRCode()"><br>
             <button onclick="decodeBase64FromQRCode()">ＱＲコードからＢａｓｅ６４を解読する</button><br>
             <button class="copy" onclick="copy('decodedText')">結果をコピーする！</button>
-            <pre id="decodedText"></pre>
+            <pre id="decodedqr"></pre>
         </div>
     </div>
 
@@ -201,12 +203,12 @@ button { display: inline-block; padding: 1.3em 2em; font-size: inherit; text-ali
                     if (code) {
                         try {
                             const decodedText = decodeURIComponent(escape(atob(code.data)));
-                            document.getElementById('decodedText').innerText = `ＱＲコードからデコードされたテキスト：\n${decodedText}`;
+                            document.getElementById('decodedqr').innerText = `${decodedText}`;
                         } catch (error) {
-                            document.getElementById('decodedText').innerText = 'エラー：ＱＲコードのＢａｓｅ６４が無効です。';
+                            document.getElementById('decodedqr').innerText = 'エラー：ＱＲコードのＢａｓｅ６４が無効です。';
                         }
                     } else {
-                        document.getElementById('decodedText').innerText = 'エラー：ＱＲコードが見つかりません。';
+                        document.getElementById('decodedqr').innerText = 'エラー：ＱＲコードが見つかりません。';
                     }
                 };
                 img.src = event.target.result;
