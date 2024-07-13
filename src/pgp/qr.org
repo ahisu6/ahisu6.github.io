@@ -67,8 +67,8 @@
             <button onclick="decodeBase64FromQRCode()">Decode Base64 from QR Code</button>
         </div>
         <div id="qrcode"></div>
-        <pre id="decodedText"></pre>
         <button onclick="copy('decodedText')">結果をコピーする！</button>
+        <pre id="decodedText"></pre>
     </div>
 
     <script>
