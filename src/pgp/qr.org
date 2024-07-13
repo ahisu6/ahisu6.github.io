@@ -46,6 +46,13 @@
         <div class="input-group">
             <label for="textInput">Enter Text:</label><br>
             <textarea id="textInput"></textarea><br>
+            <label for="errorCorrection">Error Correction Level (bits):</label>
+            <select id="errorCorrection">
+                <option value="L">Low (23648)</option>
+                <option value="M" selected>Medium (18672)</option>
+                <option value="Q">Quartile (13328)</option>
+                <option value="H">High (10208)</option>
+            </select><br>
             <button onclick="convertToBase64AndQR()">Convert to Base64 & QR Code</button>
             <p id="bitCount"></p>
         </div>
@@ -67,10 +74,11 @@
         function convertToBase64AndQR() {
             const textInput = document.getElementById('textInput').value;
             const base64 = btoa(unescape(encodeURIComponent(textInput)));
-            const bitCount = base64.length * 8;
+            const bitCount = (base64.length * 8)+20; // Need to add 20 because that's what the QR JS is doing for some reason...
             document.getElementById('bitCount').innerText = `Total Bits: ${bitCount}`;
 
-            const qr = qrcode(40, 'M'); // Uses version 40 for maximum capacity. L = low error correction, M = medium error correction.
+            const errorCorrection = document.getElementById('errorCorrection').value;
+            const qr = qrcode(40, errorCorrection); // Uses version 40 for maximum capacity.
             qr.addData(base64);
             qr.make();
 
@@ -151,7 +159,6 @@
         }
     </script>
 </body>
-
 
 
 
