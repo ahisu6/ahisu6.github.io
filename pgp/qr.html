@@ -60,27 +60,27 @@ button { display: inline-block; padding: 1.3em 2em; font-size: inherit; text-ali
 <body>
     <div class="container">
         <div class="input-group">
-            <label for="textInput">Enter Text:</label><br>
+            <label for="textInput">テキストを入力する：</label><br>
             <textarea id="textInput"></textarea><br>
-            <label for="errorCorrection">Error Correction Level (bits):</label>
+            <label for="errorCorrection">エラー訂正レベル（ビット）：</label>
             <select id="errorCorrection">
-                <option value="L">Low (23648)</option>
-                <option value="M" selected>Medium (18672)</option>
+                <option value="L" selected>Low (23648)</option>
+                <option value="M">Medium (18672)</option>
                 <option value="Q">Quartile (13328)</option>
                 <option value="H">High (10208)</option>
             </select><br>
-            <button onclick="convertToBase64AndQR()">Convert to Base64 & QR Code</button>
+            <button onclick="convertToBase64AndQR()">ＱＲコード作成</button>
             <p id="bitCount"></p>
         </div>
         <div class="input-group">
-            <label for="base64Input">Paste Base64:</label><br>
+            <label for="base64Input">Ｂａｓｅ６４を貼り付ける：</label><br>
             <textarea id="base64Input"></textarea><br>
-            <button onclick="decodeBase64()">Decode Base64</button>
+            <button onclick="decodeBase64()">Ｂａｓｅ６４を解読する</button>
         </div>
         <div class="input-group">
-            <label for="qrInput">Upload QR Code Image:</label><br>
+            <label for="qrInput">ＱＲコード画像をアップロードする：</label><br>
             <input type="file" id="qrInput" accept="image/*" onchange="decodeQRCode()"><br>
-            <button onclick="decodeBase64FromQRCode()">Decode Base64 from QR Code</button>
+            <button onclick="decodeBase64FromQRCode()">ＱＲコードからＢａｓｅ６４を解読する</button>
         </div>
         <div id="qrcode"></div>
         <button class="copy" onclick="copy('decodedText')">結果をコピーする！</button>
