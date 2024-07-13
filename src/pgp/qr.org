@@ -135,7 +135,7 @@ button { display: inline-block; padding: 1.3em 2em; font-size: inherit; text-ali
                 const decodedText = decodeURIComponent(escape(atob(base64Input)));
                 document.getElementById('decodedText').innerText = `解読されたテキスト：\n${decodedText}`;
             } catch (error) {
-                document.getElementById('decodedText').innerText = 'エラー：無効なKO入力。';
+                document.getElementById('decodedText').innerText = 'エラー：無効なＢａｓｅ６４入力。';
             }
         }
 
