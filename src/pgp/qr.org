@@ -71,6 +71,7 @@ button { display: inline-block; padding: 1.3em 2em; font-size: inherit; text-ali
 <body>
     <div class="container">
         <div id="encode" class="input-group">
+            <h2>エンコードする</h2>
             <label for="textInput">テキストを入力する：</label><br>
             <textarea id="textInput"></textarea><br>
             <label for="errorCorrection">エラー訂正レベル（ビット）：</label>
@@ -82,23 +83,25 @@ button { display: inline-block; padding: 1.3em 2em; font-size: inherit; text-ali
             </select><br>
             <button onclick="convertToBase64AndQR()">ＱＲコード作成</button>
             <p id="bitCount"></p>
+            <div id="qrcode"></div>
         </div>
 <hr>
         <div id="decodetext" class="input-group">
+            <h2>デコード</h2>
             <label for="base64Input">Ｂａｓｅ６４を貼り付ける：</label><br>
             <textarea id="base64Input"></textarea><br>
-            <button onclick="decodeBase64()">Ｂａｓｅ６４を解読する</button>
+            <button onclick="decodeBase64()">Ｂａｓｅ６４を解読する</button><br>
+            <button class="copy" onclick="copy('decodedText')">結果をコピーする！</button>
         </div>
 <hr>
         <div id="decodeqr" class="input-group">
+            <h2>ＱＲコードの画像をアップロードする</h2>
             <label for="qrInput">ＱＲコード画像をアップロードする：</label><br>
             <input type="file" id="qrInput" accept="image/*" onchange="decodeQRCode()"><br>
-            <button onclick="decodeBase64FromQRCode()">ＱＲコードからＢａｓｅ６４を解読する</button>
+            <button onclick="decodeBase64FromQRCode()">ＱＲコードからＢａｓｅ６４を解読する</button><br>
+            <button class="copy" onclick="copy('decodedText')">結果をコピーする！</button>
+            <pre id="decodedText"></pre>
         </div>
-<hr>
-        <div id="qrcode"></div>
-        <button class="copy" onclick="copy('decodedText')">結果をコピーする！</button>
-        <pre id="decodedText"></pre>
     </div>
 
     <script>
