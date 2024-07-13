@@ -95,6 +95,7 @@ button { display: inline-block; padding: 1.3em 2em; font-size: inherit; text-ali
             <textarea id="base64Input"></textarea><br>
             <button onclick="decodeBase64()">Ｂａｓｅ６４を解読する</button><br>
             <button class="copy" onclick="copy('decodedText')">結果をコピーする！</button>
+            <div>解読されたテキスト：</div>
             <pre id="decodedText"></pre>
         </div>
 <hr>
@@ -135,7 +136,7 @@ button { display: inline-block; padding: 1.3em 2em; font-size: inherit; text-ali
             const base64Input = document.getElementById('base64Input').value;
             try {
                 const decodedText = decodeURIComponent(escape(atob(base64Input)));
-                document.getElementById('decodedText').innerText = `解読されたテキスト：\n${decodedText}`;
+                document.getElementById('decodedText').innerText = `${decodedText}`;
             } catch (error) {
                 document.getElementById('decodedText').innerText = 'エラー：無効なＢａｓｅ６４入力。';
             }
