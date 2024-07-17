@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>QR Code</title>
 <meta name="generator" content="Org mode" />
-<link rel="stylesheet" href="https://ahisu6.github.io/assets/css/main.css" />
+<style type="text/css">h2 { background-color: #f3f3e3; color: #152515; text-align: center; } .engt { color: #8ffa89; background-color: transparent; font-weight: bolder; font-size: 1.5em; text-align: center; } .japt { color: #89b7fa; background-color: transparent; font-weight: bolder; font-size: 2em; text-align: center; }body { background-color: #22242d; color: #e9e9cf; word-wrap: break-word; max-width: 36em; margin: 0 auto; line-height: 1.5; padding: 0; font-size: 1.5em; } a { background-color: #ff47b1; color: #f3f3e3; font-family: monospace; font-weight: bold; text-transform: uppercase; } a:hover { background-color: #f3f3e3; color: #ff47b1; } .container { all: initial; overflow-y: initial; overflow-x: initial; font-size: initial; line-height: initial; color: initial; overflow-wrap: initial; color: inherit; word-wrap: inherit; line-height: inherit; font-size: inherit; overflow: hidden; } .input-group { margin: 10px 0; margin: 1em 0; padding: 0.5em; border-radius: 0.5em; } #encode { background: #003b58; } #decodetext { background: #4c005c; } #decodeqr{ background: #3b4301; } textarea { width: 300px; height: 100px; } #qrcode { margin-top: 20px; } pre { white-space: pre-wrap; /* CSS3 */ word-wrap: break-word; /* IE 5.5-7 */ overflow-wrap: break-word; /* CSS3 */ } button { display: inline-block; padding: 1.3em 2em; font-size: inherit; text-align: center; color: whitesmoke; background-color: #2F3247; border: 0.4em solid #B9C1DA; } button.copy { background-color: #DD5FA7; color: whitesmoke; border: 0.4em solid #DAB4E1; font-size: 0.8em; border-radius: 2em; } button:hover { color: #2F3247 !important; border: 0.4em solid #B9C1DA !important; background-color: #B9C1DA !important; } label { display: inline; } @media (max-width: 500px) { body { padding: 1em; font-size: 1em; } button { padding: 0.4em 0.4em; border: 0.1em solid #B9C1DA; } button.copy { background-color: #DD5FA7; color: whitesmoke; border: 0.1em solid #DAB4E1; font-size: 0.9em; border-radius: 2em; } button:hover { color: #2F3247 !important; border: 0.1em solid #B9C1DA !important; background-color: #B9C1DA !important; } }</style>
 </head>
 <body>
 <div id="content">
@@ -29,59 +29,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://ahisu6.github.io/assets/js/qrcode.js"></script>
     <script src="https://ahisu6.github.io/assets/js/jsQR.min.js"></script>
-    <style>
 
-h2 { background-color: #f3f3e3; color: #152515; text-align: center; }
-
-.container {
-all: initial;
-overflow-y: initial;
-overflow-x: initial;
-font-size: initial;
-line-height: initial;
-color: initial;
-overflow-wrap: initial;
-color: inherit;
-word-wrap: inherit;
-line-height: inherit;
-font-size: inherit;
-overflow: hidden;
-}
-.input-group {
-margin: 10px 0;
-margin: 1em 0;
-padding: 0.5em;
-border-radius: 0.5em;
-}
-
-#encode {
-background: #003b58;
-}
-
-#decodetext {
-background: #4c005c;
-}
-
-#decodeqr{
-background: #3b4301;
-}
-
-textarea {
-width: 300px;
-height: 100px;
-}
-#qrcode {
-margin-top: 20px;
-}
-pre {
-white-space: pre-wrap; /* CSS3 */
-word-wrap: break-word; /* IE 5.5-7 */
-overflow-wrap: break-word; /* CSS3 */
-}
-
-button { display: inline-block; padding: 1.3em 2em; font-size: inherit; text-align: center; color: whitesmoke; background-color: #2F3247; border: 0.4em solid #B9C1DA; } button.copy { background-color: #DD5FA7; color: whitesmoke; border: 0.4em solid #DAB4E1; font-size: 0.8em; border-radius: 2em; } button:hover { color: #2F3247 !important; border: 0.4em solid #B9C1DA !important; background-color: #B9C1DA !important; }
-
-    </style>
 </head>
 <body>
     <div class="container">
@@ -102,7 +50,7 @@ button { display: inline-block; padding: 1.3em 2em; font-size: inherit; text-ali
         </div>
 <hr>
         <div id="decodetext" class="input-group">
-            <h2>デコード</h2>
+            <h2>デコードする</h2>
             <label for="base64Input">Ｂａｓｅ６４を貼り付ける：</label><br>
             <textarea id="base64Input"></textarea><br>
             <button onclick="decodeBase64()">Ｂａｓｅ６４を解読する</button><br>
